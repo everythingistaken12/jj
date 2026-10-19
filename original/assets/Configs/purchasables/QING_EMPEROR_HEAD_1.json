@@ -1,0 +1,29 @@
+{
+    "reference_id": "QING_EMPEROR_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "Head",
+        "bundle",
+        "hidden",
+        "premium"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_QING_EMPEROR_HEAD_NAME",
+        "description": "ITEM_QING_EMPEROR_HEAD_DESC",
+        "equipable": true,
+        "icon": "headQingEmperor",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

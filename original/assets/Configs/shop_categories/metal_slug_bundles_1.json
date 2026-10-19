@@ -1,0 +1,29 @@
+{
+    "title": "METAL_SLUG_EVENT_RULES_TITLE",
+
+    "icon": "textures\\menus\\shop\\iconMS.tex",
+
+    "rowsLimit" : 7,
+
+    "_": "if 'header_template' is omitted then its value is 'header'",
+    "header_template": "header",
+
+    "_": "if 'template' is omitted then its value is 'category'",
+    "template": "category",
+
+    "filler_template_1x1": "templateEmpty_1x1",
+
+    "filler_template_2x1": "templateEmpty_2x1",
+
+    "offers": [
+        "metal_slug_bundle",
+        "metal_slug_bundle_discount",
+        "metal_slug_jetpack_bundle_wide",
+        "metal_slug_vehicle_bundle_wide",
+        "metal_slug_sam_bundle_wide",
+        "marco_bundle_wide",
+        "eri_bundle_wide",
+        "tarma_bundle_wide",
+        "fio_bundle_wide"
+    ]
+}

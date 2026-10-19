@@ -1,0 +1,31 @@
+{
+    "reference_id": "CNY_MALE_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "Head",
+        "bundle",
+        "hidden",
+        "premium"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CNY_MALE_HEAD_NAME",
+        "description": "ITEM_CNY_MALE_HEAD_DESC",
+        "equipable": true,
+        "icon": "headCnyMale",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "CNY_MALE_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

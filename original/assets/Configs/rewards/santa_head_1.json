@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "SANTA_HEAD",
+	"fallback": "baby_head"
+}

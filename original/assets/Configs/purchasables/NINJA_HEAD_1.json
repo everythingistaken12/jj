@@ -1,0 +1,33 @@
+{
+    "reference_id": "NINJA_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_NINJA_HEAD_NAME",
+        "description": "ITEM_NINJA_HEAD_DESC",
+        "equipable": true,
+        "icon": "headNinja",
+        "startWeek": 33
+    },
+    "payment_methods": {
+        "jetpack_store": "NINJA_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 13
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 13
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

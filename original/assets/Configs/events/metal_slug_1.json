@@ -1,0 +1,139 @@
+{
+  "EventDisplayName": "METAL_SLUG_EVENT_RULES_TITLE",
+  "Filepath": "Events/MetalSlug",
+  "Iconpath": "Events/MetalSlug/Textures/Menus/Main/IconEvent.tex",
+  "ResultsIconPath": "Events/MetalSlug/Textures/Menus/Results/logo.tex",
+  "BackingTexturePath": "Events/MetalSlug/Textures/Menus/eventPopUp/eventWelcomeBG.tex",
+  "Statistic": "EVENTS_TOTAL_METAL_SLUG_GAMES_PLAYED",
+  "currencyType": "metal_slug_crate",
+  "info_text_1": "EVENT_RULES_TEXT_1",
+  "info_text_2": "EVENT_RULES_TEXT_2",
+  "info_text_3": "",
+  "Overrides": {
+    "quickReviveVideoPlacement": "GAME_HUD_VEHICLE_REVIVE",
+    "revive_vehicle": -1,
+    "game_mode": "metal_slug",
+    "GameRules": "MetalSlug",
+    "noticeboardSchedule": "metal_slug_schedule",
+    "rewardGroup": "metal_slug_2021_2",
+    "analytics_event_name": "metal_slug",
+    "leaderboard": "BEST_METAL_SLUG",
+    "trigger_name": "metal_slug",
+    "counter_name": "counterMetalSlug",
+    "reload_sam": true,
+    "reload_worker": true,
+    "sam_music": "Music_SAMMetalSlug",
+    "sam_music_starting_point": 0,
+    "music_tracks": 3,
+    "force_vehicles": [
+      "Bird",
+      "Mech",
+      "Hog",
+      "Dragon",
+      "JetSki"
+    ],
+    "skin_lil_stomper": "VEHICLE_SKIN_MS_MECH",
+    "skin_mr_cuddles": "VEHICLE_SKIN_MS_DRAGON",
+    "skin_bad_ass_hog": "VEHICLE_SKIN_MS_HOG",
+    "skin_wave_rider": "VEHICLE_SKIN_MS_JETSKI",
+    "skin_profit_bird": "VEHICLE_SKIN_MS_BIRD",
+    "level_object_tags": [
+      "metal_slug"
+    ],
+    "enable_eventTokens": true,
+    "eventToken_value": 0,
+    "eventToken_sparkleParticleEffect": "Coin_Token_Sparkle",
+    "eventToken_splashParticleEffect": "CNY_Splash",
+    "eventToken_spawnRateMin": 7.5,
+    "eventToken_spawnRateMax": 3,
+    "eventToken_spawnRateLength": 75,
+    "eventToken_curveC0": [
+      0.55,
+      0.55
+    ],
+    "eventToken_curveC1": [
+      0.32,
+      0.1
+    ],
+    "eventToken_sprite": "textures/Entities/eventToken.xml",
+    "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+    "eventToken_angleSpeed": 5,
+    "eventToken_amplitude": 10,
+    "eventToken_velocityFactor": 125,
+    "missileTexture": "missileMetalSlug.tex",
+    "missileSFXLaunch": "event_missile_launch",
+    "missileSFXExplode": [
+      "rocket_explode_1",
+      "rocket_explode_2",
+      "rocket_explode_3"
+    ],
+    "missileSFXWarning": "missile_warning",
+    "brickui_textures": [
+      "textures/logo/logo_barry.tex",
+      "textures/levels/Title/Objects/title_small.tex",
+      "textures/levels/Title/Objects/titleGlow_small.tex",
+      "Textures/Menus/Results/currencyToken.tex",
+      "Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "textures/menus/eventpopup/currencytoken_64.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "events/metalslug/textures/menus/eventpopup/currencytoken_64.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/eventWelcomeBG.tex",
+      "events/metalslug/textures/menus/eventpopup/eventwelcomeBG.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/eriBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/eribodycostume.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/fioBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/fiobodycostume.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/marcoBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/marcobodycostume.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/tarmaBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/tarmabodycostume.tex",
+      "Textures/Menus/consumables/notificationSAM.tex",
+      "textures/menus/consumables/notificationsam.tex",
+      "Events/MetalSlug/Textures/Menus/consumables/notificationSAM.tex",
+      "events/metalslug/textures/menus/consumables/notificationsam.tex"
+    ],
+    "sfx_packages": [
+      "EVENT_TOKEN_PACKAGE",
+      "METAL_SLUG_MISSILE_PACKAGE",
+      "WORKER_PACKAGE",
+      "SAM_PACKAGE",
+      "ENVIRONMENT_PACKAGE"
+    ]
+  },
+  "RandomSkinOverrides": [
+    [
+	  [
+    "JETPACK_LASERCANNON"
+	  ],
+	  [
+		"JETPACK_ROCKETLAUNCHER"
+	  ],
+	  [
+		"JETPACK_FLAMESHOT"
+	  ],
+	  [
+		"JETPACK_HEAVYMG"
+	  ]
+	],
+	[
+	  [
+        "ERI_HEAD",
+        "ERI_BODY"
+	  ],
+	  [
+        "FIO_HEAD",
+        "FIO_BODY"
+	  ],
+	  [
+        "MARCO_HEAD",
+        "MARCO_BODY"
+	  ],
+	  [
+        "TARMA_HEAD",
+        "TARMA_BODY"
+	  ]
+	]
+  ],
+  "purchased_items_weight": 3.0,
+  "title_screen_settings": "metal_slug"
+}

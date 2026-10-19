@@ -1,0 +1,22 @@
+{
+    "name": "ACHIEVEMENT_28",
+    "description": "ACHIEVEMENT_DESC_28",
+    "type": "PRESTIGE",
+    "texture": "aManMySon",
+    "points": 30,
+    "max_progress": 1,
+    "provider_ids": {
+        "amazon": "1082882",
+        "game_center": 
+        {
+            "default": "1082882",
+            "AppleArcade": "a_man_my_son_aa",
+            "HalfbrickPlus": "a_man_my_son_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQGw"
+        }
+    }
+}

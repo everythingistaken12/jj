@@ -1,0 +1,32 @@
+{
+    "reference_id": "VEHICLE_SKIN_ZOMBIE_BIRD",
+    "tags": [
+        "Upgrades",
+        "Vehicle Skins",
+        "Bird",
+        "Hidden"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ZOMBIE_BIRD_NAME",
+        "description": "VEHICLE_SKIN_ZOMBIE_BIRD_DESC",
+        "equipable": true,
+        "icon": "vehicleBirdZombie",
+        "isSkin": true,
+        "vehicleType": "Bird",
+        "defaultSkin": false,        
+        "hideUntil": "VEHICLE_SKIN_ZOMBIE_BIRD",
+        "isNew": true
+    },
+    "payment_methods": {},    
+    "skus": [
+        "halfbrick_plus",
+        "apple_arcade",
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_10",
+    "description": "ACHIEVEMENT_DESC_10",
+    "progress_description": "ACHIEVEMENT_PROG_3",
+    "type": "COINS",
+    "sub_type_1": "DEAD",
+    "texture": "goldDigger",
+    "points": 20,
+    "max_progress": 20,
+    "provider_ids": {
+        "amazon": "1082702",
+        "game_center": 
+        {
+            "default": "1082702",
+            "AppleArcade": "gold_digger_aa",
+            "HalfbrickPlus": "gold_digger_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQCg"
+        }
+    }
+}

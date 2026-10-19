@@ -1,0 +1,37 @@
+{
+    "name": "Travel 500m in Bad Ass Hog",
+    "requirement": "Travel 500m in Bad Ass Hog",
+    "retired": false,
+    "meta_data": {
+        "groupId": "49",
+        "difficulty": 1,
+        "icon": "vehicleTravel",
+        "description": "MISSION_VEHICLE_10",
+        "hash": "VEHICLE_FLY_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "150",
+        "tag1": "VEHICLE",
+        "tag2": "DIST_VEHICLE",
+        "metaData": {
+            "vehicleType": "Bad Ass Hog"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 500
+            },
+            {
+                "i": 6,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true,
+                "d": "destroy"
+            }
+        ]
+    }
+}

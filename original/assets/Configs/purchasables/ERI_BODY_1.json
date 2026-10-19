@@ -1,0 +1,25 @@
+{
+    "reference_id": "ERI_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ERI_BODY_NAME",
+        "description": "ITEM_ERI_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyEri",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinPatternCNY888.txt",
+        "probability": {
+          "value": 1,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternCNYHappy.txt",
+        "probability": {
+          "value": 1,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternCNYCoin2.txt",
+        "probability": {
+          "value": 1,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternCNY1.txt",
+        "probability": {
+          "value": 1,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternCNY2.txt",
+        "probability": {
+          "value": 1,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternCNY3.txt",
+        "probability": {
+          "value": 1,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternCNYCoin.txt",
+        "probability": {
+          "value": 1,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

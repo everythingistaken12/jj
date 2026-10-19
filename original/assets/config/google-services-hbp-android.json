@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "394163108353",
+    "project_id": "halfbrick-plus-auth",
+    "storage_bucket": "halfbrick-plus-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394163108353:android:214804a0a23075df8a9e00",
+        "android_client_info": {
+          "package_name": "com.halfbrick.mainhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394163108353-dvhnfh1987iukgksipo8c80lc5fgkvj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halfbrick.mainhub",
+            "certificate_hash": "18b11b73447df84d8ed2913b5dfc2c585c02bc12"
+          }
+        },
+        {
+          "client_id": "394163108353-6rjhmn6i71df1qkncmof9kp603sbh65i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHW3JeKKl2lui8biyZRL-jWdNgXVe6VY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394163108353-6rjhmn6i71df1qkncmof9kp603sbh65i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394163108353-3d3gkcgkftas592gs23an1jv5e2nmngt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halfbrick.mainhub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394163108353:android:03be75e42ded35388a9e00",
+        "android_client_info": {
+          "package_name": "com.halfbrick.mainhub2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394163108353-jdqj3rofml8la7u90eg58qg66qnjols9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halfbrick.mainhub2",
+            "certificate_hash": "18b11b73447df84d8ed2913b5dfc2c585c02bc12"
+          }
+        },
+        {
+          "client_id": "394163108353-6rjhmn6i71df1qkncmof9kp603sbh65i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHW3JeKKl2lui8biyZRL-jWdNgXVe6VY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394163108353-6rjhmn6i71df1qkncmof9kp603sbh65i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394163108353-3d3gkcgkftas592gs23an1jv5e2nmngt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halfbrick.mainhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

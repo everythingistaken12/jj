@@ -1,0 +1,11 @@
+{
+	"cost": 2500,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "VEHICLE_SKIN_GB_MECH_NAME",
+	"rewards_texture": "textures/menus/bricknetupsell/GhostbustersEvent/Ghostbusters/GBTerrorDog.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechGB.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"gb_mech"
+	]
+}

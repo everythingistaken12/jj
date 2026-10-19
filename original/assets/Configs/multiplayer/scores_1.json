@@ -1,0 +1,35 @@
+{
+	"multiplayer_win": 1000,
+	"string_win": "SCORE_WIN",
+	"multiplayer_lose": 500,
+	"string_lose": "SCORE_LOSE",
+	"base_delay": 500,
+
+	"distance_without_hurt_multiplier": 100,
+	"distance_without_hurt_score": 5,
+	"string_distance_without_hurt_score": "SCORE_DISTANCE_WITHOUT_HURT",
+	
+	"perfect_run_score": 200,
+	"string_perfect_run_score": "SCORE_PERFECT_RUN",
+	
+	"scientist_hi_five_score": 10,
+	"string_scientist_hi_five_score": "SCORE_SCIENTIST_HI_FIVE",
+	
+	"near_miss_zapper_score": 10,
+	"string_near_miss_zapper_score": "SCORE_NEAR_MISS_ZAPPER",
+
+	"distance_without_touching_bounds_multiplier": 100,
+	"distance_without_touching_bounds_score": 5,
+	"string_distance_without_touching_bounds_score": "SCORE_DISTANCE_FLOATING",
+
+	"distance_ahead_score": 5,
+	"string_distance_ahead_at_end": "SCORE_DISTANCE_AHEAD",
+
+	"win_streak_score": 50,
+	"string_win_streak": "SCORE_WIN_STREAK",
+
+	"distance_leading_limit": 3,
+	"distance_leading_multiplier": 10,
+	"distance_leading_score": 5,
+	"string_distance_leading": "SCORE_DISTANCE_LEADING"
+}

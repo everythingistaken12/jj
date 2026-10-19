@@ -1,0 +1,34 @@
+{
+    "reference_id": "DRAGON_MAGNET",
+    "tags": [
+        "Upgrades",
+        "Magnet"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CUDDLESMAGNET_NAME",
+        "description": "ITEM_CUDDLESMAGNET_DESC",
+        "unequipable": true,
+        "icon": "vehicleDragonMagnet",
+        "vehicleType": "Dragon"
+    },
+    "payment_methods": {
+        "jetpack_store": "DRAGON_MAGNET"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 22
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 22
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

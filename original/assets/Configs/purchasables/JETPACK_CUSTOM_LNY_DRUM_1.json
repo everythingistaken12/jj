@@ -1,0 +1,25 @@
+{
+    "reference_id": "JETPACK_CUSTOM_LNY_DRUM",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_CUSTOM_LNY_DRUM_NAME",
+        "description": "ITEM_JETPACK_CUSTOM_LNY_DRUM_DESC",
+        "equipable": true,
+        "icon": "jetpackLnyDrum",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

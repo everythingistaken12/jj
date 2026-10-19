@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 550,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENHOG_NAME",		
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleHogGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_hog"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 950,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLD_MACHINEGUNJETPACK_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackMGG.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackMGG.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_gold"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 950,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLD_MACHINEGUNJETPACK_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackMGG.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackMGG.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_gold"
+		]
+    }
+}

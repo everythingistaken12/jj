@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 55,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/bunnyBodyCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyEasterBunny.tex",
+        "display_description": "ITEM_EASTERBUNNYSUIT_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_bunny_body"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_EASTER_ISLAND_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headEasterIsland.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headEasterIsland.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_island_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_EASTER_ISLAND_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headEasterIsland.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headEasterIsland.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_island_head"
+        ]
+    }
+}

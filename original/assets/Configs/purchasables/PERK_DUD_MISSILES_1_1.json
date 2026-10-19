@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_DUD_MISSILES_1",
+    "tags": [
+        "Gadget",
+        "tier2"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_DUD_MISSILES_NAME",
+        "description": "PERK_DUD_MISSILES_DESC",
+        "icon": "dudMissile",
+        "equipable": true,
+        "unequipable": true
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_DUD_MISSILES_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 15
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 15
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

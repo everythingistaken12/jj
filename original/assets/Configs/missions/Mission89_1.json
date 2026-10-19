@@ -1,0 +1,21 @@
+{
+    "name": "Win a prize in the final spin 2 times.",
+    "requirement": "Win 2 prizes",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "token",
+        "showProgress": "true",
+        "hash": "SLOTS_WIN_TOTAL"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "win",
+                "o": "prize",
+                "s": "t",
+                "c": 2
+            }
+        ]
+    }
+}

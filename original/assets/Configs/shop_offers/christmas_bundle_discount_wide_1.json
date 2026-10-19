@@ -1,0 +1,10 @@
+{
+    "specialBundle": "christmas_bundle_discount",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.557, 0.949, 0.984, 1.0],
+    "foregroundIcon": "Events/Christmas/Textures/Menus/bricknetUpsell/specialBundleXmasVehicle.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

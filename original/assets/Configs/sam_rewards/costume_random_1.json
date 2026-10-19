@@ -1,0 +1,17 @@
+{
+	"name": "costume",
+	"quantity": 1,
+	"icon": "rand",
+	"text": [
+		"DC_REWARDS_COSTUME_1",
+		"DC_REWARDS_COSTUME_2",
+		"DC_REWARDS_COSTUME_3",
+		"DC_REWARDS_COSTUME_4",
+		"DC_REWARDS_COSTUME_5"
+	],
+	"tweet": [
+		"SAM_CHALLENGE_SOCIAL_COSTUME_1",
+		"SAM_CHALLENGE_SOCIAL_COSTUME_2",
+		"SAM_CHALLENGE_SOCIAL_COSTUME_3"
+	]
+}

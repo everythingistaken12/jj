@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_GOLD_SHARK",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLD_SHARKHEADJETPACK_NAME",
+        "description": "ITEM_GOLD_SHARKHEADJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackSHG",
+        "startWeek": 44
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_GOLD_SHARK"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 20
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 20
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

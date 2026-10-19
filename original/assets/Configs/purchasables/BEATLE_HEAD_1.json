@@ -1,0 +1,22 @@
+{
+    "reference_id": "BEATLE_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BEATLE_HEAD_NAME",
+        "description": "ITEM_BEATLE_HEAD_DESC",
+        "equipable": true,
+        "icon": "headBeatle",
+        "startWeek": 5
+    },
+    "payment_methods": {
+        "jetpack_store": "BEATLE_HEAD"
+    },
+    "skus": [
+        "windows"
+    ]
+}

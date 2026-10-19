@@ -1,0 +1,28 @@
+{
+    "reference_id": "VEHICLE_SKIN_SUBMARINE",
+    "tags": [
+        "Vehicle Skins",
+        "Wave Rider",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_SUBMARINE_NAME",
+        "description": "VEHICLE_SKIN_SUBMARINE_DESC",
+        "equipable": true,
+        "icon": "vehicleJetskiSubmarine",
+        "hideUntil": "VEHICLE_SKIN_JETSKI",
+        "displayLocked": "VEHICLE_SKIN_JETSKI",
+        "isSkin": true,
+        "vehicleType": "JetSki",
+        "defaultSkin": false
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_SUBMARINE"
+    },
+    "skus": [
+        "windows"
+    ]
+}

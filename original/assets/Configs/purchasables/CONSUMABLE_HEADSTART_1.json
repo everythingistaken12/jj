@@ -1,0 +1,27 @@
+{
+    "reference_id": "CONSUMABLE_HEADSTART",
+    "tags": [
+        "Utilities",
+        "consumable"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_HEADSTART_NAME",
+        "description": "ITEM_HEADSTART_DESC",
+        "icon": "skip",
+        "visible": "false"
+    },
+    "payment_methods": {
+        "jetpack_store": "CONSUMABLE_HEADSTART"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

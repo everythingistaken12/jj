@@ -1,0 +1,26 @@
+{
+    "#default":
+    {
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_MOTU_SKELETOR_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headSkeletor.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headSkeletor.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "motu_skeletor_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_MOTU_TEELA_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headTeela.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headTeela.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "motu_teela_head"
+        ]
+    }
+}

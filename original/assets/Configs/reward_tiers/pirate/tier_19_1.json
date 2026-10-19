@@ -1,0 +1,20 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 725
+    },
+    "#AppleArcade":
+    {
+        "cost": 725
+    },
+    "cost": 2500,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_JETPACK_CUSTOM_SPACE_PIRATE_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/JetpackSpacePirate.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/JetpackSpacePirate.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "jetpack_space_pirate"
+    ]
+}

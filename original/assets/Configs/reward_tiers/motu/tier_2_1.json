@@ -1,0 +1,26 @@
+{
+    "#default":
+    {
+        "cost": 100,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "1500_COINS",
+        "rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "coin_pack_1500"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 300,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_MOTU_MANATARMS_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyManAtArms.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyManAtArms.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "motu_man_at_arms_body"
+        ]
+    }
+}

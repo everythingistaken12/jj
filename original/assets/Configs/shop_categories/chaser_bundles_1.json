@@ -1,0 +1,16 @@
+{
+    "title": "CHASER_EVENT_RULES_TITLE",
+    "icon": "textures\\menus\\shop\\iconChaser.tex",
+    "rowsLimit": 99,
+    "_": "if 'template' is omitted then its value is 'category'",
+    "header_template": "header",
+    "template": "category",
+    "filler_template_1x1": "templateEmpty_1x1",
+    "filler_template_2x1": "templateEmpty_2x1",
+    "offers":
+    [
+	"cross_promo_chaser",
+        "turbo_tidal_bundle_wide_animated",
+        "turbo_tidal_background_wide_animated"
+    ]
+}

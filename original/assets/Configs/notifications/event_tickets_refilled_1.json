@@ -1,0 +1,14 @@
+{
+	"category": "event_ticket",
+	"priority": 10000,
+	"message": "NOTIFICATION_EVENT_TICKETS_REFILLED",
+	"schedule": 
+	{
+		"delay_seconds_generator": "event_tickets_refilled_delay_generator",
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21
+	},
+	"condition" : "event_tickets_empty_check"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Cross_Promo_anniversary",
+    "screen": "NoticeBoardCrossPromoAnniversary",
+    "on_show_event": "specialOffer",
+    "item_id": "CROSS_PROMO_ANNIVERSARY"
+}

@@ -1,0 +1,11 @@
+{
+	"cost": 75,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_GB_KEY_MASTER_BODY_NAME",	
+	"rewards_texture": "textures/menus/eventPopUp/GBBodyKeyMaster.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyGBKeyMaster.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"vinz_body"
+	]
+}

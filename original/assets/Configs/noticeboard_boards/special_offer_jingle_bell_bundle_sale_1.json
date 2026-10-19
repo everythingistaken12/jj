@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_JingleBell_Bundle_Sale",
+    "screen": "NoticeBoardJingleBellBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "JINGLE_BELL_BUNDLE"
+}

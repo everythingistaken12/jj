@@ -1,0 +1,33 @@
+{
+    "reference_id": "VEHICLE_SKIN_UNCLE_SAM",
+    "tags": [
+        "Sam",
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable", 
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_UNCLE_SAM_NAME",
+        "description": "VEHICLE_SKIN_UNCLE_SAM_DESC",
+        "equipable": true,
+        "icon": "vehicleSamUncle",
+        "hideUntil": "VEHICLE_SKIN_UNCLE_SAM",
+        "isSkin": true,
+        "vehicleType": "Sam",
+        "defaultSkin": false,
+        "samAtlas": "Events/4thofJuly/Textures",
+        "samMusic": "Events/4thofJuly/Music_SAMUncle",
+        "samNotificationTex": "Events/4thOfJuly/Textures/Menus/consumables/notificationSAM.tex"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

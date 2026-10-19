@@ -1,0 +1,26 @@
+{
+    "name": "Collect 200 Coins",
+    "requirement": "Collect 200 coins total",
+    "retired": false,
+    "meta_data": {
+        "groupId": "11",
+        "difficulty": 1,
+        "icon": "coin",
+        "hash": "COINS_COLLECT_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "35",
+        "tag1": "COINS",
+        "tag2": "COLLECT"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "coin",
+                "s": "t",
+                "c": 200
+            }
+        ]
+    }
+}

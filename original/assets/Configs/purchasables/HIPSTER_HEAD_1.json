@@ -1,0 +1,27 @@
+{
+  "reference_id": "HIPSTER_HEAD",
+  "tags": [
+    "excludeFromRandom",
+    "hidden",
+    "Head"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_HIPSTER_HEAD_NAME",
+    "description": "ITEM_HIPSTER_HEAD_DESC",
+    "equipable": true,
+    "icon": "headHipsterBarry",
+    "hidden": true
+  },
+  "payment_methods": {
+    "jetpack_store": "HIPSTER_HEAD"
+  },
+  "skus": [
+    "ios",
+    "windows",
+    "halfbrick_plus",
+    "google_play"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		[
+			{
+				"statistic": "STARTER_PACK_DECOY_VIEWS_TODAY >= 0"
+			},
+            {
+                "timerRunning": "starter_pack"
+            },
+            {
+                "statistic": "DAYS_SINCE_INSTALL >= 1"
+            },
+            {
+                "statistic": "GAMES_PLAYED_TODAY >= 1"
+            }         
+		]
+	],
+	"special_bundles": [
+		"starter_pack",
+		"starter_pack_premium"
+	],
+	"statistic_prefix": "STARTER_PACK_DECOY_VIEWS",
+    "timer_id": "starter_pack",
+	"popup_name": "PremiumBundle",
+    "store_id": "STARTER_PACK_DECOY"
+}

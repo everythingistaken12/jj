@@ -1,0 +1,46 @@
+{
+	"conditions": [
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_BTTF_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "BACKGROUND_BTTF_FUTURE == 0"
+			}
+		],
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_BTTF_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "BACKGROUND_BTTF_FUTURE == 0"
+			}
+		],
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_BTTF_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "BACKGROUND_BTTF_FUTURE == 0"
+			}
+		]
+	],
+	"store_id": "BTTF_BUNDLE_HIGHPRICE",
+	"trigger_name": "back_to_the_future",
+	"statistic_prefix": "SPECIAL_BUNDLE_BTTF_VIEWS"
+}

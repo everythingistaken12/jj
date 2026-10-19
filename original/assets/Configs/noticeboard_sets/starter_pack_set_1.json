@@ -1,0 +1,11 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [ 
+				"starter_pack_timer_running"
+			],
+			"board": "special_offer_starter_pack"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+    "reference_id": "CAVEMAN_BODY",
+    "tags": [
+        "Body",
+        "One Time Offer",
+        "excludeFromRandom",
+        "samReward"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CAVEMAN_BODY_NAME",
+        "description": "ITEM_CAVEMAN_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyCaveman",
+        "rewardOnly": {
+            "value": true,
+            "prereq": "VEHICLE_SKIN_ZOMBIETREX"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "CAVEMAN_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

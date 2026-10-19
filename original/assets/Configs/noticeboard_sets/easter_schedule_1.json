@@ -1,0 +1,37 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "boards":
+    [
+	    {
+            "board": "special_offer_cross_promo_easter"
+        },
+        {
+            "board": "easter_fluffy_bundle_set"
+        },
+        {
+            "board": "easter_space_bundle_set"
+        },
+        {
+            "board": "easter_bundle_set"
+        },
+        {
+            "board": "daily_reward_tiers"
+        },
+        {
+            "board": "chicken_bundle_set"
+        },
+        {
+            "board": "spring_bundle_set"
+        },
+        {
+            "board": "eggstreme_bundle_set"
+        },
+        {
+            "board": "easter_ultimate_bundle_set"
+        },
+        {
+            "board": "daily_reward_tiers"
+        }
+    ]
+}

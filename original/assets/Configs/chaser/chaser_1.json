@@ -1,0 +1,23 @@
+{
+    "width_in_pixels": 10.0,
+    "height_screen_ratio": 0.9,
+    "lanes_height_screen_ratio": 0.9,
+    "fill_texture": "textures/Characters/Chaser/chaser_fill.tex",
+    "face_texture": "textures/Characters/Chaser/chaser.tex",
+    "player_icon": "textures/menus/icons/playerPosition.tex",
+    "chaser_icon": "textures/menus/icons/chaserPosition.tex",
+    "marker_icon": "textures/menus/icons/playerMarker.tex",
+    "start_icon": "textures/menus/icons/iconScore.tex",
+    "finish_icon": "textures/menus/icons/stageProgress.tex",
+    "face_offset": 0.0,
+    "face_width": 70.0,
+    "spawn_position": 13.0,
+    "initial_position": -200.0,
+    "shake_starts_when_closer_than": 100.0,
+    "shake_duration_initial": 100.0,
+    "shake_duration_final": 25.0,
+    "shake_intensity_initial": 0.0,
+    "shake_intensity_final": 8.0,
+    "shake_speed_initial": 0.006,
+    "shake_speed_final": 0.016
+}

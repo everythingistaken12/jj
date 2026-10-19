@@ -1,0 +1,59 @@
+{
+    "vehicleName": "Ecto",
+    "displayName": "VEHICLE_SKIN_ECTO_NAME",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_ECTO",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_ECTO",
+        "distanceBest": "VEHICLE_BEST_ECTO",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_ECTO"
+    },
+    "MissionText": "MISSION_VEHICLE_ECTO",
+    "sprite": "ecto.xml",
+    "RequiredTextures": {
+        "Texture": "ecto.tex"
+    },
+    "MagnetDeliverable": "ECTO_MAGNET",
+    "headData": "Characters/Vehicles/Ecto/EctoData.xml",
+    "allowHalo": "false",
+    "sequenceBar": "bar_ecto",
+    "fragsDir": "Ecto",
+    "ComponentsDir": "Ecto",
+    "Streak1Colour": {
+        "r": "225",
+        "g": "88",
+        "b": "215"
+    },
+    "Streak2Colour": {
+        "r": "249",
+        "g": "87",
+        "b": "195"
+    },
+    "probability": "20.0",
+    "duration": "0.0",
+    "SequenceFirstFront": "true",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.3",
+    "INITIAL_BOOST": "6.5",
+    "BOOST": "0.6",
+    "FRICTION": "0.98",
+    "BOOST_FRAME_COUNT": "12",
+    "JUMP_COUNT": "1",
+    "STREAK": "ECTO_STREAK",
+    "START_VELOCITY": "400.0",
+    "MAX_VELOCITY": "6000.0",
+    "VELOCITY_INCREASE": "0.40",
+    "skins": {
+        "skin": [
+            {
+                "name": "VEHICLE_SKIN_ECTO",
+                "script": "Ecto",
+                "default": "true"
+            },
+            {
+                "name": "VEHICLE_SKIN_ECTO_AFTERLIFE",
+                "script": "EctoAfterlife",
+                "default": "false"
+            }
+        ]
+    }
+}

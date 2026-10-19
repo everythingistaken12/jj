@@ -1,0 +1,28 @@
+{
+    "reference_id": "WOLF_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_WOLF_BODY_NAME",
+        "description": "ITEM_WOLF_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyWolf",
+        "startWeek": 41,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "WOLF_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

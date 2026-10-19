@@ -1,0 +1,7 @@
+{
+	"swipie_rewards_enabled": true,
+	"swipie_rewards_high_res_icons_enabled": false,
+	"swipie_rewards_shop_icons_enabled": true,
+	"popup": "EventInfo",
+	"battle_pass_enabled": false
+}

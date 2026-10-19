@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_christmas_dragon",
+				"cozy_christmas_bundle_timer_running"
+			],
+			"board": "special_offer_cozy_christmas_bundle"
+		}
+	]
+}

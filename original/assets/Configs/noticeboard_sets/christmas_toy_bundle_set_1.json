@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_fireplace_jetpack",
+				"christmas_toy_bundle_timer_running"
+			],
+			"board": "special_offer_christmas_toy_bundle"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+    "reference_id": "VEHICLE_GOLD_BIRD",
+    "tags": [
+        "Upgrades",
+        "Vehicle Skins"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLDENBIRD_NAME",
+        "description": "ITEM_GOLDENBIRD_DESC",
+        "equipable": true,
+        "icon": "vehicleBirdGold",
+        "isSkin": true,
+        "vehicleType": "Bird",
+        "defaultSkin": false
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_GOLD_BIRD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 13
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 13
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

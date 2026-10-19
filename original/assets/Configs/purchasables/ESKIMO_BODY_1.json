@@ -1,0 +1,32 @@
+{
+    "reference_id": "ESKIMO_BODY",
+    "tags": [
+        "One Time Offer",
+        "Body",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ESKIMO_BODY_NAME",
+        "description": "ITEM_ESKIMO_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyEskimo",
+        "rewardOnly": {
+            "value": true,
+            "prereq": "VEHICLE_SKIN_MAGNETSUIT"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "ESKIMO_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "vehicleName": "GravitySuit",
+    "displayName": "VEHICLE_GRAVITY",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_GRAVITY",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_GRAVITY",
+        "distanceBest": "VEHICLE_BEST_GRAVITY",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_GRAVITY"
+    },
+    "MissionText": "MISSION_VEHICLE_GRAVITY",
+    "sprite": "vehicleGravitysuit.xml",
+    "RequiredTextures": {
+        "Texture": "vehicleGravitysuit.tex"
+    },
+    "FlashTextures": {
+        "Texture": "gravityBlade.tex"
+    },
+    "GoldInventoryName": "VEHICLE_GOLD_GRAVITY",
+    "MagnetDeliverable": "GRAVITY_SUIT_MAGNET",
+    "allowHalo": "false",
+    "fragsDir": "GravitySuit",
+    "ComponentsDir": "GravitySuit",
+    "ComponentsOffset": "-4,14",
+    "sequenceBar": "bar_gravity",
+    "Streak1Colour": {
+        "r": "133",
+        "g": "210",
+        "b": "251"
+    },
+    "Streak2Colour": {
+        "r": "179",
+        "g": "255",
+        "b": "255"
+    },
+    "probability": "20.0",
+    "duration": "0.0",
+    "SequenceFirstFront": "true",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.26",
+    "FRICTION": "0.98",
+    "STREAK": "GRAVITY_STREAK",
+    "START_VELOCITY": "250.0",
+    "MAX_VELOCITY": "1000.0",
+    "VELOCITY_INCREASE": "0.25",
+    "GoldParticle": "GoldSparkle_GravityGuy",
+    "GoldParticleOffset": "6,4",
+    "skins": {
+        "skin": [
+            {
+                "name": "VEHICLE_SKIN_GRAVITY",
+                "script": "",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_GravitySuit"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.5",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_GOLD_GRAVITY",
+                "script": "Gold",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_GravitySuit"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.5",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_MAGNETSUIT",
+                "script": "MagnetSuit"
+            },
+            {
+                "name": "VEHICLE_SKIN_VAMPIRE",
+                "script": "Vampire"
+            },
+            {
+                "name": "VEHICLE_SKIN_GB_GOZER",
+                "script": "GBGozer"
+            }
+        ]
+    }
+}

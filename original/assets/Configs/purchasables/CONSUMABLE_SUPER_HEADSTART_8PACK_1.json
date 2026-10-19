@@ -1,0 +1,36 @@
+{
+    "reference_id": "CONSUMABLE_SUPER_HEADSTART_8PACK",
+    "tags": [
+        "Consumable",
+        "Utilities",
+        "bundle"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_SUPERHEADSTART8PACK_NAME",
+        "description": "ITEM_SUPERHEADSTART8PACK_DESC",
+        "icon": "superskipx3",
+        "equipable": true,
+        "unequipable": true,
+        "visible": "false"
+    },
+    "additional_deliverables": {
+        "CONSUMABLE_SUPER_HEADSTART": {
+            "is_currency": false,
+            "value": "8"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "CONSUMABLE_SUPER_HEADSTART_8PACK"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

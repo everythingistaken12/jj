@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_gb_ecto_afterlife"
+      ],
+      "board": "special_offer_gb_afterlife_bundle"
+    }
+  ]
+}

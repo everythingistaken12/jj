@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_IceSkates_Bundle",
+    "screen": "NoticeboardIceSkatesBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "ICESKATES_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

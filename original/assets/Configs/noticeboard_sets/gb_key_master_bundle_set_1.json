@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_gb_gravity_suit"
+      ],
+      "board": "special_offer_gb_key_master_bundle"
+    }
+  ]
+}

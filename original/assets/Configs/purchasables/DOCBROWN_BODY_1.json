@@ -1,0 +1,29 @@
+{
+    "reference_id": "DOCBROWN_BODY",
+    "tags": [
+        "premium",
+        "bundle",
+        "Body",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_DOCBROWN_BODY_NAME",
+        "description": "ITEM_DOCBROWN_BODY_DESC",
+        "equipable": true,
+        "rewardOnly": {
+            "value": true,
+            "prereq": "EVENTS_ONLY"
+        },
+        "icon": "bodyDocBrown"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

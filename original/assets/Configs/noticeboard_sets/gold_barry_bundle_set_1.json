@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_gold_laser",
+        "gold_barry_bundle_timer_running"
+      ],
+      "board": "special_offer_gold_barry_bundle"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "reference_id": "DAILY_RV_TIERS",
+    "tags": [
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "",
+        "description": "",
+        "equipable": false,
+        "icon": "",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "DAILY_RV_TIERS"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "storeId": "EVENT_TOKEN_DOUBLER",
+    "template": "template_2x1_tokenDoubler",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.557, 0.949, 0.984, 1.0],
+    "foregroundIcon": "Events\\Ghostbusters\\Textures\\Menus\\eventPopUp\\currencyToken_64.tex",
+    "infoText": "SHOP_EVENT_TOKEN_DOUBLER_BADGE_LIMITED",
+    "forceHidePurchased": true
+}

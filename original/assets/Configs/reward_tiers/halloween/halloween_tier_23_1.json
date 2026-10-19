@@ -1,0 +1,12 @@
+{
+    "cost": 1125,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_JETPACK_CUSTOM_FRANKENSTEIN_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/jetpackFrankenstein.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackFrankenstein.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "jetpack_custom_frankenstein"
+    ]
+}

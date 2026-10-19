@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_SHARK",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SHARKHEADJETPACK_NAME",
+        "description": "ITEM_SHARKHEADJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackSH",
+        "startWeek": 42
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_SHARK"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 24
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 24
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

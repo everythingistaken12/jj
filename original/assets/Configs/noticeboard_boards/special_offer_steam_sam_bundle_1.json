@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Steam_Sam_Bundle",
+    "screen": "NoticeBoardSteamSam",
+    "on_show_event": "specialOffer",
+    "item_id": "STEAM_SAM_BUNDLE"
+}

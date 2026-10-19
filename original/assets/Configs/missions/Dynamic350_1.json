@@ -1,0 +1,31 @@
+{
+    "name": "Destroy Mech 5 times",
+    "requirement": "Destroy Mech 5 times",
+    "retired": false,
+    "meta_data": {
+        "groupId": "59",
+        "difficulty": 3,
+        "icon": "vehicleDestroy",
+        "description": "MISSION_DESTROY_VEHICLE",
+        "hash": "VEHICLE_DESTROY_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "Tag4": "DESTROY",
+        "probability": "10",
+        "tag1": "VEHICLE",
+        "metaData": {
+            "vehicleType": "Mech"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "destroy",
+                "o": "vehicle",
+                "s": "t",
+                "i": 3,
+                "c": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Anniversary_10_Bundle",
+    "screen": "NoticeBoardAnniversary10Bundle",
+    "on_show_event": "specialOffer",
+    "item_id": "ANNIVERSARY_10_BUNDLE"
+}

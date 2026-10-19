@@ -1,0 +1,18 @@
+{
+	"currency": "soap",
+	"currency_texture": "textures/menus/eventPopUp/currencyToken_64.tex",
+	"tiers": [
+		"hygiene/tier_1",
+		"hygiene/tier_2",
+		"hygiene/tier_3",
+		"hygiene/tier_4",
+		"hygiene/tier_5",
+		"hygiene/tier_6",
+		"hygiene/tier_7",
+		"hygiene/tier_8",
+		"hygiene/tier_9",
+		"hygiene/tier_10",
+		"hygiene/tier_11",
+		"hygiene/tier_12"
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "#default":
+    {
+        "cost": 1500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_MOTU_HEMAN_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyHeman.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyHeman.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "motu_heman_body"
+        ]
+
+    }
+}

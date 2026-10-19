@@ -1,0 +1,10 @@
+{
+    "specialBundle": "cross_promo_chaser",
+    "template": "template_2x2_cross_promo_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.996, 0.816, 0.647, 1.0], 
+    "itemImages": "specialBundleCrossPromoChaser",
+    "backingTexture": "Events/Chaser/Textures/Menus/eventPopUp/backing.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

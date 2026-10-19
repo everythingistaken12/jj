@@ -1,0 +1,83 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "cny_2026_chinese_new_year_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHINESE_NEW_YEAR_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_JETSKI == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_PIG == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "cny_2026_chinese_new_year_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHINESE_NEW_YEAR_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_JETSKI == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_PIG == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "cny_2026_chinese_new_year_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHINESE_NEW_YEAR_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_JETSKI == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_PIG == 0"
+			}
+		]
+	],
+	"store_id": "CHINESE_NEW_YEAR_2025_ULTIMATE_BUNDLE",
+	"timer_id": "cny_2026_chinese_new_year_ultimate_bundle",
+	"trigger_name": "lunar_new_year_ultimate_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_CHINESE_NEW_YEAR_ULTIMATE_VIEWS"
+}

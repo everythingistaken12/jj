@@ -1,0 +1,44 @@
+{
+    "#default":
+    {
+        "cost": 15000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_GUTSU_BODY_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyGutsu.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyGutsu.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "gutsu_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 15000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "PERK_FRUIT_MISSILES_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/gadgetFruitMissile.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/gadgetFruitMissile.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "perk_fruit_missiles"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 15000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "PERK_FRUIT_MISSILES_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/gadgetFruitMissile.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/gadgetFruitMissile.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "perk_fruit_missiles"
+        ]
+    }
+}

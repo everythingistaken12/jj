@@ -1,0 +1,43 @@
+{
+  "reference_id": "TMNT_DONATELLO_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TMNT_DONATELLO_HEAD_NAME",
+    "description": "ITEM_TMNT_DONATELLO_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeTMNTDonatello",
+    "isNew": true,
+    "hidden": true,
+    "hideWhen": "TMNT_DONATELLO_HEAD"
+  },
+  "additional_deliverables": {
+    "TMNT_DONATELLO_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_DONATELLO_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.donatellocostume",
+    "google_play_store": "com.halfbrick.jetpack.donatellocostume",
+    "brick_bucks_store": "donatella_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

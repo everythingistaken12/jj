@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_aoz_sam",
+        "aoz_savage_bundle_timer_running"
+      ],
+      "board": "special_offer_savage_bundle"
+    }
+  ]
+}

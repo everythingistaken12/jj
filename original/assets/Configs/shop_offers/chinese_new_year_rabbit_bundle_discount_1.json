@@ -1,0 +1,10 @@
+{
+    "specialBundle": "chinese_new_year_rabbit_bundle_discount",
+    "template": "template_2x2_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.949,  0.404, 0.325, 1.0],
+    "itemImages": "specialBundleChineseNewYearRabbitBundleImages",
+    "backingTexture": "textures/menus/bricknetUpsell/ChineseNewYearEvent/ChineseNewYear2021/backing.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

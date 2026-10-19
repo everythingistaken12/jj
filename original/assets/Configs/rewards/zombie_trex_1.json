@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "VEHICLE_SKIN_ZOMBIETREX",
+	"fallback": "coin_pack_12500"
+}

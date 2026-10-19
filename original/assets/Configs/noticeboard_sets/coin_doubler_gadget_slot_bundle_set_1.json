@@ -1,0 +1,13 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_counterfeit_machine",
+				"not_purchased_gadget_slot",
+				"coin_doubler_gadget_slot_bundle_timer_running"
+			],
+			"board": "special_offer_coin_doubler_gadget_slot_bundle"
+		}		
+	]
+}

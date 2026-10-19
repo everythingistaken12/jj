@@ -1,0 +1,29 @@
+{
+    "reference_id": "VEHICLE_SKIN_DELOREAN",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Delorean"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_DELOREAN_NAME",
+        "description": "VEHICLE_SKIN_DELOREAN_DESC",
+        "equipable": true,
+        "icon": "vehicleDelorean",
+        "isSkin": true,
+        "vehicleType": "Delorean",
+        "hideUntil": "VEHICLE_SKIN_DELOREAN",
+        "defaultSkin": true,
+        "isNew": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "reference_id": "VEHICLE_GOLD_GRAVITY",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLDENGRAVITYSUIT_NAME",
+        "description": "ITEM_GOLDENGRAVITYSUIT_DESC",
+        "equipable": true,
+        "icon": "vehicleGravitySuitGold",
+        "isSkin": true,
+        "vehicleType": "GravitySuit",
+        "defaultSkin": false
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_GOLD_GRAVITY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 11
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 11
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

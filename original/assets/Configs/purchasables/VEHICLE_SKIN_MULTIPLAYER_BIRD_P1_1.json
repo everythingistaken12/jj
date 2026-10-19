@@ -1,0 +1,28 @@
+{
+    "reference_id": "VEHICLE_SKIN_MULTIPLAYER_BIRD_P1",
+    "tags": [
+        "Upgrades",
+        "Vehicle Skins",
+        "Bird"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_SUPPLY_BIRD_NAME",
+        "description": "VEHICLE_SKIN_SUPPLY_BIRD_DESC",
+        "equipable": true,
+        "icon": "vehicleBirdSupply",
+        "isSkin": true,
+        "vehicleType": "Bird",
+        "defaultSkin": false,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

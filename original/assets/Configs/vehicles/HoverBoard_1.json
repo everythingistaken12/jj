@@ -1,0 +1,52 @@
+{
+    "vehicleName": "HoverBoard",
+    "displayName": "VEHICLE_HOVERBOARD",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_HOVERBOARD",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_HOVERBOARD",
+        "distanceBest": "VEHICLE_BEST_HOVERBOARD",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_HOVERBOARD"
+    },
+    "MissionText": "MISSION_VEHICLE_HOVERBOARD",
+    "sprite": "hoverboard.xml",
+    "RequiredTextures": {
+        "Texture": "hoverboard.tex"
+    },
+    "MagnetDeliverable": "HOVERBOARD_MAGNET",
+    "headData": "Characters/Vehicles/HoverBoard/HoverBoard/HoverBoardData.xml",
+    "allowHalo": "false",
+    "sequenceBar": "bar_hoverboard",
+    "fragsDir": "HoverBoard",
+    "ComponentsDir": "HoverBoard",
+    "Streak1Colour": {
+        "r": "233",
+        "g": "102",
+        "b": "142"
+    },
+    "Streak2Colour": {
+        "r": "255",
+        "g": "255",
+        "b": "255"
+    },
+    "probability": "20.0",
+    "duration": "0.0",
+    "SequenceFirstFront": "true",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.3",
+    "INITIAL_BOOST": "6.5",
+    "BOOST": "0.6",
+    "FRICTION": "0.98",
+    "BOOST_FRAME_COUNT": "12",
+    "JUMP_COUNT": "1",
+    "STREAK": "HOVERBOARD_STREAK",
+    "START_VELOCITY": "300.0",
+    "MAX_VELOCITY": "5600.0",
+    "VELOCITY_INCREASE": "0.2",
+    "skins": {
+        "skin": {
+            "name": "VEHICLE_SKIN_HOVERBOARD",
+            "script": "HoverBoard",
+            "default": "true"
+        }
+    }
+}

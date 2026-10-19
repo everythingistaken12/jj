@@ -1,0 +1,27 @@
+
+{
+  "reference_id": "JETPACK_CUSTOM_SARCOPHAGUS",
+  "tags": [
+    "Jetpack"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_JETPACK_CUSTOM_SARCOPHAGUS_NAME",
+    "description": "ITEM_JETPACK_CUSTOM_SARCOPHAGUS_DESC",
+    "equipable": true,
+    "icon": "jetpackSarcophagus",
+    "isNew": true,
+    "hidden": true
+  },
+  "payment_methods": {},
+  "skus": [
+    "apple_tv",
+    "apple_arcade",
+    "google_play",
+    "halfbrick_plus",
+    "ios",
+    "windows"
+  ]
+}

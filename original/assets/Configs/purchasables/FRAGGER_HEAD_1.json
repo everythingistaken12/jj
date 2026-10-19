@@ -1,0 +1,33 @@
+{
+    "reference_id": "FRAGGER_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_FRAGGERHELMET_NAME",
+        "description": "ITEM_FRAGGERHELMET_DESC",
+        "equipable": true,
+        "icon": "headFragger",
+        "startWeek": 5
+    },
+    "payment_methods": {
+        "jetpack_store": "FRAGGER_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 10
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 10
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

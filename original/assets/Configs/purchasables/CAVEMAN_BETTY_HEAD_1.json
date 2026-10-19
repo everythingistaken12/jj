@@ -1,0 +1,33 @@
+{
+    "reference_id": "CAVEMAN_BETTY_HEAD",
+    "tags": [
+        "Head",
+        "excludeFromRandom",
+	"bundle",
+	"hiddden"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CAVEMAN_BETTY_HEAD_NAME",
+        "description": "ITEM_CAVEMAN_BETTY_HEAD_DESC",
+        "equipable": true,
+        "icon": "headCavemanBetty",
+        "rewardOnly": {
+            "value": true,
+            "prereq": "VEHICLE_SKIN_ZOMBIETREX"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "CAVEMAN_BETTY_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

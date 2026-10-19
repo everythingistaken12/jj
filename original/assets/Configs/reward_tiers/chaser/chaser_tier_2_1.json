@@ -1,0 +1,16 @@
+{
+    "cost": 1,
+  "display_name": "REWARD_UNLOCK",
+  "display_description": "3000_COINS",
+  "rewards_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+  "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+  "rewards_locked_texture": "textures/menus/shop/itemicons/question.tex",
+    "backing_texture": "textures/menus/chaserLevelBackground.tex",
+  "frame_texture": "textures/menus/shared/buttonTitleBase.tex",
+  "fallback_rewards": "FallbackSet_Low",
+    "hide_reward_until_unlock": true,
+    "guaranteed_rewards":
+    [
+    "coin_pack_3000"
+  ]
+}

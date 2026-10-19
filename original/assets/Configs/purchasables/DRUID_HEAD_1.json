@@ -1,0 +1,29 @@
+{
+    "reference_id": "DRUID_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "Head",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_DRUIDHEAD_NAME",
+        "description": "ITEM_DRUIDHEAD_DESC",
+        "equipable": true,
+        "icon": "headDruid",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "DRUID_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

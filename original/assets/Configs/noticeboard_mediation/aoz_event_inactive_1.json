@@ -1,0 +1,10 @@
+{
+	"show": [
+		{
+			"IS_EVENT": [
+				"age_of_zombies",
+				false
+			]
+		}
+	]
+}

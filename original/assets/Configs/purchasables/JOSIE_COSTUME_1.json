@@ -1,0 +1,39 @@
+{
+    "reference_id": "JOSIE_COSTUME",
+    "tags": [
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_JOSIE_HEAD_NAME",
+        "description": "ITEM_JOSIE_COSTUME_DESC",
+        "equipable": true,
+        "icon": "costumeJosie",
+        "crosspromo": "https://battleracingstars.page.link/jj_reward_josie",
+        "crosspromo_token": 195935984,
+        "awardsCrosspromoImmediately": true,
+        "hideWhen": "JOSIE_HEAD"
+    },
+    "additional_deliverables": {
+        "JOSIE_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JOSIE_HEAD": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "JOSIE_COSTUME"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

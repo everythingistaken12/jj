@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Fruit_King_Bundle",
+    "screen": "NoticeboardFruitKingBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "FRUIT_KING_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Accumulate 2,000m in any Vehicle.",
+    "requirement": "Travel 2000m with vehicles",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "vehicleTravel",
+        "description": "MISSION_VEHICLE_8",
+        "hash": "VEHICLE_FLY_TOTAL_ANY",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 2000
+            },
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "p": true,
+                "d": "destroy"
+            }
+        ]
+    }
+}

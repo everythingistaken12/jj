@@ -1,0 +1,15 @@
+{
+    "#default":
+    {
+        "cost": 2250,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_OLD_SCHOOL_PILOT_HEAD_NAME",		
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"rewards_texture": "textures/menus/shop/ItemIcons/headOldschoolpilot.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/headOldschoolpilot.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"old_school_pilot_head"
+		]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_6",
+    "description": "ACHIEVEMENT_DESC_6",
+    "progress_description": "ACHIEVEMENT_PROG_1",
+    "type": "DEVELOPER",
+    "sub_type_1": "MUSCAT",
+    "texture": "goodWorkMuscat",
+    "points": 10,
+    "max_progress": 10,
+    "provider_ids": {
+        "amazon": "1082662",
+        "game_center": 
+        {
+            "default": "1082662",
+            "AppleArcade": "good_work_muscat_aa",
+            "HalfbrickPlus": "good_work_muscat_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQBw"
+        }
+    }
+}

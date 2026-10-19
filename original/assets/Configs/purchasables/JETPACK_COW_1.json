@@ -1,0 +1,73 @@
+{
+    "reference_id": "JETPACK_COW",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_COW_JETPACK_NAME",
+        "description": "ITEM_COW_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackCow",
+        "roomOverrides": {
+            "Room0.xml": {
+                "weighted_chance": 100
+            },
+            "hills.xml": {
+                "weighted_chance": 100
+            },
+            "Room1.xml": {
+                "weighted_chance": 30
+            },
+            "Room1City.xml": {
+                "weighted_chance": 25
+            },
+            "Room1Warehouse.xml": {
+                "weighted_chance": 50
+            },
+            "Room1Volcano.xml": {
+                "weighted_chance": 25
+            },
+            "Room1Forest.xml": {
+                "weighted_chance": 25
+            },
+            "lab1.xml": {
+                "weighted_chance": 25
+            },
+            "coralReaf.xml": {
+                "weighted_chance": 50
+            },
+            "cave.xml": {
+                "weighted_chance": 50
+            },
+            "forest.xml": {
+                "weighted_chance": 50
+            },
+            "warehouse.xml": {
+                "weighted_chance": 30
+            }
+        }
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 27
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_COW"
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 27
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_COW"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

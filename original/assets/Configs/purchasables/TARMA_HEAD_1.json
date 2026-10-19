@@ -1,0 +1,27 @@
+{
+    "reference_id": "TARMA_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_TARMA_HEAD_NAME",
+        "description": "ITEM_TARMA_HEAD_DESC",
+        "equipable": true,
+        "icon": "headTarma",
+        "hidden": true,
+        "death_sfx": "ms_run_over_tarma",
+        "equip_sfx": "ms_equip_tarma"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

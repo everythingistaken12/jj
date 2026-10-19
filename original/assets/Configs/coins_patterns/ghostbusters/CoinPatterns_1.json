@@ -1,0 +1,73 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinPatternGB1.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB2.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB3.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB4.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB5.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB6.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB7.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB8.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternGB9.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

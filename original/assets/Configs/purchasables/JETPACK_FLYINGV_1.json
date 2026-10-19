@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_FLYINGV",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_FLYING_V_JETPACK_NAME",
+        "description": "ITEM_FLYING_V_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackFV",
+        "startWeek": 26
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_FLYINGV"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 26
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 26
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

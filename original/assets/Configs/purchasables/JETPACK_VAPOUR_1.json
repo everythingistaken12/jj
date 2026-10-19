@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_VAPOUR",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_VAPOUR_JETPACK_NAME",
+        "description": "ITEM_VAPOUR_JETPACK_DESC",
+        "equipable": true,
+        "isNew": true,
+        "icon": "jetpackVapour"
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_VAPOUR"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 18
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 18
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

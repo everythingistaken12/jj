@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_35",
+    "description": "ACHIEVEMENT_DESC_35",
+    "type": "START_IN_VEHICLE",
+    "sub_type_1": "FRUIT_PACK",
+    "sub_type_2": "Teleporter",
+    "texture": "anotherWayIn",
+    "points": 10,
+    "max_progress": 1,
+    "provider_ids": {
+        "amazon": "1526892",
+        "game_center": 
+        {
+            "default": "1526892",
+            "AppleArcade": "another_way_in_aa",
+            "HalfbrickPlus": "another_way_in_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQIg"
+        }
+    }
+}

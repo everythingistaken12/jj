@@ -1,0 +1,12 @@
+{
+    "cost": 375,
+    "display_name": "REWARD_UNLOCK",
+    "rewards_texture": "textures/menus/shop/itemicons/bodyCeltic.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/bodyCeltic.tex",
+    "display_description": "ITEM_CELTIC_BODY_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "celtic_body"
+    ]
+}

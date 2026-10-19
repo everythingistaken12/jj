@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "bluey_cross_promo_timer_running"
+      ],
+      "board": "bluey_cross_promo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Travel 1500m total in Mech.",
+    "requirement": "Travel 1500m with mech",
+    "retired": false,
+    "meta_data": {
+        "groupId": "47",
+        "difficulty": 3,
+        "icon": "vehicleTravel",
+        "description": "MISSION_VEHICLE_7",
+        "hash": "VEHICLE_FLY_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "100",
+        "tag1": "VEHICLE",
+        "tag2": "DIST_VEHICLE",
+        "metaData": {
+            "vehicleType": "Mech"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 1500
+            },
+            {
+                "i": 3,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true,
+                "d": "destroy"
+            }
+        ]
+    }
+}

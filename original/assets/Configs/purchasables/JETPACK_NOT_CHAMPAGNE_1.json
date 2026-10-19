@@ -1,0 +1,32 @@
+{
+  "reference_id": "JETPACK_NOT_CHAMPAGNE",
+  "tags": [
+    "Jetpack",
+    "hidden"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_JETPACK_NOT_CHAMPAGNE_NAME",
+    "description": "ITEM_JETPACK_NOT_CHAMPAGNE_DESC",
+    "equipable": true,
+    "icon": "jetpackNotChampagne",
+    "isNew": true,
+    "hidden": true
+  },
+  "additional_deliverables": {
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "skus": [
+    "apple_tv",
+    "apple_arcade",
+    "google_play",
+    "halfbrick_plus",
+    "ios",
+    "windows"
+  ]
+}

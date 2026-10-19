@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 1200,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/ItemIcons/headWitchBetty.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/headWitchBetty.tex",
+        "display_description": "ITEM_WITCH_BETTY_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "witch_betty_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 975,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FRANKENSTEIN_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyFrankenstein.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyFrankenstein.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "frankenstein_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 975,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FRANKENSTEIN_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyFrankenstein.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyFrankenstein.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "frankenstein_body"
+        ]
+    }    
+}

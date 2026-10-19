@@ -1,0 +1,11 @@
+{
+	"cost": 650,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_PICARD_HEAD_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/iconPicardPack.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headPicard.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"picard_head"
+	]
+}

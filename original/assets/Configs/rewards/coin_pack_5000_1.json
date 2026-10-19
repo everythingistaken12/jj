@@ -1,0 +1,8 @@
+{
+	"type": "currency",
+	"item_id": "coins",
+	"quantity": 5000,
+	"icon": "textures/menus/shop/ItemIcons/coinsItem2.tex",
+	"display_name": "5000_COINS",
+	"display_description": "5000_COINS"
+}

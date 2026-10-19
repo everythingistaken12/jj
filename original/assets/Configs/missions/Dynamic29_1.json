@@ -1,0 +1,41 @@
+{
+    "name": "Have a close call with 3 zappers in one game.",
+    "requirement": "Fly near 3 zappers in one game",
+    "retired": false,
+    "meta_data": {
+        "groupId": "7",
+        "difficulty": 2,
+        "icon": "zappy",
+        "description": "MISSION_CLOSE_CALL_ZAPPER_ONE_GAME",
+        "hash": "CLOSE_CALL",
+        "skillGrind": "SKILL",
+        "Tag4": "CLOSE_CALL",
+        "probability": "112",
+        "tag2": "ZAPPERS",
+        "metaData": {
+            "closeCallType": "GATES"
+        }
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "fly near",
+                "o": "zapper",
+                "s": "g",
+                "c": 3
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "reference_id": "DISCO_BARRY_HEAD",
+  "tags": [
+    "excludeFromRandom",
+    "hidden",
+    "Head"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_DISCO_BARRY_HEAD_NAME",
+    "description": "ITEM_DISCO_BARRY_HEAD_DESC",
+    "equipable": true,
+    "icon": "headDisco",
+    "hidden": true
+  },
+  "payment_methods": {},
+  "skus": [
+    "apple_tv",
+    "apple_arcade",
+    "google_play",
+    "halfbrick_plus",
+    "ios",
+    "windows"
+  ]
+}

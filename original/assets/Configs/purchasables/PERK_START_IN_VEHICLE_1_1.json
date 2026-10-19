@@ -1,0 +1,40 @@
+{
+    "reference_id": "PERK_START_IN_VEHICLE_1",
+    "tags": [
+        "Gadget",
+        "tier5"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_START_IN_VEHICLE_NAME",
+        "description": "PERK_START_IN_VEHICLE_DESC",
+        "icon": "vehicleStart",
+        "equipable": true,
+        "unequipable": true
+    },
+    "datasource_metas": {
+        "has_separate_title": true,
+        "has_separate_icon": true,
+        "separate_title": "PERK_START_IN_VEHICLE_NAME_LONG",
+        "separate_icon": "textures/menus/shop/ItemIcons/gadgetVehicleStartNoBacking.tex"
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_START_IN_VEHICLE_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 25
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 25
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

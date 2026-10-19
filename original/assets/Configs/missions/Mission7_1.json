@@ -1,0 +1,22 @@
+{
+    "name": "Smash a hole in the wall 5 times",
+    "requirement": "Start 5 games",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "fly",
+        "description": "MISSION_HOLE",
+        "hash": "START_FROM_MENU",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "start",
+                "o": "game",
+                "s": "t",
+                "c": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "#HalfbrickPlus":
+    {
+	"display_description": "7000_COINS",
+    	"rewards_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+    	"rewards_locked_texture": "textures/menus/shop/itemicons/question.tex",
+    	"backing_texture": "Events/BrainsAttack/Textures/Menus/eventInfo/brainsAttackLevelBackground.tex",
+    	"frame_texture":"textures/menus/shared/frameMetallic.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"coin_pack_7000"
+    	]
+    },
+    "#AppleArcade":
+    {
+	"display_description": "7000_COINS",
+    	"rewards_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+    	"rewards_locked_texture": "textures/menus/shop/itemicons/question.tex",
+    	"backing_texture": "Events/BrainsAttack/Textures/Menus/eventInfo/brainsAttackLevelBackground.tex",
+    	"frame_texture":"textures/menus/shared/frameMetallic.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"coin_pack_7000"
+    	]
+    },
+    "cost": 1,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_GOLD_ROBOT_HEAD_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/headGoldRobot.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/headGoldRobot.tex",
+    "rewards_locked_texture": "textures/menus/shop/itemicons/headGoldRobot.tex",
+    "backing_texture": "Events/BrainsAttack/Textures/Menus/eventInfo/brainsAttackLevelBackground.tex",
+    "frame_texture":"textures/menus/shared/frameMetallic.tex",
+    "rewards_quantity": 1,
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "gold_robot_head"
+    ]
+}

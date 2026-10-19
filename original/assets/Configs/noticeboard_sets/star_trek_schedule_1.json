@@ -1,0 +1,30 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "star_trek_bundle_set"
+    },
+    {
+      "board": "star_trek_tos_bundle_set"
+    },
+    {
+      "board": "star_trek_tng_bundle_set"
+    },
+    {
+      "board": "star_trek_voyager_bundle_set"
+    },
+    {
+      "board": "star_trek_jetpack_bundle_set"
+    },
+    {
+      "board": "star_trek_vehicle_bundle_set"
+    },
+    {
+      "board": "star_trek_sam_bundle_set"
+    },
+    {
+      "board": "star_trek_starship_bundle_set"
+    }
+  ]
+}

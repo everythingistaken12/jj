@@ -1,0 +1,37 @@
+{
+    "reference_id": "GOLD_SCIENTIST_BODY",
+    "tags": [
+        "Body",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLD_SCIENTIST_BODY_NAME",
+        "description": "ITEM_GOLD_SCIENTIST_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyGoldScientist",
+        "isNew": true,
+        "hidden": true,
+        "#AppleArcade":
+        {
+            "hidden": false
+        },
+        "#HalfbrickPlus":
+        {
+            "hidden": false
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "GOLD_SCIENTIST_BODY" 
+    },
+    "skus": [
+        "apple_tv",
+        "apple_arcade",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

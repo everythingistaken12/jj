@@ -1,0 +1,14 @@
+{
+	"category": "new_user_journey_d3f",
+	"priority": 1000,
+	"message": "PUSH_NEW_USER_D3_FALLBACK",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 172800
+	},
+	"condition" : "new_user_journey_day_3_alt_check"
+}

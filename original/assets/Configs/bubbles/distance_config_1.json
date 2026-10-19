@@ -1,0 +1,5 @@
+{
+	"distance_min" : 80,
+	"distance_max" : 40,
+	"cooldown" : 1
+}

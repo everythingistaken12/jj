@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 388,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_BLUE_TIGER_HEAD_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/eventPopUp/BluetigerHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headBlueTiger.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_bluetiger_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 288,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_CNY_FEMALE_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headCnyFemale.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headCnyFemale.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_female_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 288,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_CNY_FEMALE_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headCnyFemale.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headCnyFemale.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_female_head"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 950
+    },
+    "#AppleArcade":
+    {
+        "cost": 950
+    },
+	"cost": 2000,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_JETPACK_CUSTOM_AOZ_ZOMBIEREX_NAME",	
+	"rewards_texture": "textures/menus/shop/itemicons/jetpackZombieRex.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackZombieRex.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"jetpack_custom_aoz_zombie_rex"
+	]
+}

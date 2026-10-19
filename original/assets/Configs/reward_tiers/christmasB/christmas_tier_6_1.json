@@ -1,0 +1,12 @@
+{
+    "cost": 175,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "VEHICLE_SKIN_YETI_MECH_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/vehicleMechYeti.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechYeti.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "yeti_mech"
+    ]
+}

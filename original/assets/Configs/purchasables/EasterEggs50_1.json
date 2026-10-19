@@ -1,0 +1,31 @@
+{
+    "reference_id": "EasterEggs50",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "EASTER_EGGS_PACK_NAME",
+        "description": "EASTER_EGGS_PACK_DESCRIPTION",
+        "icon": "Events/Easter/Textures/Menus/shop/ItemIcons/tokenEgg.tex",
+        "coins": 50,
+        "nameNoCoins": "EASTER_EGGS_PACK_NAME_NO_QUANTITY"
+    },
+    "additional_deliverables": {
+        "EasterEggs": {
+            "is_currency": true,
+            "value": "50"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "EasterEggs50"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

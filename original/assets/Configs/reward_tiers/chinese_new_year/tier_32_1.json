@@ -1,0 +1,44 @@
+{
+    "#default":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_PRINCESS_HEAD_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/headLNYPrincess.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headLNYPrincess.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_princess_barry_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 688,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_PRINCESS_HEAD_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/headLNYPrincess.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headLNYPrincess.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_princess_barry_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 688,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_PRINCESS_HEAD_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/headLNYPrincess.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headLNYPrincess.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_princess_barry_head"
+        ]
+    }
+}

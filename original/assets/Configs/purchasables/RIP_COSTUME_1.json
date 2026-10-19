@@ -1,0 +1,38 @@
+{
+  "reference_id": "RIP_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_RIP_HEAD_NAME",
+    "description": "ITEM_RIP_COSTUME_DESC",
+    "equipable": true,
+    "icon": "costumeRip",
+    "crosspromo": "https://radicalrappelling.halfbrickplus.com/check.html?utm_campaign=jj_rr_rewardedrib_augustdrop&utm_source=jetpackjoyride&utm_medium=rewardedrib&utm_content=radicalrappelling&gamePromoted=rr&googleStoreAppId=com.halfbrick.R5&appleStoreAppId=882398562&applePackageName=com.halfbrick.R5&dynamicLinkId=840b0c50-463d-11ee-beda-e3cc88c9345a&webPC=https%3A%2F%2Fwww.halfbrick.com%2Fgames%2Fradical-rappelling",
+    "awardsCrosspromoImmediately": true,
+    "isNew": true,
+    "hideWhen": "RIP_HEAD"
+  },
+  "additional_deliverables": {
+    "RIP_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "RIP_HEAD": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "jetpack_store": "RIP_COSTUME"
+  },
+  "skus": [
+    "ios",
+    "windows",
+    "halfbrick_plus",
+    "google_play"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"cost": 1200,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/shop/ItemIcons/jetpackBunny.tex",
+	"rewards_icon_texture": "textures/menus/shop/ItemIcons/jetpackBunny.tex",
+	"display_description": "ITEM_JETPACK_CUSTOM_BUNNY_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"jetpack_easter_bunny"
+	],
+	"random_rewards": []
+}

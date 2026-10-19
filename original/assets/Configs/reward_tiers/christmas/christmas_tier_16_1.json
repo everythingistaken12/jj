@@ -1,0 +1,40 @@
+{
+    "#default": {
+        "cost": 1275,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_SLEIGH_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleSled.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleSled.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "sleigh_of_awesome"
+        ]
+    },
+    "#HalfbrickPlus": {
+        "cost": 1050
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleChristmasHogSanta.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleChristmasHogSanta.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_santa_hog"
+        ]
+    },
+    "#AppleArcade": {
+        "cost": 1050
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleChristmasHogSanta.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleChristmasHogSanta.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_santa_hog"
+        ]
+    }
+}

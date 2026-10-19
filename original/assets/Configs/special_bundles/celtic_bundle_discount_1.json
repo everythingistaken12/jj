@@ -1,0 +1,56 @@
+{
+  "conditions": [
+    [
+      {
+        "timerRunning": "st_patricks_2024_celtic_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_CELTIC_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 0"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 5"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_CELTIC_RUNE_DRAGON == 0"
+      }
+    ],
+    [
+      {
+        "timerRunning": "st_patricks_2024_celtic_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_CELTIC_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 1"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 3"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_CELTIC_RUNE_DRAGON == 0"
+      }
+    ],
+    [
+      {
+        "timerRunning": "st_patricks_2024_celtic_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_CELTIC_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL >= 2"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_CELTIC_RUNE_DRAGON == 0"
+      }
+    ]
+  ],
+  "store_id": "CELTIC_BUNDLE_DISCOUNT",
+  "timer_id": "st_patricks_2024_celtic_bundle_discount",
+  "trigger_name": "celtic_bundle_discount",
+  "statistic_prefix": "SPECIAL_BUNDLE_CELTIC_BUNDLE_DISCOUNT_VIEWS"
+}

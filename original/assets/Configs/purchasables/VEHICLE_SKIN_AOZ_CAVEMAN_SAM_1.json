@@ -1,0 +1,34 @@
+{
+    "reference_id": "VEHICLE_SKIN_AOZ_CAVEMAN_SAM",
+    "tags": [
+        "Sam",
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_AOZ_CAVEMAN_SAM_NAME",
+        "description": "VEHICLE_SKIN_AOZ_CAVEMAN_SAM_DESC",
+        "equipable": true,
+        "icon": "vehicleSamAozCaveman",
+        "hideUntil": "VEHICLE_SKIN_AOZ_CAVEMAN_SAM",
+        "isSkin": true,
+        "vehicleType": "Sam",
+        "isNew": true,
+        "defaultSkin": false,
+        "samAtlas": "Events/AgeOfZombies/Textures",
+        "samMusic": "Events/AgeOfZombies/Music_SAMAozCaveman",
+        "samNotificationTex": "Events/AgeOfZombies/Textures/Menus/consumables/notificationSAM.tex"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "apple_arcade",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

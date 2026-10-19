@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_jetpack_custom_man_at_arms",
+        "motu_hero_bundle_timer_running"
+      ],
+      "board": "special_offer_motu_hero_bundle"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "#default":
+    {
+        "cost": 125,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/bunnyHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headEasterBunny.tex",
+        "display_description": "ITEM_EASTERBUNNYHAT_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_bunny_head"
+        ],
+        "random_rewards":
+        []
+    },
+    "#AppleArcade":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackCarrot.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackCarrot.tex",
+        "display_description": "ITEM_CARROT_JETPACK_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_carrot"
+        ]
+    }
+}

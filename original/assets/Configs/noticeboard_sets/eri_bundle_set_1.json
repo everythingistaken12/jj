@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_msdragon"
+      ],
+      "board": "special_offer_eri_bundle"
+    }
+  ]
+}

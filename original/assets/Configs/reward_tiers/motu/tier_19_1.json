@@ -1,0 +1,14 @@
+{
+    "#default":
+    {
+        "cost": 2000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_MOTU_POWER_SWORD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackHemanPowerSword.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackHemanPowerSword.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_custom_power_sword"
+        ]
+    }
+}

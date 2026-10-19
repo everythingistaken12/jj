@@ -1,0 +1,18 @@
+{
+    "selector": "random",
+    "boards":
+    [
+        {
+            "mediation":
+            [
+                "not_purchased_frankenstein_teleporter",
+                "not_purchased_bonedragon",
+                "not_purchased_vampire",
+                "not_purchased_broomstick_dragon",
+                "not_purchased_halloween_sam",
+                "halloween_ultimate_bundle_timer_running"
+            ],
+            "board": "special_offer_halloween_ultimate_bundle"
+        }
+    ]
+}

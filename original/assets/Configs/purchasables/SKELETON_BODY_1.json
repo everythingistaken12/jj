@@ -1,0 +1,28 @@
+{
+    "reference_id": "SKELETON_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SKELETON_BODY_NAME",
+        "description": "ITEM_SKELETON_BODY_DESC",
+        "equipable": true,
+        "icon": "bodySkeleton",
+        "startWeek": 37,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "SKELETON_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

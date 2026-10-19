@@ -1,0 +1,167 @@
+{
+    "vehicleName": "Teleporter",
+    "displayName": "VEHICLE_CFT",
+    "statistics":
+    {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_TELEPORTER",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_TELEPORTER",
+        "distanceBest": "VEHICLE_BEST_TELEPORTER",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_TELEPORTER"
+    },
+    "MissionText": "MISSION_VEHICLE_CFT",
+    "sprite": "vehicleTeleporter.xml",
+    "RequiredTextures":
+    {
+        "Texture":
+        [
+            "vehicleTeleporter.tex",
+            "teleportArrow.tex",
+            "teleportreticle.tex"
+        ]
+    },
+    "FlashTextures":
+    {
+        "Texture": "teleporthelmet.tex"
+    },
+    "GoldInventoryName": "VEHICLE_GOLD_TELEPORTER",
+    "MagnetDeliverable": "TELEPORTER_MAGNET",
+    "allowHalo": "false",
+    "fragsDir": "Teleporter",
+    "ComponentsDir": "Teleporter",
+    "ComponentsOffset": "0,8",
+    "sequenceBar": "bar_teleport",
+    "Streak1Colour":
+    {
+        "r": "255",
+        "g": "132",
+        "b": "255"
+    },
+    "Streak2Colour":
+    {
+        "r": "255",
+        "g": "173",
+        "b": "255"
+    },
+    "probability": "20.0",
+    "SequenceFirstFront": "false",
+    "duration": "0.0",
+    "BOOST": "8.0",
+    "GRAVITY": "96.0",
+    "STREAK": "CFT_STREAK",
+    "START_VELOCITY": "250.0",
+    "MAX_VELOCITY": "1000.0",
+    "VELOCITY_INCREASE": "0.25",
+    "GoldParticle": "GoldSparkle_Teleporter",
+    "GoldParticleOffset": "4,-8",
+    "skins":
+    {
+        "skin":
+        [
+            {
+                "name": "VEHICLE_SKIN_TELEPORTER",
+                "script": "",
+                "stop_music":
+                [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music":
+                {
+                    "location": "construction_complete",
+                    "delay": "0.0",
+                    "track": "Music_CFT"
+                },
+                "outro":
+                {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_GOLD_TELEPORTER",
+                "script": "Gold",
+                "stop_music":
+                [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music":
+                {
+                    "location": "construction_complete",
+                    "delay": "0.0",
+                    "track": "Music_CFT"
+                },
+                "outro":
+                {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_BARRYBOX",
+                "script": "BarryBox"
+            },
+            {
+                "name": "VEHICLE_SKIN_CELTIC_TELEPORTER",
+                "script": "CeltBox",
+                "stop_music":
+                [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music":
+                {
+                    "location": "construction_complete",
+                    "delay": "1.5",
+                    "track": "Music_CeltBox"
+                },
+                "outro":
+                {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                },
+                "electricBoltTexture": "electricBoltGreen.tex"
+            },
+            {
+                "name": "VEHICLE_SKIN_ST_TELEPORTER",
+                "script": "StarTrekTeleporter"
+            },
+            {
+                "name": "VEHICLE_SKIN_EGG_TELEPORTER",
+                "script": "EasterEgg"
+            },
+            {
+                "name": "VEHICLE_SKIN_YIN_YANG_TELEPORTER",
+                "script": "YinYang",
+                "electricBoltTexture": "electricBoltWhite.tex",
+                "boltColor": "230,179,83,255",
+                "lightningColor": "230,179,83,255"
+            },
+            {
+                "name": "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER",
+                "script": "FrankensteinTeleporter"
+            }
+        ]
+    }
+}

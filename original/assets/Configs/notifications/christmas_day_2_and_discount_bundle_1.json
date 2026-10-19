@@ -1,0 +1,21 @@
+{
+	"category": "christmas_d2",
+	"priority": 2000,
+	"message": "NOTIFICATIONS_CHRISTMAS_D2",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 86400
+	},
+	"condition" : "christmas_day_2_and_discount_bundle_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "special_bundle",
+		"bundle": "christmas_bundle_discount_2018",
+		"loc": "local_notification"
+	}
+}

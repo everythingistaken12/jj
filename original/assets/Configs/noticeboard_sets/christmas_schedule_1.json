@@ -1,0 +1,75 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "special_offer_cross_promo_christmas"
+    },
+    {
+      "board": "iceskates_bundle_set"
+    },
+    {
+      "board": "daily_reward_tiers"
+    },
+    {
+      "board": "christmas_toy_bundle_set"
+    },
+    {
+      "board": "gif_cross_promo"
+    },
+    {
+      "board": "christmas_ultimate_bundle_set"
+    },
+    {
+      "board": "cozy_christmas_bundle_set"
+    },
+    {
+      "board": "jingle_bell_bundle_set"
+    },
+    {
+      "board": "christmas_bundle_set"
+    },
+    {
+      "board": "winter_bundle_set"
+    },
+    {
+      "board": "nutcracker_bundle_set"
+    },
+    {
+      "board": "christmas_2022_gifts_of_yule_bundle_set"
+    },
+    {
+      "board": "aoz_schedule"
+    },
+    {
+      "board": "chinese_new_year_schedule"
+    },
+    {
+      "board": "st_patricks_schedule"
+    },
+    {
+      "board": "easter_schedule"
+    },
+    {
+      "board": "pirate_schedule"
+    },
+    {
+      "board": "halloween_schedule"
+    },
+    {
+      "board": "anniversary_schedule"
+    },
+    {
+      "board": "turbo_tidal_bundle_set"
+    },
+    {
+      "board": "fruit_king_bundle_set"
+    },
+    {
+      "board": "thanksgiving_schedule"
+    },
+    {
+      "board": "4th_of_july_bundle_set"
+    }
+  ]
+}

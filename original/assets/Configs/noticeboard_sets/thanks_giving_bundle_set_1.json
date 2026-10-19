@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_turkey",
+				"thanks_giving_bundle_timer_running"
+			],
+			"board": "special_offer_thanks_giving_bundle"
+		}		
+	]
+}

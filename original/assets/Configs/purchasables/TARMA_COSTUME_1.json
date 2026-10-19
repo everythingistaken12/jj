@@ -1,0 +1,42 @@
+{
+  "reference_id": "TARMA_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TARMA_HEAD_NAME",
+    "description": "ITEM_TARMA_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeTarma",
+    "hidden": true,
+    "hideWhen": "TARMA_HEAD"
+  },
+  "additional_deliverables": {
+    "TARMA_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TARMA_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.tarmacostume",
+    "google_play_store": "com.halfbrick.jetpack.tarmacostume",
+    "brick_bucks_store": "tarma_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

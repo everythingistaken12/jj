@@ -1,0 +1,11 @@
+{
+	"cost": 5500,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_MARCO_HEAD_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/iconMarcoPack.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headMarco.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"marco_head"
+	]
+}

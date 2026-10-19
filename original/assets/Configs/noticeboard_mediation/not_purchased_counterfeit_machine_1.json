@@ -1,0 +1,10 @@
+{
+	"show": [
+		{
+			"IS_PURCHASED": [
+				"PREMIUM_MACHINE",
+				false
+			]
+		}
+	]
+}

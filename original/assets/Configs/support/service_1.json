@@ -1,0 +1,10 @@
+{
+    "legacyUrl": "https://player-data-manager-client-api-3e7a4ipziq-uc.a.run.app/data/",
+    "url": "https://addative-player-data-manager-client-api-3e7a4ipziq-uc.a.run.app/data/",
+    "email": "support@halfbrick.mail.helpshift.com",
+    "#AppleArcade":
+    {
+        "email": "jetpackjoyrideplussupport@halfbrick.com"
+    },
+    "userDataReuploadTTL": 604800
+}

@@ -1,0 +1,15 @@
+{
+	"button_icon": "textures/menus/shop/ItemIcons/coins1.tex",
+	"meta": {
+		"shutdown_conditions": {
+			"itemOwned": "COIN_PACK_ZERO_X2",
+			"itemOwned": "COIN_PACK_ONE_X2",
+			"itemOwned": "COIN_PACK_TWO_X2",
+			"itemOwned": "COIN_PACK_THREE_X2",
+			"itemOwned": "COIN_PACK_FOUR_X2",
+			"itemOwned": "COIN_PACK_FIVE_X2"
+		}
+	},	
+	"auto_start": true,
+	"timer_length_seconds": 604800
+}

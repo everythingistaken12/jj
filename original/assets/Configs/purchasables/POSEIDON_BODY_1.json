@@ -1,0 +1,29 @@
+{
+    "reference_id": "POSEIDON_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "Body",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_POSEIDON_BODY_NAME",
+        "description": "ITEM_POSEIDON_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyPoseidon",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "POSEIDON_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

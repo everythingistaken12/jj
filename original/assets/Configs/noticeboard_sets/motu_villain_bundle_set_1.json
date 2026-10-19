@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_custom_havoc_jetpack",
+        "motu_villain_bundle_timer_running"
+      ],
+      "board": "special_offer_motu_villain_bundle"
+    }
+  ]
+}

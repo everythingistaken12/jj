@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_HygieneBundle",
+    "screen": "NoticeBoardHygieneBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "HYGIENE_BUNDLE"
+}

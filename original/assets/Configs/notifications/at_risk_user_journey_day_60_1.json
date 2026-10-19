@@ -1,0 +1,22 @@
+{
+	"category": "at_risk_user_journey_d60",
+	"priority": 0,
+	"message": "PUSH_RISK_USER_D60",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 5184000
+	},
+	"condition" : "at_risk_user_journey_day_60_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "POWER_UP",
+		"powerup": "Pickup_SlowMotion"
+	},
+	"deep_link_requires_token": true
+}

@@ -1,0 +1,14 @@
+{
+	"days_missed_before_reset": 1,
+	"max_resets_per_day": 0,
+	"days": [
+		"day_1",
+		"day_2",
+		"day_3",
+		"day_4",
+		"day_5"
+	],
+	"backup_rewards": [
+		{ "reward": "coins_backup", "chance": 1 }
+	]
+}

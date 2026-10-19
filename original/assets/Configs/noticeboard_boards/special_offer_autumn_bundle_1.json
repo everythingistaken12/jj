@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Autumn_Bundle",
+    "screen": "NoticeboardAutumnBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "AUTUMN_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_Chinese_New_Year_Bundle",
+	"screen": "NoticeBoardChineseNewYearUltimateBundle",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "CHINESE_NEW_YEAR_ULTIMATE_BUNDLE",
+	"data_source": {
+		
+	}	
+}

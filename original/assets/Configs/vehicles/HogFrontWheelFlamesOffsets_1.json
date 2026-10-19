@@ -1,0 +1,199 @@
+{
+    "hogCartOffsets": {
+        "frame": [
+            {
+                "value": "1",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "2"
+            },
+            {
+                "value": "2",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "1"
+            },
+            {
+                "value": "3",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "2"
+            },
+            {
+                "value": "4",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "1"
+            },
+            {
+                "value": "5",
+                "offset": "0 0",
+                "rotation": "-32",
+                "renderFrame": "2"
+            },
+            {
+                "value": "6",
+                "offset": "0 0",
+                "rotation": "-37",
+                "renderFrame": "2"
+            },
+            {
+                "value": "7",
+                "offset": "0 0",
+                "rotation": "-46",
+                "renderFrame": "2"
+            },
+            {
+                "value": "8",
+                "offset": "0 0",
+                "rotation": "-43",
+                "renderFrame": "2"
+            },
+            {
+                "value": "9",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "3"
+            },
+            {
+                "value": "10",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "4"
+            },
+            {
+                "value": "11",
+                "offset": "0 0",
+                "rotation": "-17",
+                "renderFrame": "1"
+            },
+            {
+                "value": "12",
+                "offset": "0 0",
+                "rotation": "-16",
+                "renderFrame": "2"
+            },
+            {
+                "value": "13",
+                "offset": "0 0",
+                "rotation": "-25",
+                "renderFrame": "2"
+            },
+            {
+                "value": "14",
+                "offset": "0 0",
+                "rotation": "-52",
+                "renderFrame": "1"
+            },
+            {
+                "value": "15",
+                "offset": "0 0",
+                "rotation": "-80",
+                "renderFrame": "2"
+            },
+            {
+                "value": "16",
+                "offset": "0 0",
+                "rotation": "-64",
+                "renderFrame": "1"
+            },
+            {
+                "value": "17",
+                "offset": "0 0",
+                "rotation": "-60",
+                "renderFrame": "2"
+            },
+            {
+                "value": "18",
+                "offset": "0 0",
+                "rotation": "-54",
+                "renderFrame": "1"
+            },
+            {
+                "value": "19",
+                "offset": "0 0",
+                "rotation": "-44",
+                "renderFrame": "2"
+            },
+            {
+                "value": "20",
+                "offset": "0 0",
+                "rotation": "-25",
+                "renderFrame": "1"
+            },
+            {
+                "value": "21",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "2"
+            },
+            {
+                "value": "22",
+                "offset": "0 0",
+                "rotation": "-15",
+                "renderFrame": "1"
+            },
+            {
+                "value": "23",
+                "offset": "0 0",
+                "rotation": "-22",
+                "renderFrame": "2"
+            },
+            {
+                "value": "24",
+                "offset": "0 0",
+                "rotation": "-25",
+                "renderFrame": "1"
+            },
+            {
+                "value": "25",
+                "offset": "0 0",
+                "rotation": "-24",
+                "renderFrame": "2"
+            },
+            {
+                "value": "26",
+                "offset": "0 0",
+                "rotation": "-22",
+                "renderFrame": "1"
+            },
+            {
+                "value": "27",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "2"
+            },
+            {
+                "value": "28",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "1"
+            },
+            {
+                "value": "29",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "2"
+            },
+            {
+                "value": "30",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "1"
+            },
+            {
+                "value": "31",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "2"
+            },
+            {
+                "value": "32",
+                "offset": "0 0",
+                "rotation": "0",
+                "renderFrame": "1"
+            }
+        ],
+        "version": "1.0.0"
+    }
+}

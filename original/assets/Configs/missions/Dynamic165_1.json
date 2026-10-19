@@ -1,0 +1,38 @@
+{
+    "name": "Touch 20 red flashing lights in one game",
+    "requirement": "Touch 20 red lights in one game",
+    "retired": false,
+    "meta_data": {
+        "groupId": "30",
+        "difficulty": 3,
+        "icon": "Oddball",
+        "description": "MISSION_ALARM_1",
+        "hash": "TOUCH_ALARM",
+        "skillGrind": "SKILL",
+        "Tag4": "CLOSE_CALL",
+        "probability": "30",
+        "tag2": "ALARM"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "touch",
+                "o": "red light",
+                "s": "g",
+                "c": 20
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

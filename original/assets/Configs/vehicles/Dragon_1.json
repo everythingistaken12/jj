@@ -1,0 +1,568 @@
+{
+    "vehicleName": "Dragon",
+    "displayName": "VEHICLE_DRAGON",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_DRAGON",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_DRAGON",
+        "distanceBest": "VEHICLE_BEST_DRAGON",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_DRAGON"
+    },
+    "MissionText": "MISSION_VEHICLE_DRAGON",
+    "sprite": "dragonFlap.xml",
+    "RequiredTextures": {
+        "Texture": [
+            "dragonFlap.tex",
+            "dragonBody.tex",
+            "dragonHead.tex",
+            "dragonJaw.tex",
+            "dragonNose.tex",
+            "dragonHorn.tex",
+            "dragonBodySaddle.tex"
+        ]
+    },
+    "GoldInventoryName": "VEHICLE_GOLD_DRAGON",
+    "MagnetDeliverable": "DRAGON_MAGNET",
+    "allowHalo": "true",
+    "fragsDir": "Dragon",
+    "ComponentsDir": "Dragon",
+    "ComponentsOffset": "0,0",
+    "sequenceBar": "bar_dragon",
+    "Streak1Colour": {
+        "r": "169",
+        "g": "227",
+        "b": "103"
+    },
+    "Streak2Colour": {
+        "r": "230",
+        "g": "255",
+        "b": "153"
+    },
+    "probability": "20.0",
+    "SequenceFirstFront": "true",
+    "duration": "0.0",
+    "BOOST": "0.0",
+    "GRAVITY": "5.7",
+    "FRICTION": "13.0",
+    "STREAK": "DRAGON_STREAK",
+    "START_VELOCITY": "300.0",
+    "MAX_VELOCITY": "750.0",
+    "VELOCITY_INCREASE": "0.15",
+    "GoldParticle": "GoldSparkle_DragonHead",
+    "GoldParticleOffset": "-3,6",
+    "skins": {
+        "skin": [
+            {
+                "name": "VEHICLE_SKIN_MR_CUDDLES",
+                "script": "",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.0",
+                    "track": "Music_MrCuddles"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.0"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_MR_CUDDLES_RED",
+                "script": "multiplayerRed",
+                "textures": "textures/Characters/Vehicles/dragon/multiplayerRed/dragonTail_0.tex, textures/Characters/Vehicles/dragon/multiplayerRed/dragonTail_1.tex",
+                "max_segments" : "15",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.0",
+                    "track": "Music_MrCuddles"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.0"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_MR_CUDDLES_GREEN",
+                "script": "multiplayerGreen",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.0",
+                    "track": "Music_MrCuddles"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.0"
+                }
+            },
+            {
+                "name": "VEHICLE_GOLD_DRAGON",
+                "script": "Gold",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.0",
+                    "track": "Music_MrCuddles"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.0"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_NIMBUS",
+                "script": "Nimbus"
+            },
+            {
+
+                "name": "VEHICLE_SKIN_BONEDRAGON",
+                "script": "BoneDragon",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.0",
+                    "track": "Music_Halloween"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_CNY_DRAGON",
+                "script": "CnyDragon",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.5",
+                    "track": "Music_DragonCNY"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_COLOSSATRON",
+                "script": "Colossatron",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.5",
+                    "track": "Music_Colossatron"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_NIMBUS",
+                "script": "Nimbus"
+            },
+            {
+                "name": "VEHICLE_SKIN_ICE_DRAGON",
+                "script": "IceDragon",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.0",
+                    "track": "Music_IceDragon"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.5",
+                    "fadein": "1.5"
+                },
+                "skinName": "IceDragon",
+                "textures": "textures/Characters/Vehicles/dragon/CelticRuneDragon/CelticRuneDragonSprites/dragonBody.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/CelticRuneDragonSprites/dragonBody2.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/CelticRuneDragonSprites/dragonBodySaddle.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/dragonBody.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/dragonBody2.tex",
+                "secondary": "dragonBody",
+                "renderPosOverlap": "20",
+                "componentCompleteSfx": "ice_dragon_form_1, ice_dragon_form_2, ice_dragon_form_3, ice_dragon_form_4",
+                "constructionCompleteSfx": "ice_dragon_form_complete",
+                "dragonLandHardSfx": "ice_dragon_land_hard",
+                "dragonExplodeDebrisSfx": "ice_dragon_explode_debris",
+                "dragonCrashParticles": "icedragon_crash",
+                "drawingOffsets_headPos": "20.0, 15.0",
+                "drawingOffsets_eyePos": "0.0, -10.0",
+                "drawingOffsets_hornPos": "-10, 15",
+                "drawingOffsets_jawPos": "5.0, -25.0",
+                "drawingOffsets_rubblePos": "20.0, -30.0",
+                "drawingOffsets_dustPos": "0.0, -20.0",
+                "drawingOffsets_speedPos": "5.0, -4.0",
+                "drawingOffsets_nosePos": "30.0, -5.0",
+                "enableNoseFlame": "false"
+            },
+            {
+                "name": "VEHICLE_SKIN_MS_DRAGON",
+                "script": "MSDragon"
+            },
+            {
+                "name": "VEHICLE_SKIN_ST_DRAGON",
+                "script": "StarTrekDragon"
+            },
+            {
+                "name": "VEHICLE_SKIN_GB_DRAGON",
+                "script": "GBDragon"
+            },
+            {
+
+                "name": "VEHICLE_SKIN_DISCO_DRAGON",
+                "script": "DiscoDragon",
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.0",
+                    "track": "Music_CuddlesAnniversary"
+                },
+                "stop_music": {
+                    "location": "vehicle_destroy",
+                    "delay": "0.0"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_CELTIC_RUNE_DRAGON",
+                "script": "CelticRuneDragon",
+                "continue_with": {
+                    "track": "default",
+                    "delay": "0.5",
+                    "fadein": "0.5",
+                    "set_level_song": "true"
+                },
+                "skinName": "CelticRuneDragon",
+                "textures": "textures/Characters/Vehicles/dragon/CelticRuneDragon/CelticRuneDragonSprites/dragonBody.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/CelticRuneDragonSprites/dragonBody2.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/CelticRuneDragonSprites/dragonBodySaddle.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/dragonBody.tex,       textures/Characters/Vehicles/dragon/CelticRuneDragon/dragonBody2.tex",
+                "secondary": "dragonBody, dragonbody2",
+                "renderPosOverlap": "20",
+                "componentCompleteSfx": "dragon_celtic_rune_form_1, dragon_celtic_rune_form_2, dragon_celtic_rune_form_3",
+                "constructionCompleteSfx": "dragon_celtic_rune_form_complete",
+                "dragonLandHardSfx": "dragon_celtic_rune_land_hard",
+                "dragonExplodeDebrisSfx": "dragon_celtic_rune_explode",
+                "dragonFlyLp": "dragon_celtic_rune_fly_lp",
+                "dragonGrindLp": "dragon_celtic_rune_grind_lp",
+                "dragonGrindStop": "dragon_celtic_rune_grind_stop",
+                "dragonCrashParticles": "Colossatron_crash",
+                "drawingOffsets_headPos": "20.0, 5.0",
+                "drawingOffsets_eyePos": "0.0, -10.0",
+                "drawingOffsets_hornPos": "-10, 15",
+                "drawingOffsets_jawPos": "5.0, -11.0",
+                "drawingOffsets_rubblePos": "20.0, -30.0",
+                "drawingOffsets_dustPos": "0.0, -20.0",
+                "drawingOffsets_speedPos": "5.0, -4.0",
+                "drawingOffsets_nosePos": "30.0, -5.0",
+                "enableNoseFlame": "false"
+            },
+            {
+                "name": "VEHICLE_GOLD_COLOSSATRON",
+                "script": "GoldColossatron",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_Colossatron"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                },
+                "skinName": "GoldColossatron",
+                "textures": "textures/Characters/Vehicles/dragon/GoldColossatron/dragonBodySaddle.tex,textures/Characters/Vehicles/dragon/GoldColossatron/dragonBody.tex",
+                "secondaryLayer": "11",                
+                "secondary": "dragonBody",
+                "renderPosOverlap": "40",
+                "componentCompleteSfx": "colossatron_form_1, colossatron_form_2, colossatron_form_3",
+                "constructionCompleteSfx": "colossatron_form_complete",
+                "dragonExplodeDebrisSfx": "cuddles_explode",
+                "dragonLandHardSfx": "mech_land",                
+                "dragonGrindLp": "colossatron_grind_lp",
+                "dragonGrindStop": "colossatron_grind_stop",
+                "dragonCrashParticles": "Colossatron_crash",
+                "dragonSpeedParticles": "Colossatron_speed",
+                "dragonDustParticles": "colossatron_dust_cloud",
+                "drawingOffsets_playerOffset": "0.0, -20.0",
+                "drawingOffsets_flashOffset": "0.0, 20.0",
+                "drawingOffsets_headPos": "36.0, 5.0",
+                "drawingOffsets_jawPos": "10.0, -15.0",
+                "drawingOffsets_rubblePos": "35.0, -30.0",
+                "drawingOffsets_dustPos": "0.0, -20.0",
+                "drawingOffsets_speedPos": "5.0, -4.0",
+                "enableNoseFlame": "false",
+                "enableGoldParticles": "true"
+            },
+            {
+                "name": "VEHICLE_SKIN_CHRISTMAS_DRAGON",
+                "script": "ChristmasDragon",
+                "skinName": "ChristmasDragon",
+                "textures": "textures/Characters/Vehicles/dragon/ChristmasDragon/ChristmasDragonSprites/dragonBody.tex,       textures/Characters/Vehicles/dragon/ChristmasDragon/ChristmasDragonSprites/dragonBody1.tex,       textures/Characters/Vehicles/dragon/ChristmasDragon/ChristmasDragonSprites/dragonBodySaddle.tex,       textures/Characters/Vehicles/dragon/ChristmasDragon/dragonBody.tex,       textures/Characters/Vehicles/dragon/ChristmasDragon/dragonBody1.tex",
+                "secondaryLayer": "11",
+                "secondary": "dragonBody, dragonbody1",
+                "renderPosOverlap": "20",
+                "componentCompleteSfx": "vehicle_form_1, vehicle_form_2, vehicle_form_3",
+                "constructionCompleteSfx": "vehicle_form_complete",
+                "dragonExplodeDebrisSfx": "cuddles_explode",
+                "drawingOffsets_playerOffset": "0.0, -20.0",
+                "drawingOffsets_flashOffset": "0.0, 20.0",
+                "drawingOffsets_headPos": "20.0, 5.0",
+                "drawingOffsets_eyePos": "0.0, -10.0",
+                "drawingOffsets_hornPos": "-10, 15",
+                "drawingOffsets_jawPos": "5.0, -11.0",
+                "enableNoseFlame": "false"
+            },
+        {
+                "name": "VEHICLE_SKIN_PINK_BUNNY_DRAGON",
+                "script": "PinkBunnyDragon",
+                "skinName": "PinkBunnyDragon",
+                "textures": "textures/Characters/Vehicles/dragon/PinkBunnyDragon/dragonBody.tex, textures/Characters/Vehicles/dragon/PinkBunnyDragon/dragonBodySaddle.tex",
+                "secondaryLayer": "9",
+                "secondary": "dragonBody",
+                "renderPosOverlap": "20",
+                "componentCompleteSfx": "pink_bunny_dragon_form_1, pink_bunny_dragon_form_2, pink_bunny_dragon_form_3",
+                "constructionCompleteSfx": "pink_bunny_dragon_form_complete",
+                "dragonExplodeDebrisSfx": "pink_bunny_dragon_explode",
+                "dragonGrindLp": "pink_bunny_dragon_grind_lp",
+                "dragonGrindStop": "pink_bunny_dragon_grind_stop",
+                "dragonLandHardSfx": "pink_bunny_dragon_land",
+                "drawingOffsets_playerOffset": "0.0, -20.0",
+                "drawingOffsets_flashOffset": "0.0, 20.0",
+                "drawingOffsets_headPos": "15.0, 15.0",
+                "drawingOffsets_eyePos": "0.0, -10.0",
+                "drawingOffsets_hornPos": "-5, 15",
+                "drawingOffsets_jawPos": "11.0, -20.0",
+                "drawingOffsets_fireBreathPos": "-18.0, -10.0",
+                "enableNoseFlame": "false"
+            },
+            {
+                "name": "VEHICLE_SKIN_BROOMSTICK_DRAGON",
+                "script": "BroomStick",
+                "skinName": "BroomStick",
+                "textures": "textures/Characters/Vehicles/dragon/BroomStick/BroomStick.tex",
+                "primary": "BroomStick",
+                "secondaryLayer": "9",
+                "secondary": "",
+                "renderPosOverlap": "20",
+                "numConstructionComponents": "3",
+                "maxComponents": "1",
+                "maxExplosions": "1",
+                "componentCompleteSfx": "broomstick_form_1, broomstick_form_2, broomstick_form_3",
+                "constructionCompleteSfx": "broomstick_form_complete",
+                "dragonExplodeDebrisSfx": "broomstick_explode",
+                "dragonGrindLp": "broomstick_grind_lp",
+                "dragonGrindStop": "broomstick_grind_stop",
+                "dragonLandHardSfx": "broomstick_land",
+                "dragonFireStopSfx": "broomstick_stop",
+                "dragonFlyLp": "broomstick_fly_lp",
+                "dragonFlyLpFadeOut": "3.0",
+                "dragonCrashParticles": "Broomstick_Crash",
+                "dragonSpeedParticles": "BoneDragon_speed",
+                "dragonDustParticles": "colossatron_dust_cloud",
+                "collisionOffset": "0.0, -10.0",
+                "drawingOffsets_playerOffset": "0.0, -10.0",
+                "drawingOffsets_flashOffset": "0.0, 10.0",
+                "drawingOffsets_headPos": "15.0, 15.0",
+                "drawingOffsets_eyePos": "0.0, -10.0",
+                "drawingOffsets_hornPos": "-5, 15",
+                "drawingOffsets_jawPos": "11.0, -20.0",
+                "drawingOffsets_fireBreathPos": "-18.0, -10.0",
+                "drawingOffsets_rubblePos": "20.0, -30.0",
+                "drawingOffsets_dustPos": "0.0, -20.0",
+                "drawingOffsets_speedPos": "-20.0, -4.0",
+                "enableNoseFlame": "false",
+                "breatheFire": "false",
+                "overloadShadow": "true"
+            },
+            {
+                "name": "VEHICLE_SKIN_ZOMBIE_DRAGON",
+                "script": "ZombieDragon",
+                "skinName": "ZombieDragon",
+                "textures": "textures/Characters/Vehicles/dragon/ZombieDragon/dragonBody.tex, textures/Characters/Vehicles/dragon/ZombieDragon/dragonBody2.tex, textures/Characters/Vehicles/dragon/ZombieDragon/dragonBodySaddle.tex",              
+                "secondaryLayer": "9",
+                "secondary": "dragonBody, dragonbody2",
+                "renderPosOverlap": "20",
+                "componentCompleteSfx": "zombie_dragon_form_1,zombie_dragon_form_2,zombie_dragon_form_3",
+                "constructionCompleteSfx": "zombie_dragon_form_complete",
+                "dragonExplodeDebrisSfx": "zombie_dragon_explode",
+                "dragonGrindLp": "zombie_dragon_grind_lp",
+                "dragonGrindStop": "zombie_dragon_grind_stop",
+                "dragonLandHardSfx": "zombie_dragon_land",
+                "drawingOffsets_playerOffset": "0.0, -20.0",
+                "drawingOffsets_flashOffset": "0.0, 20.0",
+                "drawingOffsets_headPos": "20.0, 0.0",
+                "drawingOffsets_jawPos": "11.0, -3.0",
+                "drawingOffsets_fireBreathPos": "-18.0, -10.0",
+                "enableNoseFlame": "false"
+            },
+            {
+                "name": "VEHICLE_SKIN_TOY_TRAIN_DRAGON",
+                "script": "ToyTrainDragon",
+                "skinName": "ToyTrainDragon",
+                "textures": "textures/Characters/Vehicles/dragon/ToyTrainDragon/dragonBody.tex, textures/Characters/Vehicles/dragon/ToyTrainDragon/dragonBody2.tex, textures/Characters/Vehicles/dragon/ToyTrainDragon/dragonBodySaddle.tex, textures/Characters/Vehicles/dragon/ToyTrainDragon/dragonHead.tex",
+                "secondaryLayer": "11",
+                "secondary": "dragonBody, dragonbody2",
+                "renderPosOverlap": "40",
+                "componentCompleteSfx": "vehicle_form_1, vehicle_form_2, vehicle_form_3",
+                "constructionCompleteSfx": "dragon_toytrain_form_complete",
+                "dragonExplodeDebrisSfx": "dragon_toytrain_explode",
+                "dragonGrindLp": "dragon_toytrain_grind_lp",
+                "dragonGrindStop": "dragon_toytrain_grind_stop",
+                "dragonLandHardSfx": "pink_bunny_dragon_land",
+				"dragonFlyLp": "dragon_toytrain_fly_lp",
+                "dragonFlyLpFadeOut": "3.0",
+                "dragonFireStopSfx": "dragon_toytrain_dive_stop",
+                "dragonDiveSfx": "dragon_toytrain_vehicle_dive_1, dragon_toytrain_vehicle_dive_2, dragon_toytrain_vehicle_dive_3, dragon_toytrain_vehicle_dive_3",
+                "dragonDiveSfxFadeOut": "1.5",
+                "dragonCrashParticles": "ToyTrain_Smoke",
+                "dragonDiveEffectParticles": "ToyTrain_Smoke",
+                "drawingOffsets_playerOffset": "0.0, -20.0",
+                "drawingOffsets_flashOffset": "0.0, 20.0",
+                "drawingOffsets_headPos": "36.0, 5.0",
+                "drawingOffsets_eyePos": "0.0, -10.0",
+                "drawingOffsets_hornPos": "-5, 15",
+                "drawingOffsets_fireBreathPos": "-18.0, -10.0",
+                "enableNoseFlame": "false",
+                "hasHeadAnim": "true",
+                "jawSpeed": "0.0",
+                "breatheFire": "false",
+                "collisionOffset": "-50.0, 15.0"
+            },
+            {
+                "name": "VEHICLE_SKIN_CNY_SNAKE",
+                "script": "CnySnake",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                },
+                "skinName": "CnySnake",
+                "textures": "textures/Characters/Vehicles/dragon/CnySnake/dragonBodySaddle.tex,textures/Characters/Vehicles/dragon/CnySnake/dragonBody.tex",
+                "secondaryLayer": "9",
+                "secondary": "dragonBody",
+                "renderPosOverlap": "20",
+                "componentCompleteSfx": "colossatron_form_1, colossatron_form_2, colossatron_form_3",
+                "constructionCompleteSfx": "dragon_cny_form_complete",
+                "dragonExplodeDebrisSfx": "dragon_cny_explode",
+                "dragonLandHardSfx": "mech_land",
+                "dragonFlyLp": "dragon_cny_fly_lp",
+                "dragonFlyLpFadeOut": "3.0",
+                "dragonGrindLp": "colossatron_grind_lp",
+                "dragonDiveSfx": "dragon_cny_vehicle_dive_01, dragon_cny_vehicle_dive_02, dragon_cny_vehicle_dive_03",
+                "dragonGrindStop": "colossatron_grind_stop",
+                "dragonCrashParticles": "Colossatron_crash",
+                "dragonSpeedParticles": "BoneDragon_speed",
+                "dragonDustParticles": "colossatron_dust_cloud",
+                "dragonDiveEffectParticles": "SnakePetals",
+                "drawingOffsets_playerOffset": "0.0, -20.0",
+                "drawingOffsets_flashOffset": "0.0, 20.0",
+                "drawingOffsets_headPos": "19.0, 0",
+                "drawingOffsets_jawPos": "10.0, -5.0",
+                "drawingOffsets_rubblePos": "25.0, -16.0",
+                "drawingOffsets_dustPos": "0.0, -8.0",
+                "drawingOffsets_speedPos": "5.0, -4.0",
+                "drawingOffsets_nosePos": "130.0, -5.0",
+                "enableNoseFlame": "false",
+                "breatheFire": "false"
+            }
+        ]
+    }
+}

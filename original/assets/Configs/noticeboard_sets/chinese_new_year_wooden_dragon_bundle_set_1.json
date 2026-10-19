@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_wooden_dragon_bird",
+        "chinese_new_year_wooden_dragon_bundle_timer_running"
+      ],
+      "board": "special_offer_chinese_new_year_wooden_dragon_bundle"
+    }
+  ]
+}

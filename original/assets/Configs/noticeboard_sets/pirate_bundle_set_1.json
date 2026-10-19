@@ -1,0 +1,29 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_jetski",
+				"not_purchased_pirate_jetski",
+				"pirate_jetski_bundle_timer_running"
+			],
+			"board": "special_offer_pirate_jetski_bundle"
+		},
+		{
+			"mediation": [
+				"not_purchased_jetski",
+				"not_purchased_pirate_jetski",
+				"pirate_jetski_bundle_discount_timer_running"
+			],
+			"board": "special_offer_pirate_jetski_bundle_sale"
+		},		
+		{
+			"mediation": [
+				"purchased_jetski",
+				"not_purchased_pirate_jetski",
+				"pirate_bundle_timer_running"
+			],
+			"board": "special_offer_pirate_bundle"
+		}
+	]
+}

@@ -1,0 +1,189 @@
+{
+    "EventDisplayName": "CHRISTMAS_EVENT_RULES_TITLE",
+    "Filepath": "Events/Christmas",
+    "Iconpath": "Events/Christmas/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/Christmas/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/Christmas/Textures/Menus/eventPopUp/backing.tex",
+    "BannerTexturePath": "Events/Christmas/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_CHRISTMAS_GAMES_PLAYED",
+    "currencyType": "ChristmasBaubles",
+    "info_text_1": "EVENT_RULES_TEXT_1",
+    "info_text_2": "CHRISTMAS_EVENT_RULES_1",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 50
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 50
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "christmas",
+        "noticeboardSchedule": "christmas_schedule",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "christmas_2021"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "christmas_2021",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "christmas_2025",
+        "analytics_event_name": "christmas",
+        "analytics_display_souls_collected": true,
+        "leaderboard": "BEST_CHRISTMAS",
+        "trigger_name": "christmas",
+        "reload_sam": true,
+        "reload_worker": true,
+        "sam_music": "Music_SAMta",
+        "sam_music_starting_point": 0,
+        "sam_reset_popup_message": "SAM_BONUS_RUN_UPSELL_CHRISTMAS",
+        "skin_sleigh_of_awesome": "VEHICLE_SKIN_GINGER_BREAD_SLEIGH",
+        "skin_lil_stomper": "VEHICLE_SKIN_YETI_MECH",
+	    "skin_mr_cuddles": "VEHICLE_SKIN_TOY_TRAIN_DRAGON",
+        "skin_bad_ass_hog": "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG",
+        "force_vehicles":
+        [
+            "Sled",
+            "Mech",
+            "Dragon",
+            "Hog",
+            "IceSkates"
+        ],
+        "level_object_tags":
+        [
+            "christmas"
+        ],
+        "enable_eventTokens": true,
+        "eventToken_value": 0,
+        "eventToken_splashParticleEffect": "Green_EventToken_Splash",
+        "eventToken_spawnRateMin": 7.5,
+        "eventToken_spawnRateMax": 3,
+        "eventToken_spawnRateLength": 75,
+        "eventToken_curveC0":
+        [
+            0.55,
+            0.55
+        ],
+        "eventToken_curveC1":
+        [
+            0.32,
+            0.1
+        ],
+        "eventToken_sprite": "textures/Entities/christmasToken.xml",
+        "eventToken_collectedSprite": "textures/Entities/christmasTokenCollected.xml",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+        "missileTexture": "snowball.tex",
+        "missileEffectTexture": "snowballEffects.tex",
+        "missileTrail": "Snowball_Missile_Trail",
+        "missileExplosion": "snowballMissileExplosion.tex",
+        "missileSFXLaunch": "event_missile_launch",
+        "missileSFXExplode":
+        [
+            "rocket_explode_1"
+        ],
+        "missileSFXWarning": "missile_warning",
+        "force_ice_cube_on_missile_death": true,
+        "brickui_textures":
+        [
+            "textures/logo/logo_barry.tex",
+            "textures/levels/Title/Objects/title_small.tex",
+            "textures/levels/Title/Objects/titleGlow_small.tex",
+            "textures/menus/results/leaderboardLogo.tex",
+            "Textures/Menus/Results/currencyToken.tex",
+            "textures/menus/results/currencyToken.tex",
+            "Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/Christmas/Textures/Menus/eventPopUp/currencyToken.tex",
+            "events/christmas/textures/menus/eventpopup/currencytoken.tex",
+            "Events/Christmas/Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "events/christmas/textures/menus/eventpopup/currencytoken_64.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex",
+            "Events/Christmas/Textures/Menus/consumables/notificationSAM.tex",
+            "events/christmas/textures/menus/consumables/notificationsam.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex",
+            "Events/Christmas/Textures/Menus/consumables/notificationSAM.tex",
+            "events/christmas/textures/menus/consumables/notificationsam.tex"
+        ],
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+            "MISSILE_PACKAGE",
+            "SAM_PACKAGE"
+        ],
+        "dailyEventMissions": true
+    },
+    "Features":
+    [
+        "show_christmas_theme"
+    ],
+    "RandomSkinOverrides":
+    [
+        [
+            [
+                "JETPACK_CHRISTMAS_TREE"
+            ],
+            [
+                "JETPACK_SNOWGLOBE"
+            ],
+            [
+                "JETPACK_CHRISTMASBELL"
+            ],
+            [
+                "JETPACK_CUSTOM_SANTA_BAG"
+            ],
+            [
+                "JETPACK_CUSTOM_CHRISTMAS_LIGHTS"
+            ],
+            [
+                "JETPACK_CUSTOM_GARLAND"
+            ],
+            [
+                "JETPACK_CUSTOM_FIREPLACE"
+            ]
+        ],
+        [
+            [
+                "SANTA_HEAD",
+                "SANTA_BODY"
+            ],
+            [
+                "ELF_HEAD",
+                "ELF_BODY"
+            ],
+            [
+                "FROSTY_HEAD",
+                "FROSTY_BODY"
+            ],
+            [
+                "REINDEER_HEAD",
+                "REINDEER_BODY"
+            ],
+            [
+                "NUT_CRACKER_HEAD",
+                "NUT_CRACKER_BODY"
+            ],
+            [
+                "CHRISTMAS_LADY_SANTA_HEAD",
+                "CHRISTMAS_LADY_SANTA_BODY"
+            ],
+            [
+                "UGLY_SWEATER_HEAD",
+                "UGLY_SWEATER_BODY"
+            ]
+        ]
+    ],
+    "purchased_items_weight": 3.0,
+    "title_screen_settings": "christmas"
+}

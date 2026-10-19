@@ -1,0 +1,13 @@
+{
+	"cost": 450,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_DOCBROWN_HEAD_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/DocBarryHeadCostume.tex",
+	"rewards_locked_texture": "textures/menus/shop/itemicons/headDocBrown.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headDocBrown.tex",
+	"frame_texture": "textures/menus/shared/frameMetallic.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"doc_head"
+	]
+}

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "172517846766",
+    "firebase_url": "https://jetpack-joyride-classic-default-rtdb.firebaseio.com",
+    "project_id": "jetpack-joyride-classic",
+    "storage_bucket": "jetpack-joyride-classic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172517846766:android:63c43087b7044c04634dff",
+        "android_client_info": {
+          "package_name": "com.halfbrick.jetpack.classic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172517846766-bcq6llepnn5f6onvgqrs3fp4c2fg2an7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halfbrick.jetpack.classic",
+            "certificate_hash": "49601eab6acce14c4018bc3fc051e8b598f32b12"
+          }
+        },
+        {
+          "client_id": "172517846766-rb0eaki067jg1um5ud3loespnttbqc1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halfbrick.jetpack.classic",
+            "certificate_hash": "2910eb09d5859bf0d0bc28cfcc6739299dc1667c"
+          }
+        },
+        {
+          "client_id": "172517846766-dcf6tii0scidi99giebetcnl6lbp8tie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnU56OsXXc6jCczIIXf0Haz6rsFqIUkfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172517846766-dcf6tii0scidi99giebetcnl6lbp8tie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

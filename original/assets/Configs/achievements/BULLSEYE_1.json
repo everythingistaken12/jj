@@ -1,0 +1,22 @@
+{
+    "name": "ACHIEVEMENT_23",
+    "description": "ACHIEVEMENT_DESC_23",
+    "type": "DISTANCE_EXACT",
+    "texture": "bullsEye",
+    "points": 30,
+    "max_progress": 200,
+    "provider_ids": {
+        "amazon": "1082832",
+        "game_center": 
+        {
+            "default": "1082832",
+            "AppleArcade": "bullseye_aa",
+            "HalfbrickPlus": "bullseye_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQFg"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Savage_Bundle",
+    "screen": "NoticeboardSavageBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "AOZ_SAVAGE_BUNDLE"
+}

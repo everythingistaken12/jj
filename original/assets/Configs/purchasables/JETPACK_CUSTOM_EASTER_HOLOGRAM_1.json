@@ -1,0 +1,26 @@
+{
+  "reference_id": "JETPACK_CUSTOM_EASTER_HOLOGRAM",
+  "tags": [
+    "Jetpack"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_JETPACK_CUSTOM_EASTER_HOLOGRAM_NAME",
+    "description": "ITEM_JETPACK_CUSTOM_EASTER_HOLOGRAM_DESC",
+    "equipable": true,
+    "icon": "JetpackEasterHologram",
+    "isNew": true,
+    "hidden": true
+  },
+  "payment_methods": {},
+  "skus": [
+    "halfbrick_plus", 
+    "apple_arcade",
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

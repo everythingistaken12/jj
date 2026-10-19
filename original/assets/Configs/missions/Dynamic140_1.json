@@ -1,0 +1,26 @@
+{
+    "name": "Smash a hole in the wall 5 times.",
+    "requirement": "Start 5 games",
+    "retired": false,
+    "meta_data": {
+        "groupId": "27",
+        "difficulty": 1,
+        "icon": "Oddball",
+        "description": "MISSION_HOLE",
+        "hash": "START_FROM_MENU",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "Tag4": "META",
+        "probability": "150"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "start",
+                "o": "game",
+                "s": "t",
+                "c": 5
+            }
+        ]
+    }
+}

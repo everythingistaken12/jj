@@ -1,0 +1,23 @@
+{
+    "name": "Collect the mech 3 times",
+    "requirement": "Collect Mech 3 times",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "vehicle",
+        "description": "MISSION_VEHICLE_1",
+        "hash": "VEHICLE_COLLECT",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "s": "t",
+                "i": 3,
+                "c": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Cover 500m on foot",
+    "requirement": "Travel 500m while touching floor while on foot",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "oddball",
+        "hash": "RUN_DISTANCE_TOTAL"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 500
+            },
+            {
+                "a": "touch",
+                "o": "floor",
+                "p": true,
+                "d": "end touch"
+            },
+            {
+                "a": "on",
+                "o": "foot",
+                "p": true,
+                "d": "off"
+            }
+        ]
+    }
+}

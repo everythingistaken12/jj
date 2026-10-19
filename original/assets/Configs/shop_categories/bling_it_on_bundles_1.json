@@ -1,0 +1,16 @@
+{
+    "title": "BLING_EVENT_RULES_TITLE",
+    "icon": "textures\\menus\\shop\\iconBlingItOn.tex",
+    "rowsLimit": 99,
+    "_": "if 'template' is omitted then its value is 'category'",
+    "header_template": "header",
+    "template": "category",
+    "filler_template_1x1": "templateEmpty_1x1",
+    "filler_template_2x1": "templateEmpty_2x1",
+    "offers":
+    [
+    "cross_promo_bling_it_on",
+    "bling_it_on_bundle",
+    "gold_barry_bundle"
+    ]
+}

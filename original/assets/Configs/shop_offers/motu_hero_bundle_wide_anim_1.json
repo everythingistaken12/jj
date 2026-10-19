@@ -1,0 +1,10 @@
+{
+    "specialBundle": "motu_hero_bundle",
+    "template": "template_2x1_anim",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [1.0, 0.6, 0.1, 1.0],
+    "itemImages": "specialBundleMotuHeroBundleImages_preview",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

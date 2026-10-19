@@ -1,0 +1,11 @@
+{
+	"cost": 350,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_JETPACK_SLIME_BLOWER_NAME",
+	"rewards_texture": "textures/menus/bricknetupsell/GhostbustersEvent/Ghostbusters/GBJetpackSlimeBlower.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackSlimeBlower.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"jetpack_slimeblower"
+	]
+}

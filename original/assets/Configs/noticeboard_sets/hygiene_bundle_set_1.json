@@ -1,0 +1,19 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_supply_bird",
+        "hygiene_bundle_timer_running"
+      ],
+      "board": "special_offer_hygiene_bundle"
+    },
+    {
+      "mediation": [
+        "not_purchased_supply_bird",
+        "hygiene_bundle_discount_timer_running"
+      ],
+      "board": "special_offer_hygiene_bundle"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_gb_proton_jetpack",
+        "not_purchased_gb_slimer_jetpack",
+        "not_purchased_gb_slimeblower_jetpack",
+        "not_purchased_gb_filing_cabinet_jetpack"
+      ],
+      "board": "special_offer_gb_jetpack_bundle"
+    }
+  ]
+}

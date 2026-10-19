@@ -1,0 +1,32 @@
+{
+    "reference_id": "VEHICLE_SKIN_ST_SAM",
+    "tags": [
+        "Sam",
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ST_SAM_NAME",
+        "description": "VEHICLE_SKIN_ST_SAM_DESC",
+        "equipable": true,
+        "icon": "vehicleSamStarTrek",
+        "hideUntil": "VEHICLE_SKIN_ST_SAM",
+        "isSkin": true,
+        "vehicleType": "Sam",
+        "isNew": true,
+        "defaultSkin": false,
+        "samAtlas": "Events/StarTrek/Textures",
+        "samMusic": "Events/StarTrek/Music_SAMStarTrek",
+        "samNotificationTex": "Events/StarTrek/Textures/Menus/consumables/notificationSAM.tex"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

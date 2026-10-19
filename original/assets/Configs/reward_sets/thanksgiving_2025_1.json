@@ -1,0 +1,20 @@
+{
+	"currency": "thanksgiving_token",
+	"currency_texture": "textures/menus/eventPopUp/currencyToken_64.tex",
+	"tiers": [
+		"thanksgiving/tier_1",
+		"thanksgiving/tier_2",
+		"thanksgiving/tier_3",
+		"thanksgiving/tier_4",
+		"thanksgiving/tier_5",
+		"thanksgiving/tier_6",
+		"thanksgiving/tier_7",
+		"thanksgiving/tier_8",
+		"thanksgiving/tier_9",
+		"thanksgiving/tier_10",
+		"thanksgiving/tier_11",
+		"thanksgiving/tier_12",
+		"thanksgiving/tier_13",
+		"thanksgiving/tier_14"
+	]
+}

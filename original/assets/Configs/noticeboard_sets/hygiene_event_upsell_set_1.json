@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"hygiene_event_available",
+				"hygiene_event_inactive"
+			],
+			"board": "hygiene_event_upsell"
+		}			
+	]
+}

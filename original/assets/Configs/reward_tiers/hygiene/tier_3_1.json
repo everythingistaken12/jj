@@ -1,0 +1,12 @@
+{
+	"cost": 200,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/eventPopUp/doctorBodyCostume.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyDoctor.tex",
+	"display_description": "ITEM_DOCTOR_SMOCKS_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"doctor_body"
+	],
+	"random_rewards": []
+}

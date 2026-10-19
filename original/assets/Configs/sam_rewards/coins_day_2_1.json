@@ -1,0 +1,17 @@
+{
+  "name": "coins",
+  "quantity": 6000,
+  "icon": "textures/menus/shop/ItemIcons/coinsItem0.tex",
+  "text": [
+    "DC_REWARD_COINS_1",
+    "DC_REWARD_COINS_2",
+    "DC_REWARD_COINS_3",
+    "DC_REWARD_COINS_4",
+    "DC_REWARD_COINS_5"
+  ],
+  "tweet": [
+    "SAM_CHALLENGE_SOCIAL_1",
+    "SAM_CHALLENGE_SOCIAL_2",
+    "SAM_CHALLENGE_SOCIAL_COINS"
+  ]
+}

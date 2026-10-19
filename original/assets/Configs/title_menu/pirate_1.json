@@ -1,0 +1,16 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/piratesBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/treasurePile.xml",
+            "offset_x": -75,
+            "offset_y": -96
+        }  
+    ]
+}

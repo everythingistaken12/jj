@@ -1,0 +1,16 @@
+{
+	"currency": "ghostbusters_token",
+	"currency_texture": "events/ghostbusters/textures/menus/eventpopup/currencytoken_64.tex",
+	"tiers": [
+		"ghostbusters/tier_1",
+		"ghostbusters/tier_2",
+		"ghostbusters/tier_3",
+		"ghostbusters/tier_4",
+		"ghostbusters/tier_5",
+		"ghostbusters/tier_6",
+		"ghostbusters/tier_7",
+		"ghostbusters/tier_8",
+		"ghostbusters/tier_9",
+		"ghostbusters/tier_10"
+	]
+}

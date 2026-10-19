@@ -1,0 +1,8 @@
+{
+    "storeId": "VEHICLE_UNCLE_SAM",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.35, 0.5, 0.85, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/4thOfJulyPack/notificationSAM.tex"    
+}

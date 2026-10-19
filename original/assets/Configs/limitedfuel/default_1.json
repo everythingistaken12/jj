@@ -1,0 +1,14 @@
+{
+	"capacity": 100.0,
+	"consumption": 25.0,
+	"refill": 50.0,
+	"cooldown": 1.5,
+
+	"pickup_restores": 100.0,
+	"pickup_exceeds_max": true,
+	"pickup_curve_v0": [0.55, 0.55],
+	"pickup_curve_v1": [0.32, 0.1],
+	"pickup_curve_rate_min": 7.5,
+	"pickup_curve_rate_max": 1.0,
+	"pickup_curve_rate_length": 100.0
+}

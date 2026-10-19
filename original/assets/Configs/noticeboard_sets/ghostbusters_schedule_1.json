@@ -1,0 +1,33 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "ghostbusters_bundle_set"
+    },
+    {
+      "board": "gb_crossing_the_streams_bundle_set"
+    },
+    {
+      "board": "gb_gate_keeper_bundle_set"
+    },
+    {
+      "board": "gb_key_master_bundle_set"
+    },
+    {
+      "board": "gb_headquarters_bundle_set"
+    },
+    {
+      "board": "ghostbusters_jetpack_bundle_set"
+    },
+    {
+      "board": "ghostbusters_ecto_bundle_set"
+    },
+    {
+      "board": "ghostbusters_sam_bundle_set"
+    },
+    {
+      "board": "ghostbusters_afterlife_bundle_set"
+    } 
+  ]
+}

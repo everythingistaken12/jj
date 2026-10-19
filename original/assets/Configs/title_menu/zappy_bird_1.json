@@ -1,0 +1,67 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/zappyBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/profitBottom.xml",
+            "offset_x": -45,
+            "offset_y": -100
+        },          
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/profitBody.xml",
+            "offset_x": -45,
+            "offset_y": -100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/profitBeak.xml",
+            "offset_x": -45,
+            "offset_y": -100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/profitGlass.xml",
+            "offset_x": 0,
+            "offset_y": -120
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/profitWing.xml",
+            "offset_x": 0,
+            "offset_y": -110
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/money1.xml",
+            "offset_x": 0,
+            "offset_y": -140
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/money1.xml",
+            "offset_x": -50,
+            "offset_y": -135
+        },        
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/money2.xml",
+            "offset_x": -30,
+            "offset_y": -135
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/money2.xml",
+            "offset_x": -85,
+            "offset_y": -140
+        },        
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/money3.xml",
+            "offset_x": -80,
+            "offset_y": -130
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/money3.xml",
+            "offset_x": -60,
+            "offset_y": -135
+        }                
+    ]
+
+}

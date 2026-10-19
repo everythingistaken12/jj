@@ -1,0 +1,26 @@
+{
+	"show": [
+		{
+			"IS_EVENT": [
+				"CutAndRun",
+				true
+			]
+		},
+		"AND",
+		{
+			"AFTER_EVENT_COUNT": [
+				"specialOffer",
+				1,
+				false
+			]
+		},
+		"OR",
+		{
+			"AFTER_EVENT_COUNT": [
+				"specialOffer",
+				3,
+				false
+			]
+		}
+	]
+}

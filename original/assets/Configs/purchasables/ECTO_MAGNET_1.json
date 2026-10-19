@@ -1,0 +1,29 @@
+{
+    "reference_id": "ECTO_MAGNET",
+    "tags": [
+        "Magnet",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_MAGNET_ECTO_NAME",
+        "description": "VEHICLE_MAGNET_ECTO_DESC",
+        "unequipable": true,
+        "icon": "vehicleEctoMagnet",
+        "hideUntil": "VEHICLE_SKIN_ECTO",
+        "displayLocked": "VEHICLE_SKIN_ECTO",
+        "hidden": true,
+        "vehicleType": "Ecto"
+    },
+    "payment_methods": {
+        "jetpack_store": "ECTO_MAGNET"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

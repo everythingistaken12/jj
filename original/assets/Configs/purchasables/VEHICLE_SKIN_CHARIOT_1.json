@@ -1,0 +1,39 @@
+{
+    "reference_id": "VEHICLE_SKIN_CHARIOT",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Sleigh Of Awesome"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_CHARIOT_NAME",
+        "description": "VEHICLE_SKIN_CHARIOT_DESC",
+        "equipable": true,
+        "icon": "vehicleSledChariot",
+        "isSkin": true,
+        "vehicleType": "Sled",
+        "displayLocked": "VEHICLE_SKIN_SLEIGH",
+        "hideUntil": "VEHICLE_SKIN_SLEIGH",
+        "defaultSkin": false,
+        "isNew": true,
+        "oneTimeCostumeOffer": {
+            "headID": "ZEUS_HEAD",
+            "bodyID": "ZEUS_BODY",
+            "setID": "ZEUS_COSTUME"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_CHARIOT"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

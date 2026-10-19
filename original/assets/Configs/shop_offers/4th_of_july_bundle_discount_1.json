@@ -1,0 +1,9 @@
+{
+    "specialBundle": "4th_of_july_bundle_discount",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.173,	0.396,	0.7, 1.0],
+    "itemImages": "specialBundle4thofJulyImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

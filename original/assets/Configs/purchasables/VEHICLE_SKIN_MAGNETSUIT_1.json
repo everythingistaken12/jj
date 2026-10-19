@@ -1,0 +1,42 @@
+{
+    "reference_id": "VEHICLE_SKIN_MAGNETSUIT",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Gravity Suit"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MAGNETSUIT_NAME",
+        "description": "VEHICLE_SKIN_MAGNETSUIT_DESC",
+        "equipable": true,
+        "icon": "vehicleMagnetSuit",
+        "isSkin": true,
+        "vehicleType": "GravitySuit",
+        "defaultSkin": false,
+        "oneTimeCostumeOffer": {
+            "headID": "ESKIMO_HEAD",
+            "bodyID": "ESKIMO_BODY",
+            "setID": "ESKIMO_COSTUME"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_MAGNETSUIT"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 21
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 21
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "reference_id": "PUNK_CLOTHS",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_PUNKOUTFIT_NAME",
+        "description": "ITEM_PUNKOUTFIT_DESC",
+        "equipable": true,
+        "icon": "bodyPunk",
+        "startWeek": 13
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 5
+    },
+    "payment_methods": {
+        "jetpack_store": "PUNK_CLOTHS"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 6
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 5
+    },
+    "payment_methods": {
+        "jetpack_store": "PUNK_CLOTHS"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 6
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "cost": 400,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/ItemIcons/headWitchBetty.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/headWitchBetty.tex",
+        "display_description": "ITEM_WITCH_BETTY_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "witch_betty_head"
+        ]
+
+}

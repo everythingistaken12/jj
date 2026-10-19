@@ -1,0 +1,19 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_bonedragon",
+				"halloween_bundle_timer_running"
+			],
+			"board": "special_offer_halloween_bundle"
+		},
+		{
+			"mediation": [
+				"not_purchased_bonedragon",
+				"halloween_bundle_discount_timer_running"
+			],
+			"board": "special_offer_halloween_bundle"
+		}		
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "currency": "BlingToken",
+  "currency_texture": "events/blingiton/textures/menus/eventpopup/currencytoken_64.tex",
+  "tiers": [
+    "bling_it_on/tier_1",
+    "bling_it_on/tier_2",
+    "bling_it_on/tier_3",
+    "bling_it_on/tier_4",
+    "bling_it_on/tier_5",
+    "bling_it_on/tier_6",
+    "bling_it_on/tier_7",
+    "bling_it_on/tier_8",
+    "bling_it_on/tier_9",
+    "bling_it_on/tier_10",
+    "bling_it_on/tier_11",
+    "bling_it_on/tier_12",
+    "bling_it_on/tier_13",
+    "bling_it_on/tier_14",
+    "bling_it_on/tier_15",
+    "bling_it_on/tier_16"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "specialBundle": "halloween_mummy_bundle_discount",
+  "template": "template_2x2",
+  "tileWidth": 2,
+  "tileHeight": 2,
+  "backingColor": [
+    0.878, 
+    0.525,
+    0.298,
+    1
+  ],
+  "foregroundIcon": "textures/menus/shop/ItemIcons/costumeHalloweenPharaoh.tex",
+  "infoText": "SHOP_BUTTON_PREVIEW",
+  "unlockedText": "SHOP_BUTTON_BUY_NOW",
+  "itemImages": "specialBundleHalloweenMummyBundleImages"
+}

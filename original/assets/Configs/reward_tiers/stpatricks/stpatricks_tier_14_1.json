@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 1200,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/ItemIcons/jetpackLute.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/jetpackLute.tex",
+        "display_description": "ITEM_JETPACK_CUSTOM_LUTE_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_custom_lute"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 975,
+    	"display_name": "REWARD_UNLOCK",
+    	"rewards_texture": "textures/menus/shop/itemicons/bodyCeltic.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyCeltic.tex",
+    	"display_description": "ITEM_CELTIC_BODY_NAME",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"celtic_body"
+    	]
+    },
+    "#AppleArcade":
+    {
+        "cost": 975,
+    	"display_name": "REWARD_UNLOCK",
+    	"rewards_texture": "textures/menus/shop/itemicons/bodyCeltic.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyCeltic.tex",
+    	"display_description": "ITEM_CELTIC_BODY_NAME",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"celtic_body"
+    	]
+    }
+}

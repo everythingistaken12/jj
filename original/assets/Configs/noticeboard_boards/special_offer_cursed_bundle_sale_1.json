@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Cursed_Bundle_Discount",
+    "screen": "NoticeBoardCursedBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "CURSED_BUNDLE"
+}

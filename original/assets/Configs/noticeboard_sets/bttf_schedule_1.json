@@ -1,0 +1,12 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "bttf_bundle_set"
+    },
+    {
+      "board": "steam_sam_bundle_set"
+    }
+  ]
+}

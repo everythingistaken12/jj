@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "x2_coin_offer_timer_running"
+      ],
+      "board": "special_offer_x2_coin_offer"
+    }
+  ]
+}

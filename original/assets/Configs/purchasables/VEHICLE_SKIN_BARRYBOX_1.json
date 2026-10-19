@@ -1,0 +1,42 @@
+{
+    "reference_id": "VEHICLE_SKIN_BARRYBOX",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Teleporter"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_BARRYBOX_NAME",
+        "description": "VEHICLE_SKIN_BARRYBOX_DESC",
+        "equipable": true,
+        "icon": "vehicleTeleporterBarrybox",
+        "isSkin": true,
+        "vehicleType": "Teleporter",
+        "defaultSkin": false,
+        "oneTimeCostumeOffer": {
+            "headID": "DOCTOR_HEAD",
+            "bodyID": "DOCTOR_BODY",
+            "setID": "THE_DOCTOR_COSTUME"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_BARRYBOX"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 28
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 28
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "reference_id": "UNCLE_STEAKFRIES_BODY",
+    "tags": [
+        "costume",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_UNCLE_STEAKFRIES_BODY_NAME",
+        "description": "ITEM_UNCLE_STEAKFRIES_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyUncleSteakfries",
+        "isNew": true,
+        "hidden": true,
+        "#AppleArcade": { "hidden": false },
+        "#HalfbrickPlus": { "hidden": false }
+    },
+    "payment_methods": {},
+    "#AppleArcade": { "payment_methods": { "jetpack_store": "UNCLE_STEAKFRIES_BODY" }},
+    "#HalfbrickPlus": { "payment_methods": { "jetpack_store": "UNCLE_STEAKFRIES_BODY" }},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

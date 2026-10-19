@@ -1,0 +1,30 @@
+{
+  "reference_id": "CROSS_PROMO_ZAPPY_BIRD",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "CROSS_PROMO_BUNDLE",
+    "description": "todo",
+    "icon": "vehicleBird",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+    ]
+  },
+  "additional_deliverables": {
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.cross_promo_zappy_bird",
+    "google_play_store": "com.halfbrick.jetpack.cross_promo_zappy_bird",
+    "brick_bucks_store": "cross_promo_zappy_bird"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

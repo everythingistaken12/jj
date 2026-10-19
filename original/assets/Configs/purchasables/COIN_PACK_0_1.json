@@ -1,0 +1,48 @@
+{
+    "reference_id": "COIN_PACK_0",
+    "tags": [
+        "coinpack",
+        "premium",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINBOOSTERPACK20000_NAME",
+        "description": "ITEM_COINBOOSTERPACK20000_DESC",
+        "icon": "coins1",
+        "coins": 8000,
+        "nameNoCoins": "ITEM_COINBOOSTERPACK20000_NAME_NONUMBER",
+        "hidden": "true",
+        "force_hidden": "true",
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": 11000
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.quickrevivepack",
+        "google_play_store": "com.halfbrick.jetpack.quickrevivepack",
+        "brick_bucks_store": "coin_pack_0"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

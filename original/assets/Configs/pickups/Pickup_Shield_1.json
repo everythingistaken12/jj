@@ -1,0 +1,109 @@
+{
+    "#default":
+    {
+    "name": "SHIELD_NAME",
+    "description": "SHIELD_DESC",
+    "item_id": "PICKUP_SHIELD",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/shield.tex",
+    "pickup_icon": "textures/entities/pickupShield.xml",
+    "trail_colour_start": "172,206,230,128",
+    "trail_colour_mid": "102,176,255,64",
+    "trail_colour_end": "62,82,130,0",
+    "particle_effect": "Shield_Token_Sparkle",
+    "levels": [
+        {
+            "cost": 7500,
+            "numHits": 1
+        },
+        {
+            "cost": 45000,
+            "numHits": 2
+        },
+        {
+            "cost": 185000,
+            "numHits": 3
+        },
+        {
+            "cost": 625000,
+            "numHits": 4
+        },
+        {
+            "cost": 1200000,
+            "numHits": 5
+        }
+    ]
+},
+    "#AppleArcade":
+    {
+    "name": "SHIELD_NAME",
+    "description": "SHIELD_DESC",
+    "item_id": "PICKUP_SHIELD",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/shield.tex",
+    "pickup_icon": "textures/entities/pickupShield.xml",
+    "trail_colour_start": "172,206,230,128",
+    "trail_colour_mid": "102,176,255,64",
+    "trail_colour_end": "62,82,130,0",
+    "particle_effect": "Shield_Token_Sparkle",
+    "required_mission_level": 20,
+    "levels": [
+        {
+            "cost": 2000,
+            "numHits": 1
+        },
+        {
+            "cost": 4000,
+            "numHits": 2
+        },
+        {
+            "cost": 8750,
+            "numHits": 3
+        },
+        {
+            "cost": 18750,
+            "numHits": 4
+        },
+        {
+            "cost": 21250,
+            "numHits": 5
+        }
+    ]
+ },
+    "#HalfbrickPlus":
+    {
+    "name": "SHIELD_NAME",
+    "description": "SHIELD_DESC",
+    "item_id": "PICKUP_SHIELD",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/shield.tex",
+    "pickup_icon": "textures/entities/pickupShield.xml",
+    "trail_colour_start": "172,206,230,128",
+    "trail_colour_mid": "102,176,255,64",
+    "trail_colour_end": "62,82,130,0",
+    "particle_effect": "Shield_Token_Sparkle",
+    "required_mission_level": 20,
+    "levels": [
+        {
+            "cost": 2000,
+            "numHits": 1
+        },
+        {
+            "cost": 4000,
+            "numHits": 2
+        },
+        {
+            "cost": 8750,
+            "numHits": 3
+        },
+        {
+            "cost": 18750,
+            "numHits": 4
+        },
+        {
+            "cost": 21250,
+            "numHits": 5
+        }
+    ]
+ }
+}

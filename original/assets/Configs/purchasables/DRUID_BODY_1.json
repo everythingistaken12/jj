@@ -1,0 +1,29 @@
+{
+    "reference_id": "DRUID_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "bundle",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_DRUIDBODY_NAME",
+        "description": "ITEM_DRUIDBODY_DESC",
+        "equipable": true,
+        "icon": "bodyDruid",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "DRUID_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

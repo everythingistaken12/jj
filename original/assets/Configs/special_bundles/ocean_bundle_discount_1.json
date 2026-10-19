@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "pirate_2024_ocean_bundle_discount"
+			},			
+			{
+				"statistic": "SPECIAL_BUNDLE_OCEAN_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_SEAHORSE == 0"
+			}				
+		],
+		[
+			{
+				"timerRunning": "pirate_2024_ocean_bundle_discount"
+			},				
+			{
+				"statistic": "SPECIAL_BUNDLE_OCEAN_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_SEAHORSE == 0"
+			}				
+		],
+		[
+			{
+				"timerRunning": "pirate_2024_ocean_bundle_discount"
+			},				
+			{
+				"statistic": "SPECIAL_BUNDLE_OCEAN_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_SEAHORSE == 0"
+			}				
+		]
+	],
+	"store_id": "OCEAN_BUNDLE_DISCOUNT",
+	"timer_id": "pirate_2024_ocean_bundle_discount",
+	"trigger_name": "oceanpack_discount",
+	"statistic_prefix": "SPECIAL_BUNDLE_OCEAN_VIEWS"
+}

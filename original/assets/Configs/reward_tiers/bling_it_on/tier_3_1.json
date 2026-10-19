@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 200,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENTELEPORTER_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleTeleporterGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleTeleporterGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_teleporter"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 200,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENGRAVITYSUIT_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleGravitySuitGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleGravitySuitGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_gravity_suit"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 200,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENGRAVITYSUIT_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleGravitySuitGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleGravitySuitGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_gravity_suit"
+		]
+    }
+}

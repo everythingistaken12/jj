@@ -1,0 +1,16 @@
+{
+    "pickup_distance": 500,
+    "pickup_distance_first_time": 300,
+    "pickup_distance_range_rand": 500,
+    "sam_pickup_distance": 500,
+    "sam_pickup_distance_first_time": 100,
+    "sam_pickup_distance_range_rand": 100,
+    "pickups": [
+        "Pickup_CoinSpecial",
+        "Pickup_Boost",
+        "Pickup_Shield",
+        "Pickup_SlowMotion",
+        "Pickup_Revive",
+        "Pickup_FinalBlast"
+    ]
+}

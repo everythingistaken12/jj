@@ -1,0 +1,34 @@
+{
+    "#AppleArcade":{
+        "news_at_start" : false,
+
+        "legacy_popup": false,
+
+        "max_popups" : 2,
+        "news_priority" : 5,
+        "event_welcome_priority" : 4,
+        "event_over_priority" : 3,
+        "eventrules_priority" : 3,
+        "starterpack_priority" : 3,
+        "event_available_priority" : 3,
+        "special_bundle_priority" : 2,
+        "crosspromo_priority" : 2,
+        "event_restricted_priority": 0
+    },
+    "#default": {
+        "news_at_start" : false,
+
+        "legacy_popup" : true,
+
+        "max_popups" : 2,
+        "news_priority" : 5,
+        "event_welcome_priority" : 4,
+        "event_over_priority" : 3,
+        "eventrules_priority" : 3,
+        "starterpack_priority" : 3,
+        "event_available_priority" : 3,
+        "special_bundle_priority" : 2,
+        "crosspromo_priority" : 2,
+        "event_restricted_priority": 0
+    }
+}

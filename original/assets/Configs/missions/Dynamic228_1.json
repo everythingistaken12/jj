@@ -1,0 +1,43 @@
+{
+    "name": "Fly 250m in Bird in a single run",
+    "requirement": "Travel 250m in one Bird",
+    "retired": false,
+    "meta_data": {
+        "groupId": "45",
+        "difficulty": 1,
+        "icon": "vehicleTravel",
+        "description": "MISSION_VEHICLE_4",
+        "hash": "VEHICLE_DISTANCE",
+        "skillGrind": "SKILL",
+        "probability": "75",
+        "tag1": "VEHICLE",
+        "tag2": "DIST_VEHICLE",
+        "metaData": {
+            "vehicleType": "Bird"
+        }
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 250
+            },
+            {
+                "i": 0,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "vehicle",
+                "a": "destroy",
+                "i": 0
+            }
+        ]
+    }
+}

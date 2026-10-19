@@ -1,0 +1,21 @@
+{
+	"category": "star_trek_not_played_5_days",
+	"priority": 1500,
+	"message": "NOTIFICATIONS_STAR_TREK_NOT_PLAYED_5_DAYS",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 432000
+	},
+	"condition" : "star_trek_not_played_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "STAR_TREK_EVENT_TOKEN_50"
+	},
+	"deep_link_requires_token": true
+}

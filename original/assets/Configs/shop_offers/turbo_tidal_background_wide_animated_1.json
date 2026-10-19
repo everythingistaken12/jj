@@ -1,0 +1,9 @@
+{
+    "storeId": "BACKGROUND_TURBO_TIDAL",
+    "template": "template_2x1_anim",
+    "timerId": "chaser_2025_turbo_tidal_background",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.373, 0.561, 1.0, 1.0],
+    "itemImages": "specialBundleTurboTidalBackground_preview"
+}

@@ -1,0 +1,27 @@
+{
+    "reference_id": "CONSUMABLES_BUNDLE",
+    "tags": [],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "converts_into_paying_user": false,
+    "metas": {
+        "name": "SS_BUNDLE_BTTF_COMBO",
+        "description": "todo",
+        "icon": "iconCrate",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.consumables.bundle",
+        "google_play_store": "com.halfbrick.jetpack.consumables.bundle",
+        "brick_bucks_store": "consumables_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_QUICKREVIVE8PACK_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/reviveX3.tex",
+        "rewards_quantity": 8,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "revive_x8"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1288,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_GOLDEN_RABBIT_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/JetpackGoldenRabbit.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/JetpackGoldenRabbit.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_custom_golden_rabbit"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1288,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_GOLDEN_RABBIT_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/JetpackGoldenRabbit.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/JetpackGoldenRabbit.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_custom_golden_rabbit"
+        ]
+    }
+}

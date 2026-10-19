@@ -1,0 +1,56 @@
+{
+  "conditions": [
+    [
+      {
+        "timerRunning": "halloween_2026_halloween_mummy_bundle"
+      },    
+      {
+        "statistic": "SPECIAL_BUNDLE_HALLOWEEN_MUMMY_BUNDLE_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 0"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 5"
+      },
+      {
+        "inventoryCount": "JETPACK_CUSTOM_SARCOPHAGUS == 0"
+      }
+    ],
+    [
+      {
+        "timerRunning": "halloween_2026_halloween_mummy_bundle"
+      },  
+      {
+        "statistic": "SPECIAL_BUNDLE_HALLOWEEN_MUMMY_BUNDLE_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 1"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 3"
+      },
+      {
+        "inventoryCount": "JETPACK_CUSTOM_SARCOPHAGUS == 0"
+      }
+    ],
+    [
+      {
+        "timerRunning": "halloween_2026_halloween_mummy_bundle"
+      },  
+      {
+        "statistic": "SPECIAL_BUNDLE_HALLOWEEN_MUMMY_BUNDLE_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL >= 2"
+      },
+      {
+        "inventoryCount": "JETPACK_CUSTOM_SARCOPHAGUS == 0"
+      }
+    ]
+  ],
+  "store_id": "HALLOWEEN_MUMMY_BUNDLE",
+  "timer_id": "halloween_2026_halloween_mummy_bundle",
+  "trigger_name": "halloween_mummy_bundle",
+  "statistic_prefix": "SPECIAL_BUNDLE_HALLOWEEN_MUMMY_BUNDLE_VIEWS"
+}

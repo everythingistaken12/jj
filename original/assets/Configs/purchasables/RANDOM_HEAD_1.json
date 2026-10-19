@@ -1,0 +1,33 @@
+{
+    "reference_id": "RANDOM_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_RANDOM_HEAD_NAME",
+        "description": "ITEM_RANDOM_HEAD_DESC",
+        "equipable": true,
+        "icon": "headquestion",
+        "startWeek": 0
+    },
+    "payment_methods": {
+        "jetpack_store": "RANDOM_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 30
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 30
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

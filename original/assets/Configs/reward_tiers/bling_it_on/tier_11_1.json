@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 750,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENBIRD_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleBirdGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleBirdGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_profit_bird"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1500,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "VEHICLE_SKIN_GOLD_SAM_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleSamGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleSamGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_sam"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1500,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "VEHICLE_SKIN_GOLD_SAM_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleSamGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleSamGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_sam"
+		]
+    }
+}

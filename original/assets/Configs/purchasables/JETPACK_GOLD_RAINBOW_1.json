@@ -1,0 +1,28 @@
+{
+    "reference_id": "JETPACK_GOLD_RAINBOW",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLD_RAINBOWJETPACK_NAME",
+        "description": "ITEM_GOLD_RAINBOWJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackRBG",
+        "startWeek": 50,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_GOLD_RAINBOW"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

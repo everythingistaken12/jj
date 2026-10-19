@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"star_trek_event_available",
+				"star_trek_event_inactive"
+			],
+			"board": "star_trek_event_upsell"
+		}			
+	]
+}

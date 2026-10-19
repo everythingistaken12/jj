@@ -1,0 +1,82 @@
+{
+	"conditions": [
+		[			
+			{
+				"statistic": "SPECIAL_BUNDLE_SAM_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_PIRATE_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHRISTMAS_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_STPATRICKS_SAM == 0"
+			}
+		],
+		[			
+			{
+				"statistic": "SPECIAL_BUNDLE_SAM_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_PIRATE_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHRISTMAS_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_STPATRICKS_SAM == 0"
+			}
+		],
+		[			
+			{
+				"statistic": "SPECIAL_BUNDLE_SAM_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_PIRATE_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CNY_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHRISTMAS_SAM == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_STPATRICKS_SAM == 0"
+			}
+		]
+	],
+	"store_id": "SAM_BUNDLE",
+	"trigger_name": "samBundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_SAM_BUNDLE_VIEWS"
+}

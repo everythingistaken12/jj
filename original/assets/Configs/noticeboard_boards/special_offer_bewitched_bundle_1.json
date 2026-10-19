@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Bewitched_Bundle",
+    "screen": "NoticeboardBewitchedBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "BEWITCHED_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

@@ -1,0 +1,10 @@
+{
+    "storeId": "VEHICLE_CHRISTMAS_SAM",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [1.0, 0.541, 0.553, 1.0],
+    "foregroundIcon": "Events/Christmas/Textures/Menus/consumables/notificationSAM.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

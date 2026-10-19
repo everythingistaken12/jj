@@ -1,0 +1,53 @@
+{
+    "reference_id": "VEHICLE_SKIN_JETSKI",
+    "tags": [
+        "Wave Rider",
+        "Upgrades",
+        "Vehicle Skins"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_JETSKI_NAME",
+        "description": "VEHICLE_SKIN_JETSKI_DESC",
+        "equipable": true,
+        "icon": "vehicleJetski",
+        "#AppleArcade": {
+            "hideUntil": "",
+            "displayLocked": ""
+        },
+        "#HalfbrickPlus": {
+            "hideUntil": "",
+            "displayLocked": ""
+        },
+        "#default": {
+            "hideUntil": "VEHICLE_SKIN_JETSKI",
+            "displayLocked": "VEHICLE_SKIN_JETSKI"
+        },
+        "isSkin": true,
+        "vehicleType": "JetSki",
+        "defaultSkin": true,
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "payment_methods": {
+        "#AppleArcade": {
+            "jetpack_store": "VEHICLE_SKIN_JETSKI"
+        },
+        "#HalfbrickPlus": {
+            "jetpack_store": "VEHICLE_SKIN_JETSKI"
+        }
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

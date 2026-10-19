@@ -1,0 +1,51 @@
+{
+    "atlas_folder": "TitleMOTU",
+    "atlas": "textures/levels/bgTitleMOTU.atlas",
+    "gramophone_enabled": false,
+    "perk_monitors_enabled": false,
+    "best_distance_enabled": false,
+    "skin": "default",
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/torch_1.xml",
+            "offset_x": -200,
+            "offset_y": 5
+        },
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/torch_2.xml",
+            "offset_x": -228,
+            "offset_y": 0
+        },
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/pillar_flame_1.xml",
+            "offset_x": -110,
+            "offset_y": 3
+        },
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/pillar_flame_2.xml",
+            "offset_x": -30,
+            "offset_y": 3
+        },
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/pillar_flame_3.xml",
+            "offset_x": 45,
+            "offset_y": 3
+        },
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/pillar_flame_4.xml",
+            "offset_x": 120,
+            "offset_y": 3
+        },
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/debris.xml",
+            "offset_x": -60,
+            "offset_y": -110
+        },
+        {
+            "sprite_file": "Textures/Levels/TitleMOTU/Objects/debris_2.xml",
+            "offset_x": 40,
+            "offset_y": -130
+        }
+    ]
+}

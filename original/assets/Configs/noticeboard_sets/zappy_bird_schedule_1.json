@@ -1,0 +1,21 @@
+{
+	"selector": "gamesPlayedToday",
+	"loop_point": 6,
+	"boards": [
+		{
+			"board": "special_offer_cross_promo_zappy_bird"
+		},
+        {
+            "board": "daily_reward_tiers"
+        },
+		{
+			"board": "screenshot"
+		},
+		{
+			"board": "special_offer_zappy_bird_mega_bundle"
+		},
+		{
+			"board": "screenshot"
+		}
+	]
+}

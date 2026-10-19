@@ -1,0 +1,11 @@
+{
+	"cost": 750,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "20000_COINS",
+	"rewards_texture": "textures/menus/shop/presentGold.tex",
+	"rewards_icon_texture": "textures/menus/shop/presentGold.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"coin_pack_20000"
+	]
+}

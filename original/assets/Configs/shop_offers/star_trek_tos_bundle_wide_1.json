@@ -1,0 +1,11 @@
+{
+    "specialBundle": "star_trek_tos_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.925,	0.702,	0.004, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/StarTrekEvent/StarTrek/StarTrekVehicleTeleporter.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}
+

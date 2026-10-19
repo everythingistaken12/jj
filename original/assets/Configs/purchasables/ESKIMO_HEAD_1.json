@@ -1,0 +1,32 @@
+{
+    "reference_id": "ESKIMO_HEAD",
+    "tags": [
+        "Head",
+        "One Time Offer",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ESKIMO_HEAD_NAME",
+        "description": "ITEM_ESKIMO_HEAD_DESC",
+        "equipable": true,
+        "icon": "headEskimo",
+        "rewardOnly": {
+            "value": true,
+            "prereq": "VEHICLE_SKIN_MAGNETSUIT"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "ESKIMO_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

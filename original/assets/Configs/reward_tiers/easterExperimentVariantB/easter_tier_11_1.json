@@ -1,0 +1,15 @@
+{
+    "cost": 1500,
+    "display_name": "REWARD_UNLOCK",
+    "frame_texture": "textures/menus/shared/frameGold.tex",
+    "rewards_texture": "textures/menus/shop/ItemIcons/jetpackCarrotLauncher.tex",
+    "rewards_icon_texture": "textures/menus/shop/ItemIcons/jetpackCarrotLauncher.tex",
+    "display_description": "ITEM_CARROTLAUNCHER_JETPACK_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "jetpack_carrotlauncher"
+    ],
+    "random_rewards":
+    []
+}

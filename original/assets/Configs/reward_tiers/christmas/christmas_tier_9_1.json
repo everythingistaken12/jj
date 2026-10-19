@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 400,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FROSTIE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "frosty_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 475,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FROSTIE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "frosty_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 475,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FROSTIE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "frosty_body"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Destroy Bird 1 times",
+    "requirement": "Destroy Bird 1 time",
+    "retired": false,
+    "meta_data": {
+        "groupId": "62",
+        "difficulty": 1,
+        "icon": "vehicleDestroy",
+        "description": "MISSION_DESTROY_VEHICLE_SINGLE",
+        "hash": "VEHICLE_DESTROY_TOTAL",
+        "skill_grind": "GRIND",
+        "Tag4": "DESTROY",
+        "probability": "75",
+        "tag1": "VEHICLE",
+        "metaData": {
+            "vehicleType": "Bird"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "destroy",
+                "o": "vehicle",
+                "s": "t",
+                "i": 0,
+                "c": 1
+            }
+        ]
+    }
+}

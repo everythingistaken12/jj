@@ -1,0 +1,30 @@
+{
+    "reference_id": "SPACE_PIRATE_HEAD",
+    "tags": [
+        "bundle",
+        "excludeFromRandom",
+        "hidden",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SPACE_PIRATE_HEAD_NAME",
+        "description": "ITEM_SPACE_PIRATE_HEAD_DESC",
+        "equipable": true,
+        "icon": "headSpacePirate",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

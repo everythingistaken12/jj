@@ -1,0 +1,38 @@
+{
+    "#default": {
+        "cost": 750,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_NUT_CRACKER_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyNutCracker.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyNutCracker.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "nutcracker_body"
+        ]
+    },
+    "#HalfbrickPlus": {
+        "cost": 950,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_ICE_DRAGON_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleDragonIce.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonIce.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ice_dragon"
+        ]
+    },
+    "#AppleArcade": {
+        "cost": 950,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_ICE_DRAGON_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleDragonIce.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonIce.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ice_dragon"
+        ]
+    }
+}

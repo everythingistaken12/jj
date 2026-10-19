@@ -1,0 +1,31 @@
+{
+    "#default":
+    {
+        "cost": 37,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/revivex3.tex",
+        "display_description": "ITEM_QUICKREVIVE5PACK_NAME",
+        "rewards_quantity": 5,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "revive"
+        ],
+        "random_rewards":
+        []
+    },
+    "#AppleArcade":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_EASTER_ISLAND_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyEasterIsland.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyEasterIsland.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_island_body"
+        ]
+    }
+}

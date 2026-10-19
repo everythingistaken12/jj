@@ -1,0 +1,39 @@
+{
+    "name": "Cover 1000m on foot",
+    "requirement": "Travel 1000m while touching floor while on foot",
+    "retired": false,
+    "meta_data": {
+        "groupId": "19",
+        "difficulty": 2,
+        "icon": "onFoot",
+        "description": "MISSION_RUN_2",
+        "hash": "RUN_DISTANCE_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "120",
+        "tag1": "RUN",
+        "tag2": "DIST_SECONDARY"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 1000
+            },
+            {
+                "a": "touch",
+                "o": "floor",
+                "p": true,
+                "d": "end touch"
+            },
+            {
+                "a": "on",
+                "o": "foot",
+                "p": true,
+                "d": "off"
+            }
+        ]
+    }
+}

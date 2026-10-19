@@ -1,0 +1,19 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_christmas_santa_hog",
+				"christmas_2022_gifts_of_yule_bundle_timer_running"
+			],
+			"board": "special_offer_christmas_2022_gifts_of_yule_bundle"
+		},
+		{
+			"mediation": [
+				"not_purchased_christmas_santa_hog",
+				"christmas_2022_gifts_of_yule_bundle_discount_timer_running"
+			],
+			"board": "special_offer_christmas_2022_gifts_of_yule_bundle_discount"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "cost": 1200,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/ItemIcons/vehicleStPatricksSam.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleStPatricksSam.tex",
+        "display_description": "VEHICLE_SKIN_STPATRICKS_SAM_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "st_patricks_sam"
+        ]
+
+}

@@ -1,0 +1,10 @@
+{
+    "storeId": "",	
+    "name": "",
+    "template": "template_offerwall_1x1",
+    "tileWidth": 1,
+    "tileHeight": 1,
+    "backingColor": [0.973, 0.808, 0.176, 1.0],
+    "infoText": "SHOP_FREE",
+	"placement": "OFFERWALL_SHOP"
+}

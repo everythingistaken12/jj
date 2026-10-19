@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "VEHICLE_SKIN_PIRATE_JETSKI",
+	"fallback": "coin_pack_40000"
+}

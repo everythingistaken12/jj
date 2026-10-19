@@ -1,0 +1,11 @@
+{
+	"button_icon": "textures/menus/shop/ItemIcons/noAds.tex",
+	"button_text": "REMOVE_ADS",
+	"meta": {
+		"shutdown_conditions": {
+			"itemOwned": "disable_ads"
+		}
+	},
+	"auto_start": true,
+	"timer_length_seconds": 604800
+}

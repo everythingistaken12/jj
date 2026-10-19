@@ -1,0 +1,14 @@
+{
+    "dailyMissionCount": 7,
+    "rewardCurrency": "FruitPunchTokens",
+    "dailyMissions": [
+        {"missionName": "USE_3_REVIVE", "timeToUnlock": 0},
+        {"missionName": "RUN_10000_TOTAL_DISTANCE_WITH_SENSEI", "timeToUnlock": 0},
+        {"missionName": "COLLECT_5000_COINS", "timeToUnlock": 86400},
+        {"missionName": "PLAY_5_GAMES_WITH_JETPACK_FRUIT", "timeToUnlock": 172800},
+        {"missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_DISTANCE", "timeToUnlock": 259200},
+        {"missionName": "COLLECT_500_EVENT_TOKENS", "timeToUnlock": 345600},
+        {"missionName": "RUN_10000_TOTAL_DISTANCE", "timeToUnlock": 432000},
+        {"missionName": "USE_25_REVIVE", "timeToUnlock": 518400}
+    ]
+}

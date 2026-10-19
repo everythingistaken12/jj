@@ -1,0 +1,26 @@
+{
+    "reference_id": "JETPACK_CUSTOM_COCONUT",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_CUSTOM_COCONUT_NAME",
+        "description": "ITEM_JETPACK_CUSTOM_COCONUT_DESC",
+        "equipable": true,
+        "icon": "jetpackCoconut",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

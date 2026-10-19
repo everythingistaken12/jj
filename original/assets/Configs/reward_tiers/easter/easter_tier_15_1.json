@@ -1,0 +1,45 @@
+{
+	"#default":
+    {
+        "cost": 2000,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/ItemIcons/vehicleEasterSam.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleEasterSam.tex",
+        "display_description": "VEHICLE_SKIN_EASTER_SAM_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_sam"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+	{
+		"cost": 950,
+		"display_name": "REWARD_UNLOCK",
+		"rewards_texture": "textures/menus/shop/ItemIcons/bodyEasterExosuit.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/bodyEasterExosuit.tex",
+		"display_description": "ITEM_EASTER_EXOSUIT_BODY_NAME",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"easter_exosuit_body"
+		],
+		"random_rewards": []
+	}
+,
+    "#AppleArcade":
+    {
+		"cost": 950,
+		"display_name": "REWARD_UNLOCK",
+		"rewards_texture": "textures/menus/shop/ItemIcons/bodyEasterExosuit.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/bodyEasterExosuit.tex",
+		"display_description": "ITEM_EASTER_EXOSUIT_BODY_NAME",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"easter_exosuit_body"
+		],
+		"random_rewards": []
+	}
+}

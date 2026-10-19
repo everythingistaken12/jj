@@ -1,0 +1,6 @@
+{
+	"name": "SpecialOffer_x2_Coin_Offer",
+	"screen": "NoticeBoardX2CoinOffer",
+	"item_id": "COIN_PACK_ZERO_X2",
+	"on_show_event": "specialOffer"
+}

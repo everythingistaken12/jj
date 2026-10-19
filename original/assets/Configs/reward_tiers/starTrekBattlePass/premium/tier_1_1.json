@@ -1,0 +1,12 @@
+{
+	"cost": 50,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/revivex3.tex",
+	"display_description": "ITEM_QUICKREVIVE5PACK_NAME",
+	"rewards_quantity": 5,
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"revive"
+	]
+}

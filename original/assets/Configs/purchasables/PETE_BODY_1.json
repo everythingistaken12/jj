@@ -1,0 +1,35 @@
+{
+    "reference_id": "PETE_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "#AppleArcade":{"reference_price_item": ""},
+        "#HalfbrickPlus":{"reference_price_item": ""},
+        "reference_price_item": "PETE_BODY_REFERENCE_PRICE",
+        "name": "ITEM_PETE_BODY_NAME",
+        "description": "ITEM_PETE_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyTP"
+    },
+    "payment_methods": {
+        "jetpack_store": "PETE_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 24
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 24
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

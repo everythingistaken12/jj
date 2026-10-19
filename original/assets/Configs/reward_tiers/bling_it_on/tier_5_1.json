@@ -1,0 +1,44 @@
+{
+    "#default":
+    {
+        "cost": 200,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bomb.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bombX3.tex",
+        "display_description": "ITEM_BOMB5PACK_NAME",
+        "rewards_quantity": 5,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "bomb_x5"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENHOG_NAME",		
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleHogGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_hog"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENHOG_NAME",		
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleHogGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogGold.tex",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_hog"
+		]
+    }
+}

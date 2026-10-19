@@ -1,0 +1,10 @@
+{
+    "auto_start": false,
+    "meta":
+    {
+        "shutdown_conditions":
+        {
+        }
+    },
+    "timer_length_seconds": 86400
+}

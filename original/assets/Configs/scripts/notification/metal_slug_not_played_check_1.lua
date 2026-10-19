@@ -1,0 +1,1 @@
+return EventSystem.GetActiveEventName() == "metal_slug"

@@ -1,0 +1,33 @@
+{
+    "reference_id": "ROBOT_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ROBOBARRYPART002_NAME",
+        "description": "ITEM_ROBOBARRYPART002_DESC",
+        "equipable": true,
+        "icon": "bodyRobot",
+        "startWeek": 1
+    },
+    "payment_methods": {
+        "jetpack_store": "ROBOT_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 26
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 26
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+	"#default":
+    {
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyWhiteRabbit.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyWhiteRabbit.tex",
+        "display_description": "ITEM_WHITE_RABBIT_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_white_rabbit_body"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 950,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/ItemIcons/vehicleTeleporterEasterEgg.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleTeleporterEasterEgg.tex",
+        "display_description": "VEHICLE_SKIN_EGG_TELEPORTER_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "egg_teleporter"
+        ],
+        "random_rewards":
+        []
+    },
+    "#AppleArcade":
+    {
+        "cost": 950,
+		"display_name": "REWARD_UNLOCK",
+		"rewards_texture": "textures/menus/shop/ItemIcons/vehicleTeleporterEasterEgg.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleTeleporterEasterEgg.tex",
+		"display_description": "VEHICLE_SKIN_EGG_TELEPORTER_NAME",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards":
+		[
+			"egg_teleporter"
+		],
+		"random_rewards":
+		[]
+    }
+}

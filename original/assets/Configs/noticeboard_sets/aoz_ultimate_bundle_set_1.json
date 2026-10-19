@@ -1,0 +1,14 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_zombie_dragon",
+        "not_purchased_zombie_bird",
+        "not_purchased_aoz_sam",
+        "aoz_ultimate_bundle_timer_running"
+      ],
+      "board": "special_offer_aoz_ultimate_bundle"
+    }
+  ]
+}

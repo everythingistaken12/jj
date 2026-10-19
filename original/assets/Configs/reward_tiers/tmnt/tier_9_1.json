@@ -1,0 +1,11 @@
+{
+	"cost": 1500,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_TMNT_SHREDDER_BODY_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/bodyTMNTShredder.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyTMNTShredder.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"tmnt_shredder_body"
+	]
+}

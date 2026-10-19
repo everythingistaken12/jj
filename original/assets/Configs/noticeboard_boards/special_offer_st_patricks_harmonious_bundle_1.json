@@ -1,0 +1,7 @@
+{
+  "name": "SpecialOffer_st_patricks_harmonious_bundle",
+  "template": "SALE_ITEM",
+  "screen": "NoticeboardStPatricksHarmoniousBundle_anim",
+  "on_show_event": "specialOffer",
+  "item_id": "ST_PATRICKS_BARD_BUNDLE"
+}

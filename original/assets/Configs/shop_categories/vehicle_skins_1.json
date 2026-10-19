@@ -1,0 +1,28 @@
+{
+    "title": "SHOP_CATEGORY_PREMIUM_VEHICLE_SKINS",
+
+    "icon": "textures\\menus\\shop\\buttonIconSAM.tex",
+
+    "rowsLimit" : 2,
+
+    "_": "if 'header_template' is omitted then its value is 'header'",
+    "header_template": "header",
+
+    "_": "if 'template' is omitted then its value is 'category'",
+    "template": "category",
+
+    "filler_template_1x1": "templateEmpty_1x1",
+
+    "filler_template_2x1": "templateEmpty_2x1",
+
+    "offers": [
+        "sam_bundle",
+        "sam_gold",
+        "sam_easter",
+        "sam_st_patricks",
+        "sam_steam",
+        "sam_pirate",
+        "sam_christmas",
+        "sam_cny"
+    ]
+}

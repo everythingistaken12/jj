@@ -1,0 +1,33 @@
+{
+  "headstarts_enabled": false,
+  "blasts_enabled": false,
+  "revives_enabled": true,
+  "revive_costs": [
+    1500,
+    3000,
+    4500,
+    6000,
+    7500,
+    9000,
+    10500,
+    12000,
+    13500,
+    14750,
+    16500,
+    19250
+  ],
+  "revives_video_ad_per_run": 4,
+  "sam_start_enabled": false,
+  "sam_revives_per_run": 0,
+  "gadget_start_enabled": false,
+  "gadgets_enabled": false,
+  "end_utilities_show_time": 3,
+  "start_velocity": 175,
+  "end_velocity": 480,
+  "velocity_stop_distance": 2250,
+  "vehicle_velocity_multiplier": 1,
+  "vehicle_velocity_multiplier_range": 300,
+  "missions_enabled": false,
+  "powerups_enabled": false,
+  "sam_enabled": false
+}

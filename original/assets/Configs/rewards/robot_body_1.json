@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "ROBOT_BODY",
+	"fallback": "coin_pack_1500"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Buy something in my Stash",
+    "requirement": "enter stash and spend coins",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "shop",
+        "description": "MISSION_SHOP_COINS_1",
+        "hash": "SPEND_COINS",
+        "skipIf": "HALF_ITEMS_OWNED"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "enter",
+                "o": "stash",
+                "s": "t",
+                "c": 1
+            },
+            {
+                "a": "spend",
+                "o": "coin",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

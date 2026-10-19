@@ -1,0 +1,10 @@
+{
+    "specialBundle": "cross_promo_pirate",
+    "template": "template_2x2_cross_promo_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.996, 0.816, 0.647, 1.0], 
+    "itemImages": "specialBundleCrossPromoPirate",
+    "backingTexture": "Events/Pirate/Textures/Menus/eventInfo/backing.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

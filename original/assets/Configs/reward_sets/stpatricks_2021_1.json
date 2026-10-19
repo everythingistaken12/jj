@@ -1,0 +1,32 @@
+{
+    "currency": "Shamrocks",
+    "currency_texture": "events/stpatricks/textures/menus/eventpopup/currencytoken_64.tex",
+    "tiers":
+    [
+        "stpatricks/stpatricks_tier_1",
+        "stpatricks/stpatricks_tier_2",
+        "stpatricks/stpatricks_tier_3",
+        "stpatricks/stpatricks_tier_4",
+        "stpatricks/stpatricks_tier_5",
+        "stpatricks/stpatricks_tier_6",
+        "stpatricks/stpatricks_tier_7",
+        "stpatricks/stpatricks_tier_8",
+        "stpatricks/stpatricks_tier_9",
+        "stpatricks/stpatricks_tier_10",
+        "stpatricks/stpatricks_tier_11",
+        "stpatricks/stpatricks_tier_12",
+        "stpatricks/stpatricks_tier_13",
+        "stpatricks/stpatricks_tier_14",
+        "stpatricks/stpatricks_tier_15",
+        "stpatricks/stpatricks_tier_16",
+        "stpatricks/stpatricks_tier_17",
+        "stpatricks/stpatricks_tier_18",
+        "stpatricks/stpatricks_tier_19",
+        "stpatricks/stpatricks_tier_20",
+        "stpatricks/stpatricks_tier_21",
+        "stpatricks/stpatricks_tier_22",
+        "stpatricks/stpatricks_tier_23",
+        "stpatricks/stpatricks_tier_24",
+        "stpatricks/stpatricks_tier_25"
+    ]
+}

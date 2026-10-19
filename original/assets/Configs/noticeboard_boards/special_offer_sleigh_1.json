@@ -1,0 +1,8 @@
+{
+	"name": "SpecialOffer_Sleigh",
+	"template": "SALE_ITEM",
+	"screen": "NoticeBoardSleigh",
+	"item_id": "VEHICLE_SLEIGH",
+	"sale_item": "VEHICLE_SLEIGH",
+	"on_show_event": "specialOffer"
+}

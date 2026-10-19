@@ -1,0 +1,21 @@
+{
+	"category": "at_risk_user_journey_d21",
+	"priority": 0,
+	"message": "PUSH_RISK_USER_D21",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 1814400
+	},
+	"condition" : "at_risk_user_journey_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "RANDOM_CUSTOME"
+	},
+	"deep_link_requires_token": true
+}

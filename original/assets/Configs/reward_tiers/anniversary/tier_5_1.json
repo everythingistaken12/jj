@@ -1,0 +1,39 @@
+{
+	"#default":
+    {
+        "cost": 800,
+	    "display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_ANNIVERSARY_PARTYBARRY_BODY_NAME",	
+		"rewards_texture": "textures/menus/shop/itemicons/bodyAnniversaryPartyBarry.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyAnniversaryPartyBarry.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"partyBarry_body"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 300,
+	    "display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_ANNIVERSARY_PARTYBARRY_BODY_NAME",	
+		"rewards_texture": "textures/menus/shop/itemicons/bodyAnniversaryPartyBarry.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyAnniversaryPartyBarry.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"partyBarry_body"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 300,
+	    "display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_ANNIVERSARY_PARTYBARRY_BODY_NAME",	
+		"rewards_texture": "textures/menus/shop/itemicons/bodyAnniversaryPartyBarry.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyAnniversaryPartyBarry.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"partyBarry_body"
+		]
+    }
+	
+}

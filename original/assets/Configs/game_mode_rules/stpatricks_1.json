@@ -1,0 +1,17 @@
+{
+    "headstarts_enabled": true,
+    "blasts_enabled": true,
+    "revives_enabled": true,
+    "revives_video_ad_per_run": 1,
+    "sam_start_enabled": true,
+    "sam_revives_per_run": 1,
+    "gadget_start_enabled": true,
+    "#default":
+    {
+        "missions_enabled": true
+    },
+    "#AppleArcade":
+    {
+        "missions_enabled": false
+    }
+}

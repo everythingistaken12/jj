@@ -1,0 +1,36 @@
+{
+    "reference_id": "GREEN_MOHAWK",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GREENMOHAWK_NAME",
+        "description": "ITEM_GREENMOHAWK_DESC",
+        "equipable": true,
+        "icon": "headPunk",
+        "startWeek": 13
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 24
+    },
+    "payment_methods": {
+        "jetpack_store": "GREEN_MOHAWK"
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 24
+    },
+    "payment_methods": {
+        "jetpack_store": "GREEN_MOHAWK"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "reference_id": "ASTRONAUT_BODY",
+    "tags": [
+        "Body",
+        "excludeFromRandom",
+        "samReward"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ASTRONAUT_BODY_NAME",
+        "description": "ITEM_ASTRONAUT_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyAstronaut",
+        "rewardOnly": {
+            "value": true
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "ASTRONAUT_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

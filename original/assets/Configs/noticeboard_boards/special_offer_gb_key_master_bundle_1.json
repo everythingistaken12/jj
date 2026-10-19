@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Key_Master_Bundle",
+    "screen": "NoticeBoardGBKeymasterBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GB_KEY_MASTER_BUNDLE"
+}

@@ -1,0 +1,156 @@
+{
+    "vehicleName": "Bird",
+    "displayName": "VEHICLE_BIRD",
+    "statistics":
+    {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_BIRD",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_BIRD",
+        "distanceBest": "VEHICLE_BEST_BIRD",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_BIRD"
+    },
+    "MissionText": "MISSION_VEHICLE_BIRD",
+    "sprite": "vehicleBird.xml",
+    "RequiredTextures":
+    {
+        "Texture":
+        [
+            "vehicleBird.tex",
+            "egg.tex",
+            "eggSplat.tex"
+        ]
+    },
+    "FlashTextures":
+    {
+        "Texture": "miniprofitbird.tex"
+    },
+    "GoldInventoryName": "VEHICLE_GOLD_BIRD",
+    "MagnetDeliverable": "BIRD_MAGNET",
+    "headData": "Characters/Vehicles/Bird/VehicleBirdData.xml",
+    "allowHalo": "true",
+    "fragsDir": "Bird",
+    "ComponentsDir": "Bird",
+    "ComponentsOffset": "-5,18",
+    "sequenceBar": "bar_profitBird",
+    "probability": "20.0",
+    "Streak1Colour":
+    {
+        "r": "104",
+        "g": "219",
+        "b": "115"
+    },
+    "Streak2Colour":
+    {
+        "r": "185",
+        "g": "255",
+        "b": "172"
+    },
+    "duration": "0.0",
+    "SequenceFirstFront": "false",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.2",
+    "INITIAL_BOOST": "5.0",
+    "FRICTION": "0.98",
+    "BOOST_FRAME_COUNT": "1",
+    "JUMP_COUNT": "10",
+    "STREAK": "BIRD_STREAK",
+    "START_VELOCITY": "250.0",
+    "MAX_VELOCITY": "1000.0",
+    "VELOCITY_INCREASE": "0.09",
+    "GoldParticle": "GoldSparkle_ProfitBird",
+    "GoldParticleOffset": "2,-2",
+    "skins":
+    {
+        "skin":
+        [
+            {
+                "name": "VEHICLE_SKIN_BIRD",
+                "script": ""
+            },
+            {
+                "name": "VEHICLE_GOLD_BIRD",
+                "script": "Gold"
+            },
+            {
+                "name": "VEHICLE_SKIN_MECHAMICRO",
+                "script": "Micro",
+                "stop_music":
+                {
+                    "location": "vehicle_create",
+                    "delay": "0.0"
+                },
+                "music":
+                {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_Whale"
+                },
+                "outro":
+                {
+                    "track": "music_whale_death"
+                },
+                "continue_with":
+                {
+                    "track": "default",
+                    "delay": "2.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_CNY_PIG",
+                "script": "CnyPig"
+            },
+            {
+                "name": "VEHICLE_SKIN_CHICKEN",
+                "script": "Chicken"
+            },
+            {
+                "name": "VEHICLE_SKIN_TURKEY",
+                "script": "Turkey"
+            },
+            {
+                "name": "VEHICLE_SKIN_SUPPLY_BIRD",
+                "script": "Supply"
+            },
+            {
+                "name": "VEHICLE_SKIN_EAGLE",
+                "script": "Eagle"
+            },
+            {
+                "name": "VEHICLE_SKIN_MS_BIRD",
+                "script": "MSBird"
+            },
+            {
+                "name": "VEHICLE_SKIN_ST_BIRD",
+                "script": "StarTrekBird"
+            },
+            {
+                "name": "VEHICLE_SKIN_HALLOWEEN_BIRD",
+                "script": "HalloweenBird"
+            },
+            {
+                "name": "VEHICLE_SKIN_WOODEN_DRAGON_BIRD",
+                "script": "WoodenDragonBird"
+            },
+            {
+                "name": "VEHICLE_SKIN_ST_PATRICKS_BIRD",
+                "script": "StPatricksBird"
+            },
+            {
+                "name": "VEHICLE_SKIN_MULTIPLAYER_BIRD_P1",
+                "script": "MultiplayerBirdP1"
+            },
+            {
+                "name": "VEHICLE_SKIN_MULTIPLAYER_BIRD_P2",
+                "script": "MultiplayerBirdP2"
+            },
+            {
+                "name": "VEHICLE_SKIN_ZOMBIE_BIRD",
+                "script": "ZombieBird"
+            },
+            {
+                "name": "VEHICLE_SKIN_MOTU_TALON_FIGHTER",
+                "script": "TalonFighter"
+            }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"name": "SpecialOffer_Pirate_Jetski_Bundle",
+	"screen": "NoticeBoardPirateBundleJetski",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "PIRATE_BUNDLE_B"
+}

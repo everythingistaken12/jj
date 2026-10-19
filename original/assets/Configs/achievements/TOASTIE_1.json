@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_11",
+    "description": "ACHIEVEMENT_DESC_11",
+    "type": "DEATH",
+    "sub_type_1": "MISSILES_CONSEC",
+    "texture": "Toastie",
+    "points": 20,
+    "max_progress": 3,
+    "provider_ids": {
+        "amazon": "1082712",
+        "game_center": 
+        {
+            "default": "1082712",
+            "AppleArcade": "toastie_aa",
+            "HalfbrickPlus": "toastie_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQCw"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Slide 50m on your face",
+    "requirement": "Travel 50m while sliding on face",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "oddball",
+        "description": "MISSION_FLY_7",
+        "hash": "SLIDE_DIST_TOTAL",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 50
+            },
+            {
+                "a": "slide on",
+                "o": "face",
+                "p": true,
+                "d": "stop slide"
+            }
+        ]
+    }
+}

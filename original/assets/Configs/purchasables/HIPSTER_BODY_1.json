@@ -1,0 +1,27 @@
+{
+    "reference_id": "HIPSTER_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_HIPSTER_BODY_NAME",
+    "description": "ITEM_HIPSTER_BODY_DESC",
+    "equipable": true,
+    "icon": "bodyHipsterBarry",
+    "hidden": true
+  },
+    "payment_methods": {
+    "jetpack_store": "HIPSTER_BODY"
+},
+    "skus": [
+        "ios",
+        "windows",
+        "halfbrick_plus",
+        "google_play"
+    ]
+}

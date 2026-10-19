@@ -1,0 +1,113 @@
+{
+    "EventDisplayName": "THANKSGIVING_EVENT_RULES_TITLE",
+    "Filepath": "Events/Thanksgiving",
+    "Iconpath": "Events/Thanksgiving/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/Thanksgiving/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/Thanksgiving/Textures/Menus/eventPopUp/backing.tex",
+    "BannerTexturePath": "Events/Thanksgiving/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_THANKSGIVING_GAMES_PLAYED",
+    "currencyType": "thanksgiving_token",
+    "info_text_1": "EVENT_RULES_TEXT_1",
+    "info_text_2": "EVENT_RULES_TEXT_2",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 20
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 20
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "thanksgiving",
+        "noticeboardSchedule": "thanksgiving_schedule",
+        "#AppleArcade":
+        {
+            "rewardGroup": "thanksgiving_2021_1"
+        },
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "thanksgiving_2021_1",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "thanksgiving_2025",
+        "analytics_event_name": "thanksgiving",
+        "leaderboard": "BEST_THANKSGIVING",
+        "trigger_name": "thanksgiving",
+        "reload_sam": true,
+        "reload_worker": true,
+        "skin_profit_bird": "VEHICLE_SKIN_TURKEY",
+        "skin_lil_stomper": "VEHICLE_SKIN_TURKEY_TREX",
+        "enable_eventTokens": true,
+        "eventToken_value": 0,
+        "eventToken_sparkleParticleEffect": "TMNT_Token_Sparkle",
+        "eventToken_splashParticleEffect": "Blue_EventToken_Splash",
+        "eventToken_spawnRateMin": 7.5,
+        "eventToken_spawnRateMax": 3,
+        "eventToken_spawnRateLength": 75,
+        "eventToken_curveC0":
+        [
+            0.55,
+            0.55
+        ],
+        "eventToken_curveC1":
+        [
+            0.32,
+            0.1
+        ],
+        "eventToken_sprite": "textures/Entities/eventToken.xml",
+        "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+        "brickui_textures":
+        [
+            "textures/logo/logo_barry.tex",
+            "textures/levels/Title/Objects/title_small.tex",
+            "textures/levels/Title/Objects/titleGlow_small.tex",
+            "Textures/Menus/Results/currencyToken.tex",
+            "Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex"
+        ],
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+            "WORKER_PACKAGE",
+            "SAM_PACKAGE"
+        ],
+        "dailyEventMissions": true
+    },
+    "Features":
+    [
+        "show_thanksgiving_theme"
+    ],
+    "RandomSkinOverrides":
+    [
+        [
+            [
+                "JETPACK_TURKEY"
+            ],
+            [
+                "JETPACK_CUSTOM_AUTUMN"
+            ]
+        ],
+        [
+            [
+                "TURKEY_HEAD",
+                "TURKEY_BODY"
+            ],
+            [
+                "AUTUMN_HEAD",
+                "AUTUMN_BODY"
+            ]
+        ]
+    ],
+    "title_screen_settings": "thanksgiving"
+}

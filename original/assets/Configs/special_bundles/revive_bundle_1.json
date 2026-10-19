@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "christmas_2021_1_revive_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_REVIVE_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "DISABLE_ADS == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2021_1_revive_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_REVIVE_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "DISABLE_ADS == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2021_1_revive_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_REVIVE_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 3"
+			},
+			{
+				"inventoryCount": "DISABLE_ADS == 0"
+			}
+		]
+	],
+	"store_id": "REVIVE_BUNDLE",
+	"timer_id": "christmas_2021_1_revive_bundle",
+	"trigger_name": "revive_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_REVIVE_BUNDLE_VIEWS"
+}

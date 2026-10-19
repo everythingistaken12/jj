@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"motu_event_available",
+				"motu_event_inactive"
+			],
+			"board": "motu_event_upsell"
+		}			
+	]
+}

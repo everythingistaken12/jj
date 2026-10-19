@@ -1,0 +1,33 @@
+{
+    "reference_id": "DC_PRESENT",
+    "tags": [
+        "Fashion"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "DC_IAP_DISPLAY_NAME",
+        "description": "DC_IAP_DISPLAY_DESC",
+        "equipable": false,
+        "icon": "RewardBuy",
+        "value": "random",
+        "metadata": {
+            "costume": "random",
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.DCPresent",
+        "google_play_store": "com.halfbrick.jetpack.dcpresent",
+        "brick_bucks_store": "dc_present"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

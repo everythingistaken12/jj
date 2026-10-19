@@ -1,0 +1,10 @@
+{
+    "conditions":
+    [
+        [
+            {
+                "statistic": "ADS_INTERSTITIALS_BEFORE_NFXP > 1"
+            }
+        ]
+    ]
+}

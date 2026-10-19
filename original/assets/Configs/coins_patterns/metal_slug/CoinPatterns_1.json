@@ -1,0 +1,59 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinsMarco.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinsTarma.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinsEri.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinsFio.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinsMetal.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinsSlug.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinsHeavyMG.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

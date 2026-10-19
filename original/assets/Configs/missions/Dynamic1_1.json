@@ -1,0 +1,26 @@
+{
+    "name": "Play 3 Games",
+    "requirement": "Play 3 games",
+    "retired": false,
+    "meta_data": {
+        "groupId": "1",
+        "difficulty": 1,
+        "icon": "fly",
+        "description": "MISSION_PLAY",
+        "hash": "PLAY_GAME",
+        "showProgress": "true",
+        "skillGrind": "GRIND",
+        "probability": "75",
+        "tag4": "META"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "end",
+                "o": "game",
+                "s": "t",
+                "c": 3
+            }
+        ]
+    }
+}

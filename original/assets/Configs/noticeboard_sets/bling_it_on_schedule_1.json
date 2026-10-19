@@ -1,0 +1,21 @@
+{
+	"selector": "gamesPlayedToday",
+	"loop_point": 0,
+	"boards": [
+        {
+            "board": "gif_cross_promo"
+        },
+	    {
+	      "board": "daily_reward_tiers"
+	    },
+		{
+			"board": "special_offer_cross_promo_bling_it_on"
+		},
+		{
+			"board": "bling_it_on_bundle_set"
+		},
+		{
+			"board": "special_offer_gold_barry_bundle"
+		}
+	]
+}

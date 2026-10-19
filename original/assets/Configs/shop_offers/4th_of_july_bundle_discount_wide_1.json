@@ -1,0 +1,10 @@
+{
+    "specialBundle": "4th_of_july_bundle_discount",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.173,	0.396,	0.7, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/BestBuddy/missiles.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

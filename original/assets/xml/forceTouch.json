@@ -1,0 +1,19 @@
+{
+	"boostValues":[
+		{
+			"pressureFraction": 0.4,
+			"multiplier": 1.0,
+			"debugKey": "r"
+		},
+		{
+			"pressureFraction": 0.6,
+			"multiplier": 1.6,
+			"debugKey": "t"
+		},
+		{
+			"pressureFraction": 0.9,
+			"multiplier": 2.0,
+			"debugKey": "y"
+		}
+	]
+}

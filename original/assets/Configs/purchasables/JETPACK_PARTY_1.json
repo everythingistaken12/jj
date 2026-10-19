@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_PARTY",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_PARTY_JETPACK_NAME",
+        "description": "ITEM_PARTY_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackPT",
+        "startWeek": 24
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_PARTY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 15
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 15
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

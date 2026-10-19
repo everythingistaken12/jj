@@ -1,0 +1,22 @@
+{
+    "name": "Play 3 Games",
+    "requirement": "Play 3 games",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "fly",
+        "description": "MISSION_PLAY",
+        "hash": "PLAY_GAME",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "end",
+                "o": "game",
+                "s": "t",
+                "c": 3
+            }
+        ]
+    }
+}

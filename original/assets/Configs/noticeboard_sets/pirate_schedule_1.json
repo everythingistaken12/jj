@@ -1,0 +1,37 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "boards":
+    [
+        {
+            "board": "gif_cross_promo"
+        },
+        {
+            "board": "daily_reward_tiers"
+        },
+        {
+            "board": "special_offer_cross_promo_pirate"
+        },
+        {
+            "board": "pirate_castaway_bundle_set"
+        },
+        {
+            "board": "space_pirate_bundle_set"
+        },
+        {
+            "board": "pirate_bundle_set"
+        },
+        {
+            "board": "steakfries_revenge_bundle_set"
+        },
+        {
+            "board": "cursed_bundle_set"
+        },
+        {
+            "board": "ocean_bundle_set"
+        },
+        {
+            "board": "4th_of_july_bundle_set"
+        }
+    ]
+}

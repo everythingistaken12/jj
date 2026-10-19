@@ -1,0 +1,47 @@
+{
+    "snuggles_file": {
+        "_description": "Maximum Y Speed",
+        "MAX_Y_VELOCITY": "5.5",
+
+        "_description": "How quickly Cuddles reacts to diving or rising",
+        "DIVE_ADDITIVE": "0.2",
+        "PULL_UP_ADDITIVE": "0.2",
+
+        "_description": "How quickly Cuddles returns to the level ceiling",
+        "RETURN_ROOF_ADDITIVE": "0.14",
+        "RETURN_ROOF_VELOCITY": "2.3",
+
+        "X_VELOCITY": "0.7",
+        "X_RETURN_SPEED": "1.0",
+
+        "_description": "Max X position cuddles is allowed to reach when he lands?",
+        "MAX_X_POS": "-40.0",
+
+        "_description": "How fast cuddles' segments move in a sine wave",
+        "SINE_SPEED": "5.2",
+
+        "_description": "Height of each curve in the sine wave",
+        "AMPLITUDE": "12.0",
+
+        "_description": "Not used?",
+        "HEAD_SCALE": "0.65",
+
+        "_description": "Max height Cuddles will rise to",
+        "ROOF_HEIGHT": "100.0",
+
+        "_description": "Cuddle's resting x position",
+        "LEFT_RESTING_POINT": "390.0",
+
+        "_description": "Parameters for tweaking Cuddles' Fire Breath actor",
+        "BREATH_LIFE": "0.15",
+        "SMOKE_LIFE": "0.25",
+        "BREATH_FRICTION": "0.95",
+        "BREATH_FRICTION_DELAY": "0.0",
+        "BREATH_MIN_VEL": "8.0",
+        "BREATH_MAX_VEL": "10.0",
+        "BREATH_RATE_OF_FIRE": "0",
+        "BREATH_ANGLE_RANDOMNESS": "8",
+        "MINIMUM_FIRE_TIME": "0.25",
+        "version": "1.0.0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "specialBundle": "celtic_bundle",
+    "template": "template_2x1_anim",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.141, 0.741, 0.263, 1.0],
+    "itemImages": "specialBundleCelticImages_preview",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

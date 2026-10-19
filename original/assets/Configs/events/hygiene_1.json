@@ -1,0 +1,105 @@
+{
+  "EventDisplayName": "HYGIENE_EVENT_RULES_TITLE",
+  "Filepath": "Events/Hygiene",
+  "Iconpath": "Events/Hygiene/Textures/Menus/Main/IconEvent.tex",
+  "ResultsIconPath": "Events/Hygiene/Textures/Menus/Results/logo.tex",
+  "BackingTexturePath": "Events/Hygiene/Textures/Menus/eventInfo/backing.tex",
+    "BannerTexturePath": "Events/Hygiene/Textures/Menus/eventPopUp/backingBanner.tex",
+  "Statistic": "EVENTS_TOTAL_STPATRICKS_GAMES_PLAYED",
+  "currencyType": "soap",
+  "info_text_1": "EVENT_RULES_TEXT_1",
+  "info_text_2": "EVENT_RULES_TEXT_2",
+  "info_text_3": "",
+  "#HalfbrickPlus":
+  {
+      "levelUnlocked": 65
+  }, 
+  "#AppleArcade":
+    {
+        "levelUnlocked": 25
+    },
+  "#Google Play":
+  {
+  "restrict_cheaters_access": true
+  },
+  "Overrides": {
+    "game_mode": "hygiene",  
+    "noticeboardSchedule": "hygiene_schedule",
+    "dailyEventMissions": true,
+    "#HalfbrickPlus":
+        {
+            "rewardGroup": "hygiene_2023_2"
+        },
+     "#AppleArcade":
+        {
+            "rewardGroup": "hygiene_2023_2",
+            "leaderboard": "BEST_DISTANCE"
+        },
+    "rewardGroup": "hygiene_2026_1",
+    "analytics_event_name": "hygiene",
+    "leaderboard": "BEST_HYGIENE",
+    "trigger_name": "hygiene",
+    "reload_sam": true,
+    "sam_music": "Music_SAMMedic",
+  "sam_music_starting_point": 0,
+    "force_vehicles": [
+      "Bird",
+      "Mech",
+      "Hog",
+      "Teleporter",
+      "GravitySuit",
+      "Dragon"
+    ],
+    "skin_profit_bird": "VEHICLE_SKIN_SUPPLY_BIRD",    
+    "level_object_tags": [
+      "hygiene"
+    ],
+    "enable_eventTokens": true,
+    "eventToken_value": 0,
+    "eventToken_sparkleParticleEffect": "Shield_Token_Sparkle",    
+    "eventToken_splashParticleEffect": "Blue_EventToken_Splash",
+    "eventToken_spawnRateMin": 7.5,
+    "eventToken_spawnRateMax": 3,
+    "eventToken_spawnRateLength": 75,
+    "eventToken_curveC0": [
+      0.55,
+      0.55
+    ],
+    "eventToken_curveC1": [
+      0.32,
+      0.1
+    ],
+    "eventToken_sprite": "textures/Entities/eventToken.xml",
+    "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+    "eventToken_angleSpeed": 5,
+    "eventToken_amplitude": 10,
+    "eventToken_velocityFactor": 125,
+    "missileTexture": "missileInfected.tex",
+    "missileSFXLaunch": "event_missile_launch",
+    "missileSFXExplode": ["rocket_explode_1", "rocket_explode_2", "rocket_explode_3"],
+    "missileSFXWarning": "missile_warning",
+    "brickui_textures": [
+      "textures/logo/logo_barry.tex",
+      "textures/levels/Title/Objects/title_small.tex",
+      "textures/levels/Title/Objects/titleGlow_small.tex",
+      "Textures/Menus/Results/currencyToken.tex",
+      "Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "textures/menus/eventpopup/currencytoken_64.tex",
+      "Events/Hygiene/Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "events/hygiene/textures/menus/eventpopup/currencytoken_64.tex",
+      "Events/Hygiene/Textures/Menus/eventPopUp/backing.tex",
+      "events/hygiene/textures/menus/eventpopup/backing.tex",
+      "Textures/Menus/consumables/notificationSAM.tex",
+      "textures/menus/consumables/notificationsam.tex",
+      "Events/Hygiene/Textures/Menus/consumables/notificationSAM.tex",
+      "events/hygiene/textures/menus/consumables/notificationsam.tex"
+    ],
+    "sfx_packages": [
+      "EVENT_TOKEN_PACKAGE",
+      "MISSILE_PACKAGE",
+      "WORKER_PACKAGE",
+      "SAM_PACKAGE"
+    ]
+  },
+  "title_screen_settings": "hygiene"
+}

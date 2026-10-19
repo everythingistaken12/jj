@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"st_patricks_event_inactive",
+				"st_patricks_event_available"
+			],
+			"board": "st_patricks_event_upsell"
+		}			
+	]
+}

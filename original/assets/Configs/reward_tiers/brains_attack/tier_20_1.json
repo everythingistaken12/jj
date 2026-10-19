@@ -1,0 +1,15 @@
+{
+    "cost": 1,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_BETTY_BEEFPIES_HEAD_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/costumeBettyBeefpies.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/costumeBettyBeefpies.tex",
+    "backing_texture": "Events/BrainsAttack/Textures/Menus/eventInfo/brainsAttackLevelBackground.tex",
+    "frame_texture":"textures/menus/shared/buttonTitleGold.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "betty_beefpies_body",
+        "betty_beefpies_head"
+    ]
+}

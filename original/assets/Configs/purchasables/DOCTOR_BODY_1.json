@@ -1,0 +1,32 @@
+{
+    "reference_id": "DOCTOR_BODY",
+    "tags": [
+        "Body",
+        "One Time Offer",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_DOCTOR_SMOCKS_NAME",
+        "description": "ITEM_DOCTOR_SMOCKS_DESC",
+        "equipable": true,
+        "icon": "bodyDoctor",
+        "rewardOnly": {
+            "value": true,
+            "prereq": "VEHICLE_SKIN_BARRYBOX"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "DOCTOR_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

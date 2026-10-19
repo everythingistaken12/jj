@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 2500,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/ItemIcons/vehicleStPatricksSam.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleStPatricksSam.tex",
+        "display_description": "VEHICLE_SKIN_STPATRICKS_SAM_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "st_patricks_sam"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 975,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/headCeltic.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headCeltic.tex",
+        "display_description": "ITEM_CELTIC_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "celtic_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 975,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/headCeltic.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headCeltic.tex",
+        "display_description": "ITEM_CELTIC_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "celtic_head"
+        ]
+    }
+}

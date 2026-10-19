@@ -1,0 +1,25 @@
+{
+    "name": "Zigzag between 6 Zappers",
+    "requirement": "ZigZag between 6 zappers",
+    "retired": false,
+    "meta_data": {
+        "groupId": "58",
+        "difficulty": 1,
+        "icon": "slalom",
+        "hash": "SLALOM_ZAPPERS",
+        "showProgress": "true",
+        "skill_grind": "SKILL",
+        "probability": "60",
+        "tag2": "ZAPPERS"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "zigzag between",
+                "o": "zapper",
+                "s": "t",
+                "c": 6
+            }
+        ]
+    }
+}

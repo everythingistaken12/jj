@@ -1,0 +1,32 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"board": "special_offer_coin_pack_1"
+		},
+		{
+			"board": "special_offer_coin_pack_2"
+		},
+		{
+			"board": "special_offer_coin_pack_3"
+		},
+		{
+			"board": "special_offer_coin_pack_4"
+		},
+		{
+			"board": "special_offer_coin_pack_5"
+		},
+		{
+			"mediation": [
+				"not_purchased_counterfeit_machine"
+			],
+			"board": "special_offer_counterfeit_machine"
+		},
+		{
+			"mediation": [
+				"not_purchased_jetski"
+			],
+			"board": "special_offer_wave_rider"
+		}
+	]
+}

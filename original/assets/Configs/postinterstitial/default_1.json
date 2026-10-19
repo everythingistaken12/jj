@@ -1,0 +1,21 @@
+{
+  "enabled": false,
+  "cooldown": {
+    "type": "time",
+    "value": 300
+  },
+  "popups_per_session": 999,
+  "active_for_seconds": 604800,
+  "iaps": [
+    {
+      "store_id": "STARTER_PACK_BARRY",
+      "offer_texture": "textures/menus/offers/button_v1_pic4.tex",
+      "max_views": 2
+    },
+    {
+      "store_id": "COIN_PACK_TWO",
+      "offer_texture": "textures/menus/offers/button_v1_pic4.tex",
+      "max_views": 2
+    }
+  ]
+}

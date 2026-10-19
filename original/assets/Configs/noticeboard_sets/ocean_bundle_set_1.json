@@ -1,0 +1,22 @@
+{
+    "selector": "random",
+    "boards":
+    [
+        {
+            "mediation":
+            [
+                "not_purchased_seahorse",
+                "ocean_bundle_timer_running"
+            ],
+            "board": "special_offer_ocean_bundle"
+        },
+        {
+            "mediation":
+            [
+                "not_purchased_seahorse",
+                "ocean_bundle_discount_timer_running"
+            ],
+            "board": "special_offer_ocean_bundle_sale"
+        }
+    ]
+}

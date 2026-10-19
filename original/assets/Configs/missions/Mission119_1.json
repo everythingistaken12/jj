@@ -1,0 +1,22 @@
+{
+    "name": "Collect 3 Final Spin Tokens Total",
+    "requirement": "Collect 3 final spin tokens total",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "token",
+        "description": "MISSION_TOKEN_2",
+        "showProgress": "true",
+        "hash": "TOKENS_COLLECT_GAME"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "final spin token",
+                "s": "t",
+                "c": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_yellow_submarine",
+        "turbo_tidal_bundle_timer_running"
+      ],
+      "board": "special_offer_turbo_tidal_bundle"
+    }
+  ]
+}

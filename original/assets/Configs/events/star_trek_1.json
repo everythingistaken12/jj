@@ -1,0 +1,151 @@
+{
+  "EventDisplayName": "STAR_TREK_EVENT_RULES_TITLE",
+  "Filepath": "Events/StarTrek",
+  "Iconpath": "Events/StarTrek/Textures/Menus/Main/IconEvent.tex",
+  "ResultsIconPath": "Events/StarTrek/Textures/Menus/Results/logo.tex",
+  "BackingTexturePath": "Events/StarTrek/Textures/Menus/eventPopUp/eventWelcomeBG.tex",
+  "Statistic": "EVENTS_TOTAL_STAR_TREK_GAMES_PLAYED",
+  "currencyType": "star_trek_token",
+  "info_text_1": "EVENT_RULES_TEXT_1",
+  "info_text_2": "EVENT_RULES_TEXT_2",
+  "info_text_3": "",
+  "Overrides": {
+    "game_mode": "star_trek",
+    "noticeboardSchedule": "star_trek_schedule",
+    "rewardGroup": "star_trek_2022_3",
+    "analytics_event_name": "star_trek",
+    "leaderboard": "BEST_STAR_TREK",
+    "trigger_name": "star_trek",
+    "counter_name": "counterStarTrek",
+    "reload_sam": true,
+    "reload_worker": true,
+    "sam_music": "Music_SAMStarTrek",
+    "sam_music_starting_point": 0,
+    "skin_lil_stomper": "VEHICLE_SKIN_ST_MECH",
+    "skin_mr_cuddles": "VEHICLE_SKIN_ST_DRAGON",
+    "skin_profit_bird": "VEHICLE_SKIN_ST_BIRD",
+    "skin_crazy_freaking_teleporter": "VEHICLE_SKIN_ST_TELEPORTER",
+    "force_vehicles": [
+      "Bird",
+      "Mech",
+      "Teleporter",
+      "Dragon"
+    ],
+    "enable_eventTokens": true,
+    "eventToken_value": 0,
+    "eventToken_sparkleParticleEffect": "Coin_Token_Sparkle",
+    "eventToken_splashParticleEffect": "StarTrek_EventToken_Splash",
+    "eventToken_spawnRateMin": 7.5,
+    "eventToken_spawnRateMax": 3,
+    "eventToken_spawnRateLength": 75,
+    "eventToken_curveC0": [
+      0.55,
+      0.55
+    ],
+    "eventToken_curveC1": [
+      0.32,
+      0.1
+    ],
+    "eventToken_sprite": "textures/Entities/eventToken.xml",
+    "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+    "eventToken_angleSpeed": 5,
+    "eventToken_amplitude": 10,
+    "eventToken_velocityFactor": 125,
+    "missileTexture": "missileST.tex",
+    "missileEffectTexture": "missileSTEffects.tex",
+    "missileTrail": "missileSTTrail",
+    "missileTrailOffset": 0.0,
+    "missileExplosion": "missileExplosionST.tex",
+    "missileSFXLaunch": [
+      "event_missile_launch",
+      "event_missile_launch_1",
+      "event_missile_launch_2",
+      "event_missile_launch_3"
+    ],
+    "missileSFXExplode": [
+      "rocket_explode_1"
+    ],
+    "song_start_delay": 0.05,
+    "brickui_textures": [
+      "textures/logo/logo_barry.tex",
+      "textures/levels/Title/Objects/title_small.tex",
+      "textures/levels/Title/Objects/titleGlow_small.tex",
+      "Textures/Menus/Results/currencyToken.tex",
+      "Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "textures/menus/eventpopup/currencytoken_64.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "events/metalslug/textures/menus/eventpopup/currencytoken_64.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/eventWelcomeBG.tex",
+      "events/metalslug/textures/menus/eventpopup/eventwelcomeBG.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/eriBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/eribodycostume.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/fioBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/fiobodycostume.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/marcoBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/marcobodycostume.tex",
+      "Events/MetalSlug/Textures/Menus/eventPopUp/tarmaBodyCostume.tex",
+      "events/metalslug/textures/menus/eventpopup/tarmabodycostume.tex",
+      "Textures/Menus/consumables/notificationSAM.tex",
+      "textures/menus/consumables/notificationsam.tex",
+      "Events/MetalSlug/Textures/Menus/consumables/notificationSAM.tex",
+      "events/metalslug/textures/menus/consumables/notificationsam.tex"
+    ],
+    "sfx_packages": [
+      "EVENT_TOKEN_PACKAGE",
+      "STAR_TREK_MISSILE_PACKAGE",
+      "WORKER_PACKAGE",
+      "SAM_PACKAGE",
+      "ENVIRONMENT_PACKAGE"
+    ]
+  },
+  "RandomSkinOverrides": [
+    [
+      [
+        "JETPACK_STARSHIP"
+      ],
+      [
+        "JETPACK_PHASER"
+      ],
+      [
+        "JETPACK_BORGCUBE"
+      ]
+    ],
+    [
+      [
+        "PICARD_HEAD",
+        "PICARD_BODY"
+      ],
+      [
+        "KIRK_HEAD",
+        "KIRK_BODY"
+      ],
+      [
+        "SPOCK_HEAD",
+        "SPOCK_BODY"
+      ],
+      [
+        "WORF_HEAD",
+        "WORF_BODY"
+      ],
+      [
+        "DATA_HEAD",
+        "DATA_BODY"
+      ],
+      [
+        "JANEWAY_HEAD",
+        "JANEWAY_BODY"
+      ],
+      [
+        "BURNHAM_HEAD",
+        "BURNHAM_BODY"
+      ],
+      [
+        "LOCUTUS_HEAD",
+        "LOCUTUS_BODY"
+      ]
+    ]
+  ],
+  "purchased_items_weight": 3.0
+  ,
+  "title_screen_settings": "star_trek"
+}

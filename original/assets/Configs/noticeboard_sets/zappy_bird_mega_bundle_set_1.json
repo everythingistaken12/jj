@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_zappy_bird_mega_bundle"
+      ],
+      "board": "special_offer_zappy_bird_mega_bundle"
+    }
+  ]
+}

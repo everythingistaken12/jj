@@ -1,0 +1,21 @@
+{
+    "variants":
+    [
+        {
+            "type": "free",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins0.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 1500
+                }
+            ],
+            "backing_colour": "248,206,45,255",
+            "weight": 1
+        }
+    ]
+}
+

@@ -1,0 +1,26 @@
+{
+    "#default":
+    {
+        "cost": 750,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_MOTU_MANATARMS_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headManAtArms.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headManAtArms.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "motu_man_at_arms_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_MOTU_MAN_AT_ARMS_JETPACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackHemanManAtArmsJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackHemanManAtArmsJetpack.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_custom_man_at_arms_jetpack"
+        ]
+    }
+}

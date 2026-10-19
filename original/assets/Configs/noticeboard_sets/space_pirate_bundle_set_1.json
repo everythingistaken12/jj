@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_space_pirate_mech",
+				"space_pirate_bundle_bundle_timer_running"
+			],
+			"board": "special_offer_space_pirate_bundle"
+		}
+	]
+}

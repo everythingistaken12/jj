@@ -1,0 +1,28 @@
+{
+    "name": "Knock over 10 scientists with Little Stomper!",
+    "requirement": "Knock over 10 scientists with Mech",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 3,
+        "icon": "worker",
+        "hash": "SCIENTISTS_KNOCK_OVER",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "knock over",
+                "o": "scientist",
+                "s": "t",
+                "c": 10
+            },
+            {
+                "i": 3,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true,
+                "d": "destroy"
+            }
+        ]
+    }
+}

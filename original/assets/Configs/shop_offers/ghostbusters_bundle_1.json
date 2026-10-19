@@ -1,0 +1,17 @@
+{
+    "specialBundle": "ghostbusters_bundle",
+    "template": "template_4x2_backing",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0, 1.0],
+    "backingTexture": "textures/menus/bricknetupsell/GhostbustersEvent/Ghostbusters/backing.tex",
+    "itemImages": "specialBundleGhostbustersImages",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "conditions": [
+        [
+            {
+                "rewardSet": "ghostbusters_2021 < 10"
+            }
+        ]
+    ]
+}

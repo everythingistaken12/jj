@@ -1,0 +1,9 @@
+{
+    "specialBundle": "steakfries_revenge_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.2, 0.4,  0.7, 1.0],
+    "itemImages": "specialBundleSteakfriesRevengeImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

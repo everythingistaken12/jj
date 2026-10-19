@@ -1,0 +1,28 @@
+{
+    "reference_id": "JETPACK_POT_OF_GOLD",
+    "tags": [
+        "Jetpack",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_POTOFGOLD_NAME",
+        "description": "ITEM_JETPACK_POTOFGOLD_DESC",
+        "equipable": true,
+        "icon": "jetpackPOG",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_POT_OF_GOLD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

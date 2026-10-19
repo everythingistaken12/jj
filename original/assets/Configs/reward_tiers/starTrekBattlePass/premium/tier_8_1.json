@@ -1,0 +1,11 @@
+{
+	"cost": 750,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_WORF_HEAD_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/worfHeadCostume.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headWorf.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"worf_head"
+	]
+}

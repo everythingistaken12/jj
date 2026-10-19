@@ -1,0 +1,15 @@
+{
+    "selector": "random",
+    "boards":
+    [
+        {
+            "mediation":
+            [
+                "not_purchased_seahorse",
+                "not_purchased_pirate_jetski",
+                "pirate_ultimate_bundle_timer_running"
+            ],
+            "board": "special_offer_pirate_ultimate_bundle"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "stpatricks_2026_irish_myth_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_IRISH_MYTH_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_DULLAHAN == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "stpatricks_2026_irish_myth_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_IRISH_MYTH_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_DULLAHAN == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "stpatricks_2026_irish_myth_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_IRISH_MYTH_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_DULLAHAN == 0"
+			}
+		]
+	],
+	"store_id": "IRISH_MYTH_BUNDLE",
+	"timer_id": "stpatricks_2026_irish_myth_bundle",
+	"trigger_name": "irish_myth_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_IRISH_MYTH_BUNDLE_VIEWS"
+}

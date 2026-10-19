@@ -1,0 +1,89 @@
+{
+    "reference_id": "GB_GATE_KEEPER_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_GB_GATEKEEPER_BUNDLE_NAME",
+        "description": "todo",
+        "icon": "headGBGateKeeper",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_GB_MECH"
+    },
+    "additional_deliverables": {
+        "GB_GATE_KEEPER_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GB_GATE_KEEPER_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_GB_MECH": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_FILING_CABINET": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_HALLWAY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_LIBRARY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_WAREHOUSE": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_SUBWAY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_HALLWAY_LIBRARY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_HALLWAY_SUBWAY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_HALLWAY_HOTEL": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_MYSTIC_BUILDING": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_GB_HOTEL": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.gbgatekeeper.bundle",
+        "google_play_store": "com.halfbrick.jetpack.gbgatekeeper.bundle",
+        "brick_bucks_store": "gb_gate_keeper_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

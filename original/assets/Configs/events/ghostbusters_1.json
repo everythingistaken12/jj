@@ -1,0 +1,128 @@
+{
+  "EventDisplayName": "GHOSTBUSTERS_EVENT_RULES_TITLE",
+  "Filepath": "Events/Ghostbusters",
+  "Iconpath": "Events/Ghostbusters/Textures/Menus/Main/IconEvent.tex",
+  "ResultsIconPath": "Events/Ghostbusters/Textures/Menus/Results/logo.tex",
+  "BackingTexturePath": "Events/Ghostbusters/Textures/Menus/eventInfo/backing.tex",
+  "Statistic": "EVENTS_TOTAL_GHOSTBUSTERS_GAMES_PLAYED",
+  "currencyType": "ghostbusters_token",
+  "info_text_1": "EVENT_RULES_TEXT_1",
+  "info_text_2": "EVENT_RULES_TEXT_2",
+  "info_text_3": "",
+  "Overrides": {
+    "game_mode": "ghostbusters",
+    "GameRules": "Ghostbusters",
+    "noticeboardSchedule": "ghostbusters_schedule",
+    "rewardGroup": "ghostbusters_2023_2",
+    "analytics_event_name": "ghostbusters",
+    "leaderboard": "BEST_GHOSTBUSTERS",
+    "trigger_name": "ghostbusters",
+    "reload_sam": true,
+    "reload_worker": true,
+    "sam_music": "Music_SAMGhostBusters",
+    "sam_music_starting_point": 0,
+    "robot_dog_ground_height": -121,
+    "force_vehicles": [
+      "Mech",
+      "GravitySuit",
+      "Dragon",
+      "Ecto"
+    ],
+    "skin_lil_stomper": "VEHICLE_SKIN_GB_MECH",
+    "skin_mr_cuddles": "VEHICLE_SKIN_GB_DRAGON",
+    "skin_gravity_suit": "VEHICLE_SKIN_GB_GOZER",
+    "skin_ecto": "VEHICLE_SKIN_ECTO_AFTERLIFE",
+    "enable_eventTokens": true,
+    "eventToken_value": 0,
+    "eventToken_sparkleParticleEffect": "Ghostbusters_Token_Sparkle",
+    "eventToken_splashParticleEffect": "Ghostbusters_EventToken_Splash",
+    "eventToken_spawnRateMin": 7.5,
+    "eventToken_spawnRateMax": 3,
+    "eventToken_spawnRateLength": 75,
+    "eventToken_curveC0": [
+      0.55,
+      0.55
+    ],
+    "eventToken_curveC1": [
+      0.32,
+      0.1
+    ],
+    "eventToken_sprite": "textures/Entities/eventToken.xml",
+    "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+    "eventToken_angleSpeed": 5,
+    "eventToken_amplitude": 10,
+    "eventToken_velocityFactor": 125,
+    "missileTexture": "missileGB.tex",
+    "missileEffectTexture": "missileGBEffects.tex",
+    "missileTrail": "missileGBTrail",
+    "missileTrailOffset": 0.0,
+    "missileExplosion": "missileExplosionGB.tex",
+    "missileSFXLaunch": [
+      "event_missile_launch"
+    ],
+    "missileSFXExplode": [
+      "event_missile_explode_1",
+      "event_missile_explode_2",
+      "event_missile_explode_3"
+    ],
+    "missileSFXWarning": "missile_warning",
+    "song_start_delay": 0.05,
+    "brickui_textures": [
+      "textures/logo/logo_barry.tex",
+      "textures/levels/Title/Objects/title_small.tex",
+      "textures/levels/Title/Objects/titleGlow_small.tex",
+      "Textures/Menus/Results/currencyToken.tex",
+      "Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "textures/menus/eventpopup/currencytoken_64.tex"
+    ],
+    "event_atlas_textures_upscale": [
+      "textures/Characters/Barry/GBLogoGhostBody.tex",
+      "textures/Characters/Barry/GBLogoGhostHead.tex"
+    ],
+    "sfx_packages": [
+      "EVENT_TOKEN_PACKAGE",
+      "GHOSTBUSTERS_MISSILE_PACKAGE",
+      "WORKER_PACKAGE",
+      "SAM_PACKAGE",
+      "GHOST_BUSTERS_ENVIRONMENT_PACKAGE"
+    ]
+  },
+  "RandomSkinOverrides": [
+    [
+      [
+        "JETPACK_PROTON"
+      ],
+      [
+        "JETPACK_FILING_CABINET"
+      ],
+      [
+        "JETPACK_SLIME_BLOWER"
+      ],
+      [
+        "JETPACK_SLIMER"
+      ],
+      [
+        "JETPACK_CUSTOM_MUNCHER"
+      ]
+    ],
+    [
+      [
+        "GB_GHOSTBUSTER_HEAD",
+        "GB_GHOSTBUSTER_BODY"
+      ],
+      [
+        "GB_GATE_KEEPER_HEAD",
+        "GB_GATE_KEEPER_BODY"
+      ],
+      [
+        "GB_KEY_MASTER_HEAD",
+        "GB_KEY_MASTER_BODY"
+      ],
+      [
+        "GB_GROOBERSON_HEAD",
+        "GB_GROOBERSON_BODY"
+      ]
+    ]
+  ],
+  "title_screen_settings": "ghostbusters"
+}

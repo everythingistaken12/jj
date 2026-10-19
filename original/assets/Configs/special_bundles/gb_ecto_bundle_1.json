@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "gb_2023_2_ecto_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_GB_ECTO_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ECTO == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "gb_2023_2_ecto_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_GB_ECTO_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ECTO == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "gb_2023_2_ecto_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_GB_ECTO_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ECTO == 0"
+			}
+		]
+	],
+	"store_id": "GB_ECTO_BUNDLE",
+	"timer_id": "gb_2023_2_ecto_bundle",
+	"trigger_name": "gb_ecto_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_GB_ECTO_VIEWS"
+}

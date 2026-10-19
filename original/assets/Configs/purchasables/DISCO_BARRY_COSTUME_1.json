@@ -1,0 +1,42 @@
+{
+  "reference_id": "DISCO_BARRY_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_DISCO_BARRY_HEAD_NAME",
+    "description": "ITEM_DISCO_BARRY_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeDisco",
+    "isNew": true,
+    "hideWhen": "DISCO_BARRY_HEAD"
+  },
+  "additional_deliverables": {
+    "DISCO_BARRY_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISCO_BARRY_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.discobarrycostume",
+    "google_play_store": "com.halfbrick.jetpack.discobarrycostume",
+    "brick_bucks_store": "discobarry_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

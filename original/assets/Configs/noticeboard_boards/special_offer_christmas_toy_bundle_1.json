@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Christmas_Toy_Bundle",
+    "screen": "NoticeboardChristmasToyBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "CHRISTMAS_TOY_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

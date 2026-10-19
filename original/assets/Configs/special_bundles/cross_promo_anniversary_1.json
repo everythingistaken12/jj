@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "anniversary_2026_cross_promo_anniversary"
+			},
+			{
+				"statistic": "CROSS_PROMO_ANNIVERSARY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			}
+		],
+		[
+			{
+				"timerRunning": "anniversary_2026_cross_promo_anniversary"
+			},
+			{
+				"statistic": "CROSS_PROMO_ANNIVERSARY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			}
+		],
+		[
+			{
+				"timerRunning": "anniversary_2026_cross_promo_anniversary"
+			},
+			{
+				"statistic": "CROSS_PROMO_ANNIVERSARY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			}
+		]
+	],
+	"store_id": "CROSS_PROMO_ANNIVERSARY",
+	"timer_id": "anniversary_2026_cross_promo_anniversary",
+	"trigger_name": "cross_promo_anniversary",
+	"statistic_prefix": "CROSS_PROMO_ANNIVERSARY_VIEWS"
+}

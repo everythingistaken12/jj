@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SUPERHEADSTART8PACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/superskipx3.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/superskipx3.tex",
+        "rewards_quantity": 8,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "super_headstart_x8"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1080,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_MANDARIN_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackMandarin.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackMandarin.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_mandarin"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1080,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_MANDARIN_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackMandarin.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackMandarin.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_mandarin"
+        ]
+    }
+}

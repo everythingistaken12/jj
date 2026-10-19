@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 25,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "7777_COINS",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+        "rewards_quantity": 1,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "coin_pack_7777"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyIrishPunk.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyIrishPunk.tex",
+        "display_description": "ITEM_IRISH_PUNK_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "irish_punk_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyIrishPunk.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyIrishPunk.tex",
+        "display_description": "ITEM_IRISH_PUNK_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "irish_punk_body"
+        ]
+    }
+}

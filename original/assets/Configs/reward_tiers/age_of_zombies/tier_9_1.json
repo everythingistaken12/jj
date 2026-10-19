@@ -1,0 +1,35 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 675,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_ZOMBIE_CAVEMAN_BODY_NAME",	
+	"rewards_texture": "textures/menus/shop/itemicons/bodyZombieCaveman.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyZombieCaveman.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"zombie_caveman_body"
+	]
+    },
+    "#AppleArcade":
+    {
+        "cost": 675,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_ZOMBIE_CAVEMAN_BODY_NAME",	
+	"rewards_texture": "textures/menus/shop/itemicons/bodyZombieCaveman.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyZombieCaveman.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"zombie_caveman_body"
+	]
+    },
+	"cost": 750,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_QUICKREVIVE10PACK_NAME",	
+	"rewards_texture": "textures/menus/shop/itemicons/reviveX10.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/reviveX10.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"revive_x10"
+	]
+}

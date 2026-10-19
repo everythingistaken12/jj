@@ -1,0 +1,60 @@
+{
+    "reference_id": "CHINESE_NEW_YEAR_BUNDLE_DISCOUNT",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "CNY_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "iconCnyPack",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_CNY_DRAGON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CNY_FEMALE_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CNY_FEMALE_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_FIREWORKS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "ChineseNewYearBundleDiscountOneTime": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 8888
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.chinese.new.year.discount",
+        "google_play_store": "com.halfbrick.jetpack.chinese.new.year.discount",
+        "brick_bucks_store": "chinese_new_year_bundle_discount"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

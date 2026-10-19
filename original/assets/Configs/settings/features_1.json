@@ -1,0 +1,448 @@
+{
+    "ios": {
+        "enabled": true,
+        "conditions": [
+            {
+                "sku": "iOS"
+            }
+        ]
+    },
+    "android": {
+        "enabled": true,
+        "conditions": [
+            {
+                "sku": "Android,Amazon,AmazonHenry"
+            }
+        ]
+    },
+    "amazon": {
+        "enabled": true,
+        "conditions": [
+            {
+                "sku": "Amazon,AmazonHenry"
+            }
+        ]
+    },
+    "amazon_henry": {
+        "enabled": true,
+        "conditions": [
+            {
+                "sku": "AmazonHenry"
+            }
+        ]
+    },
+    "tvos": {
+        "enabled": true,
+        "conditions": [
+            {
+                "sku": "TVOS"
+            }
+        ]
+    },
+    "pause_no_missions": {
+        "enabled": false
+    },
+    "starter_pack": {
+        "enabled": true,
+        "meta": {
+            "spaces": {
+                "title_on_day_one": {
+                    "location": "title",
+                    "daysPlayed": 1,
+                    "gamesPlayedToday": 0
+                },
+                "results_after_3_games_day_0": {
+                    "location": "results",
+                    "daysPlayed": 0,
+                    "gamesPlayedToday": 3
+                }
+            },
+            "starterPackStoreID": "STARTER_PACK_BARRY",
+            "timer": "StarterPack",
+            "pushMessage": "PUSH_STARTER_PACK_EXPIRING",
+            "hoursRemainingToPush": 1,
+            "specialBundle": "starter_pack"
+        }
+    },
+    "purchase_headstarts": {
+        "enabled": true,
+        "meta": {
+            "first_normal": true,
+            "first_super": true
+        }
+    },
+    "disable_stash_utilities": {
+        "enabled": false
+    },
+    "purchase_missions": {
+        "enabled": true,
+        "meta": {
+            "costPerStar": 500,
+            "isPerStar": true
+        }
+    },
+    "level_affects_mission_stars": {
+        "enabled": true,
+        "meta": {
+            "extraStars": [
+                {
+                    "rankStart": 30,
+                    "rankEnd": 39,
+                    "extraStars": 1
+                },
+                {
+                    "rankStart": 40,
+                    "rankEnd": 49,
+                    "extraStars": 2
+                },
+                {
+                    "rankStart": 50,
+                    "rankEnd": 59,
+                    "extraStars": 3
+                },
+                {
+                    "rankStart": 60,
+                    "rankEnd": 69,
+                    "extraStars": 4
+                },
+                {
+                    "rankStart": 70,
+                    "rankEnd": 79,
+                    "extraStars": 5
+                },
+                {
+                    "rankStart": 80,
+                    "rankEnd": 89,
+                    "extraStars": 6
+                },
+                {
+                    "rankStart": 90,
+                    "rankEnd": 100,
+                    "extraStars": 7
+                }
+            ]
+        }
+    },
+    "purchase_revives": {
+        "enabled": true,
+        "meta": {}
+    },
+    "force_into_event": {
+        "enabled": false
+    },
+    "show_event_rules": {
+        "enabled": true,
+        "meta": {
+            "halloween": {
+                "eventName": "halloween",
+                "locations": [
+                    "title_eventChanged"
+                ],
+                "hasForced": false,
+                "forcedConditions": []
+            },
+            "stpatricks": {
+                "eventName": "StPatricks",
+                "locations": {
+                    "title_eventChanged": {
+                        "statistic": "RULES_ST_PATRICKS_DAY_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "eventRunning": "StPatricks"
+                                },
+                                {
+                                    "statistic": "RULES_ST_PATRICKS_DAY_VIEWS_TODAY == 0"
+                                }
+                            ]
+                        ]
+                    },
+                    "title": {
+                        "statistic": "RULES_ST_PATRICKS_DAY_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "eventRunning": "StPatricks"
+                                },
+                                {
+                                    "statistic": "RULES_ST_PATRICKS_DAY_VIEWS_TODAY == 0"
+                                }
+                            ]
+                        ]
+                    },
+                    "results": {
+                        "statistic": "RULES_ST_PATRICKS_DAY_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "isEventAvailable": "StPatricks"
+                                },
+                                {
+                                    "statistic": "RULES_ST_PATRICKS_DAY_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 0"
+                                },
+                                {
+                                    "statistic": "GAMES_PLAYED_TODAY >= 10"
+                                }
+                            ],
+                            [
+                                {
+                                    "isEventAvailable": "StPatricks"
+                                },
+                                {
+                                    "statistic": "RULES_ST_PATRICKS_DAY_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 1"
+                                },
+                                {
+                                    "statistic": "GAMES_PLAYED_TODAY >= 5"
+                                }
+                            ]
+                        ]
+                    }
+                }
+            },
+            "easter": {
+                "eventName": "Easter",
+                "locations": {
+                    "title_eventChanged": {
+                        "statistic": "RULES_EASTER_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "eventRunning": "Easter"
+                                }
+                            ]
+                        ]
+                    },
+                    "title": {
+                        "statistic": "RULES_EASTER_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "eventRunning": "Easter"
+                                },
+                                {
+                                    "statistic": "RULES_EASTER_VIEWS_TODAY == 0"
+                                }
+                            ],
+                            [
+                                {
+                                    "isEventAvailable": "Easter"
+                                },
+                                {
+                                    "statistic": "RULES_EASTER_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 1"
+                                }
+                            ],
+                            [
+                                {
+                                    "isEventAvailable": "Easter"
+                                },
+                                {
+                                    "statistic": "RULES_EASTER_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL >= 2"
+                                }
+                            ]
+                        ]
+                    },
+                    "results": {
+                        "statistic": "RULES_EASTER_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "isEventAvailable": "Easter"
+                                },
+                                {
+                                    "statistic": "RULES_EASTER_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 0"
+                                },
+                                {
+                                    "statistic": "GAMES_PLAYED_TODAY >= 5"
+                                }
+                            ],
+                            [
+                                {
+                                    "isEventAvailable": "Easter"
+                                },
+                                {
+                                    "statistic": "RULES_EASTER_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 1"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                "displayStatistic": "RULES_EASTER_VIEWS_TODAY",
+                "hasForced": false,
+                "forcedConditions": []
+            },
+            "pirate": {
+                "eventName": "Pirate",
+                "locations": {
+                    "title_eventChanged": {
+                        "statistic": "RULES_PIRATE_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "eventRunning": "Pirate"
+                                }
+                            ]
+                        ]
+                    },
+                    "title": {
+                        "statistic": "RULES_PIRATE_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "eventRunning": "Pirate"
+                                },
+                                {
+                                    "statistic": "RULES_PIRATE_VIEWS_TODAY == 0"
+                                }
+                            ],
+                            [
+                                {
+                                    "isEventAvailable": "Pirate"
+                                },
+                                {
+                                    "statistic": "RULES_PIRATE_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 1"
+                                }
+                            ],
+                            [
+                                {
+                                    "isEventAvailable": "Pirate"
+                                },
+                                {
+                                    "statistic": "RULES_PIRATE_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL >= 2"
+                                }
+                            ]
+                        ]
+                    },
+                    "results": {
+                        "statistic": "RULES_PIRATE_VIEWS_TODAY",
+                        "conditions": [
+                            [
+                                {
+                                    "isEventAvailable": "Pirate"
+                                },
+                                {
+                                    "statistic": "RULES_PIRATE_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 0"
+                                },
+                                {
+                                    "statistic": "GAMES_PLAYED_TODAY >= 5"
+                                }
+                            ],
+                            [
+                                {
+                                    "isEventAvailable": "Pirate"
+                                },
+                                {
+                                    "statistic": "RULES_PIRATE_VIEWS_TODAY == 0"
+                                },
+                                {
+                                    "statistic": "DAYS_SINCE_INSTALL == 1"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                "displayStatistic": "RULES_PIRATE_VIEWS_TODAY",
+                "hasForced": false,
+                "forcedConditions": []
+            }
+        }
+    },
+    "rate_it_now": {
+        "enabled": true,
+        "meta": {
+            "minDaysPlayed": -1,
+            "maxDaysPlayed": -1,
+            "minDistance": -1,
+            "maxDistance": -1,
+            "minGamesPlayed": 5,
+            "maxGamesPlayed": -1,
+            "minPlayTime": 300
+        }
+    },
+    "show_christmas_theme": {
+        "enabled": true,
+        "conditions": [
+            {
+                "dateRange": "2016/12/01T00:00+10:00-2017/01/05T00:00+10:00"
+            }
+        ]
+    },
+    "show_anniversary_theme": {
+        "enabled": true,
+        "conditions": [
+            {
+                "eventRunning": "Anniversary"
+            }
+        ]
+    },
+    "show_chinese_new_year_theme": {
+        "enabled": true,
+        "conditions": [
+            {
+                "dateRange": "2017/01/25T00:00-2017/02/12T23:59"
+            }
+        ]
+    },
+    "show_st_patricks_theme": {
+        "enabled": true,
+        "conditions": [
+            {
+                "eventRunning": "StPatricks"
+            }
+        ]
+    },
+    "show_easter_theme": {
+        "enabled": true,
+        "conditions": [
+            {
+                "eventRunning": "Easter"
+            }
+        ]
+    },
+    "on_death_admob": {
+        "enabled": true,
+        "meta": {
+            "adSpace": "ON_DEATH_ADMOB_ONLY"
+        }
+    },
+    "double_event_tokens": {
+        "enabled": true,
+        "meta": {
+            "tokenMultiplier": 2
+        },
+        "conditions": [
+            {
+                "dateRange": "2018/04/06T16:00-2018/04/09T23:59"
+            }
+        ]
+    },
+    "enable_purchaseDisableAdsText": {
+        "enabled": true
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "reference_id": "MATRIX_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_MATRIX_HEAD_NAME",
+        "description": "ITEM_MATRIX_HEAD_DESC",
+        "equipable": true,
+        "icon": "headMatrix",
+        "startWeek": 31
+    },
+    "payment_methods": {
+        "jetpack_store": "MATRIX_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 8
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 8
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

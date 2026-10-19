@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "st_patricks_2024_st_patricks_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_ST_PATRICKS_DAY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CELTIC_TELEPORTER == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "st_patricks_2024_st_patricks_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_ST_PATRICKS_DAY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CELTIC_TELEPORTER == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "st_patricks_2024_st_patricks_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_ST_PATRICKS_DAY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CELTIC_TELEPORTER == 0"
+			}
+		]
+	],
+	"store_id": "ST_PATRICKS_DAY_BUNDLE_DISCOUNT",
+	"timer_id": "st_patricks_2024_st_patricks_bundle_discount",
+	"trigger_name": "stPatricks_discount",
+	"statistic_prefix": "SPECIAL_BUNDLE_ST_PATRICKS_DAY_VIEWS"
+}

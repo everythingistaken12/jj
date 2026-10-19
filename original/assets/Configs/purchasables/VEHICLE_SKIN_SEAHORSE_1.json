@@ -1,0 +1,33 @@
+{
+    "reference_id": "VEHICLE_SKIN_SEAHORSE",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Mech"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_SEAHORSE_NAME",
+        "description": "VEHICLE_SKIN_SEAHORSE_DESC",
+        "equipable": true,
+        "icon": "vehicleMechSeaHorse",
+        "isSkin": true,
+        "vehicleType": "Mech",
+        "defaultSkin": false,
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_SEAHORSE"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

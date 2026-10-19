@@ -1,0 +1,40 @@
+{
+    "reference_id": "VEHICLE_ECTO_AFTERLIFE",
+    "tags": [
+        "prepurchase",
+        "premium",
+        "Upgrades",
+        "bundle",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ECTO_AFTERLIFE_NAME",
+        "description": "VEHICLE_SKIN_ECTO_AFTERLIFE_DESC",
+        "icon": "vehicleEctoAfterlife",
+        "hideWhen": "VEHICLE_SKIN_ECTO_AFTERLIFE"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_ECTO": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_ECTO_AFTERLIFE": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.ectoafterlifevehicle",
+        "google_play_store": "com.halfbrick.jetpack.ectoafterlifevehicle",
+        "brick_bucks_store": "vehicle_ectoafterlife"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

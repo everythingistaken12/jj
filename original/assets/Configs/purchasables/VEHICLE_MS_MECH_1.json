@@ -1,0 +1,40 @@
+{
+    "reference_id": "VEHICLE_MS_MECH",
+    "tags": [
+        "prepurchase",
+        "Upgrades",
+        "bundle",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MS_MECH_NAME",
+        "description": "VEHICLE_SKIN_MS_MECH_DESC",
+        "icon": "vehicleMechMS",
+        "hidden": true,
+        "hideWhen": "VEHICLE_SKIN_MS_MECH"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_MS_MECH": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.msmech",
+        "google_play_store": "com.halfbrick.jetpack.msmech",
+        "brick_bucks_store": "vehicle_ms_mech"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

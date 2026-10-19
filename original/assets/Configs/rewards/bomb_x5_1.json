@@ -1,0 +1,7 @@
+{
+	"type": "item",
+	"item_id": "CONSUMABLE_BOMB",
+	"display_name": "ITEM_FINALBLAST3PACK_NAME",
+	"quantity": 5,
+	"icon": "textures/menus/shop/ItemIcons/bombX3.tex"
+}

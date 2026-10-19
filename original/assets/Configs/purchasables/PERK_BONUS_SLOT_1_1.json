@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_BONUS_SLOT_1",
+    "tags": [
+        "Gadget",
+        "tier2"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_BONUS_SLOT_NAME",
+        "description": "PERK_BONUS_SLOT_DESC",
+        "icon": "tokenGift",
+        "equipable": true,
+        "unequipable": true
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_BONUS_SLOT_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 10
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 10
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

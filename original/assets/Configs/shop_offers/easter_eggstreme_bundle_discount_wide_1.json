@@ -1,0 +1,10 @@
+{
+    "specialBundle": "easter_eggstreme_bundle_discount",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.984, 0.341, 0.969, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/EasterEvent/EasterIslandBundle/carrotLauncherJetpack.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

@@ -1,0 +1,47 @@
+{
+    "conditions": [
+        [
+            {
+                "timerRunning": "daily_rv_tiers"
+            },
+            {
+                "statistic": "DAILY_REWARD_TIERS_VIEWS_TODAY == 0"
+            },
+            {
+                "statistic": "DAYS_SINCE_INSTALL == 0"
+            },
+            {
+                "statistic": "GAMES_PLAYED_TODAY >= 4"
+            }
+        ],
+        [
+            {
+                "timerRunning": "daily_rv_tiers"
+            },
+            {
+                "statistic": "DAILY_REWARD_TIERS_VIEWS_TODAY == 0"
+            },
+            {
+                "statistic": "DAYS_SINCE_INSTALL == 1"
+            },
+            {
+                "statistic": "GAMES_PLAYED_TODAY >= 3"
+            }
+        ],
+        [
+            {
+                "timerRunning": "daily_rv_tiers"
+            },
+            {
+                "statistic": "DAILY_REWARD_TIERS_VIEWS_TODAY == 0"
+            },
+            {
+                "statistic": "DAYS_SINCE_INSTALL >= 2"
+            }
+        ]
+    ],
+    "store_id": "",
+    "timer_id": "daily_rv_tiers",
+    "popup_name": "DailyRewardTiers",
+    "statistic_prefix": "DAILY_REWARD_TIERS_VIEWS"
+}

@@ -1,0 +1,37 @@
+{
+    "reference_id": "YOUTUBE_COINS",
+    "tags": [
+        "premium",
+        "Bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINS_YOUTUBE_NAME",
+        "description": "ITEM_COINS_YOUTUBE_DESC",
+        "icon": "youtube",
+        "coins": 1000,
+        "metadata": {
+            "link": "youtube://user/HalfbrickStudios",
+            "backupLink": "http://bit.ly/19DdaKX"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "1000"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "YOUTUBE_COINS"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

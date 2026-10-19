@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_StarTrekJetpackBundle",
+    "screen": "NoticeBoardStarTrekJetpackBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "STAR_TREK_JETPACK_BUNDLE"
+}

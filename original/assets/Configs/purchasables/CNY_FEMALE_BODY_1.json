@@ -1,0 +1,31 @@
+{
+    "reference_id": "CNY_FEMALE_BODY",
+    "tags": [
+        "premium",
+        "bundle",
+        "excludeFromRandom",
+        "Body",
+        "hidden"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CNY_FEMALE_BODY_NAME",
+        "description": "ITEM_CNY_FEMALE_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyCnyFemale",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "CNY_FEMALE_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "reference_id": "DEFAULT_BODY",
+    "tags": [
+        "Body",
+        "Fashion"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 1,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BARRYSSUIT_NAME",
+        "description": "ITEM_BARRYSSUIT_DESC",
+        "equipable": true,
+        "icon": "bodyDefault",
+        "startWeek": 0
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

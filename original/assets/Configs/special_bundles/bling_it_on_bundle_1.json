@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "bling_it_on_2026_2_bling_it_on_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BLING_IT_ON_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_GOLD_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "bling_it_on_2026_2_bling_it_on_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BLING_IT_ON_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_GOLD_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "bling_it_on_2026_2_bling_it_on_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BLING_IT_ON_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_GOLD_SAM == 0"
+			}
+		]
+	],
+	"store_id": "BLING_IT_ON_BUNDLE",
+	"timer_id": "bling_it_on_2026_2_bling_it_on_bundle",
+	"trigger_name": "bling_it_on_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_BLING_IT_ON_VIEWS"
+}

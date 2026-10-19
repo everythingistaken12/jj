@@ -1,0 +1,10 @@
+{
+    "storeId": "PREMIUM_MACHINE",
+    "template": "template_1x1",
+    "tileWidth": 1,
+    "tileHeight": 1,
+    "backingColor": [1.0, 0.6, 0.1, 1.0],
+    "foregroundIcon": "textures/menus/shop/coinPile.tex",
+    "infoText": "SHOP_BUTTON_BUY_NOW",
+	"enableIf": "offerwall"
+}

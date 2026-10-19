@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_TMNT_Jetpack_Bundle",
+    "screen": "NoticeBoardTMNTJetpackBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "TMNT_JETPACK_BUNDLE"
+}

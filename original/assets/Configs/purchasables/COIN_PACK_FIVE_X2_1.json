@@ -1,0 +1,52 @@
+{
+    "reference_id": "COIN_PACK_FIVE_X2",
+    "tags":
+    [
+        "coinpack",
+        "Premium",
+        "Bundle",
+        "consumable"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas":
+    {
+        "name": "ITEM_COINPACK_FIVE_NAME",
+        "description": "ITEM_COINPACK_FIVE_DESC",
+        "icon": "coins5",
+        "coins": 3000000,
+        "showX2Bonus": true,
+        "nameNoCoins": "ITEM_COINPACK_FIVE_NAME_NONUMBER",
+        "hideWhen": "COIN_PACK_FIVE_X2",
+        "metadata":
+        {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables":
+    {
+        "coins":
+        {
+            "is_currency": true,
+            "value": 3000000
+        }
+    },
+    "payment_methods":
+    {
+        "apple_store": "com.halfbrick.jetpack.coinpackfivex2",
+        "google_play_store": "com.halfbrick.jetpack.coinpackfivex2",
+        "brick_bucks_store": "coin_pack_fivex2"
+    },
+    "skus":
+    [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

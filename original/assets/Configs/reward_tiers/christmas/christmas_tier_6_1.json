@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 250,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_ELF_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headElf.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headElf.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "elf_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SANTASUIT_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodySanta.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodySanta.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "santa_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SANTASUIT_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodySanta.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodySanta.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "santa_body"
+        ]
+    }
+}

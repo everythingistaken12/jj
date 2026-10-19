@@ -1,0 +1,19 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_vampire",
+				"spooky_bundle_timer_running"
+			],
+			"board": "special_offer_spooky_bundle"
+		},
+		{
+			"mediation": [
+				"not_purchased_vampire",
+				"spooky_bundle_discount_timer_running"
+			],
+			"board": "special_offer_spooky_bundle"
+		}		
+	]
+}

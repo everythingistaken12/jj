@@ -1,0 +1,10 @@
+{
+    "specialBundle": "nature_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.141, 0.741, 0.263, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/StPatricksEvent/StPatricks/specialBundleStPatricks2019Jetpack_Unicorn.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

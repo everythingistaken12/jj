@@ -1,0 +1,10 @@
+{
+    "specialBundle": "easter_fluffy_bundle",
+    "template": "template_2x2_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0],
+    "itemImages": "specialBundleEasterFluffyImages_preview",
+    "backingTexture": "textures/menus/bricknetUpsell/EasterEvent/easter/backing.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

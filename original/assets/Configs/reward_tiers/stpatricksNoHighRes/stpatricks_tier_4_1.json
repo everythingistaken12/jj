@@ -1,0 +1,12 @@
+{
+    "cost": 100,
+    "display_name": "REWARD_UNLOCK",
+    "rewards_texture": "textures/menus/shop/itemicons/headDruid.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/headDruid.tex",
+    "display_description": "ITEM_DRUIDHEAD_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "druid_head"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"thanksgiving_event_available",
+				"thanksgiving_event_inactive"
+			],
+			"board": "thanksgiving_event_upsell"
+		}			
+	]
+}

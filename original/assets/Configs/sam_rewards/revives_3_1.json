@@ -1,0 +1,8 @@
+{
+	"type": "item",
+	"name": "CONSUMABLE_REVIVE",
+	"quantity": 3,
+	"icon": "textures/menus/shop/ItemIcons/revive.tex",
+	"text": "DC_REWARDS_REVIVE_4",
+	"tweet": "SAM_CHALLENGE_SOCIAL_QUICK_REVIVE_1"
+}

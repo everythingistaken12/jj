@@ -1,0 +1,8 @@
+{
+    "icon": "collect3vehicletokens_icon.png",
+    "missionName": "test",
+    "missionDescription": "test",
+    "missionLua": "test.lua",
+    "rewardTokens": 2,
+    "difficulty": 2
+}

@@ -1,0 +1,8 @@
+{
+	"enabled": false,
+	"limit_per_lifetime": 50,
+	"title": "Test Title",
+	"message": "Test message",
+	"confirm_button": "NOTIFICATIONS_SOFT_PROMPT_GENERIC_CONFIRM",
+	"later_button": "NOTIFICATIONS_SOFT_PROMPT_GENERIC_LATER"
+}

@@ -1,0 +1,9 @@
+{
+    "specialBundle": "starter_pack",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.973, 0.808, 0.176, 1.0],
+    "itemImages": "purchaseStarterPackImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

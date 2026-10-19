@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"tmnt_event_available",
+				"tmnt_event_inactive"
+			],
+			"board": "tmnt_event_upsell"
+		}			
+	]
+}

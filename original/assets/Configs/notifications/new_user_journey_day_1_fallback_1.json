@@ -1,0 +1,14 @@
+{
+	"category": "new_user_journey_d1f",
+	"priority": 1000,
+	"message": "PUSH_NEW_USER_D1_FALLBACK",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 172800
+	},
+	"condition" : "new_user_journey_day_1_check"
+}

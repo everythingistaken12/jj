@@ -1,0 +1,42 @@
+{
+    "reference_id": "VEHICLE_SKIN_MECHAMICRO",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Bird"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MECHAMICRO_NAME",
+        "description": "VEHICLE_SKIN_MECHAMICRO_DESC",
+        "equipable": true,
+        "icon": "vehicleBirdMicro",
+        "isSkin": true,
+        "vehicleType": "Bird",
+        "defaultSkin": false,
+        "oneTimeCostumeOffer": {
+            "headID": "CRAB_HEAD",
+            "bodyID": "CRAB_BODY",
+            "setID": "CRAB_COSTUME"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_MECHAMICRO"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 26
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 26
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

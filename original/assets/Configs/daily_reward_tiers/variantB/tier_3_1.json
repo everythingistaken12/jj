@@ -1,0 +1,53 @@
+{
+    "variants":
+    [
+        {
+            "type": "purchasable",
+            "purchasable_id": "CONSUMABLES_BUNDLE",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/bricknetUpsell/hearts.tex",
+                    "display_description": "SS_BUNDLE_BTTF_COMBO",
+                    "reward": "revive",
+                    "amount": 5
+                }
+            ],
+            "backing_colour": "255,108,108,255",
+            "weight": 1
+        },
+        {
+            "type": "purchasable",
+            "purchasable_id": "CONSUMABLES_BUNDLE",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/bricknetUpsell/hearts.tex",
+                    "display_description": "SS_BUNDLE_BTTF_COMBO",
+                    "reward": "revive",
+                    "amount": 10
+                }
+            ],
+            "backing_colour": "255,108,108,255",
+            "weight": 1
+        },
+        {
+            "type": "purchasable",
+            "purchasable_id": "CONSUMABLES_BUNDLE",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins1.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 10000
+                }
+            ],
+            "backing_colour": "248,206,45,255",
+            "weight": 1
+        }
+    ]
+}

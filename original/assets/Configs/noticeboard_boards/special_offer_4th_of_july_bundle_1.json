@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_4thofJuly",
+    "screen": "NoticeBoard4thofJulyBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "4TH_OF_JULY_BUNDLE"
+}

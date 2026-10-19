@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_NatureBundle",
+    "screen": "NoticeboardNaturesPack",
+    "on_show_event": "specialOffer",
+    "item_id": "NatureBundle"
+}

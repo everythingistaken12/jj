@@ -1,0 +1,23 @@
+{
+    "reference_id": "JETPACK_CUSTOM_GOLD_FRUIT",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_CUSTOM_GOLD_FRUIT_NAME",
+        "description": "ITEM_JETPACK_CUSTOM_GOLD_FRUIT_DESC",
+        "equipable": true,
+        "icon": "jetpackGoldFruit",
+        "hidden": true
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

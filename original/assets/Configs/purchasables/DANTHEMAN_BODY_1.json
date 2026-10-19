@@ -1,0 +1,29 @@
+{
+    "reference_id": "DANTHEMAN_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_DANTHEMAN_BODY_NAME",
+    "description": "ITEM_DANTHEMAN_BODY_DESC",
+    "equipable": true,
+    "icon": "bodyDan",
+    "hidden": true
+  },
+    "payment_methods": {
+    "jetpack_store": "DANTHEMAN_BODY"
+},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

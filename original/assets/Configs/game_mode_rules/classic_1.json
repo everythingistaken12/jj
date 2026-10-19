@@ -1,0 +1,27 @@
+{
+  "headstarts_enabled": true,
+  "blasts_enabled": true,
+  "revives_enabled": true,
+  "revive_costs": [
+    1500,
+    3000,
+    4500,
+    6000,
+    7500,
+    9000,
+    10500,
+    12000,
+    13500,
+    15000
+  ],
+  "revives_video_ad_per_run": 2,
+  "sam_start_enabled": true,
+  "sam_revives_per_run": 1,
+  "gadget_start_enabled": true,
+  "end_utilities_show_time": 3,
+  "start_velocity": 175,
+  "end_velocity": 480,
+  "velocity_stop_distance": 2250,
+  "vehicle_velocity_multiplier": 1,
+  "vehicle_velocity_multiplier_range": 300
+}

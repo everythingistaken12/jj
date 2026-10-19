@@ -1,0 +1,33 @@
+{
+	"text":{
+		"title": "DC_TITLE_1",
+		"levels": [
+			"DC_DAY_2_1",
+			"DC_DAY_2_2",
+			"DC_DAY_2_3",
+			"DC_DAY_2_4",
+			"DC_DAY_2_5",
+			"DC_DAY_2_6",
+			"DC_DAY_2_7",
+			"DC_DAY_2_8",
+			"DC_DAY_2_9",
+			"DC_DAY_2_10",
+			"DC_DAY_2_11",
+			"DC_DAY_2_12",
+			"DC_DAY_2_13",
+			"DC_DAY_2_14",
+			"DC_DAY_2_15"
+		],
+		"flavour": [
+			{ "text": "DC_NEXT_2", "costume_only": true },
+			{ "text": "DC_NEXT_6" },
+			{ "text": "DC_NEXT_3" },
+			{ "text": "DC_NEXT_7" }
+		]
+	},
+	"rewards": [
+		{ "reward": "coins_day_2", "chance": 5 },
+		{ "reward": "revives_3", "chance": 5 },
+		{ "reward": "super_headstarts_3", "chance": 5 }
+	]
+}

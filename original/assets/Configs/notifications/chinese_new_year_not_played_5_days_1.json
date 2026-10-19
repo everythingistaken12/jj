@@ -1,0 +1,21 @@
+{
+	"category": "chinese_new_year_not_played_5_days",
+	"priority": 1500,
+	"message": "NOTIFICATIONS_CHINESE_NEW_YEAR_NOT_PLAYED_5_DAYS",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 432000
+	},
+	"condition" : "chinese_new_year_not_played_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "ChineseEnvelopes50"
+	},
+	"deep_link_requires_token": true
+}

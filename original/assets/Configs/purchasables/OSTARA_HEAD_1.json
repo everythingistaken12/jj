@@ -1,0 +1,27 @@
+{
+    "reference_id": "OSTARA_HEAD",
+    "tags": [
+        "hidden",
+        "excludeFromRandom",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_OSTARA_HEAD_NAME",
+        "description": "ITEM_OSTARA_HEAD_DESC",
+        "equipable": true,
+        "icon": "headOstara",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

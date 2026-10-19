@@ -1,0 +1,6 @@
+{
+	"name": "SpecialOffer_Pirate_Bundle",
+	"template": "SALE_ITEM",	
+	"screen": "NoticeBoardPirateBundle",
+	"on_show_event": "specialOffer"
+}

@@ -1,0 +1,13 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_gold_sam",
+				"bling_it_on_bundle_timer_running"
+			],
+			"board": "special_offer_bling_it_on_bundle"
+		}
+	]
+}
+

@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "daily_reward_tiers_timer_running"
+      ],
+      "board": "daily_reward_tiers"
+    }
+  ]
+}

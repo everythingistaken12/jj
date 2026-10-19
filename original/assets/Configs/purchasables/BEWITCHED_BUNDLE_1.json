@@ -1,0 +1,57 @@
+{
+    "reference_id": "BEWITCHED_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "BEWITCHED_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "vehicleDragonBroomStick",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_BROOMSTICK_DRAGON"
+    },
+    "additional_deliverables": {
+        "WITCH_BETTY_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "WITCH_BARRY_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "WITCH_BARRY_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_BROOMSTICK_DRAGON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_CAULDRON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.bewitchedbundle",
+        "google_play_store": "com.halfbrick.jetpackjoyride.bewitchedbundle",
+        "brick_bucks_store": "BEWITCHED_BUNDLE"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 600,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_SANTA_BAG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackSantaBag.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackSantaBag.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_santa_bag"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 600,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_SANTA_BAG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackSantaBag.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackSantaBag.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_santa_bag"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 600,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_SANTA_BAG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackSantaBag.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackSantaBag.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_santa_bag"
+        ]
+    }
+}

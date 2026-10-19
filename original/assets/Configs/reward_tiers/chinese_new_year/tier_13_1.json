@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CNY_PIG_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/eventPopUp/vehicleCNYProfitbird.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleCnyPig.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_pig"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 488,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DUMPLING_JETPACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackDumpling.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackDumpling.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_dumpling"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 488,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DUMPLING_JETPACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackDumpling.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackDumpling.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_dumpling"
+        ]
+    }
+}

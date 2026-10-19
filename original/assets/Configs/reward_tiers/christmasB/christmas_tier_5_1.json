@@ -1,0 +1,27 @@
+{
+    "#default":
+    {
+	"cost": 75,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_ELF_HEAD_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/headElf.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headElf.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"elf_head"
+	]
+    },
+    "#AppleArcade":
+    {
+        "cost": 300,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_ELF_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyElf.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyElf.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "elf_body"
+        ]
+    }
+}

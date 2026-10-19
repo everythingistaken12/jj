@@ -1,0 +1,28 @@
+{
+    "#default":
+    {
+        "cost": 75,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_ELF_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyElf.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyElf.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "elf_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 150,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DECKTHEHALLSJETPACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackCT.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackCT.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_christmas_tree"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/ItemIcons/bodyWitchBarry.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/bodyWitchBarry.tex",
+        "display_description": "ITEM_WITCH_BARRY_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "witch_barry_body"
+        ]
+
+}

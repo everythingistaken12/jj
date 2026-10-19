@@ -1,0 +1,33 @@
+{
+    "reference_id": "SENSEI_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SENSEISHEADBAND_NAME",
+        "description": "ITEM_SENSEISHEADBAND_DESC",
+        "equipable": true,
+        "icon": "headSensei",
+        "startWeek": 35
+    },
+    "payment_methods": {
+        "jetpack_store": "SENSEI_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 17
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 17
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

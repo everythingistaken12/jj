@@ -1,0 +1,83 @@
+{
+  "reference_id": "AOZ_ULTIMATE_BUNDLE_2024",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_AOZ_ULTIMATE_BUNDLE_NAME",
+    "description": "todo",
+    "icon": "iconAOZPack",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+      "VEHICLE_SKIN_AOZ_CAVEMAN_SAM",
+      "VEHICLE_SKIN_ZOMBIE_BIRD",
+      "VEHICLE_SKIN_ZOMBIE_DRAGON",
+      "JETPACK_CUSTOM_AOZ_ZOMBIEREX",
+      "ZOMBIE_CAVEMAN_HEAD",
+      "ZOMBIE_CAVEMAN_BODY",
+      "CAVEMAN_BETTY_HEAD",
+      "CAVEMAN_HEAD",
+      "CAVEMAN_BODY"
+    ]
+  },
+  "additional_deliverables": {
+    "VEHICLE_SKIN_AOZ_CAVEMAN_SAM": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ZOMBIE_BIRD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ZOMBIE_DRAGON": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CUSTOM_AOZ_ZOMBIEREX": {
+      "is_currency": false,
+      "value": 1
+    },
+    "ZOMBIE_CAVEMAN_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "ZOMBIE_CAVEMAN_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CAVEMAN_BETTY_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CAVEMAN_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CAVEMAN_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_AOZ_CAVEMAN": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.aoz.ultimate.pack.2024",
+    "google_play_store": "com.halfbrick.jetpack.aoz.ultimate.pack.2024",
+    "brick_bucks_store": "aoz_ultimate_bundle_2024"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

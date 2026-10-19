@@ -1,0 +1,27 @@
+{
+    "name": "Collect 6 complete groups of coins",
+    "requirement": "Collect 6 coin groups",
+    "retired": false,
+    "meta_data": {
+        "groupId": "66",
+        "difficulty": 2,
+        "icon": "coinCluster",
+        "description": "MISSION_COIN_GROUP",
+        "hash": "COIN_GROUPS_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "100",
+        "tag1": "COINS",
+        "tag2": "COLLECT"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "coin group",
+                "s": "t",
+                "c": 6
+            }
+        ]
+    }
+}

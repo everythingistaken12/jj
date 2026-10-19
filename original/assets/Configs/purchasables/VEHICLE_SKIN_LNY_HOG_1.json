@@ -1,0 +1,31 @@
+{
+  "reference_id": "VEHICLE_SKIN_LNY_HOG",
+  "tags": [
+    "Vehicle Skins",
+    "Upgrades",
+    "Teleporter"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "VEHICLE_SKIN_LNY_HOG_NAME",
+    "description": "VEHICLE_SKIN_LNY_HOG_DESC",
+    "equipable": true,
+    "icon": "vehicleHogLNY",
+    "isSkin": true,
+    "vehicleType": "Hog",
+    "defaultSkin": false,
+    "hideUntil": "VEHICLE_SKIN_LNY_HOG",
+    "isNew": true
+  },
+  "payment_methods": {},  
+  "skus": [
+    "apple_tv",
+    "apple_arcade",
+    "google_play",
+    "halfbrick_plus",
+    "ios",
+    "windows"
+  ]
+}

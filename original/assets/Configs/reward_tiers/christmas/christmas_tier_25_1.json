@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_NUT_CRACKER_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headNutCracker.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headNutCracker.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "nutcracker_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_NUT_CRACKER_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headNutCracker.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headNutCracker.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "nutcracker_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_NUT_CRACKER_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headNutCracker.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headNutCracker.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "nutcracker_head"
+        ]
+    }
+}

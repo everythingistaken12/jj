@@ -1,0 +1,11 @@
+{
+	"cost": 500,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "VEHICLE_SKIN_GB_SAM_NAME",
+	"rewards_texture": "textures/menus/conumsables/notificationSAM.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleSamGB.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"gb_sam"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"show": [
+		{
+			"IS_EVENT": [
+				"fruit_punch",
+				false
+			]
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "JETPACK_CUSTOM_LUTE",
+	"fallback": "coin_pack_12500"
+}

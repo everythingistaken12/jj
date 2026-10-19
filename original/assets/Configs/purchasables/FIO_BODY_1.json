@@ -1,0 +1,25 @@
+{
+    "reference_id": "FIO_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_FIO_BODY_NAME",
+        "description": "ITEM_FIO_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyFio",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

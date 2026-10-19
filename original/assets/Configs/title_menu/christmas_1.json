@@ -1,0 +1,31 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/bunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/tree.xml",
+            "offset_x": -166,
+            "offset_y": -70
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/holly.xml",
+            "offset_x": -168,
+            "offset_y": 128
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/stockings.xml",
+            "offset_x": -105,
+            "offset_y": -75
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/wreath.xml",
+            "offset_x": 165,
+            "offset_y": -10
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "_description": "Additional Mech skins",
+    "vehicleName": "Mech",
+    "displayName": "VEHICLE_MECH",
+    "statistics":
+    {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_MECH",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_MECH",
+        "distanceBest": "VEHICLE_BEST_MECH",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_MECH"
+    },
+    "MissionText": "MISSION_VEHICLE_MECH",
+    "sprite": "vehicleMech.xml",
+    "RequiredTextures":
+    {
+        "Texture":
+        [
+            "vehicleMech.tex",
+            "vehicleMechFlame.tex",
+            "textures/Effects/Jetpack/Water/waterShaft.tex"
+        ]
+    },
+    "FlashTextures":
+    {
+        "Texture":
+        [
+            "mechrocket.tex",
+            "mechrocketflame.tex"
+        ]
+    },
+    "GoldInventoryName": "VEHICLE_GOLD_MECH",
+    "MagnetDeliverable": "STOMPER_MAGNET",
+    "headData": "Characters/Vehicles/Mech/vehicleMechData.xml",
+    "allowHalo": "false",
+    "fragsDir": "Mech",
+    "ComponentsDir": "Mech",
+    "ComponentsOffset": "0,5",
+    "sequenceBar": "bar_mech",
+    "probability": "20.0",
+    "Streak1Colour":
+    {
+        "r": "255",
+        "g": "169",
+        "b": "137"
+    },
+    "Streak2Colour":
+    {
+        "r": "255",
+        "g": "235",
+        "b": "185"
+    },
+    "duration": "0.0",
+    "SequenceFirstFront": "false",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.36",
+    "INITIAL_BOOST": "6.0",
+    "BOOST": "0.45",
+    "FINAL_BOOST": "0.29",
+    "FRICTION": "0.98",
+    "BOOST_FRAME_COUNT": "20",
+    "JUMP_COUNT": "1",
+    "START_VELOCITY": "200.0",
+    "MAX_VELOCITY": "1000.0",
+    "VELOCITY_INCREASE": "0.22",
+    "STREAK": "MECH_STREAK",
+    "GoldParticle": "GoldSparkle_Mech",
+    "GoldParticleOffset": "3,24",
+    "skins":
+    {
+        "skin":
+        [
+            {
+                "name": "VEHICLE_SKIN_LIL_STOMPER",
+                "script": "",
+                "stop_music":
+                [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music":
+                {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_LilStomper"
+                },
+                "outro":
+                {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "stop_music":
+                [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music":
+                {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_LilStomper"
+                },
+                "outro":
+                {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                },
+                "name": "VEHICLE_GOLD_MECH",
+                "script": "Gold"
+            },
+            {
+                "name": "VEHICLE_SKIN_ZOMBIETREX",
+                "script": "ZombieTrex",
+                "skinName": "ZombieTrex",
+                "runDustAnimation": "runDino",
+                "textures":
+                [
+                    "textures/Characters/Vehicles/Components/Mech/ZombieTrex/ComponentTail.tex",
+                    "textures/Characters/Vehicles/Components/Mech/ZombieTrex/ComponentBelt.tex",
+                    "textures/Characters/Vehicles/Components/Mech/ZombieTrex/ComponentBody.tex",
+                    "textures/Characters/Vehicles/Components/Mech/ZombieTrex/ComponentHead.tex",
+                    "textures/Characters/Vehicles/Components/Mech/ZombieTrex/ComponentLeg.tex",
+                    "textures/Characters/Vehicles/Components/Mech/ZombieTrex/ComponentLegFront.tex",
+                    "textures/Characters/Vehicles/Mech/ZombieTrex/vehicleMechFlame.tex"
+                ],
+                "roarSfx": "trex_roar_1, trex_roar_2, trex_roar_3",
+                "roarProbability": "37",
+                "leftStepFrame": "2",
+                "rightStepFrame": "6",
+                "mechEffects": "false",
+                "flameOffset": "0, 0"
+            },
+            {
+                "name": "VEHICLE_SKIN_SEAHORSE",
+                "script": "SeaHorse"
+            },
+            {
+                "name": "VEHICLE_SKIN_RABBIT_MECH",
+                "script": "RabbitMech",
+                "textures":
+                [
+                    "textures/Characters/Vehicles/Components/Mech/RabbitMech/ComponentTail.tex",
+                    "textures/Characters/Vehicles/Components/Mech/RabbitMech/ComponentBelt.tex",
+                    "textures/Characters/Vehicles/Components/Mech/RabbitMech/ComponentBody.tex",
+                    "textures/Characters/Vehicles/Components/Mech/RabbitMech/ComponentHead.tex",
+                    "textures/Characters/Vehicles/Components/Mech/RabbitMech/ComponentLeg.tex",
+                    "textures/Characters/Vehicles/Components/Mech/RabbitMech/ComponentLegFront.tex",
+                    "textures/Characters/Vehicles/Mech/RabbitMech/vehicleMechFlame.tex"
+                ],
+                "flameOffSfx": "mechbunny_cooldown",
+                "componentCompleteSfx": "vehicle_form_1, vehicle_form_2, vehicle_form_3",
+                "leftStepSfx": "mechbunny_step_01, mechbunny_step_02, mechbunny_step_03, mechbunny_step_04",
+                "rightStepSfx": "mechbunny_step_01, mechbunny_step_02, mechbunny_step_03, mechbunny_step_04",
+                "constructionCompleteSfx": "mechbunny_form_complete",
+                "hitGroundSfx": "mechbunny_land",
+                "jumpSfx": "mechbunny_jump",
+                "flutterLpSfx": "mechbunny_boost_lp",
+                "explodeSfx": "mechbunny_explode"
+            },
+            {
+                "name": "VEHICLE_SKIN_OX",
+                "script": "Ox"
+            },
+            {
+                "name": "VEHICLE_SKIN_MS_MECH",
+                "script": "MSMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_YETI_MECH",
+                "script": "YetiMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_ST_MECH",
+                "script": "StarTrekMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_GB_MECH",
+                "script": "GBMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_TMNT_MECH",
+                "script": "TMNTMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_ANNIVERSARY_MECH",
+                "script": "AnniversaryMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_PIRATE_MECH",
+                "script": "PirateMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_SPACE_PIRATE_MECH",
+                "script": "SpacePirateMech"
+            },
+            {
+                "name": "VEHICLE_GOLD_ZOMBIETREX",
+                "script": "GoldZombieTrex",
+                "skinName": "GoldZombieTrex",
+                "runDustAnimation": "runDino",
+                "textures":
+                [
+                    "textures/Characters/Vehicles/Components/Mech/GoldZombieTrex/ComponentTail.tex",
+                    "textures/Characters/Vehicles/Components/Mech/GoldZombieTrex/ComponentBelt.tex",
+                    "textures/Characters/Vehicles/Components/Mech/GoldZombieTrex/ComponentBody.tex",
+                    "textures/Characters/Vehicles/Components/Mech/GoldZombieTrex/ComponentHead.tex",
+                    "textures/Characters/Vehicles/Components/Mech/GoldZombieTrex/ComponentLeg.tex",
+                    "textures/Characters/Vehicles/Components/Mech/GoldZombieTrex/ComponentLegFront.tex",
+                    "textures/Characters/Vehicles/Mech/GoldZombieTrex/vehicleMechFlame.tex"
+                ],
+                "roarSfx": "trex_roar_1, trex_roar_2, trex_roar_3",
+                "roarProbability": "37",
+                "leftStepFrame": "2",
+                "rightStepFrame": "6",
+                "mechEffects": "false",
+                "flameOffset": "0, 0"
+            },
+            {
+                "name": "VEHICLE_SKIN_TRUFFLES_MECH",
+                "script": "TrufflesMech",
+                "stop_music":
+                [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music":
+                {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_Truffles"
+                },
+                "outro":
+                {
+                    "track": "default",
+                    "delay": "0.5",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_TURKEY_TREX",
+                "script": "TurkeyTrex",
+                "skinName": "TurkeyTrex",
+                "runDustAnimation": "runDino",
+                "textures":
+                [
+                    "textures/Characters/Vehicles/Components/Mech/TurkeyTrex/ComponentTail.tex",
+                    "textures/Characters/Vehicles/Components/Mech/TurkeyTrex/ComponentBelt.tex",
+                    "textures/Characters/Vehicles/Components/Mech/TurkeyTrex/ComponentBody.tex",
+                    "textures/Characters/Vehicles/Components/Mech/TurkeyTrex/ComponentHead.tex",
+                    "textures/Characters/Vehicles/Components/Mech/TurkeyTrex/ComponentLeg.tex",
+                    "textures/Characters/Vehicles/Components/Mech/TurkeyTrex/ComponentLegFront.tex",
+                    "textures/Characters/Vehicles/Mech/TurkeyTrex/vehicleMechFlame.tex"
+                ],
+                "roarSfx": "mech_turkey_gobble_1, mech_turkey_gobble_1, mech_turkey_gobble_1",
+                "roarProbability": "20",
+                "leftStepFrame": "2",
+                "rightStepFrame": "6",
+                "mechEffects": "false",
+                "flameOffset": "0, 0"
+            },
+            {
+                "name": "VEHICLE_SKIN_ROCK_MECH",
+                "script": "RockMech"
+            },
+            {
+                "name": "VEHICLE_SKIN_MOTU_BATTLE_CAT",
+                "script": "BattleCat"
+            }
+        ]
+    }
+}

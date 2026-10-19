@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "motu_2026_2_motu_hero_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_MOTU_HERO_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "JETPACK_CUSTOM_MOTU_MAN_AT_ARMS_JETPACK == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "motu_2026_2_motu_hero_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_MOTU_HERO_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "JETPACK_CUSTOM_MOTU_MAN_AT_ARMS_JETPACK == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "motu_2026_2_motu_hero_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_MOTU_HERO_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "JETPACK_CUSTOM_MOTU_MAN_AT_ARMS_JETPACK == 0"
+			}
+		]
+	],
+	"store_id": "MOTU_HERO_BUNDLE",
+	"timer_id": "motu_2026_2_motu_hero_bundle",
+	"trigger_name": "motu_hero_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_MOTU_HERO_BUNDLE_VIEWS"
+}

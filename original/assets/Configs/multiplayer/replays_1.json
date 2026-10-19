@@ -1,0 +1,127 @@
+{
+	"enabled": true,
+	"trigger_after": 5.0,
+	"replays": [
+		{
+			"filename": "Replays/replay.000.0.jet"
+		},
+		{
+			"filename": "Replays/replay.001.1.jet"
+		},
+		{
+			"filename": "Replays/replay.002.2.jet"
+		},
+		{
+			"filename": "Replays/replay.003.3.jet"
+		},
+		{
+			"filename": "Replays/replay.004.0.jet"
+		},
+		{
+			"filename": "Replays/replay.005.1.jet"
+		},
+		{
+			"filename": "Replays/replay.006.2.jet"
+		},
+		{
+			"filename": "Replays/replay.007.3.jet"
+		},
+		{
+			"filename": "Replays/replay.008.0.jet"
+		},
+		{
+			"filename": "Replays/replay.009.1.jet"
+		},
+		{
+			"filename": "Replays/replay.010.2.jet"
+		},
+		{
+			"filename": "Replays/replay.011.3.jet"
+		},
+		{
+			"filename": "Replays/replay.012.0.jet"
+		},
+		{
+			"filename": "Replays/replay.013.1.jet"
+		},
+		{
+			"filename": "Replays/replay.014.2.jet"
+		},
+		{
+			"filename": "Replays/replay.015.3.jet"
+		},
+		{
+			"filename": "Replays/replay.016.0.jet"
+		},
+		{
+			"filename": "Replays/replay.017.1.jet"
+		},
+		{
+			"filename": "Replays/replay.018.2.jet"
+		},
+		{
+			"filename": "Replays/replay.019.3.jet"
+		},
+		{
+			"filename": "Replays/replay.020.0.jet"
+		},
+		{
+			"filename": "Replays/replay.021.1.jet"
+		},
+		{
+			"filename": "Replays/replay.022.2.jet"
+		},
+		{
+			"filename": "Replays/replay.023.3.jet"
+		},
+		{
+			"filename": "Replays/replay.024.0.jet"
+		},
+		{
+			"filename": "Replays/replay.025.1.jet"
+		},
+		{
+			"filename": "Replays/replay.026.2.jet"
+		},
+		{
+			"filename": "Replays/replay.027.3.jet"
+		},
+		{
+			"filename": "Replays/replay.028.0.jet"
+		},
+		{
+			"filename": "Replays/replay.029.1.jet"
+		},
+		{
+			"filename": "Replays/replay.030.2.jet"
+		},
+		{
+			"filename": "Replays/replay.031.3.jet"
+		},
+		{
+			"filename": "Replays/replay.032.0.jet"
+		},
+		{
+			"filename": "Replays/replay.033.1.jet"
+		},
+		{
+			"filename": "Replays/replay.034.2.jet"
+		},
+		{
+			"filename": "Replays/replay.035.3.jet"
+		},
+		{
+			"filename": "Replays/replay.036.0.jet"
+		},
+		{
+			"filename": "Replays/replay.037.1.jet"
+		},
+		{
+			"filename": "Replays/replay.038.2.jet"
+		},
+		{
+			"filename": "Replays/replay.039.3.jet"
+		}
+	],
+	"disconnect_enemy_after": 8.0
+}

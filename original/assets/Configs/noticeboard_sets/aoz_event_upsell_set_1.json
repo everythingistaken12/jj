@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"aoz_event_available",
+				"aoz_event_inactive"
+			],
+			"board": "aoz_event_upsell"
+		}			
+	]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "SHOP_CATEGORY_COIN_PACKS",
+    "icon": "textures\\menus\\shop\\buttonCoinSmallGlow.tex",
+    "rowsLimit": 2,
+    "_": "if 'template' is omitted then its value is 'category'",
+    "header_template": "header",
+    "template": "category",
+    "filler_template_1x1": "templateEmpty_1x1",
+    "filler_template_2x1": "templateEmpty_2x1",
+    "offers":
+    [
+        "coin_doubler_wide",
+        "coin_pack_two_x2",
+        "coin_pack_three_x2",
+        "coin_pack_zero_x2",
+        "coin_pack_four_x2",
+        "coin_pack_one_x2",
+        "coin_pack_five_x2"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "reference_id": "JETPACK_CUSTOM_GOLD_FRUIT_CROSS_PROMO",
+    "tags":
+    [
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas":
+    {
+        "name": "ITEM_JETPACK_CUSTOM_GOLD_FRUIT_NAME",
+        "description": "ITEM_JETPACK_CUSTOM_GOLD_FRUIT_CROSS_PROMO_DESC",
+        "equipable": true,
+        "icon": "jetpackGoldFruit",
+        "crosspromo": "https://fruitninjaclassic.halfbrickplus.com/check.html?utm_campaign=jj_fnc_rewardedrib_augustdrop&utm_source=jetpackjoyrideclassic&utm_medium=rewardedrib&utm_content=fruitninjaclassic&gamePromoted=fnc&googleStoreAppId=com.halfbrick.fruitninja&appleStoreAppId=362949845&applePackageName=com.Halfbrick.Fruit&dynamicLinkId=39263a20-463d-11ee-beda-e3cc88c9345a&webPC=https%3A%2F%2Fwww.halfbrick.com%2Fgames%2Ffruit-ninja-classic",
+        "awardsCrosspromoImmediately": true,
+        "hideWhen": "JETPACK_CUSTOM_GOLD_FRUIT"
+    },
+    "additional_deliverables":
+    {
+        "JETPACK_CUSTOM_GOLD_FRUIT":
+        {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods":
+    {
+        "jetpack_store": "JETPACK_CUSTOM_GOLD_FRUIT_CROSS_PROMO"
+    },
+    "skus":
+    [
+        "apple_tv",
+        "google_play",
+        "halfbrick_plus",
+        "ios",
+        "windows"
+    ]
+}

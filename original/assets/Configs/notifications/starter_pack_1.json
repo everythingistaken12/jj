@@ -1,0 +1,14 @@
+{
+	"category": "starter_pack",
+	"priority": 1,
+	"message": "PUSH_STARTER_PACK_EXPIRING",
+	"schedule": 
+	{
+		"delay_seconds_generator": "starter_pack_delay_generator",
+		"local_time": true,
+		"local_resolve_wind": "backward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21
+	},
+	"condition" : "starter_pack_check"
+}

@@ -1,0 +1,10 @@
+{
+	"show": [
+		{
+			"IS_PURCHASED": [
+				"GADGET_SLOT_3",
+				false
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+    "reference_id": "PIRATE_CASTAWAY_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "PIRATE_CASTAWAY_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "costumeMarooned",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_TURTLE_SLEIGH"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_TURTLE_SLEIGH": {
+            "is_currency": false,
+            "value": 1
+        },
+	"VEHICLE_SKIN_SLEIGH": {
+	    "is_currency": false,
+            "value": 1
+    	},
+        "JETPACK_CUSTOM_COCONUT": {
+            "is_currency": false,
+            "value": 1
+        },
+	"MAROONED_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+	"MAROONED_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.pirate.castaway.pack",
+        "google_play_store": "com.halfbrick.jetpack.pirate.castaway.pack",
+        "brick_bucks_store": "pirate_castaway_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

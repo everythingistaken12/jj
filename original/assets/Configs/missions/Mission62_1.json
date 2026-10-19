@@ -1,0 +1,33 @@
+{
+    "name": "COLLECT 750 COINS IN ONE GAME",
+    "requirement": "Collect 750 coins in one game",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 3,
+        "icon": "coin",
+        "description": "MISSION_COINS_2",
+        "hash": "COINS_COLLECT_GAME"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "collect",
+                "o": "coin",
+                "s": "g",
+                "c": 750
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

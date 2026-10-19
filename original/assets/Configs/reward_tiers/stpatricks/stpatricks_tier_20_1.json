@@ -1,0 +1,12 @@
+{
+    "cost": 1075,
+    "display_name": "REWARD_UNLOCK",
+    "rewards_texture": "textures/menus/shop/itemicons/vehicleBirdStPatricks.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleBirdStPatricks.tex",
+    "display_description": "VEHICLE_SKIN_ST_PATRICKS_BIRD_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "st_patricks_bird"
+    ]
+}

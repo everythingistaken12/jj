@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_SLOT_GUARANTEE_1",
+    "tags": [
+        "Gadget",
+        "tier5"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_SLOT_GUARANTEE_NAME",
+        "description": "PERK_SLOT_GUARANTEE_DESC",
+        "icon": "luckyToken",
+        "equipable": true,
+        "unequipable": true
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_SLOT_GUARANTEE_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 26
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 26
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

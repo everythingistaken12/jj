@@ -1,0 +1,34 @@
+{
+    "reference_id": "SPONSORED_VIDEO_500",
+    "tags": [
+        "Premium",
+        "Bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINS_VIDEO_NAME",
+        "description": "ITEM_COINS_VIDEO_DESC",
+        "icon": "Sponsoredvideo",
+        "coins": 500,
+        "metadata": {
+            "customBuy": "sponsoredVideo"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "500"
+        }
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

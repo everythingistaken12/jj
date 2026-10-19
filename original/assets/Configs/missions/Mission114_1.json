@@ -1,0 +1,23 @@
+{
+    "name": "Close Call With a Missile",
+    "requirement": "Fly near 1 missile",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "missile",
+        "hash": "CLOSE_CALL",
+        "metaData": {
+            "closeCallType": "MISSILES"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "fly near",
+                "o": "missile",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

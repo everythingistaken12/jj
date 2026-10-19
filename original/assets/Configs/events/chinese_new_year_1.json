@@ -1,0 +1,204 @@
+{
+    "EventDisplayName": "CNY_EVENT_RULES_TITLE",
+    "Filepath": "Events/ChineseNewYear",
+    "Iconpath": "Events/ChineseNewYear/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/ChineseNewYear/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/ChineseNewYear/Textures/Menus/eventInfo/backing.tex",
+    "BannerTexturePath": "Events/ChineseNewYear/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_CHRISTMAS_GAMES_PLAYED",
+    "currencyType": "ChineseEnvelope",
+    "info_text_1": "EVENT_RULES_TEXT_1",
+    "info_text_2": "CNY_EVENT_RULES_1",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 30
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 30
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "chinese_new_year",
+        "noticeboardSchedule": "chinese_new_year_schedule",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "chinese_new_year_2021"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "chinese_new_year_2021",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "chinese_new_year_2026",
+        "analytics_event_name": "chinesenewyear",
+        "leaderboard": "BEST_CHINESE_NEW_YEAR",
+        "trigger_name": "chinese_new_year",
+        "reload_sam": true,
+        "sam_music": "Music_SAMCNY",
+        "sam_music_starting_point": 0,
+        "sam_reset_popup_message": "SAM_BONUS_RUN_UPSELL_CHRISTMAS",
+        "skin_mr_cuddles": "VEHICLE_SKIN_CNY_SNAKE",
+        "skin_profit_bird": "VEHICLE_SKIN_CNY_PIG",
+        "skin_lil_stomper": "VEHICLE_SKIN_OX",
+        "skin_bad_ass_hog": "VEHICLE_SKIN_LNY_HOG",
+        "skin_wave_rider": "VEHICLE_SKIN_CNY_JETSKI",
+        "skin_crazy_freaking_teleporter": "VEHICLE_SKIN_YIN_YANG_TELEPORTER",
+        "force_vehicles":
+        [
+            "Bird",
+            "Mech",
+            "Hog",
+            "Dragon",
+            "Jetski",
+            "Teleporter"
+        ],
+        "level_object_tags":
+        [
+            "CNY2017"
+        ],
+        "enable_eventTokens": true,
+        "eventToken_value": 0,
+        "eventToken_splashParticleEffect": "CNY_Splash",
+        "eventToken_spawnRateMin": 7.5,
+        "eventToken_spawnRateMax": 3,
+        "eventToken_spawnRateLength": 75,
+        "eventToken_curveC0":
+        [
+            0.55,
+            0.55
+        ],
+        "eventToken_curveC1":
+        [
+            0.32,
+            0.1
+        ],
+        "eventToken_sprite": "textures/Entities/CNYtoken.xml",
+        "eventToken_collectedSprite": "textures/Entities/CNYtokenCollected.xml",
+        "eventToken_sparkleParticleEffect": "Coin_Token_Sparkle",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+        "missileTexture": "firework.tex",
+        "missileEffectTexture": "fireworkEffects.tex",
+        "missileExplosion": "fireworkMissileExplosion.tex",
+        "missileSFXLaunch": "missile_launch",
+        "missileSFXExplode":
+        [
+            "rocket_explode_1",
+            "rocket_explode_2",
+            "rocket_explode_3"
+        ],
+        "missileSFXWarning": "missile_warning",
+        "force_ice_cube_on_missile_death": false,
+        "brickui_textures":
+        [
+            "textures/logo/logo_barry.tex",
+            "textures/levels/Title/Objects/title_small.tex",
+            "textures/levels/Title/Objects/titleGlow_small.tex",
+            "textures/menus/results/leaderboardLogo.tex",
+            "Textures/Menus/Results/currencyToken.tex",
+            "Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/currencytoken_64.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex",
+            "Events/ChineseNewYear/Textures/Menus/consumables/notificationSAM.tex",
+            "events/chinesenewyear/textures/menus/consumables/notificationsam.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/cnymaleBodyCostume.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/cnymalebodycostume.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/cnymaleHeadCostume.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/cnymaleheadcostume.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/jetpackChineseDragon.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/jetpackchinesedragon.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/jetpackCNYJetpack.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/jetpackcnyjetpack.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/jetpackFan.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/jetpackfan.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/oxBodyCostume.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/oxbodycostume.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/oxHeadCostume.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/oxheadcostume.tex",
+            "Events/ChineseNewYear/Textures/Menus/eventPopUp/vehicleCNYProfitbird.tex",
+            "events/chinesenewyear/textures/menus/eventpopup/vehiclecnyprofitbird.tex"
+        ],
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+            "MISSILE_PACKAGE",
+            "SAM_PACKAGE"
+        ],
+        "dailyEventMissions": true
+    },
+    "RandomSkinOverrides":
+    [
+        [
+            [
+                "JETPACK_FIREWORKS"
+            ],
+            [
+                "JETPACK_CHINESEDRAGON"
+            ],
+            [
+                "JETPACK_DUMPLING"
+            ],
+            [
+                "JETPACK_FAN"
+            ],
+            [
+                "JETPACK_CUSTOM_GOLDEN_RABBIT"
+            ],
+            [
+                "JETPACK_CUSTOM_RED_LANTERN"
+            ],
+            [
+                "JETPACK_CUSTOM_LNY_DRUM"
+            ]
+        ],
+        [
+            [
+                "CNY_FEMALE_HEAD",
+                "CNY_FEMALE_BODY"
+            ],
+            [
+                "RAT_HEAD",
+                "RAT_BODY"
+            ],
+            [
+                "OX_HEAD",
+                "OX_BODY"
+            ],
+            [
+                "LNY_BLUE_TIGER_HEAD",
+                "LNY_BLUE_TIGER_BODY"
+            ],
+            [
+                "QING_EMPEROR_BODY",
+                "QING_EMPEROR_HEAD"
+            ],
+            [
+                "TAOIST_BODY",
+                "TAOIST_HEAD"
+            ],
+            [
+                "LNY_PRINCESS_BODY",
+                "LNY_PRINCESS_HEAD"
+            ],
+            [
+                "LNY_PRINCESS_BODY",
+                "LNY_PRINCESS_BETTY_HEAD"
+            ]
+        ]
+    ],
+    "Features":
+    [
+        "show_chinese_new_year_theme"
+    ],
+    "title_screen_settings": "chinese_new_year"
+}

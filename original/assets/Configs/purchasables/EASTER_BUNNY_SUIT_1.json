@@ -1,0 +1,31 @@
+{
+    "reference_id": "EASTER_BUNNY_SUIT",
+    "tags": [
+        "bundle",
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_EASTERBUNNYSUIT_NAME",
+        "description": "ITEM_EASTERBUNNYSUIT_DESC",
+        "equipable": true,
+        "icon": "bodyEasterBunny",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "EASTER_BUNNY_SUIT"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

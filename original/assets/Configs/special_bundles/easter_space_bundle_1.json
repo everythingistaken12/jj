@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "easter_2026_easter_space_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_EASTER_SPACE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_HOLOGRAM_JETSKI == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_easter_space_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_EASTER_SPACE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_HOLOGRAM_JETSKI == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_easter_space_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_EASTER_SPACE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_HOLOGRAM_JETSKI == 0"
+			}
+		]
+	],
+	"store_id": "EASTER_SPACE_BUNDLE",
+	"timer_id": "easter_2026_easter_space_bundle",
+	"trigger_name": "easter_space_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_EASTER_SPACE_VIEWS"
+}

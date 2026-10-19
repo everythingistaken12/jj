@@ -1,0 +1,16 @@
+{
+  "currency": "Fruit",
+  "currency_texture": "events/cutandrun/textures/menus/eventpopup/currencytoken_64.tex",
+  "tiers": [
+    "cut_and_run_tier_1",
+    "cut_and_run_tier_2",
+    "cut_and_run_tier_3",
+    "cut_and_run_tier_4",
+    "cut_and_run_tier_5",
+    "cut_and_run_tier_6",
+    "cut_and_run_tier_7",
+    "cut_and_run_tier_8",
+    "cut_and_run_tier_9",
+    "cut_and_run_tier_10"
+  ]
+}

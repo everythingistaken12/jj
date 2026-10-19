@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"metal_slug_event_available",
+				"metal_slug_event_inactive"
+			],
+			"board": "metal_slug_event_upsell"
+		}			
+	]
+}

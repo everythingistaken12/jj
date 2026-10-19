@@ -1,0 +1,45 @@
+{
+    "name": "Cover 300m on foot in a single game.",
+    "requirement": "Travel 300m while touching floor in one game while on foot",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "oddball",
+        "description": "MISSION_RUN_1",
+        "hash": "RUN_DISTANCE"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 300
+            },
+            {
+                "a": "touch",
+                "o": "floor",
+                "p": true,
+                "d": "end touch"
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            },
+            {
+                "a": "on",
+                "o": "foot",
+                "p": true,
+                "d": "off"
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

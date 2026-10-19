@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Headquarters_Bundle",
+    "screen": "NoticeBoardGBHeadquartersBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GB_HEADQUARTERS_BUNDLE"
+}

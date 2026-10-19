@@ -1,0 +1,13 @@
+{
+    "cost": 15000,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_GUTSU_HEAD_NAME",
+    "frame_texture": "textures/menus/shared/frameGold.tex",
+    "rewards_texture": "textures/menus/shop/itemicons/headGutsu.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/headGutsu.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "gutsu_head"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+	"currency": "tmnt_token",
+	"currency_texture": "textures/menus/eventPopUp/currencyToken_64.tex",
+	"tiers": [
+		"tmnt/tier_1",
+		"tmnt/tier_2",
+		"tmnt/tier_3",
+		"tmnt/tier_4",
+		"tmnt/tier_5",
+		"tmnt/tier_6",
+		"tmnt/tier_7",
+		"tmnt/tier_8",
+		"tmnt/tier_9",
+		"tmnt/tier_10",
+		"tmnt/tier_11"
+	]
+}

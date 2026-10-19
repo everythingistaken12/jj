@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "MOTU_SKELETOR_BODY",
+	"fallback": "coin_pack_5000"
+}

@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"halloween_event_available",
+				"halloween_event_inactive"
+			],
+			"board": "halloween_event_upsell"
+		}			
+	]
+}

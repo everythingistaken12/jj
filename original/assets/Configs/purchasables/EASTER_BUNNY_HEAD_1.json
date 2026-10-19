@@ -1,0 +1,29 @@
+{
+    "reference_id": "EASTER_BUNNY_HEAD",
+    "tags": [
+        "Head",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_EASTERBUNNYHAT_NAME",
+        "description": "ITEM_EASTERBUNNYHAT_DESC",
+        "equipable": true,
+        "icon": "headEasterBunny",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "EASTER_BUNNY_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "SpecialOffer_christmas_2022_GIFTS_OF_YULE_BUNDLE_DISCOUNT",
+  "template": "SALE_ITEM",
+  "screen": "NoticeBoardChristmasGiftsOfYuleBundle",
+  "on_show_event": "specialOffer",
+  "item_id": "CHRISTMAS_2022_GIFTS_OF_YULE_BUNDLE_DISCOUNT"
+}

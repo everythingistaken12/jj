@@ -1,0 +1,14 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_heavymg_jetpack",
+        "not_purchased_flameshot_jetpack",
+        "not_purchased_rocketlauncher_jetpack",
+        "not_purchased_lasercannon_jetpack"
+      ],
+      "board": "special_offer_metal_slug_jetpack_bundle"
+    }
+  ]
+}

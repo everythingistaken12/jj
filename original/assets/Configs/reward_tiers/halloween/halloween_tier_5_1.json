@@ -1,0 +1,40 @@
+{
+    "#default":
+    {
+        "cost": 150,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_WOLF_HEAD_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/warewolfHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headWolf.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "werewolf_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 275,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_PUMPKIN_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleHalloweenJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackPK.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex", 
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_pumpkin"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 275,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_PUMPKIN_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleHalloweenJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackPK.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex", 
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_pumpkin"
+        ]
+    }
+}

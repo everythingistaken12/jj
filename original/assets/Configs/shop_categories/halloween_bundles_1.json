@@ -1,0 +1,20 @@
+{
+    "title": "HALLOWEEN_EVENT_RULES_TITLE",
+    "icon": "textures\\menus\\shop\\iconHalloween.tex",
+    "rowsLimit": 99,
+    "_": "if 'template' is omitted then its value is 'category'",
+    "header_template": "header",
+    "template": "category",
+    "filler_template_1x1": "templateEmpty_1x1",
+    "filler_template_2x1": "templateEmpty_2x1",
+    "offers":
+    [
+        "cross_promo_halloween",
+        "halloween_ultimate_bundle",
+        "bewitched_bundle",
+        "frankenstein_bundle",
+        "halloween_mummy_bundle",
+        "halloween_bundle",
+        "spooky_bundle"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Crossing_The_Streams_Bundle",
+    "screen": "NoticeBoardGBCrossingTheStreamsBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GB_CROSSING_THE_STREAMS_BUNDLE"
+}

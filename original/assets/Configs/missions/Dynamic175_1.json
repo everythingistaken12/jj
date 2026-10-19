@@ -1,0 +1,27 @@
+{
+    "name": "Collect 3 vehicles",
+    "requirement": "Collect 3 vehicles",
+    "retired": false,
+    "meta_data": {
+        "groupId": "34",
+        "difficulty": 1,
+        "icon": "vehicle",
+        "description": "MISSION_VEHICLE_6",
+        "hash": "VEHICLE_COLLECT_ANY",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "150",
+        "tag1": "VEHICLE",
+        "tag2": "COLLECT"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "s": "t",
+                "c": 3
+            }
+        ]
+    }
+}

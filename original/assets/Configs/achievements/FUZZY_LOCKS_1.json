@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_13",
+    "description": "ACHIEVEMENT_DESC_13",
+    "progress_description": "ACHIEVEMENT_PROG_5",
+    "type": "DEATH",
+    "sub_type_1": "TOTAL",
+    "texture": "fuzzyLocks",
+    "points": 20,
+    "max_progress": 99,
+    "provider_ids": {
+        "amazon": "1082732",
+        "game_center": 
+        {
+            "default": "1082732",
+            "AppleArcade": "fuzzy_locks_aa",
+            "HalfbrickPlus": "fuzzy_locks_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQDQ"
+        }
+    }
+}

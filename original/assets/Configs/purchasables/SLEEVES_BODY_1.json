@@ -1,0 +1,29 @@
+{
+    "reference_id": "SLEEVES_BODY",
+    "tags": [
+        "Body",
+        "Video"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SLEEVES_BODY_NAME",
+        "description": "ITEM_SLEEVES_BODY_DESC",
+        "equipable": true,
+        "icon": "bodySleeves",
+        "watchable_old": {
+            "youtubeid": "5KKMmxx9QoA"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "SLEEVES_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

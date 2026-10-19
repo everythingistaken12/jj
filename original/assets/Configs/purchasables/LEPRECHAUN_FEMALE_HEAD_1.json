@@ -1,0 +1,30 @@
+{
+    "reference_id": "LEPRECHAUN_FEMALE_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "bundle",
+        "hidden",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_LEPRECHAUN_FEMALE_HEAD_NAME",
+        "description": "ITEM_LEPRECHAUN_FEMALE_HEAD_DESC",
+        "equipable": true,
+        "icon": "headLeprechaunFemale",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "LEPRECHAUN_FEMALE_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

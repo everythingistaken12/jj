@@ -1,0 +1,107 @@
+{
+    "dailyMissionCount": 22,
+    "rewardCurrency": "motu_token",
+    "dailyMissions": [
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_HEMAN",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_POWER_SWORD",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_50_GAMES",
+            "timeToUnlock": 0
+        },
+        {
+            "#default":
+            {
+                "missionName": "PLAY_15_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            },
+            "#HalfbrickPlus":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            },
+            "#AppleArcade":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            }
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_COINS",
+            "timeToUnlock": 172800
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_EVILLYN",
+            "timeToUnlock": 259200
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_EVILLYN_STAFF",
+            "timeToUnlock": 345600
+        },
+        {
+            "missionName": "COLLECT_12500_COINS",
+            "timeToUnlock": 432000
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_TEELA",
+            "timeToUnlock": 518400
+        },
+        {
+            "missionName": "PLAY_3_GAMES_WITH_TALON_FIGHTER",
+            "timeToUnlock": 604800
+        },
+        {
+            "missionName": "COLLECT_100_SPIN_TOKENS",
+            "timeToUnlock": 691200
+        },
+        {
+            "missionName": "PLAY_3_GAMES_WITH_BATTLE_CAT",
+            "timeToUnlock": 777600
+        },
+        {
+            "missionName": "RUN_100000_TOTAL_DISTANCE",
+            "timeToUnlock": 864000
+        },
+        {
+            "missionName": "USE_50_REVIVE",
+            "timeToUnlock": 950400
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_SKELETOR",
+            "timeToUnlock": 1036800
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_HAVOC_JETPACK",
+            "timeToUnlock": 1123200
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_2500_DISTANCE",
+            "timeToUnlock": 1209600
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_MANATARMS",
+            "timeToUnlock": 1296000
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_BATTLE_THRUSTER",
+            "timeToUnlock": 1382400
+        },
+        {
+            "missionName": "PICKUP_15_VEHICLE_TOKENS",
+            "timeToUnlock": 1468800
+        },
+        {
+            "missionName": "RUN_3000_TOTAL_DISTANCE_VEHICLE",
+            "timeToUnlock": 1555200
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_SAM_WITH_MORE_THAN_750_DISTANCE",
+            "timeToUnlock": 1641600
+        }
+    ]
+}

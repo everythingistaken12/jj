@@ -1,0 +1,23 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_gb_ecto",
+        "not_purchased_gb_dragon",
+        "not_purchased_gb_mech",
+        "not_purchased_gb_gravity_suit",
+        "not_purchased_gb_key_master_head",
+        "not_purchased_gb_gate_keeper_head",
+        "not_purchased_gb_mooglie_head",
+        "not_purchased_gb_ghostbuster_head",
+        "not_purchased_gb_proton_jetpack",
+        "not_purchased_gb_slimer_jetpack",
+        "not_purchased_gb_slimeblower_jetpack",
+        "not_purchased_gb_filing_cabinet_jetpack",
+        "not_purchased_gb_sam"
+      ],
+      "board": "special_offer_gb_ghostbusters_bundle"
+    }
+  ]
+}

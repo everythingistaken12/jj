@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "NUT_CRACKER_BODY",
+	"fallback": "coin_pack_40000"
+}

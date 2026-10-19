@@ -1,0 +1,59 @@
+{
+    "reference_id": "VEHICLE_SKIN_SLEIGH",
+    "tags": [
+        "Sleigh Of Awesome",
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_SLEIGH_NAME",
+        "description": "VEHICLE_SKIN_SLEIGH_DESC",
+        "equipable": true,
+        "icon": "vehicleSled",
+        "isSkin": true,
+        "vehicleType": "Sled",
+        "defaultSkin": true,
+        "#AppleArcade": {
+            "hideUntil": "",
+            "displayLocked": ""
+        },
+        "#HalfbrickPlus": {
+            "hideUntil": "",
+            "displayLocked": ""
+        },
+        "#default": {
+            "hideUntil": "VEHICLE_SKIN_SLEIGH",
+            "displayLocked": "VEHICLE_SKIN_SLEIGH"
+        },
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "payment_methods": {
+        "#AppleArcade": {
+            "jetpack_store": "VEHICLE_SKIN_SLEIGH"
+        },
+        "#HalfbrickPlus": {
+            "jetpack_store": "VEHICLE_SKIN_SLEIGH"
+        }
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 24
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 24
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

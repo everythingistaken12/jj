@@ -1,0 +1,24 @@
+{
+    "reference_id": "0cb8aa9c0420b084",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "description": ""
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "1000"
+        }
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

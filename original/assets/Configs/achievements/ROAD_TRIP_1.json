@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_15",
+    "description": "ACHIEVEMENT_DESC_15",
+    "progress_description": "ACHIEVEMENT_PROG_4",
+    "type": "VEHICLE_DISTANCE_TOTAL",
+    "sub_type_1": "Hog",
+    "texture": "roadTrip",
+    "points": 20,
+    "max_progress": 10000,
+    "provider_ids": {
+        "amazon": "1082752",
+        "game_center": 
+        {
+            "default": "1082752",
+            "AppleArcade": "road_trip_aa",
+            "HalfbrickPlus": "road_trip_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQDw"
+        }
+    }
+}

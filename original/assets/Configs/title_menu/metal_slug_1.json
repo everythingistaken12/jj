@@ -1,0 +1,16 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/MSBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/MSMech.xml",
+            "offset_x": -10,
+            "offset_y": -80
+        }
+    ]
+}

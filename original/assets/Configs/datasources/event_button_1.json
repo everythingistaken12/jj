@@ -1,0 +1,6 @@
+{
+	"button_switch_enabled": false,
+	"button_themed_enabled": false,
+	"button_themed_arrow_enabled": false,
+	"event_button_text": "EVENT_RULES_PLAY"
+}

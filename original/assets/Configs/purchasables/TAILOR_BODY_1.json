@@ -1,0 +1,31 @@
+{
+    "reference_id": "TAILOR_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "samReward",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_TAILOR_BODY_NAME",
+        "description": "ITEM_TAILOR_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyTailor",
+        "rewardOnly": {
+            "value": true
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "TAILOR_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

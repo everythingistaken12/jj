@@ -1,0 +1,53 @@
+{
+    "reference_id": "VEHICLE_BTTF_SAM",
+    "tags": [
+        "prepurchase",
+        "Upgrades",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_BTTF_SAM_NAME",
+        "description": "VEHICLE_SKIN_BTTF_SAM_DESC",
+        "icon": "vehicleSamBttf",
+        "hideWhen": "VEHICLE_SKIN_BTTF_SAM"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_BTTF_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "#AppleArcade": {
+        "payment_methods":
+    	{
+        	"jetpack_store": "VEHICLE_BTTF_SAM"
+    	}
+
+    },
+    "#HalfbrickPlus": {
+        "payment_methods":
+    	{
+        	"jetpack_store": "VEHICLE_BTTF_SAM"
+    	}
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.steamtrainsam",
+        "google_play_store": "com.halfbrick.jetpackjoyride.steamtrainsam",
+        "brick_bucks_store": "vehicle_bttf_sam"
+    },
+    "skus": [
+        "apple_tv",        
+	"halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_COIN_MULTIPLIER_1",
+    "tags": [
+        "Gadget",
+        "tier3"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_COIN_MULTIPLIER_NAME",
+        "description": "PERK_COIN_MULTIPLIER_DESC",
+        "icon": "gem",
+        "equipable": true,
+        "unequipable": true
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_COIN_MULTIPLIER_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 21
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 21
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "reference_id": "NUT_CRACKER_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_NUT_CRACKER_BODY_NAME",
+        "description": "ITEM_NUT_CRACKER_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyNutCracker",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

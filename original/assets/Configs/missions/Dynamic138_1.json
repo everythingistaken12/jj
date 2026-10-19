@@ -1,0 +1,26 @@
+{
+    "name": "Win a prize in the final spin 10 times.",
+    "requirement": "Win 10 prizes",
+    "retired": false,
+    "meta_data": {
+        "groupId": "25",
+        "difficulty": 3,
+        "icon": "token",
+        "description": "MISSION_SLOTS_WIN_2",
+        "hash": "SLOTS_WIN_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "100",
+        "tag1": "TOKENS"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "win",
+                "o": "prize",
+                "s": "t",
+                "c": 10
+            }
+        ]
+    }
+}

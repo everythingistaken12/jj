@@ -1,0 +1,38 @@
+{
+    "name": "Change gravity 20 times in a single run with the gravity suit.",
+    "requirement": "Change gravity direction 20 times with one gravity suit",
+    "retired": false,
+    "meta_data": {
+        "groupId": "5",
+        "difficulty": 3,
+        "icon": "vehicle",
+        "hash": "CHANGE_GRAVITY",
+        "skillGrind": "SKILL",
+        "probability": "30",
+        "tag1": "VEHICLE"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "change",
+                "o": "gravity direction",
+                "s": "g",
+                "c": 20
+            },
+            {
+                "i": 2,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "vehicle",
+                "a": "destroy",
+                "i": 2
+            }
+        ]
+    }
+}

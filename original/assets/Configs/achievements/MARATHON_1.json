@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_12",
+    "description": "ACHIEVEMENT_DESC_12",
+    "progress_description": "ACHIEVEMENT_PROG_4",
+    "type": "DISTANCE_TOTAL",
+    "sub_type_1": "USE_ALL",
+    "texture": "Marathon",
+    "points": 20,
+    "max_progress": 50000,
+    "provider_ids": {
+        "amazon": "1082722",
+        "game_center": 
+        {
+            "default": "1082722",
+            "AppleArcade": "marathon_aa",
+            "HalfbrickPlus": "marathon_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQDA"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "storeId": "REVIVE_10_BUNDLE",
+    "timerId": "christmas_2021_1_revive_10_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [1.0, 0.2, 0.2, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/specialBundleEasterHearts.tex",
+    "infoText": "SHOP_BUTTON_BUY_NOW"
+}

@@ -1,0 +1,121 @@
+{
+	"EventDisplayName": "BTTF_EVENT_01",
+	"Filepath": "Events/BackToTheFuture",
+	"Iconpath": "Events/BackToTheFuture/Textures/Menus/Main/IconEvent.tex",
+	"ResultsIconPath": "Events/BackToTheFuture/Textures/Menus/Results/logo.tex",
+	"Statistic": "EVENTS_TOTAL_BACK_TO_THE_FUTURE_GAMES_PLAYED",
+	"currencyType": "tokens_bttf",
+	"show_event_info_pause_screen": true,
+	"info_text_1": "HALLOWEEN_EVENT_RULES_TEXT_1",
+	"info_text_2": "BTTF_EVENT_INFO_3",
+	"info_text_3": "",
+	"restrict_cheaters_access": false,
+	"Overrides": {
+		"game_mode": "back_to_the_future",		
+		"noticeboardSchedule": "bttf_schedule",
+		"rewardGroup": "back_to_the_future_2020_2",
+		"timeToken_currencyType": "tokens_bttf",
+		"successMessage": "Jed, put something here!",
+		"unlockedAllMessage": "Jed, put something here!",
+		"analytics_event_name": "back_to_the_future",
+		"analytics_display_obstacles_hit": true,
+		"analytics_display_run_time": true,
+		"analytics_display_delorean": true,
+		"analytics_display_hoverboard": true,
+		"analytics_display_flux_capacitors": true,
+		"skin_head": "MARTY_HEAD",
+		"skin_body": "MARTY_BODY",
+		"skin_jetpack": "JETPACK_AMPED_UP_85",
+		"max_revives_video_ad": 2,	
+		"reload_sam": true,
+		"sam_music": "Music_SAMTrain",
+		"sam_music_starting_point": 0,			
+		"force_vehicles": [
+			"Delorean",
+			"HoverBoard"
+		],
+		"enable_vehicle_magnets": true,
+		"enable_eventTokens": true,
+		"socialSquare_bttf_iap": true,
+		"eventToken_value": 5,
+		"eventToken_spawnRateMin": 5.8,
+		"eventToken_spawnRateMax": 4.2,
+		"eventToken_spawnRateLength": 50,
+		"eventToken_curveC0": [
+			0.22,
+			0.66
+		],
+		"eventToken_curveC1": [
+			0.2,
+			-0.62
+		],
+		"eventToken_sprite": "textures/Entities/timeToken.xml",
+		"eventToken_collectedSprite": "textures/Entities/timeTokenCollected.xml",
+		"eventToken_angleSpeed": 5,
+		"eventToken_amplitude": 10,
+		"eventToken_velocityFactor": 125,
+		"counter_name": "counterBackToTheFuture",
+		"game_timer": 30.99,
+		"revive_time_amount_seconds": 20.99,
+		"time_lost_onhit": 10,
+		"death_time_extension": 1,
+		"game_timer_trigger1": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.counter1",
+		"game_timer_trigger2": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.counter2",
+		"game_timer_trigger3": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.counter3",
+		"game_timer_triggerAdd": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.addTime",
+		"game_timer_triggerLose": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.loseTime",
+		"game_timer_triggerStart": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.startGame",
+		"game_timer_triggerEnd": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.endGame",
+		"game_timer_triggerReset": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.base",
+		"game_timer_triggerFreeze": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.freezeTime",
+		"game_timer_triggerUnfreeze": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.unfreezeTime",
+		"game_timer_triggerUseRevive": "GameHud.topMiddle.eventCounter.Triggers.back_to_the_future.useRevive",
+		"trigger_name": "back_to_the_future",
+		"score_type": "DISTANCE",
+		"score_statistic": "BEST_BACK_TO_THE_FUTURE",
+		"leaderboard": "BEST_BACK_TO_THE_FUTURE",
+		"twitter_brag": " #BackToTheFuture",
+		"sfx_packages": [
+			"ENVIRONMENT_PACKAGE",
+			"SAM_PACKAGE"
+		],
+		"brickui_textures": [
+			"textures/logo/logo_barry.tex",
+			"textures/levels/Title/Objects/title_small.tex",
+			"textures/levels/Title/Objects/titleGlow_small.tex",
+			"textures/Menus/Results/currencyToken.tex",
+			"textures/menus/results/leaderboardLogo.tex"
+		]
+	},
+	"Features": [
+		"pause_event"
+	],
+ 	 "title_screen_settings": "back_to_the_future",
+	"TwitterPosts": [
+		{
+			"key": "BTTF_EVENT_SOCIAL_1",
+			"type": "SCORE",
+			"modifier": "CURRENT"
+		},
+		{
+			"key": "BTTF_EVENT_SOCIAL_2",
+			"type": "SCORE",
+			"modifier": "BEST"
+		},
+		{
+			"key": "BTTF_EVENT_SOCIAL_3",
+			"type": "SCORE",
+			"modifier": "BEST"
+		},
+		{
+			"key": "BTTF_EVENT_SOCIAL_4",
+			"type": "SCORE",
+			"modifier": "CURRENT"
+		},
+		{
+			"key": "BTTF_EVENT_SOCIAL_5",
+			"type": "SCORE",
+			"modifier": "CURRENT"
+		}
+	]
+}

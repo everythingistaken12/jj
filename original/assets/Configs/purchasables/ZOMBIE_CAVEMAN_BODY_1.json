@@ -1,0 +1,27 @@
+{
+    "reference_id": "ZOMBIE_CAVEMAN_BODY",
+    "tags": [
+        "Body",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ZOMBIE_CAVEMAN_BODY_NAME",
+        "description": "ITEM_ZOMBIE_CAVEMAN_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyZombieCaveman",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "apple_arcade",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

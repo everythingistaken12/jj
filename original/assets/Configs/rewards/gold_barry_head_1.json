@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "GOLD_BARRY_HEAD",
+	"fallback": "coin_pack_3000"
+}

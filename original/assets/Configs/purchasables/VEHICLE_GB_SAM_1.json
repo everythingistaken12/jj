@@ -1,0 +1,40 @@
+{
+    "reference_id": "VEHICLE_GB_SAM",
+    "tags": [
+        "prepurchase",
+        "Upgrades",
+        "bundle",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_GB_SAM_NAME",
+        "description": "VEHICLE_SKIN_GB_SAM_DESC",
+        "icon": "vehicleSamGB",
+        "isNew": true,
+        "hideWhen": "VEHICLE_SKIN_GB_SAM"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_GB_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.gbsam",
+        "google_play_store": "com.halfbrick.jetpack.gbsam",
+        "brick_bucks_store": "vehicle_gb_sam"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

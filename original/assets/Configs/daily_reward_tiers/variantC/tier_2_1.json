@@ -1,0 +1,69 @@
+{
+    "variants":
+    [
+        {
+            "type": "free",
+            "items":
+            [
+
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins0.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 75
+                }
+            ],
+            "backing_colour": "248,206,45,255",
+            "weight": 2
+        },
+        {
+            "type": "free",
+            "items":
+            [
+
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins0.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 100
+                }
+            ],
+            "backing_colour": "248,206,45,255",
+            "weight": 2
+        },
+        {
+            "type": "free",
+            "items":
+            [
+
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins0.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 150
+                }
+            ],
+            "backing_colour": "248,206,45,255",
+            "weight": 2
+        },
+        {
+            "type": "free",
+            "items":
+            [
+
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins0.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 250
+                }
+            ],
+            "backing_colour": "248,206,45,255",
+            "weight": 2
+        }
+    ]
+}

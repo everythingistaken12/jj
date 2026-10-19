@@ -1,0 +1,27 @@
+{
+    "currency": "BrainsAttackTokens",
+    "currency_texture": "Events/BrainsAttack/Textures/Menus/eventPopUp/currencyToken_64.tex",
+        "tiers":
+        [
+            "brains_attack/tier_1",
+            "brains_attack/tier_2",
+            "brains_attack/tier_3",
+            "brains_attack/tier_4",
+            "brains_attack/tier_5",
+            "brains_attack/tier_6",
+            "brains_attack/tier_7",
+            "brains_attack/tier_8",
+            "brains_attack/tier_9",
+            "brains_attack/tier_10",
+            "brains_attack/tier_11",
+            "brains_attack/tier_12",
+            "brains_attack/tier_13",
+            "brains_attack/tier_14",
+            "brains_attack/tier_15",
+            "brains_attack/tier_16",
+            "brains_attack/tier_17",
+            "brains_attack/tier_18",
+            "brains_attack/tier_19",
+            "brains_attack/tier_20"
+        ]
+}

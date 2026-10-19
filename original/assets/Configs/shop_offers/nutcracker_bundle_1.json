@@ -1,0 +1,10 @@
+{
+    "specialBundle": "nutcracker_bundle",
+    "template": "template_2x2_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0],
+    "backingTexture": "textures/menus/bricknetUpsell/ChristmasEvent/GingerbreadBundle/backing.tex",
+    "itemImages": "specialBundleNutcrackerImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

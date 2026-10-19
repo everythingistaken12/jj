@@ -1,0 +1,16 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "boards":
+    [
+        {
+      	    "board": "special_offer_cross_promo_fruit_punch"
+    	},
+        {
+            "board": "daily_reward_tiers"
+        },
+        {
+            "board": "fruit_king_bundle_set"
+        }
+    ]
+}

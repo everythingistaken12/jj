@@ -1,0 +1,36 @@
+{
+    "reference_id": "VEHICLE_GOLD_MECH",
+    "tags": [
+        "Upgrades",
+        "Vehicle Skins"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLDENSTOMPER_NAME",
+        "description": "ITEM_GOLDENSTOMPER_DESC",
+        "equipable": true,
+        "icon": "vehicleMechGold",
+        "isSkin": true,
+        "vehicleType": "Mech",
+        "defaultSkin": false
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_GOLD_MECH"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 8
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 8
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

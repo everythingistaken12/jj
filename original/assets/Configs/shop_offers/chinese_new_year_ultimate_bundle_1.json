@@ -1,0 +1,11 @@
+{
+    "storeId": "CHINESE_NEW_YEAR_2025_ULTIMATE_BUNDLE",
+    "template": "template_4x2_backing",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [1.0, 0.863, 0.208, 1.0],
+    "itemImages": "specialBundleLNYUltimateBundleImages",
+    "timerId": "cny_2026_chinese_new_year_ultimate_bundle",
+    "backingTexture": "textures/menus/bricknetUpsell/ChineseNewYearEvent/ChineseNewYear2021/backing.tex",
+    "infoText": "SHOP_BUTTON_BUY_NOW"
+}

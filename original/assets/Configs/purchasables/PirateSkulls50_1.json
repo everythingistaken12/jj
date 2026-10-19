@@ -1,0 +1,31 @@
+{
+    "reference_id": "PirateSkulls50",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "PIRATE_SKULL_PACK_NAME",
+        "description": "PIRATE_SKULL_PACK_DESCRIPTION",
+        "icon": "Events/Pirate/Textures/Menus/shop/ItemIcons/tokenSkull.tex",
+        "coins": 50,
+        "nameNoCoins": "PIRATE_SKULL_PACK_NAME_NO_QUANTITY"
+    },
+    "additional_deliverables": {
+        "EasterEggs": {
+            "is_currency": true,
+            "value": "50"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "PirateSkulls50"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

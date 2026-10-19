@@ -1,0 +1,22 @@
+{
+    "reference_id": "BEATLE_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BEATLE_BODY_NAME",
+        "description": "ITEM_BEATLE_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyBeatle",
+        "startWeek": 5
+    },
+    "payment_methods": {
+        "jetpack_store": "BEATLE_BODY"
+    },
+    "skus": [
+        "windows"
+    ]
+}

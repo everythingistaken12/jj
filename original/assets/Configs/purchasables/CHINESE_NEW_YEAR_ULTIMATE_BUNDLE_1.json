@@ -1,0 +1,109 @@
+{
+    "reference_id": "CHINESE_NEW_YEAR_ULTIMATE_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "LUNAR_NEW_YEAR_ULTIMATE_BUNDLE_NAME",
+        "description": "todo",
+        "icon": "iconCnyPack",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_CNY_DRAGON"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_CNY_DRAGON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CNY_FEMALE_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CNY_FEMALE_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_FIREWORKS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_OX": {
+            "is_currency": false,
+            "value": 1
+        },
+        "RAT_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "RAT_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CHINESEDRAGON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_NIAN_HOG": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_CNY_JETSKI": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_JETSKI": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_CNY_PIG": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_CNY_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "OX_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "OX_BODY": {
+            "is_currency": false,
+            "value": 1
+        },     
+        "JETPACK_DUMPLING": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_FAN": {
+            "is_currency": false,
+            "value": 1
+        },  
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 8888
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.chinese.new.year.ultimate.bundle",
+        "google_play_store": "com.halfbrick.jetpack.chinese.new.year.ultimate",
+        "brick_bucks_store": "chinese_new_year_ultimate_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

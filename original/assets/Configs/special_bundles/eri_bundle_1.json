@@ -1,0 +1,46 @@
+{
+	"conditions": [
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_ERI_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_MS_DRAGON == 0"
+			}
+		],
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_ERI_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_MS_DRAGON == 0"
+			}
+		],
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_ERI_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_MS_DRAGON == 0"
+			}
+		]
+	],
+	"store_id": "ERI_BUNDLE",
+	"trigger_name": "eri_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_ERI_VIEWS"
+}

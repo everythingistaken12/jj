@@ -1,0 +1,21 @@
+{
+    "vehicleName": "Reindeer",
+    "sprite": "reindeer.xml",
+    "GoldInventoryName": "VEHICLE_GOLDEN_SLEIGH",
+    "fragsDir": "Reindeer",
+    "ComponentsDir": "Reindeer",
+    "probability": "20.0",
+    "SequenceFirstFront": "true",
+    "duration": "0.0",
+    "BOOST": "0.0",
+    "GRAVITY": "5.7",
+    "FRICTION": "13.0",
+    "GoldParticle": "GoldSparkle_DragonHead",
+    "GoldParticleOffset": "-3,6",
+    "skins": {
+        "skin": {
+            "name": "VEHICLE_GOLDEN_SLEIGH",
+            "script": "Gold"
+        }
+    }
+}

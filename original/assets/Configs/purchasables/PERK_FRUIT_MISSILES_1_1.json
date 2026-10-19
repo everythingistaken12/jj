@@ -1,0 +1,32 @@
+{
+    "reference_id": "PERK_FRUIT_MISSILES_1",
+    "tags": [
+        "Gadget",
+        "tier1"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_FRUIT_MISSILES_NAME",
+        "description": "PERK_FRUIT_MISSILES_DESC",
+        "icon": "fruitMissile",
+        "equipable": true,
+        "unequipable": true,
+        "isNew": true,
+        "#default": {
+            "hidden" : true
+        },
+        "#HalfbrickPlus": {
+            "hidden" : false
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_FRUIT_MISSILES_1"
+    },
+    "skus": [
+        "halfbrick_plus",
+        "apple_arcade",
+        "windows"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "reference_id": "SANTA_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SANTAHAT_NAME",
+        "description": "ITEM_SANTAHAT_DESC",
+        "equipable": true,
+        "icon": "headSanta",
+        "startWeek": 47
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 12
+    },
+    "payment_methods": {
+        "jetpack_store": "SANTA_HEAD"
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 12
+    },
+    "payment_methods": {
+        "jetpack_store": "SANTA_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

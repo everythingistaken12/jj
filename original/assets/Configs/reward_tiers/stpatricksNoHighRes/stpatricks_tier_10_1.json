@@ -1,0 +1,13 @@
+{
+    "cost": 1050,
+    "display_name": "REWARD_UNLOCK",
+    "frame_texture": "textures/menus/shared/frameMetallic.tex",
+    "rewards_texture": "textures/menus/shop/itemicons/jetpackFairyWings.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackFairyWings.tex",
+    "display_description": "ITEM_FAIRYWINGS_JETPACK_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "jetpack_fairywings"
+    ]
+}

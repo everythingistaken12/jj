@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_Motu_Ultimate_Bundle",
+	"screen": "NoticeBoardMotuUltimateBundle_anim",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "MOTU_ULTIMATE_BUNDLE_2025",
+	"data_source": {
+		"title": "MOTU_ULTIMATE_BUNDLE_2025_TITLE"
+	}	
+}

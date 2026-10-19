@@ -1,0 +1,66 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinPatternEasterBasket.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternEasterBunnyText.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternEasterBunny.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternEasterBunny2.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternEasterChocolateText.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternEasterEgg.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternEasterEggsText.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternEasterText.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

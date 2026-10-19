@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "TAILOR_BODY",
+	"fallback": "coin_pack_4000"
+}

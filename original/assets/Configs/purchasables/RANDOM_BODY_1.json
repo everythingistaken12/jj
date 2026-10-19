@@ -1,0 +1,33 @@
+{
+    "reference_id": "RANDOM_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_RANDOM_BODY_NAME",
+        "description": "ITEM_RANDOM_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyquestion",
+        "startWeek": 0
+    },
+    "payment_methods": {
+        "jetpack_store": "RANDOM_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 30
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 30
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

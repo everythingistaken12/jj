@@ -1,0 +1,15 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "gif_cross_promo"
+    },
+    {
+      "board": "special_offer_cross_promo_chaser"
+    },
+    {
+      "board": "turbo_tidal_bundle_set"
+    }
+  ]
+}

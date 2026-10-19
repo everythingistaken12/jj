@@ -1,0 +1,33 @@
+{
+    "reference_id": "RASKULL_BODY",
+    "tags": [
+        "Body",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_RASKULL_BODY_NAME",
+        "description": "ITEM_RASKULL_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyRaskull"
+    },
+    "payment_methods": {
+        "jetpack_store": "RASKULL_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 23
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 23
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

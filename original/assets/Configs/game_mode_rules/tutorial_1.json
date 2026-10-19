@@ -1,0 +1,14 @@
+{
+	"headstarts_enabled": false,
+	"blasts_enabled": false,
+	"revives_enabled": true,
+	"ad_revives_enabled": false,
+	"sam_start_enabled": false,
+	"sam_revives_per_run": 0,
+	"sam_enabled": false,
+	"vehicles_enabled": true,
+	"vehicle_magnets_enabled": false,
+	"gadgets_enabled": false,
+	"powerups_enabled": false,
+	"skip_missions": false
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Fly over a total of 100 zappers",
+    "requirement": "Fly over 100 zappers",
+    "retired": false,
+    "meta_data": {
+        "groupId": "57",
+        "difficulty": 3,
+        "icon": "zappy",
+        "description": "MISSION_FLY_OVER_ZAPPER_TOTAL",
+        "hash": "FLY_OVER_ZAPPER_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "30",
+        "tag2": "ZAPPERS"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "fly over",
+                "o": "zapper",
+                "s": "t",
+                "c": 100
+            }
+        ]
+    }
+}

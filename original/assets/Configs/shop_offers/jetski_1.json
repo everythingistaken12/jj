@@ -1,0 +1,9 @@
+{
+    "storeId": "VEHICLE_JETSKI",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.443, 0.529, 0.647, 1.0],
+    "itemImages": "specialBundleJetskiImages",
+    "infoText": "SHOP_BUTTON_BUY_NOW"    
+}

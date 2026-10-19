@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "christmas_2023_thanks_giving_bundle_discount"
+			},		
+			{
+				"statistic": "SPECIAL_BUNDLE_THANKS_GIVING_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TURKEY == 0"
+			}		
+		],
+		[
+			{
+				"timerRunning": "christmas_2023_thanks_giving_bundle_discount"
+			},	
+			{
+				"statistic": "SPECIAL_BUNDLE_THANKS_GIVING_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TURKEY == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2023_thanks_giving_bundle_discount"
+			},	
+			{
+				"statistic": "SPECIAL_BUNDLE_THANKS_GIVING_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TURKEY == 0"
+			}
+		]
+	],
+	"store_id": "THANKS_GIVING_BUNDLE_DISCOUNT",
+	"timer_id": "christmas_2023_thanks_giving_bundle_discount",
+	"trigger_name": "thanks_giving_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_THANKS_GIVING_VIEWS"
+}

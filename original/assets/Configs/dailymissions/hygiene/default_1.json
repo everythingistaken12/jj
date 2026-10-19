@@ -1,0 +1,20 @@
+{
+    "dailyMissionCount": 14,
+    "rewardCurrency": "soap",
+    "dailyMissions": [
+        {"missionName": "RUN_10000_TOTAL_DISTANCE", "timeToUnlock": 0},
+        {"missionName": "PLAY_6_GAMES", "timeToUnlock": 86400},
+        {"missionName": "COLLECT_5000_COINS", "timeToUnlock": 172800},
+        {"missionName": "PLAY_5_GAMES_WITH_VEHICLE_SKIN_SUPPLY_BIRD", "timeToUnlock": 259200},
+        {"missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_COINS", "timeToUnlock": 345600},
+        {"missionName": "COLLECT_500_EVENT_TOKENS", "timeToUnlock": 432000},
+        {"missionName": "PLAY_10_GAMES", "timeToUnlock": 518400},
+        {"missionName": "USE_25_REVIVE", "timeToUnlock": 604800},
+        {"missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_DISTANCE", "timeToUnlock": 691200},
+        {"missionName": "COLLECT_50_SPIN_TOKENS", "timeToUnlock": 777600},
+        {"missionName": "PICKUP_10_VEHICLE_TOKENS", "timeToUnlock": 864000},
+        {"missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_DISTANCE", "timeToUnlock": 950400},
+        {"missionName": "PLAY_25_GAMES", "timeToUnlock": 1036800},
+        {"missionName": "COLLECT_12500_COINS", "timeToUnlock": 1123200}
+    ]
+}

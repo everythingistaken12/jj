@@ -1,0 +1,10 @@
+{
+    "specialBundle": "cross_promo_zappy_bird",
+    "template": "template_2x2_cross_promo_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0, 1.0], 
+    "itemImages": "specialBundleCrossPromoZappyBird",
+    "backingTexture": "Events/ZappyBird/Textures/Menus/eventInfo/backing.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

@@ -1,0 +1,182 @@
+{
+    "default": {
+        "games_for_sam": 0,
+        "probability": 2.8,
+        "tokenParams": {
+            "day_1": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_2": {
+                "firstTokenMinDistance": 400,
+                "firstTokenMaxDistance": 1000,
+                "minDistanceBetweenToken": 700,
+                "maxDistanceWithoutToken": 900
+            },
+            "day_3": {
+                "firstTokenMinDistance": 500,
+                "firstTokenMaxDistance": 1500,
+                "minDistanceBetweenToken": 1500,
+                "maxDistanceWithoutToken": 2000
+            },
+            "day_4": {
+                "firstTokenMinDistance": 600,
+                "firstTokenMaxDistance": 3000,
+                "minDistanceBetweenToken": 2500,
+                "maxDistanceWithoutToken": 3000
+            },
+            "day_5": {
+                "firstTokenMinDistance": 700,
+                "firstTokenMaxDistance": 5000,
+                "minDistanceBetweenToken": 3000,
+                "maxDistanceWithoutToken": 4500
+            }
+        }
+    },
+    "control_1": {
+        "games_for_sam": 5,
+        "probability": 2.8,
+        "tokenParams": {
+            "day_1": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_2": {
+                "firstTokenMinDistance": 400,
+                "firstTokenMaxDistance": 1000,
+                "minDistanceBetweenToken": 700,
+                "maxDistanceWithoutToken": 900
+            },
+            "day_3": {
+                "firstTokenMinDistance": 500,
+                "firstTokenMaxDistance": 1500,
+                "minDistanceBetweenToken": 1500,
+                "maxDistanceWithoutToken": 2000
+            },
+            "day_4": {
+                "firstTokenMinDistance": 600,
+                "firstTokenMaxDistance": 3000,
+                "minDistanceBetweenToken": 2500,
+                "maxDistanceWithoutToken": 3000
+            },
+            "day_5": {
+                "firstTokenMinDistance": 700,
+                "firstTokenMaxDistance": 5000,
+                "minDistanceBetweenToken": 3000,
+                "maxDistanceWithoutToken": 4500
+            }
+        }
+    },
+    "control_2": {
+        "games_for_sam": 5,
+        "probability": 2.8,
+        "tokenParams": {
+            "day_1": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_2": {
+                "firstTokenMinDistance": 400,
+                "firstTokenMaxDistance": 1000,
+                "minDistanceBetweenToken": 700,
+                "maxDistanceWithoutToken": 900
+            },
+            "day_3": {
+                "firstTokenMinDistance": 500,
+                "firstTokenMaxDistance": 1500,
+                "minDistanceBetweenToken": 1500,
+                "maxDistanceWithoutToken": 2000
+            },
+            "day_4": {
+                "firstTokenMinDistance": 600,
+                "firstTokenMaxDistance": 3000,
+                "minDistanceBetweenToken": 2500,
+                "maxDistanceWithoutToken": 3000
+            },
+            "day_5": {
+                "firstTokenMinDistance": 700,
+                "firstTokenMaxDistance": 5000,
+                "minDistanceBetweenToken": 3000,
+                "maxDistanceWithoutToken": 4500
+            }
+        }
+    },
+    "split_1": {
+        "games_for_sam": 5,
+        "probability": 2.8,
+        "tokenParams": {
+            "day_1": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_2": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_3": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_4": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_5": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            }
+        }
+    },
+    "split_2": {
+        "games_for_sam": 5,
+        "probability": 2.8,
+        "tokenParams": {
+            "day_1": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_2": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_3": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_4": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            },
+            "day_5": {
+                "firstTokenMinDistance": 0,
+                "firstTokenMaxDistance": 50,
+                "minDistanceBetweenToken": 150,
+                "maxDistanceWithoutToken": 300
+            }
+        }
+    }
+}

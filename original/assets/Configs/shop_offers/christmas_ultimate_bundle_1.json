@@ -1,0 +1,11 @@
+{
+  "storeId": "CHRISTMAS_2024_ULTIMATE_BUNDLE",
+  "template": "template_4x2_backing",
+  "tileWidth": 4,
+  "tileHeight": 2,
+  "backingColor": [1.0, 1.0, 1.0],
+  "backingTexture": "textures/menus/bricknetUpsell/ChristmasEvent/GingerbreadBundle/backing.tex", 
+  "itemImages": "specialBundleChristmasUltimateBundleImages",
+  "timerId": "christmas_2025_christmas_ultimate_bundle",
+  "infoText": "SHOP_BUTTON_BUY_NOW"
+}

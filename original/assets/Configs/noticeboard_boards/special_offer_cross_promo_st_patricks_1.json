@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Cross_Promo_St_Patricks",
+    "screen": "NoticeBoardCrossPromoStPatricks",
+    "on_show_event": "specialOffer",
+    "item_id": "CROSS_PROMO_ST_PATRICKS"
+}

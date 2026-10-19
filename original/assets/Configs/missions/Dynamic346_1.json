@@ -1,0 +1,26 @@
+{
+    "name": "Zigzag around 14 zappers",
+    "requirement": "Zigzag between zappers 14 times",
+    "retired": false,
+    "meta_data": {
+        "groupId": "58",
+        "difficulty": 3,
+        "icon": "slalom",
+        "description": "MISSION_SLALOM_ZAPPER",
+        "hash": "SLALOM_ZAPPERS",
+        "showProgress": "true",
+        "skill_grind": "SKILL",
+        "probability": "25",
+        "tag2": "ZAPPERS"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "zigzag between",
+                "o": "zapper",
+                "s": "t",
+                "c": 14
+            }
+        ]
+    }
+}

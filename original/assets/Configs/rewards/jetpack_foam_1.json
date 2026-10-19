@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "JETPACK_FOAM",
+	"fallback": "coin_pack_4000"
+}

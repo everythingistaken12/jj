@@ -1,0 +1,22 @@
+{
+    "reference_id": "CONSUMABLE_HEAD_START_500",
+    "tags": [
+        "Utilities",
+        "consumable"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "visible": "false"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

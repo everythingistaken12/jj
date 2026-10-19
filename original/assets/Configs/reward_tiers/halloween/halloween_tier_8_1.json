@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SKELETON_BODY_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/skeletonBodyCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodySkeleton.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",     
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "skeleton_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 400,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DEMON_JETPACK_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleDemonJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackDemon.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_demon_wings"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 400,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DEMON_JETPACK_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleDemonJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackDemon.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_demon_wings"
+        ]
+    }
+}

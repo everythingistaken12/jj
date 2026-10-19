@@ -1,0 +1,62 @@
+{
+  "reference_id": "ANNIVERSARY_10_BUNDLE",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_ANNIVERSARY_BUNDLE_NAME",
+    "description": "todo",
+    "icon": "costumeAnniversaryPartyBarry",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+      "ANNIVERSARY_PARTYBARRY_HEAD",
+      "ANNIVERSARY_PARTYBARRY_BODY",
+      "JETPACK_NOT_CHAMPAGNE",
+      "VEHICLE_SKIN_ANNIVERSARY_MECH"
+    ]
+  },
+  "additional_deliverables": {
+    "ANNIVERSARY_PARTYBARRY_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "ANNIVERSARY_PARTYBARRY_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_NOT_CHAMPAGNE": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ANNIVERSARY_MECH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CONSUMABLE_REVIVE": {
+      "is_currency": false,
+      "value": 10
+    },
+    "coins": {
+      "is_currency": true,
+      "value": 20000
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.anniversary10.bundle",
+    "google_play_store": "com.halfbrick.jetpack.anniversary10.bundle",
+    "brick_bucks_store": "anniversary_10_bundle"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

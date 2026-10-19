@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_TMNT_Ultimate_Bundle",
+    "screen": "NoticeboardTMNTUltimateBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "TMNT_ULTIMATE_BUNDLE"
+}

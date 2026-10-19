@@ -1,0 +1,27 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "tmnt_cowabunga_bundle_set"
+    },
+    {
+      "board": "tmnt_radical_bundle_set"
+    },
+    {
+      "board": "tmnt_gnarly_bundle_set"
+    },
+    {
+      "board": "tmnt_ultimate_bundle_set"
+    },
+    {
+      "board": "tmnt_sam_bundle_set"
+    },
+    {
+      "board": "tmnt_tubular_bundle_set"
+    },
+    {
+      "board": "tmnt_jetpack_bundle_set"
+    }
+  ]
+}

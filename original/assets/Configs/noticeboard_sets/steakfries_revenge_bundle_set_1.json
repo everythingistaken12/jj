@@ -1,0 +1,14 @@
+{
+    "selector": "random",
+    "boards":
+    [
+        {
+            "mediation":
+            [
+                "not_purchased_pirate_mech",
+                "steakfries_revenge_bundle_timer_running"
+            ],
+            "board": "special_offer_steakfries_revenge_bundle"
+        }
+    ]
+}

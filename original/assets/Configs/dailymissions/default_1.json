@@ -1,0 +1,23 @@
+{
+    "dailyMissionCount": 1,
+    "rewardCurrency": "coins",
+    "dailyMissions": [
+        {
+            "missionName": "FREEBIE",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_3_EVENT_GAMES",
+            "timeToUnlock": 0
+            
+        },
+        {
+            "missionName": "PLAY_6_EVENT_GAMES",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_10_EVENT_GAMES",
+            "timeToUnlock": 0
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_AFTERBURNER_REFERENCE_PRICE",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CHROMEPLATEDAFTERBURNER_NAME",
+        "description": "ITEM_CHROMEPLATEDAFTERBURNER_DESC",
+        "equipable": true,
+        "icon": "jetpackJE",
+        "startWeek": 10
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_AFTERBURNER_REFERENCE_PRICE"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 22
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 22
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

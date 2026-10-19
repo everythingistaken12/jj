@@ -1,0 +1,10 @@
+{
+  "notification_icon": "whenRunning",
+  "timer_length_date_start": "2026-02-13T00:00",
+  "timer_length_date_end": "2026-03-06T00:00",
+	"meta": {
+		"shutdown_conditions": {
+			"itemOwned": "VEHICLE_SKIN_LNY_HOG"
+		}
+	}
+}

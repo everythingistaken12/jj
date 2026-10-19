@@ -1,0 +1,38 @@
+{
+    "reference_id": "COIN_PACK_3_50_OFF",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINBOOSTERPACK100000_NAME",
+        "description": "ITEM_COINBOOSTERPACK100000_DESC",
+        "icon": "coinPack3",
+        "coins": 100000,
+        "nameNoCoins": "ITEM_COINBOOSTERPACK100000_NAME_NONUMBER",
+        "hidden": true,
+        "metadata": {
+            "banner_string_id": "STR_SHOP_EXTRA_COINS_BARRYS_PICK",
+            "banner_img": "ribbonGreen_01"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "100000"
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.CoinPack3_50PCOff",
+        "google_play_store": "com.halfbrick.jetpack.coinpack3.50pcoff",
+        "brick_bucks_store": "coin_pack_3_50_off"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

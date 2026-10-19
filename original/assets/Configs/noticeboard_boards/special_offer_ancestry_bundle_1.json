@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Ancestry_Bundle",
+    "screen": "NoticeboardAncestryBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "AOZ_ANCESTRY_BUNDLE"
+}

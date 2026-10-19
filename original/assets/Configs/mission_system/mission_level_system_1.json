@@ -1,0 +1,66 @@
+{
+  "MissionLevelFile": {
+    "Level": [
+      {
+        "CoinReward": 400,
+        "AdvanceStars": 3
+      },
+      {
+        "CoinReward": 800,
+        "AdvanceStars": 3
+      },
+      {
+        "CoinReward": 1200,
+        "AdvanceStars": 3
+      },
+      {
+        "CoinReward": 1600,
+        "AdvanceStars": 5
+      },
+      {
+        "CoinReward": 2000,
+        "AdvanceStars": 5
+      },
+      {
+        "CoinReward": 2400,
+        "AdvanceStars": 7
+      },
+      {
+        "CoinReward": 2800,
+        "AdvanceStars": 7
+      },
+      {
+        "CoinReward": 3200,
+        "AdvanceStars": 7
+      },
+      {
+        "CoinReward": 3600,
+        "AdvanceStars": 9
+      },
+      {
+        "CoinReward": 4000,
+        "AdvanceStars": 9
+      },
+      {
+        "CoinReward": 4400,
+        "AdvanceStars": 11
+      },
+      {
+        "CoinReward": 4800,
+        "AdvanceStars": 11
+      },
+      {
+        "CoinReward": 5200,
+        "AdvanceStars": 11
+      },
+      {
+        "CoinReward": 5600,
+        "AdvanceStars": 13
+      },
+      {
+        "CoinReward": 6000,
+        "AdvanceStars": 13
+      }
+    ]
+  }
+}

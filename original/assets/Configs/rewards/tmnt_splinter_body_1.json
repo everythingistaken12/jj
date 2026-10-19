@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "TMNT_SPLINTER_BODY",
+	"fallback": "coin_pack_3000"
+}

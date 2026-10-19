@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "timer_running_tmnt_sam_bundle"
+      ],
+      "board": "special_offer_tmnt_sam_bundle"
+    }
+  ]
+}

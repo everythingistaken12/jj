@@ -1,0 +1,31 @@
+{
+    "reference_id": "ChristmasBaubles50",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "CHRISTMAS_BAUBLES_PACK_NAME",
+        "description": "CHRISTMAS_BAUBLES_PACK_DESCRIPTION",
+        "icon": "Events/Christmas/Textures/Menus/shop/ItemIcons/tokenBauble.tex",
+        "coins": 50,
+        "nameNoCoins": "CHRISTMAS_BAUBLES_PACK_NAME_NO_QUANTITY"
+    },
+    "additional_deliverables": {
+        "ChristmasBaubles": {
+            "is_currency": true,
+            "value": "50"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "ChristmasBaubles50"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

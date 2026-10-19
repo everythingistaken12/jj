@@ -1,0 +1,29 @@
+{
+    "reference_id": "VEHICLE_GOLD_COLOSSATRON",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_GOLD_COLOSSATRON_NAME",
+        "description": "VEHICLE_GOLD_COLOSSATRON_DESC",
+        "equipable": true,
+        "icon": "vehicleDragonGoldColossatron",
+        "crosspromo": "https://halfbrick.com",
+        "awardsCrosspromoImmediately": true,
+        "isSkin": true,
+        "vehicleType": "Dragon",
+        "defaultSkin": false,
+        "hidden": true
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

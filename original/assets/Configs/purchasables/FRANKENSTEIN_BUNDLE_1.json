@@ -1,0 +1,53 @@
+{
+    "reference_id": "FRANKENSTEIN_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "FRANKENSTEIN_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "costumeFrankenstein",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER": {
+            "is_currency": false,
+            "value": 1
+        },
+        "FRANKENSTEIN_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "FRANKENSTEIN_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_FRANKENSTEIN": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.frankensteinbundle",
+        "google_play_store": "com.halfbrick.jetpackjoyride.frankensteinbundle",
+        "brick_bucks_store": "FRANKENSTEIN_BUNDLE"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

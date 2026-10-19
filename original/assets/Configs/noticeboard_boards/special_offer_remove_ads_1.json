@@ -1,0 +1,7 @@
+{
+	"name": "SpecialOffer_RemoveAds",
+	"template": "SALE_ITEM",
+	"screen": "NoticeBoardRemoveAds",
+	"item_id": "DISABLE_ADS",
+	"on_show_event": "specialOffer"
+}

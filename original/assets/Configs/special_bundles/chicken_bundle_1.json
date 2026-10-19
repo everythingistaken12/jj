@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "easter_2026_chicken_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHICKEN_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHICKEN == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_chicken_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHICKEN_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHICKEN == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_chicken_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHICKEN_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHICKEN == 0"
+			}
+		]
+	],
+	"store_id": "CHICKEN_BUNDLE",
+	"timer_id": "easter_2026_chicken_bundle",
+	"trigger_name": "chickenBundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_CHICKEN_VIEWS"
+}

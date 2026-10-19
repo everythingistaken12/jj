@@ -1,0 +1,12 @@
+{
+	"cost": 350,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "7500_COINS",
+	"rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+	"rewards_locked_texture": "textures/menus/shop/itemicons/coinsItem2.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem2.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"coin_pack_7500"
+	]
+}

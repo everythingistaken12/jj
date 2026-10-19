@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_mshog"
+      ],
+      "board": "special_offer_tarma_bundle"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+    "reference_id": "VEHICLE_SKIN_HOVERHOG",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Hog"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_HOVERHOG_NAME",
+        "description": "VEHICLE_SKIN_HOVERHOG_DESC",
+        "equipable": true,
+        "icon": "vehicleHogHover",
+        "isSkin": true,
+        "vehicleType": "Hog",
+        "defaultSkin": false,
+        "oneTimeCostumeOffer": {
+            "headID": "FUTURE_HEAD",
+            "bodyID": "FUTURE_BODY",
+            "setID": "FUTURE_COSTUME"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_HOVERHOG"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 27
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 27
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	"currency": "metal_slug_crate",
+	"currency_texture": "textures/menus/eventPopUp/currencyToken_64.tex",
+	"tiers": [
+		"metal_slug/tier_1",
+		"metal_slug/tier_2",
+		"metal_slug/tier_3",
+		"metal_slug/tier_4",
+		"metal_slug/tier_5",
+		"metal_slug/tier_6",
+		"metal_slug/tier_7",
+		"metal_slug/tier_8",												
+		"metal_slug/tier_9",
+		"metal_slug/tier_10",
+		"metal_slug/tier_11",
+		"metal_slug/tier_12",
+		"metal_slug/tier_13"						
+	]
+}

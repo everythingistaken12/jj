@@ -1,0 +1,166 @@
+{
+    "vehicleName": "Sled",
+    "displayName": "ITEM_CHRISTMAS_SLEIGH_NAME",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_SLEIGH",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_SLEIGH",
+        "distanceBest": "VEHICLE_BEST_SLEIGH",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_SLEIGH"
+    },
+    "MissionText": "ITEM_CHRISTMAS_SLEIGH_NAME",
+    "sprite": "sleigh.xml",
+    "RequiredTextures": {
+        "Texture": [
+            "sleigh.tex",
+            "reindeer.tex"
+        ],
+        "Vehicle": "Reindeer"
+    },
+    "FlashTextures": {
+        "Texture": "sledAntlers.tex"
+    },
+    "GoldInventoryName": "VEHICLE_GOLDEN_SLEIGH",
+    "MagnetDeliverable": "SLEIGH_MAGNET",
+    "allowHalo": "true",
+    "fragsDir": "Sled",
+    "ComponentsDir": "Sled",
+    "ComponentsOffset": "-12,4",
+    "sequenceBar": "bar_sled",
+    "Streak1Colour": {
+        "r": "169",
+        "g": "227",
+        "b": "103"
+    },
+    "Streak2Colour": {
+        "r": "230",
+        "g": "255",
+        "b": "153"
+    },
+    "probability": "20.0",
+    "SequenceFirstFront": "true",
+    "duration": "0.0",
+    "BOOST": "0.0",
+    "GRAVITY": "5.7",
+    "FRICTION": "13.0",
+    "STREAK": "SLED_STREAK",
+    "START_VELOCITY": "200.0",
+    "MAX_VELOCITY": "800.0",
+    "VELOCITY_INCREASE": "0.15",
+    "GoldParticle": "GoldSparkle_DragonHead",
+    "GoldParticleOffset": "-3,6",
+    "skins": {
+        "skin": [
+            {
+                "name": "VEHICLE_SKIN_SLEIGH",
+                "script": "",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_Xmas"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+
+                "name": "VEHICLE_GOLD_SLEIGH",
+                "script": "Gold",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_Xmas"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+
+                "name": "VEHICLE_SKIN_CHARIOT",
+                "script": "Chariot",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_Chariot"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+
+                "name": "VEHICLE_SKIN_GINGER_BREAD_SLEIGH",
+                "script": "GingerBreadSleigh",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "0.5",
+                    "track": "Music_GingerbreadSleigh"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_TURTLE_SLEIGH",
+                "script": "TurtleSleigh",
+
+                "componentCompleteSfx": "sleigh_turtle_form_1, sleigh_turtle_form_2, sleigh_turtle_form_3",
+                "constructionCompleteSfx": "sleigh_turtle_form_complete",
+
+                "Sled_Presents": "",
+                "Sled_Smoke": "TurtleSleigh_Sled_Smoke",
+                "Sled_Engine": "TurtleSleigh_Sled_Engine",
+                "Sled_Burst": ""
+            }
+        ]
+    }
+}

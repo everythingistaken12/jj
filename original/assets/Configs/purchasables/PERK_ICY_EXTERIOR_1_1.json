@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_ICY_EXTERIOR_1",
+    "tags": [
+        "Gadget",
+        "tier3"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_ICY_EXTERIOR_NAME",
+        "description": "PERK_ICY_EXTERIOR_DESC",
+        "equipable": true,
+        "unequipable": true,
+        "icon": "icySkin"
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_ICY_EXTERIOR_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 19
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 19
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

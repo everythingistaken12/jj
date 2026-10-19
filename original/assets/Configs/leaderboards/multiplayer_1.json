@@ -1,0 +1,8 @@
+{
+    "provider_ids": {
+        "amazon": "",
+        "game_center": "",
+        "google_play": ""
+    },
+    "periodic": true
+}

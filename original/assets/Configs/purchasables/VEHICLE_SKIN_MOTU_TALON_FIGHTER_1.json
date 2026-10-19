@@ -1,0 +1,30 @@
+{
+    "reference_id": "VEHICLE_SKIN_MOTU_TALON_FIGHTER",
+    "tags": [
+        "Upgrades",
+        "Vehicle Skins",
+        "Bird"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MOTU_TALON_FIGHTER_NAME",
+        "description": "VEHICLE_SKIN_MOTU_TALON_FIGHTER_DESC",
+        "equipable": true,
+        "icon": "vehicleBirdTalonFighter",
+        "isSkin": true,
+        "vehicleType": "Bird",
+        "defaultSkin": false,        
+        "hideUntil": "VEHICLE_SKIN_MOTU_TALON_FIGHTER",
+        "isNew": true
+    },
+    "payment_methods": {},    
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "halfbrick_plus",
+        "ios",
+        "windows"
+    ]
+}

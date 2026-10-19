@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_39",
+    "description": "ACHIEVEMENT_DESC_39",
+    "type": "SAM_COMPLETE",
+    "sub_type_1": "day5",
+    "texture": "licenseToThrill",
+    "points": 10,
+    "max_progress": 1,
+    "provider_ids": {
+        "amazon": "1647844",
+        "game_center": 
+        {
+            "default": "1647844",
+            "AppleArcade": "license_to_thrill_aa",
+            "HalfbrickPlus": "license_to_thrill_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQKA"
+        }
+    }
+}

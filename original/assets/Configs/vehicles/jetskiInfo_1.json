@@ -1,0 +1,50 @@
+{
+    "jetski_file": {
+        "_description": "Multipliers for how much the Jetski affects water waves when entering/exiting water",
+        "WATER_IMPACT_SPLASH_FACTOR": "0.65",
+        "EXIT_WATER_SPLASH_FACTOR": "0.65",
+
+        "_description": "Friction multiplier when Jetski impacts water",
+        "WATER_IMPACT_FRICTION": "0.6",
+
+        "_description": "Velocity multiplier when Jetski leaves water",
+        "Y_VEL_SURFACE_FRICTION": "0.4",
+
+        "_description": "Velocity for diving once in water",
+        "INITIAL_DIVE_SPEED": "0",
+        "DIVE_SPEED": "-0.85",
+
+        "_description": "Air and Water resistance",
+        "AIR_GRAVITY": "0.175",
+        "WATER_GRAVITY": "-0.7",
+        "Y_VEL_AIR_FRICTION": "0.9725",
+        "Y_VEL_WATER_FRICTION": "0.9725",
+
+        "_description": "Rotations for jetski sprite and handlebar when rising or diving",
+        "LIFT_MAX_ANGLE": "-30.0",
+        "FALL_MAX_ANGLE": "-15.0",
+        "DIVE_MAX_ANGLE": "30.0",
+        "LIFT_HANDLE_MAX_ANGLE": "-5.0",
+        "DIVE_HANDLE_MAX_ANGLE": "12.0",
+
+        "_description": "Diving speed when holding input",
+        "AIR_DIVE_SPEED": "-0.14",
+
+        "_description": "Height of water ceiling",
+        "WATER_SURFACE_HEIGHT": "-22.0",
+
+        "_description": "Max height water waves can move ",
+        "MAX_WATER_DISPLACEMENT": "12.0",
+
+        "_description": "Water diffusion damping",
+        "WATER_DIFFUSION": "0.75",
+        "WATER_DAMPING": "0.999",
+        "WATER_WEIGHTING": "0.5",
+        "WATER_OUTERDAMPING": "0.98",
+        "WATER_MOVE_LEVEL_FACTOR": "0.2",
+
+        "_description": "Default angle for jetski sprite and barry",
+        "REST_MAX_ANGLE": "-5.5",
+        "version": "1.0.0"
+    }
+}

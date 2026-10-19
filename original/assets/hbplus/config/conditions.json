@@ -1,0 +1,82 @@
+{
+  "userJourneys": [
+    {
+      "id": "quiz_popup",
+      "placement": "LevelEnd",
+      "placementType": "popup",
+      "conditions": {
+        "logic": "AND",
+        "rules": [
+          {
+            "type": "int",
+            "comparison": "greater_than",
+            "key": "played_games",
+            "value": 6
+          }
+        ]
+      },
+      "content_popup": {
+        "to_screen": "screen1"
+      }
+    },
+    {
+      "id": "mid_interstitial",
+      "placement": "MainMenu|LevelEnd",
+      "placementType": "interstitial",
+      "conditions": {
+        "logic": "AND",
+        "rules": [
+          {
+            "type": "int",
+            "comparison": "greater_than",
+            "key": "played_games",
+            "value": 4
+          }
+        ]
+      },
+      "content_interstitial": {
+        "ad_url": "local_interstitials/interstitial.html",
+        "click_url": "deeplinkhbplus://{{plans}}",
+        "game_promoted": "hbplus"
+      }
+    },
+    {
+      "id": "minutes_screen",
+      "placement": "*",
+      "placementType": "popup",
+      "conditions": {
+        "logic": "AND",
+        "rules": [
+          {
+            "type": "time",
+            "comparison": "greater_than",
+            "key": "",
+            "value": 1800
+          }
+        ]
+      },
+      "content_popup": {
+        "to_screen": "minutes"
+      }
+    },
+    {
+      "id": "minutes_screen2",
+      "placement": "*",
+      "placementType": "popup",
+      "conditions": {
+        "logic": "AND",
+        "rules": [
+          {
+            "type": "time",
+            "comparison": "greater_than",
+            "key": "",
+            "value": 2700
+          }
+        ]
+      },
+      "content_popup": {
+        "to_screen": "minutes"
+      }
+    }
+  ]
+}

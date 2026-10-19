@@ -1,0 +1,21 @@
+{
+    "reference_id": "PICKUP_SLOWMOTION",
+    "tags": [
+        "Pickup"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 10,
+    "metas": {
+        "description": ""
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

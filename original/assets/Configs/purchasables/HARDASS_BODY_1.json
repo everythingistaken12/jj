@@ -1,0 +1,32 @@
+{
+    "reference_id": "HARDASS_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_HARDASS_BODY_NAME",
+        "description": "ITEM_HARDASS_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyHardass"
+    },
+    "payment_methods": {
+        "jetpack_store": "HARDASS_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 16
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 16
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

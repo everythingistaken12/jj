@@ -1,0 +1,50 @@
+{
+    "reference_id": "ESKIMO_COSTUME",
+    "tags": [
+        "Premium",
+        "One Time Offer",
+        "Bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_ESKIMO_NAME",
+        "description": "IAP_ESKIMO_GOOGLE_PLAY_DESC",
+        "hidden": true,
+        "force_hide": true,
+        "discount": 50,
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables": {
+        "ESKIMO_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "ESKIMO_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.Costume.PolarizedApparel",
+        "google_play_store": "com.halfbrick.jetpack.costume.polarizedapparel",
+        "brick_bucks_store": "eskimo_costume"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

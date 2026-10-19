@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "halloween_2026_bewitched_bundle"
+			},		
+			{
+				"statistic": "SPECIAL_BUNDLE_BEWITCHED_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BROOMSTICK_DRAGON == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "halloween_2026_bewitched_bundle"
+			},	
+			{
+				"statistic": "SPECIAL_BUNDLE_BEWITCHED_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BROOMSTICK_DRAGON == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "halloween_2026_bewitched_bundle"
+			},	
+			{
+				"statistic": "SPECIAL_BUNDLE_BEWITCHED_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BROOMSTICK_DRAGON == 0"
+			}
+		]
+	],
+	"store_id": "BEWITCHED_BUNDLE",
+	"timer_id": "halloween_2026_bewitched_bundle",
+	"trigger_name": "bewitched_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_BEWITCHED_VIEWS"
+}

@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 1200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_SEAHORSE_NAME",
+        "rewards_texture": "textures/menus/bricknetUpsell/PirateEvent/OceanPack/specialBundleSeahorseVehicle.tex",
+        "frame_texture": "textures/menus/shared/frameAqua.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechSeaHorse.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "sea_horse"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_PIRATE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_PIRATE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_body"
+        ]
+    }
+}

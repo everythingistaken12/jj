@@ -1,0 +1,27 @@
+{
+    "dailyMissionCount": 21,
+    "rewardCurrency": "EasterEggs",
+    "dailyMissions": [
+        {"missionName": "RUN_10000_TOTAL_DISTANCE_WITH_EASTER_BUNNY", "timeToUnlock": 0},
+        {"missionName": "PLAY_6_GAMES", "timeToUnlock": 86400},
+        {"missionName": "COLLECT_5000_COINS", "timeToUnlock": 172800},
+        {"missionName": "PLAY_5_GAMES_WITH_JETPACK_EGGBASKET", "timeToUnlock": 259200},
+        {"missionName": "PLAY_5_GAMES_WITH_OSTARA", "timeToUnlock": 345600},
+        {"missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_COINS", "timeToUnlock": 432000},
+        {"missionName": "COLLECT_500_EVENT_TOKENS", "timeToUnlock": 518400},
+        {"missionName": "PLAY_5_GAMES_WITH_VEHICLE_SKIN_CHICKEN", "timeToUnlock": 604800},
+        {"missionName": "RUN_10000_TOTAL_DISTANCE", "timeToUnlock": 691200},
+        {"missionName": "USE_25_REVIVE", "timeToUnlock": 777600},
+        {"missionName": "PLAY_5_GAMES_WITH_EASTER_EXOSUIT", "timeToUnlock": 864000},
+        {"missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_DISTANCE", "timeToUnlock": 950400},
+        {"missionName": "PLAY_5_GAMES_WITH_JETPACK_CUSTOM_BUNNY", "timeToUnlock": 1036800},
+        {"missionName": "COLLECT_50_SPIN_TOKENS", "timeToUnlock": 1123200},
+        {"missionName": "PLAY_5_GAMES_WITH_EGG", "timeToUnlock": 1209600},
+        {"missionName": "PICKUP_10_VEHICLE_TOKENS", "timeToUnlock": 1296000},
+        {"missionName": "PLAY_5_GAMES_WITH_VEHICLE_SKIN_RABBIT_MECH", "timeToUnlock": 1382400},
+        {"missionName": "RUN_20000_TOTAL_DISTANCE", "timeToUnlock": 1468800},
+        {"missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_DISTANCE", "timeToUnlock": 1555200},
+        {"missionName": "PLAY_25_GAMES", "timeToUnlock": 1641600},
+        {"missionName": "COLLECT_12500_COINS", "timeToUnlock": 1728000}
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "coin_pattern_file": {
+        "probability": {
+            "value": 4,
+            "startDistance": 0
+        },
+        "coin_pattern": [
+            {
+                "filename": "patterns/coinPatternCFT1.txt",
+                "probability": {
+                    "value": 5,
+                    "startDistance": 0
+                }
+            },
+            {
+                "filename": "patterns/coinPatternCFT2.txt",
+                "probability": {
+                    "value": 5,
+                    "startDistance": 0
+                }
+            },
+            {
+                "filename": "patterns/coinPatternCFT3.txt",
+                "probability": {
+                    "value": 5,
+                    "startDistance": 0
+                }
+            }
+        ]
+    }
+}

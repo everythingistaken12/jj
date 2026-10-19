@@ -1,0 +1,156 @@
+{
+  "reference_id": "PIRATE_ULTIMATE_BUNDLE_2025",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "PIRATE_ULTIMATE_BUNDLE_TITLE",
+    "description": "todo",
+    "icon": "iconPiratePack",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+      "JETPACK_PARROT",
+      "PIRATE_HEAD",
+      "PIRATE_BODY",
+      "VEHICLE_SKIN_PIRATE_JETSKI",
+      "POSEIDON_HEAD",
+      "POSEIDON_BODY",
+      "VEHICLE_SKIN_SEAHORSE",
+      "JETPACK_KRAKEN",
+      "JETPACK_CUSTOM_DAVYJONES",
+      "VEHICLE_SKIN_PIRATE_MECH",
+      "JETPACK_CUSTOM_SPACE_PIRATE",
+      "SPACE_PIRATE_HEAD",
+      "SPACE_PIRATE_BODY",
+      "VEHICLE_SKIN_SPACE_PIRATE_MECH",
+      "JETPACK_CUSTOM_COCONUT",
+      "MAROONED_HEAD",
+      "MAROONED_BODY",
+      "VEHICLE_SKIN_TURTLE_SLEIGH"
+    ]
+  },
+  "additional_deliverables": {
+    "JETPACK_PARROT": {
+      "is_currency": false,
+      "value": 1
+    },
+    "PIRATE_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "PIRATE_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_PIRATE_JETSKI": {
+      "is_currency": false,
+      "value": 1
+    },
+    "POSEIDON_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "POSEIDON_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_SEAHORSE": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_KRAKEN": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CUSTOM_DAVYJONES": {
+        "is_currency": false,
+        "value": 1
+    },
+    "COMMODORE_HEAD": {
+        "is_currency": false,
+        "value": 1
+    },
+    "COMMODORE_BODY": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_PIRATE_MECH": {
+        "is_currency": false,
+        "value": 1
+    },
+    "JETPACK_TREASURECHEST": {
+        "is_currency": false,
+        "value": 1
+    },
+    "UNDEAD_PIRATE_HEAD": {
+        "is_currency": false,
+        "value": 1
+    },
+    "UNDEAD_PIRATE_BODY": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_PIRATE_HOG": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_JETSKI": {
+        "is_currency": false,
+        "value": 1
+    },
+    "JETPACK_CUSTOM_SPACE_PIRATE": {
+        "is_currency": false,
+        "value": 1
+    },
+    "SPACE_PIRATE_HEAD": {
+        "is_currency": false,
+        "value": 1
+    },
+    "SPACE_PIRATE_BODY": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_SPACE_PIRATE_MECH": {
+        "is_currency": false,
+        "value": 1
+    },
+    "JETPACK_CUSTOM_COCONUT": {
+        "is_currency": false,
+        "value": 1
+    },
+    "MAROONED_HEAD": {
+        "is_currency": false,
+        "value": 1
+    },
+    "MAROONED_BODY": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_TURTLE_SLEIGH": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_SLEIGH": {
+        "is_currency": false,
+        "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.pirate.ultimate.pack.2025",
+    "google_play_store": "com.halfbrick.jetpack.pirate.ultimate.pack.2025",
+    "brick_bucks_store": "pirate_ultimate_bundle_2025"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

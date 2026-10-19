@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "3000_COINS",
+        "rewards_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "coin_pack_3000"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 525,
+    	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_HARLEQUIN_HEAD_NAME",
+    	"rewards_texture": "textures/menus/shop/itemicons/headHarlequin.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/headHarlequin.tex",
+    	"frame_texture": "textures/menus/shared/frameGold.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"harlequin_head"
+    	]
+    },
+    "#AppleArcade":
+    {
+        "cost": 525,
+    	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_HARLEQUIN_HEAD_NAME",
+    	"rewards_texture": "textures/menus/shop/itemicons/headHarlequin.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/headHarlequin.tex",
+    	"frame_texture": "textures/menus/shared/frameGold.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"harlequin_head"
+    	]
+    }
+}

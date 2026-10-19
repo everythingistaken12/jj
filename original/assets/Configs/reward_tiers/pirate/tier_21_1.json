@@ -1,0 +1,20 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 875
+    },
+    "#AppleArcade":
+    {
+        "cost": 875
+    },
+    "cost": 2500,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_JETPACK_CUSTOM_COCONUT_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/jetpackCoconut.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackCoconut.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "jetpack_custom_coconut"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "reference_id": "JETPACK_4TH_OF_JULY",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_4TH_OF_JULY_JETPACK_NAME",
+        "description": "ITEM_4TH_OF_JULY_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpack4thOfJuly",
+        "isNew": true,
+        "hidden": true,
+        "#AppleArcade": { "hidden": false },
+        "#HalfbrickPlus": { "hidden": false }
+    },
+    "payment_methods": {},
+    "#AppleArcade": { "payment_methods": { "jetpack_store": "JETPACK_4TH_OF_JULY" }},
+    "#HalfbrickPlus": { "payment_methods": { "jetpack_store": "JETPACK_4TH_OF_JULY" }},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}
+

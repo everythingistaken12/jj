@@ -1,0 +1,28 @@
+{
+  "reference_id": "VEHICLE_SKIN_ST_TELEPORTER",
+  "tags": [
+    "Vehicle Skins",
+    "Upgrades",
+    "Teleporter"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "VEHICLE_SKIN_ST_TELEPORTER_NAME",
+    "description": "VEHICLE_SKIN_ST_TELEPORTER_DESC",
+    "equipable": true,
+    "icon": "vehicleTeleporterStarTrek",
+    "isSkin": true,
+    "vehicleType": "Teleporter",
+    "defaultSkin": false,
+    "isNew": true,
+    "hidden": true
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

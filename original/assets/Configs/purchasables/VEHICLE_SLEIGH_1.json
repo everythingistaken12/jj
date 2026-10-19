@@ -1,0 +1,44 @@
+{
+    "reference_id": "VEHICLE_SLEIGH",
+    "tags": [
+        "prepurchase",
+        "Premium",
+        "Upgrades",
+        "Bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_PRE_PURCHASE_SLEIGH_NAME",
+        "description": "ITEM_PRE_PURCHASE_SLEIGH_DESC",
+        "icon": "vehicleSledSpecial",
+        "hideWhen": "VEHICLE_SKIN_SLEIGH",
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables": {
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_SLEIGH": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.XmasSleigh",
+        "google_play_store": "com.halfbrick.jetpack.xmassleigh",
+        "brick_bucks_store": "vehicle_sleigh"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "NoticeBoardCrossPromoGif",
+  "screen": "NoticeBoardCrossPromoGif",
+	"data_source": {
+		"title": "NOTICEBOARD_CROSS_PROMO_GIF",
+		"name": "NOTICEBOARD_CROSS_PROMO_GIF_DESCRIPTION"
+	}  
+}

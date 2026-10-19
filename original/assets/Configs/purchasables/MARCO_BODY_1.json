@@ -1,0 +1,25 @@
+{
+    "reference_id": "MARCO_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_MARCO_BODY_NAME",
+        "description": "ITEM_MARCO_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyMarco",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

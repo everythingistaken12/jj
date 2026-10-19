@@ -1,0 +1,40 @@
+{
+    "#default": {
+        "cost": 1500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_CHRISTMAS_LIGHTS_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackChristmasLights.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackChristmasLights.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_christmas_lights"
+        ]
+    },
+    "#HalfbrickPlus": {
+        "cost": 1075
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_CHRISTMAS_LIGHTS_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackChristmasLights.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackChristmasLights.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_christmas_lights"
+        ]
+    },
+    "#AppleArcade": {
+        "cost": 1075
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_CHRISTMAS_LIGHTS_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackChristmasLights.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackChristmasLights.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_christmas_lights"
+        ]
+    }
+}

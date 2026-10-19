@@ -1,0 +1,23 @@
+{
+	"headstarts_enabled": true,
+	"blasts_enabled": true,
+	"revives_enabled": true,
+	"sam_start_enabled": true,
+	"sam_revives_per_run": 1,
+	"sam_enabled": true,
+	"vehicles_enabled": true,
+	"vehicle_magnets_enabled": true,
+	"revives_consumable_per_run": 9,
+	"revives_video_ad_per_run": 2,
+	"gadget_start_enabled": true,
+	"gadgets_enabled": true,
+	"powerups_enabled": true,
+    "#default":
+    {
+        "missions_enabled": true
+    },
+    "#AppleArcade":
+    {
+        "missions_enabled": false
+    }
+}

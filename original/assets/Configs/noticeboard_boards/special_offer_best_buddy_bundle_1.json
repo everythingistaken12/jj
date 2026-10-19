@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_BestBuddyBundle",
+    "screen": "NoticeBoardBestBuddyBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "BEST_BUDDY_BUNDLE"
+}

@@ -1,0 +1,495 @@
+{
+    "RopeOffsets": {
+        "skin": [
+            {
+                "offset": [
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-6",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "-1,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    }
+                ]
+            },
+            {
+                "offset": [
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-6",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "-1,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    }
+                ],
+                "name": "Gold"
+            },
+            {
+                "offset": [
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-6",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "-1,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    }
+                ],
+                "name": "Chariot"
+            },
+            {
+                "offset": [
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-6",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "-1,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    }
+                ],
+                "name": "GingerBreadSleigh"
+            },
+            {
+                "offset": [
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-6",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "-1,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,-2",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-5",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-4",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,-3",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "1,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    },
+                    {
+                        "deerOffset": "0,0",
+                        "sledOffset": "19,1"
+                    }
+                ],
+                "name": "TurtleSleigh"
+            }
+        ],
+        "backOffset": "-5,4"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "reference_id": "TMNT_SPLINTER_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_TMNT_SPLINTER_HEAD_NAME",
+        "description": "ITEM_TMNT_SPLINTER_HEAD_DESC",
+        "equipable": true,
+        "icon": "headTMNTSplinter",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

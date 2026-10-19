@@ -1,0 +1,27 @@
+{
+    "dailyMissionCount": 21,
+    "rewardCurrency": "PirateSkulls2",
+    "dailyMissions": [
+        {"missionName": "RUN_10000_TOTAL_DISTANCE_WITH_PIRATE", "timeToUnlock": 0},
+        {"missionName": "PLAY_6_GAMES", "timeToUnlock": 86400},
+        {"missionName": "COLLECT_5000_COINS", "timeToUnlock": 172800},
+        {"missionName": "PLAY_5_GAMES_WITH_JETPACK_PARROT", "timeToUnlock": 259200},
+        {"missionName": "PLAY_5_GAMES_WITH_COMMODORE", "timeToUnlock": 345600},
+        {"missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_COINS", "timeToUnlock": 432000},
+        {"missionName": "COLLECT_500_EVENT_TOKENS", "timeToUnlock": 518400},
+        {"missionName": "PLAY_5_GAMES_WITH_VEHICLE_SKIN_PIRATE_MECH", "timeToUnlock": 604800},
+        {"missionName": "RUN_10000_TOTAL_DISTANCE", "timeToUnlock": 691200},
+        {"missionName": "USE_25_REVIVE", "timeToUnlock": 777600},
+        {"missionName": "PLAY_5_GAMES_WITH_POSEIDON", "timeToUnlock": 864000},
+        {"missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_DISTANCE", "timeToUnlock": 950400},
+        {"missionName": "PLAY_5_GAMES_WITH_JETPACK_KRAKEN", "timeToUnlock": 1036800},
+        {"missionName": "COLLECT_50_SPIN_TOKENS", "timeToUnlock": 1123200},
+        {"missionName": "PLAY_5_GAMES_WITH_VEHICLE_SKIN_PIRATE_JETSKI", "timeToUnlock": 1209600},
+        {"missionName": "PICKUP_10_VEHICLE_TOKENS", "timeToUnlock": 1296000},
+        {"missionName": "RUN_20000_TOTAL_DISTANCE", "timeToUnlock": 1382400},
+        {"missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_DISTANCE", "timeToUnlock": 1468800},
+        {"missionName": "PLAY_25_GAMES", "timeToUnlock": 1555200},
+        {"missionName": "COLLECT_12500_COINS", "timeToUnlock": 1641600},
+        {"missionName": "PLAY_5_GAMES_WITH_UNDEAD_PIRATE", "timeToUnlock": 1728000}
+    ]
+}

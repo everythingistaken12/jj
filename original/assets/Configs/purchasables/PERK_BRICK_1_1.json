@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_BRICK_1",
+    "tags": [
+        "Gadget",
+        "tier1"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_BRICK_NAME",
+        "description": "PERK_BRICK_DESC",
+        "icon": "brick",
+        "equipable": true,
+        "unequipable": true,
+        "isNew": true,
+        "#default": {
+            "hidden" : true
+        },
+        "#HalfbrickPlus": {
+            "hidden" : false
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_BRICK_1"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

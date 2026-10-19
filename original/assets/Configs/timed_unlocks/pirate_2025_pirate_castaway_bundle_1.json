@@ -1,0 +1,11 @@
+{
+	"notification_icon": "whenRunning",
+	"auto_start": true,
+	"timer_length_date_start": "2025-06-06T00:00",
+	"timer_length_date_end": "2025-06-27T00:00",
+	"meta": {
+		"shutdown_conditions": {
+			"itemOwned": "VEHICLE_SKIN_TURTLE_SLEIGH"
+		}
+	}
+}

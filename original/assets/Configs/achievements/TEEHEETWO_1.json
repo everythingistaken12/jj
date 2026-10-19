@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_2",
+    "description": "ACHIEVEMENT_DESC_2",
+    "type": "COINS",
+    "texture": "teeHeeTwo",
+    "secret": true,
+    "points": 20,
+    "max_progress": 69,
+    "provider_ids": {
+        "amazon": "1082622",
+        "game_center": 
+        {
+            "default": "1082622",
+            "AppleArcade": "tee_hee_two_aa",
+            "HalfbrickPlus": "tee_hee_two_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQAw"
+        }
+    }
+}

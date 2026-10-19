@@ -1,0 +1,28 @@
+{
+    "reference_id": "DISABLE_ADS",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+      "name": "SHOP_REMOVE_ADS",
+      "description": "todo",
+      "icon": "noAds",
+      "hideWhen": [
+        "DISABLE_ADS"
+      ]
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.disableads",
+        "google_play_store": "com.halfbrick.jetpack.disableads",
+        "brick_bucks_store": "disable_ads"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

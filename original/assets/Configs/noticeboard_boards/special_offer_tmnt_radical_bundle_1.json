@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_TMNT_Radical_Bundle",
+    "screen": "NoticeBoardTMNTRadicalBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "TMNT_RADICAL_BUNDLE"
+}

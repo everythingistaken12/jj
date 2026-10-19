@@ -1,0 +1,40 @@
+{
+    "reference_id": "RASKULL_COSTUME",
+    "tags": [
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_RASKULL_HEAD_NAME",
+        "description": "ITEM_RASKULL_COSTUME_DESC",
+        "equipable": true,
+        "icon": "costumeRaskull",
+        "isNew": false,
+        "crosspromo": "https://raskulls.page.link/jjclothinglist",
+        "crosspromo_token": 195935983,
+        "hideWhen": "RASKULL_HEAD"
+    },
+    "additional_deliverables": {
+        "RASKULL_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "RASKULL_HEAD": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "RASKULL_COSTUME"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

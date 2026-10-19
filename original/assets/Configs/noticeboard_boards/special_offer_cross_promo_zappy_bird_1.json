@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Cross_Promo_zappy_bird",
+    "screen": "NoticeBoardCrossPromoZappyBird",
+    "on_show_event": "specialOffer",
+    "item_id": "CROSS_PROMO_ZAPPY_BIRD"
+}

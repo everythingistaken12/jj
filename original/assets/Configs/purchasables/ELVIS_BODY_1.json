@@ -1,0 +1,33 @@
+{
+    "reference_id": "ELVIS_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ELVIS_BODY_NAME",
+        "description": "ITEM_ELVIS_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyElvis",
+        "startWeek": 29
+    },
+    "payment_methods": {
+        "jetpack_store": "ELVIS_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 17
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 17
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

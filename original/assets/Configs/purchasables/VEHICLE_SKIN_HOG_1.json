@@ -1,0 +1,28 @@
+{
+    "reference_id": "VEHICLE_SKIN_HOG",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 1,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_HOG_NAME",
+        "description": "VEHICLE_SKIN_HOG_DESC",
+        "equipable": true,
+        "icon": "vehicleHog",
+        "isSkin": true,
+        "vehicleType": "Hog",
+        "defaultSkin": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

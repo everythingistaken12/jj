@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "VEHICLE_SKIN_CHRISTMAS_SAM",
+	"fallback": "coin_pack_40000"
+}

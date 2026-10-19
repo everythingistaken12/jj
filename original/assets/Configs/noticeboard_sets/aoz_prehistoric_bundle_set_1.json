@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_zombie_bird",
+        "aoz_prehistoric_bundle_timer_running"
+      ],
+      "board": "special_offer_prehistoric_bundle"
+    }
+  ]
+}

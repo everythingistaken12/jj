@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Afterlife_Bundle",
+    "screen": "NoticeBoardGBAfterlifeBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GB_AFTERLIFE_BUNDLE"
+}

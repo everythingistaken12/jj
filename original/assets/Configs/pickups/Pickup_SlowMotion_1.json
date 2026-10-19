@@ -1,0 +1,630 @@
+{
+    "#default":
+    {
+    "name": "SLOW_MOTION_NAME",
+    "description": "SLOW_MOTION_DESC",
+    "item_id": "PICKUP_SLOWMOTION",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/slowMo.tex",
+    "pickup_icon": "textures/entities/pickupSlowMo.xml",
+    "trail_colour_start": "182,172,230,128",
+    "trail_colour_mid": "143,102,255,64",
+    "trail_colour_end": "93,62,130,0",
+    "particle_effect": "SlowMo_Token_Sparkle",
+    "required_mission_level": 5,
+    "levels": [
+        {
+            "LEVEL": 1,
+
+            "cost": 1000,
+            "durationSeconds": 7,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0
+            ],
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 6,
+            "numVehiclePickups": 1
+        },
+        {
+            "LEVEL": 2,
+            "cost": 3500,
+            "durationSeconds": 9.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5
+            ],
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 8,
+            "numVehiclePickups": 2
+        },
+        {
+            "LEVEL": 3,
+            "cost": 12000,
+            "durationSeconds": 12,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 10,
+            "numVehiclePickups": 2
+        },
+        {
+            "LEVEL": 4,
+            "cost": 30000,
+            "durationSeconds": 14.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 10,
+            "numVehiclePickups": 3
+        },
+        {
+            "LEVEL": 5,
+            "cost": 75000,
+            "durationSeconds": 17,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 14,
+            "numVehiclePickups": 3
+        },
+        {
+            "LEVEL": 6,
+            "cost": 150000,
+            "durationSeconds": 19.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 14,
+            "numVehiclePickups": 4
+        },
+        {
+            "LEVEL": 7,
+            "cost": 250000,
+            "durationSeconds": 22,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 18,
+            "numVehiclePickups": 4
+        },
+        {
+            "LEVEL": 8,
+            "cost": 350000,
+            "durationSeconds": 24.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 18,
+            "numVehiclePickups": 5
+        },
+        {
+            "LEVEL": 9,
+            "cost": 450000,
+            "durationSeconds": 27,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5,
+                20
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 22,
+            "numVehiclePickups": 5
+        },
+        {
+            "LEVEL": 10,
+            "cost": 550000,
+            "durationSeconds": 29.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5,
+                20,
+                22.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 22,
+            "numVehiclePickups": 6
+        }
+    ]
+},
+"#AppleArcade":
+    {
+    "name": "SLOW_MOTION_NAME",
+    "description": "SLOW_MOTION_DESC",
+    "item_id": "PICKUP_SLOWMOTION",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/slowMo.tex",
+    "pickup_icon": "textures/entities/pickupSlowMo.xml",
+    "trail_colour_start": "182,172,230,128",
+    "trail_colour_mid": "143,102,255,64",
+    "trail_colour_end": "93,62,130,0",
+    "particle_effect": "SlowMo_Token_Sparkle",
+    "levels": [
+        {
+            "LEVEL": 1,
+
+            "cost": 0,
+            "durationSeconds": 7,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0
+            ],
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 6,
+            "numVehiclePickups": 1
+        },
+        {
+            "LEVEL": 2,
+            "cost": 2500,
+            "durationSeconds": 9.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5
+            ],
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 8,
+            "numVehiclePickups": 2
+        },
+        {
+            "LEVEL": 3,
+            "cost": 3500,
+            "durationSeconds": 12,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 10,
+            "numVehiclePickups": 2
+        },
+        {
+            "LEVEL": 4,
+            "cost": 4500,
+            "durationSeconds": 14.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 10,
+            "numVehiclePickups": 3
+        },
+        {
+            "LEVEL": 5,
+            "cost": 6000,
+            "durationSeconds": 17,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 14,
+            "numVehiclePickups": 3
+        },
+        {
+            "LEVEL": 6,
+            "cost": 8000,
+            "durationSeconds": 19.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 14,
+            "numVehiclePickups": 4
+        },
+        {
+            "LEVEL": 7,
+            "cost": 10000,
+            "durationSeconds": 22,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 18,
+            "numVehiclePickups": 4
+        },
+        {
+            "LEVEL": 8,
+            "cost": 12500,
+            "durationSeconds": 24.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 18,
+            "numVehiclePickups": 5
+        },
+        {
+            "LEVEL": 9,
+            "cost": 15000,
+            "durationSeconds": 27,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5,
+                20
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 22,
+            "numVehiclePickups": 5
+        },
+        {
+            "LEVEL": 10,
+            "cost": 27500,
+            "durationSeconds": 29.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5,
+                20,
+                22.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 22,
+            "numVehiclePickups": 6
+        }
+    ]
+},
+"#HalfbrickPlus":
+    {
+    "name": "SLOW_MOTION_NAME",
+    "description": "SLOW_MOTION_DESC",
+    "item_id": "PICKUP_SLOWMOTION",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/slowMo.tex",
+    "pickup_icon": "textures/entities/pickupSlowMo.xml",
+    "trail_colour_start": "182,172,230,128",
+    "trail_colour_mid": "143,102,255,64",
+    "trail_colour_end": "93,62,130,0",
+    "particle_effect": "SlowMo_Token_Sparkle",
+    "levels": [
+        {
+            "LEVEL": 1,
+
+            "cost": 0,
+            "durationSeconds": 7,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0
+            ],
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 6,
+            "numVehiclePickups": 1
+        },
+        {
+            "LEVEL": 2,
+            "cost": 2500,
+            "durationSeconds": 9.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5
+            ],
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 8,
+            "numVehiclePickups": 2
+        },
+        {
+            "LEVEL": 3,
+            "cost": 3500,
+            "durationSeconds": 12,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 10,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 10,
+            "numVehiclePickups": 2
+        },
+        {
+            "LEVEL": 4,
+            "cost": 4500,
+            "durationSeconds": 14.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 10,
+            "numVehiclePickups": 3
+        },
+        {
+            "LEVEL": 5,
+            "cost": 6000,
+            "durationSeconds": 17,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 14,
+            "numVehiclePickups": 3
+        },
+        {
+            "LEVEL": 6,
+            "cost": 8000,
+            "durationSeconds": 19.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 14,
+            "numVehiclePickups": 4
+        },
+        {
+            "LEVEL": 7,
+            "cost": 10000,
+            "durationSeconds": 22,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 15,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 18,
+            "numVehiclePickups": 4
+        },
+        {
+            "LEVEL": 8,
+            "cost": 12500,
+            "durationSeconds": 24.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 18,
+            "numVehiclePickups": 5
+        },
+        {
+            "LEVEL": 9,
+            "cost": 15000,
+            "durationSeconds": 27,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5,
+                20
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 22,
+            "numVehiclePickups": 5
+        },
+        {
+            "LEVEL": 10,
+            "cost": 27500,
+            "durationSeconds": 29.5,
+            "timeMultiplier": 0.5,
+            "chanceOfPremiumVehicle": 20,
+            "streak": "SLOW_MOTION_POWERUP_STREAK",
+            "missiles": [
+                0,
+                2.5,
+                5,
+                7.5,
+                10,
+                12.5,
+                15,
+                17.5,
+                20,
+                22.5
+            ],
+            "coinTrailLength": 5,
+            "coinTrailGemChance": 100,
+            "spawnCoinTrailChance": 22,
+            "numVehiclePickups": 6
+        }
+    ]
+}
+}

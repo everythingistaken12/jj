@@ -1,0 +1,112 @@
+{
+  "EventDisplayName": "TMNT_EVENT_RULES_TITLE",
+  "Filepath": "Events/TMNT",
+  "Iconpath": "Events/TMNT/Textures/Menus/Main/IconEvent.tex",
+  "ResultsIconPath": "Events/TMNT/Textures/Menus/Results/logo.tex",
+  "BackingTexturePath": "Events/TMNT/Textures/Menus/eventPopUp/backing.tex",
+  "Statistic": "EVENTS_TOTAL_TMNT_GAMES_PLAYED",
+  "currencyType": "tmnt_token",
+  "info_text_1": "EVENT_RULES_TEXT_1",
+  "info_text_2": "EVENT_RULES_TEXT_2",
+  "info_text_3": "",
+  "Overrides": {
+    "game_mode": "tmnt",
+    "noticeboardSchedule": "tmnt_schedule",
+    "rewardGroup": "tmnt_2024",
+    "analytics_event_name": "tmnt",
+    "leaderboard": "BEST_TMNT",
+    "trigger_name": "tmnt",
+    "reload_sam": true,
+    "reload_worker": true,
+    "sam_music": "Music_SAMTMNT",
+    "sam_music_starting_point": 0,
+
+    "water_in_title_screen": false,
+    "force_start_vehicle": "JetSki",
+
+    "robot_dog_ground_height": -121,
+    "force_vehicles": [
+      "Mech",
+      "Hog",
+      "Jetski"
+    ],
+    "skin_lil_stomper": "VEHICLE_SKIN_TMNT_MECH",
+    "skin_wave_rider": "VEHICLE_SKIN_TMNT_JETSKI",
+    "skin_bad_ass_hog": "VEHICLE_SKIN_TMNT_HOG",
+    "enable_eventTokens": true,
+    "eventToken_value": 0,
+    "eventToken_sparkleParticleEffect": "TMNT_Token_Sparkle",
+    "eventToken_splashParticleEffect": "Blue_EventToken_Splash",
+    "eventToken_spawnRateMin": 7.5,
+    "eventToken_spawnRateMax": 3,
+    "eventToken_spawnRateLength": 75,
+    "eventToken_curveC0": [
+      0.55,
+      0.55
+    ],
+    "eventToken_curveC1": [
+      0.32,
+      0.1
+    ],
+    "eventToken_sprite": "textures/Entities/eventToken.xml",
+    "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+    "eventToken_angleSpeed": 5,
+    "eventToken_amplitude": 10,
+    "eventToken_velocityFactor": 125,
+    "missileTexture": "missileTMNT.tex",
+    "missileEffectTexture": "fireworkEffects.tex",
+    "song_start_delay": 0.05,
+    "brickui_textures": [
+      "textures/logo/logo_barry.tex",
+      "textures/levels/Title/Objects/title_small.tex",
+      "textures/levels/Title/Objects/titleGlow_small.tex",
+      "Textures/Menus/Results/currencyToken.tex",
+      "Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "textures/menus/eventpopup/currencytoken_64.tex",
+      "Textures/Menus/consumables/notificationSAM.tex",
+      "textures/menus/consumables/notificationsam.tex",
+      "Events/TMNT/Textures/Menus/consumables/notificationSAM.tex",
+      "events/tmnt/textures/menus/consumables/notificationsam.tex",
+      "Events/TMNT/Textures/Menus/Main/IconEvent.tex",
+      "events/tmnt/textures/menus/main/iconevent.tex"
+    ],
+    "sfx_packages": [
+      "EVENT_TOKEN_PACKAGE",
+      "WORKER_PACKAGE",
+      "SAM_PACKAGE"
+    ]
+  },
+  "RandomSkinOverrides": [
+    [
+      [
+        "JETPACK_PIZZA"
+      ],
+      [
+        "JETPACK_MUTAGEN"
+      ]
+    ],
+    [
+      [
+        "TMNT_LEONARDO_HEAD",
+        "TMNT_LEONARDO_BODY"
+      ],
+      [
+        "TMNT_RAPHAEL_HEAD",
+        "TMNT_RAPHAEL_BODY"
+      ],
+      [
+        "TMNT_MICHELANGELO_HEAD",
+        "TMNT_MICHELANGELO_BODY"
+      ],
+      [
+        "TMNT_DONATELLO_HEAD",
+        "TMNT_DONATELLO_BODY"
+      ],
+      [
+        "TMNT_APRIL_HEAD",
+        "TMNT_APRIL_BODY"
+      ]
+    ]
+  ],
+  "title_screen_settings": "tmnt"
+}

@@ -1,0 +1,33 @@
+{
+    "reference_id": "CONSUMABLE_BOMB_5PACK",
+    "tags": [
+        "Utilities",
+        "consumable",
+        "Bundle"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_FINALBLAST3PACK_NAME",
+        "description": "ITEM_FINALBLAST3PACK_DESC",
+        "icon": "bombx3"
+    },
+    "additional_deliverables": {
+        "CONSUMABLE_BOMB": {
+            "is_currency": false,
+            "value": "5"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "CONSUMABLE_BOMB_5PACK"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

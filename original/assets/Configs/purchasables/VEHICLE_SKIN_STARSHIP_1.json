@@ -1,0 +1,30 @@
+{
+    "reference_id": "VEHICLE_SKIN_STARSHIP",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Starship"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_STARSHIP_NAME",
+        "description": "VEHICLE_SKIN_STARSHIP_DESC",
+        "equipable": true,
+        "icon": "vehicleStarship",
+        "hideUntil": "VEHICLE_SKIN_STARSHIP",
+        "isSkin": true,
+        "vehicleType": "Starship",
+        "defaultSkin": true,
+        "metadata": {
+        }
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

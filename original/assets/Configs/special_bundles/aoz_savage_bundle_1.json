@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "aoz_2026_1_aoz_savage_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_SAVAGE_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_AOZ_CAVEMAN_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "aoz_2026_1_aoz_savage_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_SAVAGE_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_AOZ_CAVEMAN_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "aoz_2026_1_aoz_savage_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_SAVAGE_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_AOZ_CAVEMAN_SAM == 0"
+			}
+		]
+	],
+	"store_id": "AOZ_SAVAGE_BUNDLE",
+	"timer_id": "aoz_2026_1_aoz_savage_bundle",
+	"trigger_name": "savage_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_SAVAGE_BUNDLE_VIEWS"
+}

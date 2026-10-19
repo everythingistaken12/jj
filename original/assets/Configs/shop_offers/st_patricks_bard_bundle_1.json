@@ -1,0 +1,10 @@
+{
+    "specialBundle": "st_patricks_bard_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.141, 0.741, 0.263, 1.0],
+    "itemImages": "specialBundleStPatricksBardBundleImages_preview",
+    "backingTexture": "textures/menus/bricknetUpsell/StPatricksEvent/StPatricks/backing.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

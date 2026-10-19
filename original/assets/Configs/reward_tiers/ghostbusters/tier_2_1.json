@@ -1,0 +1,11 @@
+{
+	"cost": 55,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_GB_GATE_KEEPER_HEAD_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/GBHeadGateKeeper.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headGBGateKeeper.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"zuul_head"
+	]
+}

@@ -1,0 +1,206 @@
+{
+    "EventDisplayName": "HALLOWEEN_EVENT_RULES_TITLE",
+    "Filepath": "Events/Halloween",
+    "Iconpath": "Events/Halloween/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/Halloween/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/Halloween/Textures/Menus/eventPopUp/backingHalloween.tex",
+    "BannerTexturePath": "Events/Halloween/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_HALLOWEEN_GAMES_PLAYED",
+    "currencyType": "SoulTokens",
+    "info_text_2": "HALLOWEEN_EVENT_INFO_2",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 45
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 45
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "halloween",
+        "GameRules": "Halloween",
+        "noticeboardSchedule": "halloween_schedule",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "halloween_2021"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "halloween_2021",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "halloween_2026",
+        "analytics_event_name": "halloween",
+        "analytics_display_souls_collected": true,
+        "leaderboard": "BEST_HALLOWEEN",
+        "trigger_name": "halloween",
+        "enable_sam": true,
+        "reload_worker": true,
+        "reload_sam": true,
+        "sam_music": "Music_SAMClown",
+        "max_revives_consumable": 3,
+        "max_revives_video_ad": 1,
+        "skin_mr_cuddles": "VEHICLE_SKIN_BONEDRAGON",
+        "skin_profit_bird": "VEHICLE_SKIN_HALLOWEEN_BIRD",
+        "skin_gravity_suit": "VEHICLE_SKIN_VAMPIRE",
+        "skin_crazy_freaking_teleporter": "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER",
+        "enable_vehicle_magnets": true,
+        "force_vehicles":
+        [
+            "Bird",
+            "Mech",
+            "Hog",
+            "Teleporter",
+            "GravitySuit"
+        ],
+        "level_object_tags":
+        [
+            "cobwebs",
+            "halloween"
+        ],
+        "enable_eventTokens": true,
+        "eventToken_value": 0,
+        "eventToken_splashParticleEffect": "Purple_EventToken_Splash",
+        "eventToken_spawnRateMin": 7.5,
+        "eventToken_spawnRateMax": 3,
+        "eventToken_spawnRateLength": 75,
+        "eventToken_curveC0":
+        [
+            0.55,
+            0.55
+        ],
+        "eventToken_curveC1":
+        [
+            0.32,
+            0.1
+        ],
+        "eventToken_sprite": "textures/Entities/halloweenToken.xml",
+        "eventToken_collectedSprite": "textures/Entities/halloweenTokenCollected.xml",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+        "counter_name": "counterHalloween",
+        "brickui_textures":
+        [
+            "textures/logo/logo_barry.tex",
+            "textures/levels/Title/Objects/title_small.tex",
+            "textures/levels/Title/Objects/titleGlow_small.tex",
+            "textures/menus/results/leaderboardLogo.tex",
+            "Textures/Menus/Results/currencyToken.tex",
+            "Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/Halloween/Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "events/halloween/textures/menus/eventpopup/currencytoken_64.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex",
+            "Events/Halloween/Textures/Menus/consumables/notificationSAM.tex",
+            "events/halloween/textures/menus/consumables/notificationsam.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex",
+            "Events/Halloween/Textures/Menus/consumables/notificationSAM.tex",
+            "events/halloween/textures/menus/consumables/notificationsam.tex"
+        ],
+        "event_atlas_textures":
+        [
+            "textures/Frags/Jetpacks/Pumpkin/frag1.tex"
+        ],
+        "event_atlas_textures_upscale":
+        [
+            "textures/Characters/Barry/deathHead.tex",
+            "textures/Characters/Barry/deathBody.tex",
+            "textures/Characters/Jetpacks/jetpackPumpkin.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/dragonBody.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/dragonHead.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/dragonJaw.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/dragonBodySattle.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/dragonbody2.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/dragonBody2_cracked.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/backhorn.tex",
+            "textures/Characters/Vehicles/dragon/BoneDragon/glowingeye.tex",
+            "textures/Frags/dragon/BoneDragon/frag1.tex",
+            "textures/Frags/dragon/BoneDragon/frag2.tex",
+            "textures/Frags/dragon/BoneDragon/frag3.tex",
+            "textures/Frags/dragon/BoneDragon/frag4.tex",
+            "textures/Frags/dragon/BoneDragon/frag5.tex"
+        ],
+        "sfx_packages":
+        [
+            "COIN_PACKAGE",
+            "GADGETS_PACKAGE",
+            "EVENT_TOKEN_PACKAGE",
+            "SAM_PACKAGE"
+        ],
+        "dailyEventMissions": true
+    },
+    "Features":
+    [
+        "purchase_revives"
+    ],
+    "RandomSkinOverrides":
+    [
+        [
+            [
+                "JETPACK_PUMPKIN"
+            ],
+            [
+                "JETPACK_HEART"
+            ],
+            [
+                "JETPACK_DEMON"
+            ],
+            [
+                "JETPACK_CUSTOM_SARCOPHAGUS"
+            ],
+            [
+                "JETPACK_CUSTOM_FRANKENSTEIN"
+            ],
+            [
+                "JETPACK_CUSTOM_CAULDRON"
+            ]
+        ],
+        [
+            [
+                "ZOMBIE_HEAD",
+                "ZOMBIE_BODY"
+            ],
+            [
+                "SKELETON_HEAD",
+                "SKELETON_BODY"
+            ],
+            [
+                "WOLF_HEAD",
+                "WOLF_BODY"
+            ],
+            [
+                "HARLEQUIN_HEAD",
+                "HARLEQUIN_BODY"
+            ],
+            [
+                "CLOWN_HEAD",
+                "CLOWN_BODY"
+            ],
+            [
+                "HALLOWEEN_PHARAOH_HEAD",
+                "HALLOWEEN_PHARAOH_BODY"
+            ],
+            [
+                "FRANKENSTEIN_HEAD",
+                "FRANKENSTEIN_BODY"
+            ],
+            [
+                "WITCH_BARRY_HEAD",
+                "WITCH_BARRY_BODY"
+            ],
+            [
+                "WITCH_BETTY_HEAD",
+                "WITCH_BARRY_BODY"
+            ]
+        ]
+    ],
+    "title_screen_settings": "halloween"
+}

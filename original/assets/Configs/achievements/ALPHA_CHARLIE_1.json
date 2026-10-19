@@ -1,0 +1,22 @@
+{
+    "name": "ACHIEVEMENT_14",
+    "description": "ACHIEVEMENT_DESC_14",
+    "type": "DISTANCE",
+    "texture": "alphaCharlieEcho",
+    "points": 20,
+    "max_progress": 2000,
+    "provider_ids": {
+        "amazon": "1082742",
+        "game_center": 
+        {
+            "default": "1082742",
+            "AppleArcade": "alpha_charlie_echo_aa",
+            "HalfbrickPlus": "alpha_charlie_echo_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQDg"
+        }
+    }
+}

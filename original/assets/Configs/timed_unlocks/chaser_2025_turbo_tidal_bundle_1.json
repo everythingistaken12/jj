@@ -1,0 +1,11 @@
+{
+	"notification_icon": "whenRunning",
+	"auto_start": false,
+  "timer_length_date_start": "2025-02-28T00:00",
+  "timer_length_date_end": "2025-03-14T00:00",
+	"meta": {
+		"shutdown_conditions": {
+			"itemOwned": "VEHICLE_SKIN_YELLOW_SUBMARINE"
+		}
+	}
+}

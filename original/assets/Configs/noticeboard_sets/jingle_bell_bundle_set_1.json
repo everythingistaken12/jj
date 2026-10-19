@@ -1,0 +1,19 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_yeti_mech",
+        "jingle_bell_bundle_timer_running"
+      ],
+      "board": "special_offer_jingle_bell_bundle"
+    },
+    {
+      "mediation": [
+        "not_purchased_yeti_mech",
+        "jingle_bell_bundle_discount_timer_running"
+      ],
+      "board": "special_offer_jingle_bell_bundle_sale"
+    }
+  ]
+}

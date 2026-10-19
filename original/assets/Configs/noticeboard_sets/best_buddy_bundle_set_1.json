@@ -1,0 +1,11 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [ 
+				"best_buddy_bundle_timer_running"
+			],
+			"board": "special_offer_best_buddy_bundle"
+		}
+	]
+}

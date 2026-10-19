@@ -1,0 +1,41 @@
+{
+    "reference_id": "BACKGROUND_TURBO_TIDAL",
+    "tags":
+    [
+        "background",
+        "premium",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas":
+    {
+        "hidden": true,
+        "name": "ITEM_BACKGROUND_TURBO_TIDAL_NAME",
+        "force_hide": true
+    },
+    "additional_deliverables":
+    {
+        "DISABLE_ADS":
+        {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods":
+    {
+        "apple_store": "com.halfbrick.jetpack.background.turbo.tidal",
+        "google_play_store": "com.halfbrick.jetpack.background.turbo.tidal",
+        "brick_bucks_store": "background_turbo_tidal"
+    },
+    "skus":
+    [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

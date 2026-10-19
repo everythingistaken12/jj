@@ -1,0 +1,83 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "coin_doubler_gadget_slot_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_COIN_DOUBLER_GADGET_SLOT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "GADGET_SLOT_3 == 0"
+			},
+			{
+				"inventoryCount": "PREMIUM_MACHINE == 0"
+			},
+			{
+				"inventoryCount": "DISABLE_ADS == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "coin_doubler_gadget_slot_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_COIN_DOUBLER_GADGET_SLOT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "GADGET_SLOT_3 == 0"
+			},
+			{
+				"inventoryCount": "PREMIUM_MACHINE == 0"
+			},
+			{
+				"inventoryCount": "DISABLE_ADS == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "coin_doubler_gadget_slot_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_COIN_DOUBLER_GADGET_SLOT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 3"
+			},
+			{
+				"inventoryCount": "GADGET_SLOT_3 == 0"
+			},
+			{
+				"inventoryCount": "PREMIUM_MACHINE == 0"
+			},
+			{
+				"inventoryCount": "DISABLE_ADS == 0"
+			}
+		]
+	],
+    "datasource_metas":
+    {
+        "title": "ITEM_COIN_DOUBLER_GADGET_SLOT_BUNDLE_NAME",
+        "description": "SHOP_DIVIDER_PREMIUM",
+        "decoyBacking": "textures/menus/offers/BattlePass/backingFree.tex",
+        "decoyBackingTexture": "textures/menus/bricknetUpsell/backing.tex",
+        "is_premium": false
+
+    },
+	"store_id": "COIN_DOUBLER_GADGET_SLOT_BUNDLE",
+	"timer_id": "coin_doubler_gadget_slot_bundle",
+	"trigger_name": "coin_doubler_gadget_slot_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_COIN_DOUBLER_GADGET_SLOT_VIEWS"
+}

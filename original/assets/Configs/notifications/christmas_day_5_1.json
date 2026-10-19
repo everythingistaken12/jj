@@ -1,0 +1,15 @@
+{
+	"category": "christmas_d5",
+	"priority": 2000,
+	"message": "NOTIFICATIONS_CHRISTMAS_D5",
+	"message_params": "event_tokens_until_next_reward",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 86400
+	},
+	"condition" : "christmas_day_5_check"
+}

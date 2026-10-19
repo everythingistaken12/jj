@@ -1,0 +1,41 @@
+{
+    "reference_id": "VEHICLE_MS_DRAGON",
+    "tags": [
+        "prepurchase",
+        "Upgrades",
+        "bundle",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MS_DRAGON_NAME",
+        "description": "VEHICLE_SKIN_MS_DRAGON_DESC",
+        "icon": "vehicleDragonMS",
+        "hidden": true,
+        "hideWhen": "VEHICLE_SKIN_MS_DRAGON"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_MS_DRAGON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods":
+    {
+        "apple_store": "com.halfbrick.jetpack.msdragon",
+        "google_play_store": "com.halfbrick.jetpack.msdragon",
+        "brick_bucks_store": "vehicle_ms_dragon"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

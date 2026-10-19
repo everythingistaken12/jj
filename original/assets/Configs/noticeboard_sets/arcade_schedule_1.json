@@ -1,0 +1,19 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "boards":
+    [
+        {
+            "board": "screenshot"
+        },
+        {
+            "board": "screenshot"
+        },
+        {
+            "board": "screenshot"
+        },
+        {
+            "board": "arcade_cross_promo"
+        }
+    ]
+}

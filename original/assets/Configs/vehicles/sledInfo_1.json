@@ -1,0 +1,323 @@
+{
+    "sled_file": {
+        "_description": "Number of reindeer to spawn",
+        "Reindeer": "2",
+
+        "_description": "Offset between the sled and closest reindeer",
+        "Spacing": "65.0",
+
+        "_description": "Distance between each reindeer",
+        "DeerSpacing": "55.0",
+
+        "_description": "Maximum angle the reindeer will be allowed to reach flying up and down",
+        "Max_Angle": "25.0",
+
+        "_description": "Max rising acceleration",
+        "Accelerate_Up": "2.0",
+
+        "_description": "Max diving acceleration",
+        "Accelerate_Down": "-0.25",
+
+        "_description": "Max rising velocity",
+        "Max_Speed_Up": "5",
+
+        "_description": "Max diving velocity",
+        "Max_Speed_Down": "-6",
+
+        "_description": "Stabilising multiplier",
+        "Stabilising_Factor": "3.0",
+
+        "_description": "Sled collision offsets",
+        "Offset_X": "0",
+        "Offset_Y": "-3",
+
+        "_description": "Sled collision boxes size",
+        "Collision_X": "50",
+        "Collision_Y": "15",
+
+        "_description": "Sled coin collision boxes size",
+        "Coin_X": "64",
+        "Coin_Y": "40",
+
+        "_description": "Reindeer collision offsets",
+        "Deer_Offset_X": "0",
+        "Deer_Offset_Y": "-3",
+
+        "_description": "Reindeer collision boxes size",
+        "Deer_Collision_X": "15",
+        "Deer_Collision_Y": "15",
+
+        "_description": "Sled coin collision boxes size",
+        "Deer_Coin_X": "40",
+        "Deer_Coin_Y": "40",
+
+        "_description": "Time between each explosion on death",
+        "ExplosionInterval": "0.0",
+
+        "_description": "Velocity to return to original X position",
+        "X_RETURN_SPEED": "1.0",
+
+        "_description": "Max vertical distance reindeer can travel",
+        "ROOF_HEIGHT": "120.0",
+
+        "_description": "Horizontal position of the sled on screen",
+        "LEFT_RESTING_POINT": "325.0",
+
+        "_description": "Offsets for flame sprites",
+        "flameOffsets": {
+            "frontFlame": {
+                "frame": [
+                    {
+                        "value": "1",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "2",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "3",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "4",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "5",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "6",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "7",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "8",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "9",
+                        "offsetX": "17",
+                        "offsetY": "-29",
+                        "rotation": "7.5"
+                    },
+                    {
+                        "value": "11",
+                        "offsetX": "10",
+                        "offsetY": "-26",
+                        "rotation": "-15"
+                    },
+                    {
+                        "value": "10",
+                        "offsetX": "4",
+                        "offsetY": "-22",
+                        "rotation": "-25"
+                    },
+                    {
+                        "value": "12",
+                        "offsetX": "-2",
+                        "offsetY": "-20",
+                        "rotation": "-32.5"
+                    },
+                    {
+                        "value": "13",
+                        "offsetX": "-2",
+                        "offsetY": "-20",
+                        "rotation": "-32.5"
+                    },
+                    {
+                        "value": "14",
+                        "offsetX": "-2",
+                        "offsetY": "-20",
+                        "rotation": "-32.5"
+                    },
+                    {
+                        "value": "15",
+                        "offsetX": "-1",
+                        "offsetY": "-21",
+                        "rotation": "-33.5"
+                    },
+                    {
+                        "value": "16",
+                        "offsetX": "-1",
+                        "offsetY": "-21",
+                        "rotation": "-33.5"
+                    }
+                ]
+            },
+            "backFlame": {
+                "frame": [
+                    {
+                        "value": "1",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "2",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "3",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "4",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "5",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "6",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "7",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "8",
+                        "offsetX": "0",
+                        "offsetY": "0",
+                        "rotation": "0"
+                    },
+                    {
+                        "value": "9",
+                        "offsetX": "-20",
+                        "offsetY": "-29",
+                        "rotation": "-7.5"
+                    },
+                    {
+                        "value": "10",
+                        "offsetX": "-20",
+                        "offsetY": "-29",
+                        "rotation": "-7.5"
+                    },
+                    {
+                        "value": "11",
+                        "offsetX": "-21",
+                        "offsetY": "-29",
+                        "rotation": "-7.5"
+                    },
+                    {
+                        "value": "12",
+                        "offsetX": "-21",
+                        "offsetY": "-29",
+                        "rotation": "-7.5"
+                    },
+                    {
+                        "value": "13",
+                        "offsetX": "-21",
+                        "offsetY": "-29",
+                        "rotation": "-7.0"
+                    },
+                    {
+                        "value": "14",
+                        "offsetX": "-22",
+                        "offsetY": "-28",
+                        "rotation": "-7.5"
+                    },
+                    {
+                        "value": "15",
+                        "offsetX": "-22",
+                        "offsetY": "-28",
+                        "rotation": "-7.5"
+                    },
+                    {
+                        "value": "16",
+                        "offsetX": "-21",
+                        "offsetY": "-29",
+                        "rotation": "-7.0"
+                    }
+                ]
+            },
+            "sledFlame": {
+                "frame": [
+                    {
+                        "value": "1",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    },
+                    {
+                        "value": "2",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    },
+                    {
+                        "value": "3",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    },
+                    {
+                        "value": "4",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    },
+                    {
+                        "value": "5",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    },
+                    {
+                        "value": "6",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    },
+                    {
+                        "value": "7",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    },
+                    {
+                        "value": "8",
+                        "offsetX": "-44",
+                        "offsetY": "-8",
+                        "rotation": "-90"
+                    }
+                ]
+            }
+        },
+        "version": "1.0.0"
+    }
+}

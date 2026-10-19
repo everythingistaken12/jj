@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Pirate_Castaway_Bundle",
+    "screen": "NoticeboardPirateCastawayBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "PIRATE_CASTAWAY_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

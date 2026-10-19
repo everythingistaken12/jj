@@ -1,0 +1,11 @@
+{
+	"cost": 27,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_GB_KEY_MASTER_HEAD_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/GBHeadKeyMaster.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headGBKeyMaster.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"vinz_head"
+	]
+}

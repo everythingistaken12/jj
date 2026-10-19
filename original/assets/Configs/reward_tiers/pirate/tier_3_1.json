@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 100,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_PIRATE_BODY_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/pirateBodyCostume.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 125,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_KRAKEN_JETPACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackKraken.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackKraken.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_kraken"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 125,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_KRAKEN_JETPACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackKraken.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackKraken.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_kraken"
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "EventDisplayName": "AGE_OF_ZOMBIES_EVENT_RULES_TITLE",
+    "Filepath": "Events/AgeOfZombies",
+    "Iconpath": "Events/AgeOfZombies/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/AgeOfZombies/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/AgeOfZombies/Textures/Menus/eventPopUp/eventWelcomeBG.tex",
+    "BannerTexturePath": "Events/AgeOfZombies/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_AGE_OF_ZOMBIES_GAMES_PLAYED",
+    "currencyType": "age_of_zombies_token",
+    "info_text_1": "AGE_OF_ZOMBIES_EVENT_INFO_1",
+    "info_text_2": "EVENT_RULES_TEXT_2",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 17
+    },
+    "#AppleArcade":
+    {
+        "levelUnlocked": 17
+    },
+    "#Google Play":
+    {
+        "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "age_of_zombies",
+        "noticeboardSchedule": "aoz_schedule",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "age_of_zombies_2024_1"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "age_of_zombies_2024_1",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "age_of_zombies_2026_1",
+        "analytics_event_name": "age_of_zombies",
+        "leaderboard": "BEST_AGE_OF_ZOMBIES",
+        "trigger_name": "age_of_zombies",
+        "reload_sam": true,
+        "sam_music": "Music_SAMAoZCaveman",
+        "sam_music_starting_point": 0,
+        "force_vehicles":
+        [
+            "Bird",
+            "Mech",
+            "Hog",
+            "Teleporter",
+            "GravitySuit",
+            "Dragon"
+        ],
+        "skin_lil_stomper": "VEHICLE_SKIN_ZOMBIETREX",
+    	"skin_profit_bird": "VEHICLE_SKIN_ZOMBIE_BIRD", 
+    	"skin_mr_cuddles": "VEHICLE_SKIN_ZOMBIE_DRAGON",
+        "level_object_tags":
+        [
+            "caveman"
+        ],
+        "enable_eventTokens": true,
+        "eventToken_value": 0,
+        "eventToken_spawnRateMin": 7.5,
+        "eventToken_spawnRateMax": 3,
+        "eventToken_spawnRateLength": 75,
+        "eventToken_curveC0":
+        [
+            0.55,
+            0.55
+        ],
+        "eventToken_curveC1":
+        [
+            0.32,
+            0.1
+        ],
+        "eventToken_sprite": "textures/Entities/eventToken.xml",
+        "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+        "eventToken_sparkleParticleEffect": "Coin_Token_Sparkle",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+		"song_start_delay": 1.0,
+        "brickui_textures":
+        [
+            "textures/logo/logo_barry.tex",
+            "textures/levels/Title/Objects/title_small.tex",
+            "textures/levels/Title/Objects/titleGlow_small.tex",
+            "Textures/Menus/Results/currencyToken.tex",
+            "Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/AgeOfZombies/Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "events/ageofzombies/textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/AgeOfZombies/Textures/Menus/eventPopUp/backing.tex",
+            "events/ageofzombies/textures/menus/eventpopup/backing.tex",
+            "Events/AgeOfZombies/Textures/Menus/eventPopUp/iconEvent.tex",
+            "events/ageofzombies/textures/menus/eventpopup/iconevent.tex"
+        ],
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+			"SAM_PACKAGE"
+        ],
+        "dailyEventMissions": true
+    },
+    "purchased_items_weight": 3.0,
+    "RandomSkinOverrides":
+    [
+        [
+            [
+                "JETPACK_CUSTOM_AOZ_ZOMBIEREX"
+            ]
+        ],
+        [
+            [
+                "CAVEMAN_HEAD",
+                "CAVEMAN_BODY"
+            ],
+            [
+                "ZOMBIE_CAVEMAN_HEAD",
+                "ZOMBIE_CAVEMAN_BODY"
+            ],
+            [
+                "CAVEMAN_BETTY_HEAD",
+                "CAVEMAN_BODY"
+            ],
+            [
+                "DEFAULT_HEAD",
+                "DEFAULT_BODY"
+            ],
+            [
+                "BETTY_BEEFPIES_HEAD",
+                "BETTY_BEEFPIES_BODY"
+            ]
+        ]
+    ],
+    "title_screen_settings": "age_of_zombies"
+}

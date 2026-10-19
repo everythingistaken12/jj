@@ -1,0 +1,19 @@
+{
+	"category": "daily_reward_available",
+	"priority": 10000,
+	"message": "NOTIFICATIONS_FREE_DAILY_REWARD",
+	"schedule": 
+	{
+		"delay_seconds_generator": "daily_reward_refresh_delay_generator",
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21
+	},
+	"condition" : "daily_reward_claimed_check",
+	"deep_link": {
+		"uri_scheme": "jetpack",
+		"uri_host": "open_shop",
+		"category": "PREMIUM"
+	}
+}

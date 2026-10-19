@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_metal_slug_sam"
+      ],
+      "board": "special_offer_metal_slug_sam_bundle"
+    }
+  ]
+}

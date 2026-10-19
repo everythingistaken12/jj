@@ -1,0 +1,29 @@
+{
+    "reference_id": "BIFF_HEAD",
+    "tags": [
+        "premium",
+        "bundle",
+        "Head",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BIFF_HEAD_NAME",
+        "description": "ITEM_BIFF_HEAD_DESC",
+        "equipable": true,
+        "rewardOnly": {
+            "value": true,
+            "prereq": "EVENTS_ONLY"
+        },
+        "icon": "headBiff"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

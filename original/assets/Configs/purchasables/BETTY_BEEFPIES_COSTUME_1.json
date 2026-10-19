@@ -1,0 +1,36 @@
+{
+  "reference_id": "BETTY_BEEFPIES_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_BETTY_BEEFPIES_HEAD_NAME",
+    "description": "ITEM_BETTY_BEEFPIES_COSTUME_DESC",
+    "equipable": true,
+    "icon": "costumeBettyBeefpies",
+    "crosspromo": "https://apps.apple.com/us/app/jetpack-joyride-2/id1598096399",
+    "awardsCrosspromoImmediately": true,
+    "isNew": true,
+    "hideWhen": "BETTY_BEEFPIES_HEAD"
+  },
+  "additional_deliverables": {
+    "BETTY_BEEFPIES_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BETTY_BEEFPIES_HEAD": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "jetpack_store": "BETTY_BEEFPIES_COSTUME"
+  },
+  "skus": [
+    "apple_arcade",
+    "windows"
+  ]
+}

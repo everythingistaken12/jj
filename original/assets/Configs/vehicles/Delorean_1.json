@@ -1,0 +1,52 @@
+{
+    "vehicleName": "Delorean",
+    "displayName": "VEHICLE_DELOREAN",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_DELOREAN",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_DELOREAN",
+        "distanceBest": "VEHICLE_BEST_DELOREAN",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_DELOREAN"
+    },
+    "MissionText": "MISSION_VEHICLE_DELOREAN",
+    "sprite": "delorean.xml",
+    "RequiredTextures": {
+        "Texture": "delorean.tex"
+    },
+    "MagnetDeliverable": "DELOREAN_MAGNET",
+    "headData": "Characters/Vehicles/Delorean/Delorean/DeloreanData.xml",
+    "allowHalo": "false",
+    "sequenceBar": "bar_delorean",
+    "fragsDir": "Delorean",
+    "ComponentsDir": "Delorean",
+    "Streak1Colour": {
+        "r": "255",
+        "g": "108",
+        "b": "79"
+    },
+    "Streak2Colour": {
+        "r": "249",
+        "g": "157",
+        "b": "28"
+    },
+    "probability": "20.0",
+    "duration": "0.0",
+    "SequenceFirstFront": "true",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.3",
+    "INITIAL_BOOST": "6.5",
+    "BOOST": "0.6",
+    "FRICTION": "0.98",
+    "BOOST_FRAME_COUNT": "12",
+    "JUMP_COUNT": "1",
+    "STREAK": "DELOREAN_STREAK",
+    "START_VELOCITY": "400.0",
+    "MAX_VELOCITY": "6000.0",
+    "VELOCITY_INCREASE": "0.40",
+    "skins": {
+        "skin": {
+            "name": "VEHICLE_SKIN_DELOREAN",
+            "script": "Delorean",
+            "default": "true"
+        }
+    }
+}

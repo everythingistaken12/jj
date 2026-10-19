@@ -1,0 +1,24 @@
+{
+  "#AppleArcade": {"enabled" : false},
+  "#HalfbrickPlus": {"enabled" : false},
+  "enabled": true,
+  "cooldown": {
+    "type": "time",
+    "value": 300
+  },
+  "popups_per_session": 999,
+  "iaps": [
+    {
+      "store_id": "DISABLE_ADS",
+      "offer_texture": "textures/menus/shop/ItemIcons/noAds.tex",
+      "max_views": 2,
+      "has_no_ads_text": false,
+      "default": true
+    },
+    {
+      "store_id": "STARTER_PACK_A_DISCOUNT",
+      "offer_texture": "textures/menus/offers/button_v1_pic4.tex",
+      "max_views": 2
+    }
+  ]
+}

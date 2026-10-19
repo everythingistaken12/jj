@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_turtle_sleigh",
+        "pirate_castaway_bundle_timer_running"
+      ],
+      "board": "special_offer_pirate_castaway_bundle"
+    }
+  ]
+}

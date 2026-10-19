@@ -1,0 +1,30 @@
+{
+    "reference_id": "EGG_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "Head",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_EGG_HEAD_NAME",
+        "description": "ITEM_EGG_HEAD_DESC",
+        "equipable": true,
+        "icon": "headEgg",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "EGG_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

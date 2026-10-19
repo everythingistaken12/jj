@@ -1,0 +1,10 @@
+{
+  "storeId": "PIRATE_ULTIMATE_BUNDLE_2025",
+  "timerId": "pirate_2025_pirate_ultimate_bundle",
+  "template": "template_4x2",
+  "tileWidth": 4,
+  "tileHeight": 2,
+    "backingColor": [0.996, 0.816, 0.647, 1.0],   
+  "itemImages": "specialBundlePirateUltimateBundleImages",
+  "infoText": "SHOP_BUTTON_BUY_NOW"
+}

@@ -1,0 +1,14 @@
+{
+	"category": "st_patricks_d3",
+	"priority": 2000,
+	"message": "NOTIFICATIONS_ST_PATRICKS_D3",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 86400
+	},
+	"condition" : "st_patricks_day_3_check"
+}

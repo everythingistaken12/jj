@@ -1,0 +1,21 @@
+{
+    "gramophone_enabled": true,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/easterBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/easterEggs.xml",
+            "offset_x": 0,
+            "offset_y": -96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/easterEggsRotated.xml",
+            "offset_x": -35,
+            "offset_y": -110
+        }                  
+    ]
+}

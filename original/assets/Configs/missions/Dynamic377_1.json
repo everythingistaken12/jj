@@ -1,0 +1,33 @@
+{
+    "name": "Buy and use NO SCIENTISTS powerup",
+    "requirement": "Equip no scientists gadget during game",
+    "retired": false,
+    "meta_data": {
+        "groupId": "67",
+        "difficulty": 2,
+        "icon": "assist",
+        "description": "MISSION_USE_NO_SCIENTISTS",
+        "hash": "USE_ITEM",
+        "skillGrind": "SKILL",
+        "Tag4": "BUY",
+        "probability": "10",
+        "tag1": "ASSISTS"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "equip",
+                "o": "gadget",
+                "s": "t",
+                "i": 0,
+                "c": 1
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true,
+                "d": "end"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_yeti_mech",
+        "christmas_ultimate_bundle_timer_running"
+      ],
+      "board": "special_offer_christmas_ultimate_bundle"
+    }
+  ]
+}

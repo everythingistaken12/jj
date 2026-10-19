@@ -1,0 +1,27 @@
+{
+    "name": "Buy and equip an Assist",
+    "requirement": "equip gadget during game",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 3,
+        "icon": "assist",
+        "description": "MISSION_USE_PERK",
+        "hash": "USE_ITEM"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "equip",
+                "o": "gadget",
+                "s": "t",
+                "c": 1
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true,
+                "d": "end"
+            }
+        ]
+    }
+}

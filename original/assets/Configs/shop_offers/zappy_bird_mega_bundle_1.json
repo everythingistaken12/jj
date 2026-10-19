@@ -1,0 +1,11 @@
+{
+    "storeId": "ZAPPY_BIRD_MEGA_BUNDLE",
+    "timerId": "zappy_bird_2026_1_zappy_bird_mega_bundle",
+    "template": "template_4x2_backing",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0, 1.0],
+    "itemImages": "specialBundleZappyBirdMegaBundleImages",
+    "infoText": "SHOP_BUTTON_BUY_NOW",
+    "backingTexture": "Events/ZappyBird/Textures/Menus/eventInfo/backing.tex"
+}

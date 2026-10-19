@@ -1,0 +1,21 @@
+{
+    "name": "Collect 2 Vehicles",
+    "requirement": "Collect 2 Vehicles",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "vehicle",
+        "hash": "VEHICLE_COLLECT_ANY",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "s": "t",
+                "c": 2
+            }
+        ]
+    }
+}

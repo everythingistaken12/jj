@@ -1,0 +1,31 @@
+{
+    "reference_id": "VEHICLE_SKIN_ANNIVERSARY_MECH",
+    "tags": [
+        "Mech",
+        "Vehicle",
+        "Vehicle Skins"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ANNIVERSARY_MECH_NAME",
+        "description": "VEHICLE_SKIN_ANNIVERSARY_MECH_DESC",
+        "equipable": true,
+        "icon": "vehicleMechAnniversary",
+        "isSkin": true,
+        "vehicleType": "Mech",
+        "isNew": true,
+        "hideUntil": "VEHICLE_SKIN_ANNIVERSARY_MECH",
+        "defaultSkin": false
+    },
+    "payment_methods": {},    
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

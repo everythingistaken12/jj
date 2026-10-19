@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_StarTrekStarshipBundle",
+    "screen": "NoticeBoardStarTrekStarshipBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "STAR_TREK_STARSHIP_BUNDLE"
+}

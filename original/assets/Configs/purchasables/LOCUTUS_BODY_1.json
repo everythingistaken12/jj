@@ -1,0 +1,27 @@
+{
+    "reference_id": "LOCUTUS_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_LOCUTUS_BODY_NAME",
+        "description": "ITEM_LOCUTUS_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyLocutus",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

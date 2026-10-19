@@ -1,0 +1,26 @@
+{
+    "name": "Fly a total of 7000m.",
+    "requirement": "Travel 7000m total",
+    "retired": false,
+    "meta_data": {
+        "groupId": "13",
+        "difficulty": 2,
+        "icon": "fly",
+        "description": "MISSION_FLY_4",
+        "hash": "FLY_DIST_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "100",
+        "tag2": "DIST_ONLY"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 7000
+            }
+        ]
+    }
+}

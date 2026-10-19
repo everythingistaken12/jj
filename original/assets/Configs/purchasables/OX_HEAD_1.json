@@ -1,0 +1,27 @@
+{
+    "reference_id": "OX_HEAD",
+    "tags": [
+        "costume",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_OX_HEAD_NAME",
+        "description": "ITEM_OX_HEAD_DESC",
+        "equipable": true,
+        "icon": "headOx",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

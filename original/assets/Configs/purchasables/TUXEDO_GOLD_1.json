@@ -1,0 +1,32 @@
+{
+    "reference_id": "TUXEDO_GOLD",
+    "tags": [
+        "Body",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLDENSUIT_NAME",
+        "description": "ITEM_GOLDENSUIT_DESC",
+        "equipable": true,
+        "rewardOnly": {
+            "value": true,
+            "prereq": "EVENTS_ONLY"
+        },
+        "icon": "bodyTuxGold",
+        "startWeek": 0
+    },
+    "payment_methods": {
+        "jetpack_store": "TUXEDO_GOLD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

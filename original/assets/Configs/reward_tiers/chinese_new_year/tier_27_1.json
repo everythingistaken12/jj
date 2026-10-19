@@ -1,0 +1,13 @@
+{
+    "cost": 1408,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "VEHICLE_SKIN_WOODEN_DRAGON_BIRD_NAME",
+    "frame_texture": "textures/menus/shared/frameGold.tex",
+    "rewards_texture": "textures/menus/shop/itemicons/vehicleBirdWoodenDragon.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleBirdWoodenDragon.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "wooden_dragon_bird"
+    ]
+}

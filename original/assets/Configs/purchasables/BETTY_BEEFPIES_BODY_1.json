@@ -1,0 +1,28 @@
+{
+    "reference_id": "BETTY_BEEFPIES_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_BETTY_BEEFPIES_BODY_NAME",
+    "description": "ITEM_BETTY_BEEFPIES_BODY_DESC",
+    "equipable": true,
+    "icon": "bodyBettyBeefpies",
+    "hidden": true
+  },
+    "payment_methods": {
+    "jetpack_store": "BETTY_BEEFPIES_BODY"
+},
+    "skus": [
+        "ios",
+        "windows",
+        "google_play",
+        "halfbrick_plus",
+        "apple_arcade"
+    ]
+}

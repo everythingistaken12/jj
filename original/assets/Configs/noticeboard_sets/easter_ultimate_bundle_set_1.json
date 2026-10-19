@@ -1,0 +1,14 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_eggbasket",
+        "not_purchased_chicken",
+        "not_purchased_rabbitmech",
+        "easter_ultimate_bundle_timer_running"
+      ],
+      "board": "special_offer_easter_ultimate_bundle"
+    }
+  ]
+}

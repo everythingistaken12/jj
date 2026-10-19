@@ -1,0 +1,28 @@
+{
+    "#default":
+    {
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_SAM_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleChristmasSam.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleChristmasSam.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_sam"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FROSTIE_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headFrosty.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headFrosty.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "frosty_head"
+        ]
+    }
+}

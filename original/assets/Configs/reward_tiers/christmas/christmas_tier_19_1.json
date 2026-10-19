@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 2100,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_SAM_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons//vehicleChristmasSam.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons//vehicleChristmasSam.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_sam"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 950
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UGLY_SWEATER_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headUglySweater.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headUglySweater.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ugly_sweater_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 950
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UGLY_SWEATER_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headUglySweater.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headUglySweater.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ugly_sweater_head"
+        ]
+    }
+}

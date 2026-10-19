@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "VEHICLE_SKIN_MEDIC_SAM",
+	"fallback": "coin_pack_20000"
+}

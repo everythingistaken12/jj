@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "JETPACK_AMPED_UP_85",
+	"fallback": "coin_pack_40000"
+}

@@ -1,0 +1,34 @@
+{
+    "variants":
+    [
+        {
+            "type": "free",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins0.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 5000
+                },
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/bricknetUpsell/hearts.tex",
+                    "display_description": "ITEM_QUICKREVIVE10PACK_NAME",
+                    "reward": "revive",
+                    "amount": 10
+                },
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/eventPopUp/superHeadstartIcon.tex",
+                    "display_description": "ITEM_SUPERHEADSTART_SHORT_NAME",
+                    "reward": "super_headstart",
+                    "amount": 5
+                }
+            ],
+            "backing_colour": "120,112,251,255",
+            "weight": 1
+        }
+    ]
+}

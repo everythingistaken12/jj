@@ -1,0 +1,34 @@
+{
+  "reference_id": "JETPACK_LASERCANNON",
+  "tags": [
+    "Jetpack"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_LASERCANNON_JETPACK_NAME",
+    "description": "ITEM_LASERCANNON_JETPACK_DESC",
+    "equipable": true,
+    "icon": "jetpackLaserCannon",
+    "hidden": true,
+    "equip_sfx": "ms_jetpack_laser_equip"    
+  },
+  "additional_deliverables": {
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.lasercannon",
+    "google_play_store": "com.halfbrick.jetpack.lasercannon",
+    "brick_bucks_store": "jetpack_lasercannon"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

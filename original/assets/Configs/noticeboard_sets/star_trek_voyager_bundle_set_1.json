@@ -1,0 +1,14 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "star_trek_voyager_bundle_timer_running",
+        "not_purchased_janeway_head",
+        "not_purchased_stbird",
+        "not_purchased_borgcube_jetpack"
+      ],
+      "board": "special_offer_star_trek_voyager_bundle"
+    }
+  ]
+}

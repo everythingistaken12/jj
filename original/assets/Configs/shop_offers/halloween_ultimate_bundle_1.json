@@ -1,0 +1,11 @@
+{
+  "storeId": "HALLOWEEN_ULTIMATE_BUNDLE_2024",
+  "timerId": "halloween_2025_halloween_ultimate_bundle",
+  "template": "template_4x2_backing",
+  "tileWidth": 4,
+  "tileHeight": 2,
+  "backingColor": [1.0, 1.0, 1.0, 1.0],
+  "itemImages": "specialBundleHalloweenUltimateBundleImages",
+  "backingTexture": "textures/menus/bricknetupsell/HalloweenEvent/backingHalloween.tex",
+  "infoText": "SHOP_BUTTON_BUY_NOW"
+}

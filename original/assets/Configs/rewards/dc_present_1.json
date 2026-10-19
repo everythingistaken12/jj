@@ -1,0 +1,7 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "DC_PRESENT",
+	"fallback": "coin_pack_4000"
+
+}

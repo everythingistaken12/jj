@@ -1,0 +1,11 @@
+{
+    "specialBundle": "starter_pack",
+    "template": "template_2x2_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0, 1.0],
+    "itemImages": "specialBundleStarterpack_2x2",
+    "backingTexture": "textures/menus/bricknetUpsell/backing.tex",    
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

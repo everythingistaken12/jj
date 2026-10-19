@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_MetalSlug_Bundle",
+	"screen": "NoticeBoardMetalSlugBundle",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "METAL_SLUG_BUNDLE",
+	"data_source": {
+		"title": "ITEM_METAL_SLUG_BUNDLE_NAME"
+	}	
+}

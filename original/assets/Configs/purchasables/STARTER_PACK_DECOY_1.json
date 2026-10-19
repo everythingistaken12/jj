@@ -1,0 +1,24 @@
+{
+    "reference_id": "STARTER_PACK_DECOY",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "INTRO_PACK_POPUP_TITLE",
+        "description": "todo",
+        "icon": "iconStarterPack",
+        "hidden": true
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.starter_pack_decoy",
+        "google_play_store": "com.halfbrick.jetpack.starter_pack_decoy",
+        "brick_bucks_store": "starter_pack_decoy"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

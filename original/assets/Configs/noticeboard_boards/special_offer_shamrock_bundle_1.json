@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Shamrock_Bundle",
+    "screen": "NoticeboardShamrockBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "SHAMROCK_BUNDLE"
+}

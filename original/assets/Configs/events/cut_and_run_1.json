@@ -1,0 +1,126 @@
+{
+    "EventDisplayName": "FN_EVENT_01",
+    "Filepath": "Events/CutAndRun",
+    "Iconpath": "Events/CutAndRun/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/CutAndRun/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/CutAndRun/Textures/Menus/eventInfo/backing.tex",
+    "BannerTexturePath": "Events/CutAndRun/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_CUT_AND_RUN_GAMES_PLAYED",
+    "currencyType": "Fruit",
+    "info_text_1": "FN_EVENT_01",
+    "info_text_2": "EVENT_CUTANDRUN_INFO",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 25
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 0
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "cut_and_run",
+        "GameRules": "CutAndRun",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "cut_and_run_2021_2"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "cut_and_run_2021_2",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "cut_and_run_2023_2",
+        "gem_value": 0,
+        "diamond_value": 0,
+        "diamond_big_value": 0,
+        "coin_value": 0,
+        "coin_per_tokens": 1,
+        "analytics_event_name": "fruit_ninja",
+        "analytics_display_fruit_collected": true,
+        "analytics_display_obstacles_hit": true,
+        "can_equip_items": true,
+        "enable_eventTokens": true,
+        "eventToken_value": 5,
+        "eventToken_award": 0,
+        "eventToken_awardPerCoin": true,
+        "eventToken_spawnRateMin": 3.8,
+        "eventToken_spawnRateMax": 15.2,
+        "eventToken_spawnRateLength": 50,
+        "eventToken_curveC0":
+        [
+            0.22,
+            0.66
+        ],
+        "eventToken_curveC1":
+        [
+            0.2,
+            -0.62
+        ],
+        "eventToken_sprite": "textures/Entities/pickupTime.xml",
+        "eventToken_collectedSprite": "textures/Entities/timeTokenCollected.xml",
+        "eventToken_sparkleParticleEffect": "Time_Token_Sparkle",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+        "game_timer": 30.99,
+        "revive_time_amount_seconds": 20.99,
+        "time_lost_onhit": 10,
+        "death_time_extension": 1,
+        "skin_head": "SENSEI_HEAD",
+        "skin_body": "SENSEI_BODY",
+        "skin_jetpack": "JETPACK_FRUIT",
+        "reload_coins": true,
+        "tokens_lost_onhit": 0.2,
+        "rotate_coin_fx": false,
+        "leaderboard": "BEST_FRUIT_SLICED",
+        "enable_best_score_hud": true,
+        "score_statistic": "BEST_FRUIT_SLICED",
+        "coin_area": "TopLeft.coinArea.%i",
+        "coin_triggers": "TopLeft.coinTriggers",
+        "sam_screen_text": "FN_EVENT_SAMSCREEN",
+        "game_timer_triggerFreeze": "GameHud.topMiddle.eventCounter.Triggers.CutAndRun.freezeTime",
+        "game_timer_triggerUnfreeze": "GameHud.topMiddle.eventCounter.Triggers.CutAndRun.unfreezeTime",
+        "game_timer_triggerUseRevive": "GameHud.topMiddle.eventCounter.Triggers.CutAndRun.useRevive",
+        "trigger_name": "CutAndRun",
+        "counter_name": "counterCutAndRun",
+        "coin_mod": 1,
+        "twitter_brag": " #CutAndRun",
+        "sfx_packages":
+        [
+            "COIN_PACKAGE",
+            "GADGETS_PACKAGE",
+            "EVENT_TOKEN_PACKAGE"
+        ],
+        "brickui_textures":
+        [
+            "textures/levels/title/objects/title_small.tex",
+            "textures/levels/title/objects/titleglow_small.tex",
+            "textures/menus/results/leaderboardlogo.tex",
+            "textures/menus/results/scoresuffix.tex",
+            "textures/menus/results/scoresplatter.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "textures/menus/results/currencytoken.tex",
+            "textures/menus/results/logo.tex",
+            "events/cutandrun/textures/levels/title/objects/title_small.tex",
+            "events/cutandrun/textures/levels/title/objects/titleglow_small.tex",
+            "events/cutandrun/textures/menus/results/leaderboardlogo.tex",
+            "events/cutandrun/textures/menus/results/scoresuffix.tex",
+            "events/cutandrun/textures/menus/results/scoresplatter.tex",
+            "events/cutandrun/textures/menus/eventpopup/currencytoken_64.tex",
+            "events/cutandrun/textures/menus/results/currencytoken.tex",
+            "events/cutandrun/textures/menus/results/logo.tex",
+            "Events/CutAndRun/Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "Events/CutAndRun/Textures/Menus/Main/IconEvent.tex",
+            "events/cutandrun/textures/menus/main/iconevent.tex"
+        ]
+    },
+    "Features":
+    [],
+    "title_screen_settings": "cut_and_run"
+}

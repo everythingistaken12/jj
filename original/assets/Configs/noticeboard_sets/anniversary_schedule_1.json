@@ -1,0 +1,22 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "special_offer_cross_promo_anniversary"
+    },
+    {
+      "board": "daily_reward_tiers"
+    },
+    {
+      "board": "gif_cross_promo"
+    },    
+    {
+      "board": "anniversary_11_bundle_set"
+    },
+    {
+      "board": "anniversary_bundle_set"
+    }
+  ]
+}
+

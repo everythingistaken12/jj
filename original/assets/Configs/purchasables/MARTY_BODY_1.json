@@ -1,0 +1,29 @@
+{
+    "reference_id": "MARTY_BODY",
+    "tags": [
+        "premium",
+        "bundle",
+        "Body",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_MARTY_BODY_NAME",
+        "description": "ITEM_MARTY_BODY_DESC",
+        "equipable": true,
+        "rewardOnly": {
+            "value": true,
+            "prereq": "EVENTS_ONLY"
+        },
+        "icon": "bodyMarty"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

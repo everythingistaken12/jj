@@ -1,0 +1,7 @@
+{
+  "name": "SpecialOffer_CHINESE_NEW_YEAR_RABBIT_BUNDLE",
+  "template": "SALE_ITEM",
+  "screen": "NoticeBoardChineseNewYearRabbitBundle",
+  "on_show_event": "specialOffer",
+  "item_id": "CHINESE_NEW_YEAR_RABBIT_BUNDLE"
+}

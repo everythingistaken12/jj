@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "EASTER_EXOSUIT_BODY",
+	"fallback": "coin_pack_12500"
+}

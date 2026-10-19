@@ -1,0 +1,92 @@
+{
+    "dailyMissionCount": 15,
+    "rewardCurrency": "thanksgiving_token",
+    "dailyMissions": [
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_TURKEY",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_TURKEY",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_25_GAMES",
+            "timeToUnlock": 0
+        },
+        {
+            "#default":
+            {
+                "missionName": "PLAY_15_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            },
+            "#HalfbrickPlus":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            },
+            "#AppleArcade":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            }
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_MORE_THAN_1500_COINS",
+            "timeToUnlock": 172800
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_AUTUMN_COSTUME",
+            "timeToUnlock": 259200
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_JETPACK_AUTUMN",
+            "timeToUnlock": 345600
+        },
+        {
+            "missionName": "COLLECT_12500_COINS",
+            "timeToUnlock": 432000
+        },
+        {
+            "missionName": "USE_25_REVIVE",
+            "timeToUnlock": 518400
+        },
+        {
+            "missionName": "COLLECT_50_SPIN_TOKENS",
+            "timeToUnlock": 604800
+        },
+        {
+            "missionName": "PLAY_3_GAMES_WITH_TURKEY_TREX",
+            "timeToUnlock": 691200
+        },
+        {
+            "missionName": "RUN_25000_TOTAL_DISTANCE",
+            "timeToUnlock": 777600
+        },
+        {
+            "#default":
+            {
+                "missionName": "PLAY_5_GAMES_WITH_SAM_WITH_MORE_THAN_750_DISTANCE",
+                "timeToUnlock": 864000
+            },
+            "#HalfbrickPlus":
+            {
+                "missionName": "PLAY_3_GAMES_WITH_VEHICLE_TURKEY",
+                "timeToUnlock": 864000
+            },
+            "#AppleArcade":
+            {
+                "missionName": "PLAY_3_GAMES_WITH_VEHICLE_TURKEY",
+                "timeToUnlock": 864000
+            }
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_DISTANCE",
+            "timeToUnlock": 950400
+        },
+        {
+            "missionName": "RUN_3000_TOTAL_DISTANCE_VEHICLE",
+            "timeToUnlock": 1036800
+        }
+    ]
+}

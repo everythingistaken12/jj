@@ -1,0 +1,19 @@
+{
+    "name": "Fire the Jetpack",
+    "requirement": "fire jetpack",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 0,
+        "note": "This is a tutorial mission, don't use it in normal games."
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "fire",
+                "o": "jetpack",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

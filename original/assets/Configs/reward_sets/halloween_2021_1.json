@@ -1,0 +1,36 @@
+{
+    "currency": "SoulTokens",
+    "currency_texture": "events/halloween/textures/menus/eventpopup/currencytoken.tex",
+    "tiers":
+    [
+        "halloween/halloween_tier_1",
+        "halloween/halloween_tier_2",
+        "halloween/halloween_tier_3",
+        "halloween/halloween_tier_4",
+        "halloween/halloween_tier_5",
+        "halloween/halloween_tier_6",
+        "halloween/halloween_tier_7",
+        "halloween/halloween_tier_8",
+        "halloween/halloween_tier_9",
+        "halloween/halloween_tier_10",
+        "halloween/halloween_tier_11",
+        "halloween/halloween_tier_12",
+        "halloween/halloween_tier_13",
+        "halloween/halloween_tier_14",
+        "halloween/halloween_tier_15",
+        "halloween/halloween_tier_16",
+        "halloween/halloween_tier_17",                                          
+        "halloween/halloween_tier_18",
+        "halloween/halloween_tier_19",
+        "halloween/halloween_tier_20",
+        "halloween/halloween_tier_21",
+        "halloween/halloween_tier_22",
+        "halloween/halloween_tier_23",
+        "halloween/halloween_tier_24",
+        "halloween/halloween_tier_25",
+        "halloween/halloween_tier_26",
+        "halloween/halloween_tier_27",
+        "halloween/halloween_tier_28",
+        "halloween/halloween_tier_29"
+    ]
+}

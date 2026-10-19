@@ -1,0 +1,42 @@
+{
+  "reference_id": "PICARD_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_PICARD_HEAD_NAME",
+    "description": "ITEM_PICARD_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumePicard",
+    "isNew": true,
+    "hideWhen": "PICARD_HEAD"
+  },
+  "additional_deliverables": {
+    "PICARD_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "PICARD_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.picardcostume",
+    "google_play_store": "com.halfbrick.jetpack.picardcostume",
+    "brick_bucks_store": "picard_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

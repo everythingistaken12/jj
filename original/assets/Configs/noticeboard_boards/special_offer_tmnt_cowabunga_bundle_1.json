@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_TMNT_Cowabunga_Bundle",
+    "screen": "NoticeBoardTMNTCowabungaBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "TMNT_COWABUNGA_BUNDLE"
+}

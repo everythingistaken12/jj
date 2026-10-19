@@ -1,0 +1,52 @@
+{
+    "reference_id": "METAL_SLUG_SAM_BUNDLE",
+    "tags": [
+        "prepurchase",
+        "premium",
+        "Upgrades",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_METAL_SLUG_SAM_BUNDLE_NAME",
+        "description": "ITEM_METAL_SLUG_SAM_BUNDLE_DESC",
+        "icon": "vehicleSamMS",
+        "hideWhen": "VEHICLE_SKIN_MS_SAM",
+        "auto_equip": true
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_MS_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.metalslugsambundle",
+        "google_play_store": "com.halfbrick.jetpackjoyride.metalslugsambundle",
+        "brick_bucks_store": "metal_slug_sam_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

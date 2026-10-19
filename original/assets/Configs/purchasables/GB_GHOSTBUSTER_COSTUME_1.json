@@ -1,0 +1,42 @@
+{
+  "reference_id": "GB_GHOSTBUSTER_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_GB_GHOSTBUSTER_HEAD_NAME",
+    "description": "ITEM_GB_GHOSTBUSTER_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeGBGhostbuster",
+    "isNew": true,
+    "hideWhen": "GB_GHOSTBUSTER_HEAD"
+  },
+  "additional_deliverables": {
+    "GB_GHOSTBUSTER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "GB_GHOSTBUSTER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.ghostbustercostume",
+    "google_play_store": "com.halfbrick.jetpack.ghostbustercostume",
+    "brick_bucks_store": "ghostbuster_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

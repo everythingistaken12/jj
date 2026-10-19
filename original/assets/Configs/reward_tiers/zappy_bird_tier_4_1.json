@@ -1,0 +1,39 @@
+{
+    "#default":
+    {
+        "cost": 675,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_BIRDMAGNET_NAME",		
+		"frame_texture": "textures/menus/shared/frameMetallic.tex",
+		"rewards_texture": "textures/menus/shop/ItemIcons/vehicleBirdMagnet.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleBirdMagnet.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"magnet_profit_bird"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 225,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "4000_COINS",
+		"rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"coin_pack_4000"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 225,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "4000_COINS",
+		"rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"coin_pack_4000"
+		]
+    }
+}

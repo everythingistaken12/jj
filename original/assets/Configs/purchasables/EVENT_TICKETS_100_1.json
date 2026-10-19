@@ -1,0 +1,23 @@
+{
+    "reference_id": "EVENT_TICKETS_100",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "quantity": 100
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.100eventtickets",
+        "google_play_store": "com.halfbrick.jetpack.100eventtickets",
+        "brick_bucks_store": "event_tickets_100"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

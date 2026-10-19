@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "christmas_2025_cross_promo_christmas"
+			},
+			{
+				"statistic": "CROSS_PROMO_CHRISTMAS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_cross_promo_christmas"
+			},
+			{
+				"statistic": "CROSS_PROMO_CHRISTMAS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_cross_promo_christmas"
+			},
+			{
+				"statistic": "CROSS_PROMO_CHRISTMAS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			}
+		]
+	],
+	"store_id": "CROSS_PROMO_CHRISTMAS",
+	"timer_id": "christmas_2025_cross_promo_christmas",
+	"trigger_name": "cross_promo_christmas",
+	"statistic_prefix": "CROSS_PROMO_CHRISTMAS_VIEWS"
+}

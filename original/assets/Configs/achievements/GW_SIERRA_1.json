@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_5",
+    "description": "ACHIEVEMENT_DESC_5",
+    "type": "DEVELOPER",
+    "sub_type_1": "SIERRA",
+    "texture": "goodWorkSierra",
+    "points": 10,
+    "max_progress": 120,
+    "provider_ids": {
+        "amazon": "1082652",
+        "game_center": 
+        {
+            "default": "1082652",
+            "AppleArcade": "good_work_sierra_aa",
+            "HalfbrickPlus": "good_work_sierra_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQBg"
+        }
+    }
+}

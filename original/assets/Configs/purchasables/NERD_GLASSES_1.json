@@ -1,0 +1,36 @@
+{
+    "reference_id": "NERD_GLASSES",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_NERDGLASSES_NAME",
+        "description": "ITEM_NERDGLASSES_DESC",
+        "equipable": true,
+        "icon": "headScientist",
+        "startWeek": 43
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 7
+    },
+    "payment_methods": {
+        "jetpack_store": "NERD_GLASSES"
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 7
+    },
+    "payment_methods": {
+        "jetpack_store": "NERD_GLASSES"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

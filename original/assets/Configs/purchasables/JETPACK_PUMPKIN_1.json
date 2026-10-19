@@ -1,0 +1,28 @@
+{
+    "reference_id": "JETPACK_PUMPKIN",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_PUMPKIN_NAME",
+        "description": "ITEM_JETPACK_PUMPKIN_DESC",
+        "equipable": true,
+        "icon": "jetpackPK",
+        "startWeek": 40,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_PUMPKIN"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

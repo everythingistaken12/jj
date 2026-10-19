@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Celtic_Bundle",
+    "screen": "NoticeBoardCelticBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "CELTIC_BUNDLE"
+}

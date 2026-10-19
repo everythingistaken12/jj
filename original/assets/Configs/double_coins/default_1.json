@@ -1,0 +1,5 @@
+{
+    "is_video_ad_enabled": true,
+    "is_iap_enabled": true,
+    "minimum_coins_per_ad": 1000
+}

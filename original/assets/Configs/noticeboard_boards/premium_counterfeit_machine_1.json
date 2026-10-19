@@ -1,0 +1,10 @@
+{
+	"name": "Premium_CounterfietMachine",
+	"template": "ITEM",
+	"screen": "NoticeBoardPremium",
+	"item_id": "PREMIUM_MACHINE",
+	"data_source": {
+		"name": "ITEM_COUNTERFEITMACHINE_NAME",
+		"description": "SS_PREMIUM_CFM_DESC"
+	}
+}

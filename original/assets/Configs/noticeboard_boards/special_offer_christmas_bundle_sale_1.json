@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Chinese_New_Year_Bundle_Discount",
+    "screen": "NoticeBoardChineseBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "CHINESE_NEW_YEAR_BUNDLE"
+}

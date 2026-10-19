@@ -1,0 +1,12 @@
+{
+	"cost": 1000,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/shop/ItemIcons/headWhiteRabbit.tex",
+	"rewards_icon_texture": "textures/menus/shop/ItemIcons/headWhiteRabbit.tex",
+	"display_description": "ITEM_WHITE_RABBIT_HEAD_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"easter_white_rabbit_head"
+	],
+	"random_rewards": []
+}

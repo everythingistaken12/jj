@@ -1,0 +1,683 @@
+{
+  "tracked_events": [
+    "startGame",
+    "gamesPlayedNoDoubleCoins",
+    "adPresentedWatchCoins",
+    "slotMachine",
+    "specialOffer"
+  ],
+  "placements": {
+    "PLAY_AGAIN_ADMOB_ONLY": {
+      "waterfall": "ADMOB_INTERSTITIAL_ONLY",
+      "mediation": {
+        "show": [
+          {
+            "ONCE_PER": [
+              5,
+              "min"
+            ]
+          },
+          "AND",
+          {
+            "DAYS_SINCE_INSTALL": [
+              ">=",
+              3
+            ]
+          },
+          "AND",
+          {
+            "HAS_PURCHASED_IAP": [
+              false
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON": [
+              "GAMES_PLAYED_TODAY",
+              ">=",
+              3
+            ]
+          }
+        ],
+        "prepare": [
+          {
+            "DAYS_SINCE_INSTALL": [
+              ">=",
+              3
+            ]
+          },
+          "AND",
+          {
+            "HAS_PURCHASED_IAP": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    "ON_DEATH_ADMOB_ONLY": {
+      "waterfall": "ADMOB_INTERSTITIAL_CONTROL",
+      "mediation": {
+        "show": [
+          {
+            "HAS_PURCHASED_IAP": [
+              false
+            ]
+          },
+          "AND",
+          {
+            "HAS_VIEWED_REVIVE_VIDEO_THIS_RUN": [
+              false
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON_WITH_OFFSET": [
+              "GAMES_PLAYED_TODAY",
+              "%",
+              2,
+              1
+            ]
+          }
+        ],
+        "prepare": [
+          {
+            "HAS_PURCHASED_IAP": [
+              false
+            ]
+          }
+        ]
+      }
+    },
+    "INTERSTITIAL_ADMOB_ONLY": {
+      "waterfall": "ADMOB_INTERSTITIAL_CONTROL",
+      "mediation": {
+        "show": [
+          {
+            "HAS_VIEWED_REVIVE_VIDEO_THIS_RUN": [
+              false
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON_WITH_OFFSET": [
+              "GAMES_PLAYED_TODAY",
+              "%",
+              2,
+              1
+            ]
+          }
+        ]
+      }
+    },
+    "INTERSTITIAL_ADMOB_ONLY_NO_MEDIATION": {
+      "waterfall": "ADMOB_INTERSTITIAL_CONTROL",
+      "mediation": {
+      }
+    },
+    "RESULTS_ENTER_ADMOB_ONLY": {
+      "waterfall": "ADMOB_INTERSTITIAL_ONLY",
+      "mediation": {
+        "show": [
+          {
+            "HAS_PURCHASED_IAP": [
+              false
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON_WITH_OFFSET": [
+              "GAMES_PLAYED_TODAY",
+              "%",
+              3,
+              -2
+            ]
+          }
+        ],
+        "prepare": [
+          {
+            "HAS_PURCHASED_IAP": [
+              false
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON": [
+              "ADS_TODAY_INTERSTITIALS_SUCCEEDED",
+              "<=",
+              5
+            ]
+          }
+        ]
+      }
+    },
+    "OFFERWALL_TITLE_SIDEBAR": {
+      "waterfall": "OFFERWALL_TITLE_SIDEBAR",
+      "data": {
+        "mediation": {}
+      }
+    },
+    "OFFERWALL_SHOP": {
+      "waterfall": "OFFERWALL_SHOP",
+      "data": {
+        "mediation": {}
+      }
+    },
+    "SOCIAL_SQUARE_REWARDED": {
+      "waterfall": "REWARDED_VIDEO",
+      "mediation": {}
+    },
+    "STASH_TAB_EXIT": {
+      "waterfall": "EXIT_VIDEO",
+      "mediation": {
+        "prepare": [
+          {
+            "STATISTICS_COMPARISON": [
+              "ADS_TOTAL_WATCH_COINS_REDEEMED",
+              "<=",
+              0
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON": [
+              "TOTAL_GAMES_PLAYED",
+              "<",
+              100
+            ]
+          },
+          "AND",
+          {
+            "WHEN_EVENT_COUNT": [
+              "adPresentedWatchCoins",
+              "<",
+              1
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON": [
+              "ADS_TOTAL_WATCH_COINS_PRESENTED",
+              "<",
+              3
+            ]
+          }
+        ],
+        "show": [
+          {
+            "LAST_SHOP_TAB": [
+              "FASHION",
+              true
+            ]
+          },
+          "OR",
+          {
+            "LAST_SHOP_TAB": [
+              "JETPACK",
+              true
+            ]
+          },
+          "AND",
+          {
+            "RECENT_PURCHASES_CONTAINS_TYPE": [
+              "FASHION",
+              false
+            ]
+          },
+          "AND",
+          {
+            "RECENT_PURCHASES_CONTAINS_TYPE": [
+              "JETPACK",
+              false
+            ]
+          },
+          "AND",
+          {
+            "STATISTICS_COMPARISON": [
+              "ADS_TOTAL_WATCH_COINS_REDEEMED",
+              "<=",
+              0
+            ]
+          }
+        ]
+      }
+    },
+    "SLOT_MACHINE": {
+      "waterfall": "SLOTS_VIDEO",
+      "mediation": {}
+    },
+    "DOUBLE_COINS_SCREEN": {
+      "waterfall": "REWARDED_VIDEO",
+      "mediation": {}
+    },
+    "GAME_HUD": {
+      "waterfall": "HUD_VIDEO",
+      "mediation": {}
+    },
+    "NOT_ENOUGH_COINS": {
+      "waterfall": "NOT_ENOUGH_COINS_VIDEO",
+      "mediation": {}
+    },
+    "GET_COINS": {
+      "waterfall": "GET_COINS_VIDEO",
+      "mediation": {}
+    },
+    "NOTICE_BOARD": {
+      "waterfall": "REWARDED_VIDEO",
+      "mediation": {}
+    },
+    "EVENT_REWARD_DAY_UNLOCK": {
+      "waterfall": "EVENT_REWARD_DAY_UNLOCK",
+      "mediation": {}
+    },
+    "EVENT_TICKETS": {
+      "waterfall": "EVENT_TICKETS",
+      "mediation": {}
+    },
+    "DOUBLE_EVENT_TOKENS": {
+      "waterfall": "DOUBLE_EVENT_TOKENS",
+      "mediation": {}
+    },
+    "DAILY_REWARD": {
+      "waterfall": "DAILY_REWARD",
+      "mediation": {}
+    },
+    "DAILY_RV_TIERS": {
+      "waterfall": "DAILY_RV_TIERS",
+      "mediation": {}
+    },
+    "RESULTS_SCREEN_REWARDED_VIDEO": {
+      "waterfall": "RESULTS_SCREEN_REWARDED_VIDEO",
+      "mediation": {}
+    },
+    "SAM_DOUBLE_DAILY_REWARD": {
+      "waterfall": "SAM_DOUBLE_DAILY_REWARD",
+      "mediation": {}
+    },
+    "SAM_RESET": {
+      "waterfall": "SAM_RESET",
+      "mediation": {}
+    },
+    "GAME_HUD_SAM_START": {
+      "waterfall": "GAME_HUD_SAM_START",
+      "mediation": {}
+    },
+    "GAME_HUD_SAM_REVIVE": {
+      "waterfall": "GAME_HUD_SAM_REVIVE",
+      "mediation": {}
+    },
+    "GAME_HUD_GADGET_START": {
+      "waterfall": "GAME_HUD_GADGET_START",
+      "mediation": {}
+    },
+    "GAME_HUD_VEHICLE_MAGNET_START": {
+      "waterfall": "GAME_HUD_VEHICLE_MAGNET_START",
+      "mediation": {}
+    },
+    "GAME_HUD_VEHICLE_REVIVE": {
+      "waterfall": "GAME_HUD_VEHICLE_REVIVE",
+      "mediation": {}
+    },
+    "RESULTS_SCREEN_SKIP_MISSION": {
+      "waterfall": "RESULTS_SCREEN_SKIP_MISSION",
+      "mediation": {}
+    },
+    "TEST_INTERSTITIAL": {
+      "waterfall": "TEST_INTERSTITIAL",
+      "mediation": {}
+    }
+  },
+  "waterfalls": {
+    "ADMOB_INTERSTITIAL_ONLY": [
+      "IRONSOURCEMEDIATION_INTERSTITIAL"
+    ],
+    "ADMOB_INTERSTITIAL_CONTROL": [
+      "IRONSOURCEMEDIATION_INTERSTITIAL"
+    ],
+    "REWARDED_VIDEO": [
+      "IRONSOURCEMEDIATION_REWARDED_DOUBLE_COINS_THIS_GAME"
+    ],
+    "EXIT_VIDEO": [
+      "IRONSOURCEMEDIATION_EXIT_COINS"
+    ],
+    "SLOTS_VIDEO": [
+      "IRONSOURCEMEDIATION_SLOT_MACHINE_EVERY_FIFTH_GAME"
+    ],
+    "HUD_VIDEO": [
+      "IRONSOURCEMEDIATION_REVIVE_EVERY_GAME"
+    ],
+    "NOT_ENOUGH_COINS_VIDEO": [
+      "IRONSOURCEMEDIATION_NOT_ENOUGH_COINS"
+    ],
+    "GET_COINS_VIDEO": [
+      "IRONSOURCEMEDIATION_GET_COINS"
+    ],
+    "EVENT_REWARD_DAY_UNLOCK": [
+      "IRONSOURCEMEDIATION_EVENT_REWARD_DAY_UNLOCK"
+    ],
+    "EVENT_TICKETS": [
+      "IRONSOURCEMEDIATION_EVENT_TICKETS"
+    ],
+    "DOUBLE_EVENT_TOKENS": [
+      "IRONSOURCEMEDIATION_DOUBLE_EVENT_TOKENS"
+    ],
+    "DAILY_REWARD": [
+      "IRONSOURCEMEDIATION_DAILY_REWARD"
+    ],
+    "DAILY_RV_TIERS": [
+      "IRONSOURCEMEDIATION_DAILY_RV_TIERS"
+    ],
+    "RESULTS_SCREEN_REWARDED_VIDEO": [
+      "IRONSOURCEMEDIATION_RESULTS_SCREEN_REWARDED_VIDEO"
+    ],
+    "SAM_DOUBLE_DAILY_REWARD": [
+      "IRONSOURCEMEDIATION_SAM_DOUBLE_DAILY_REWARD"
+    ],
+    "SAM_RESET": [
+      "IRONSOURCEMEDIATION_SAM_RESET"
+    ],
+    "GAME_HUD_SAM_START": [
+      "IRONSOURCEMEDIATION_GAME_HUD_SAM_START"
+    ],
+    "GAME_HUD_SAM_REVIVE": [
+      "IRONSOURCEMEDIATION_GAME_HUD_SAM_REVIVE"
+    ],
+    "GAME_HUD_GADGET_START": [
+      "IRONSOURCEMEDIATION_GAME_HUD_GADGET_START"
+    ],
+    "GAME_HUD_VEHICLE_MAGNET_START": [
+      "IRONSOURCEMEDIATION_VEHICLE_MAGNET_START"
+    ],
+    "GAME_HUD_VEHICLE_REVIVE": [
+      "IRONSOURCEMEDIATION_VEHICLE_REVIVE"
+    ],
+    "RESULTS_SCREEN_SKIP_MISSION": [
+      "IRONSOURCEMEDIATION_RESULTS_SCREEN_SKIP_MISSION"
+    ],
+    "TEST_INTERSTITIAL": [
+      "IRONSOURCEMEDIATION_INTERSTITIAL"
+    ],
+    "OFFERWALL_TITLE_SIDEBAR": [
+      "IRONSOURCEMEDIATION_OFFERWALL_TITLE_SIDEBAR"
+    ],
+    "OFFERWALL_SHOP": [
+      "IRONSOURCEMEDIATION_OFFERWALL_SHOP"
+    ]
+  },
+  "spaces": {
+    "IRONSOURCEMEDIATION_INTERSTITIAL": {
+      "network": "ironsourcemediation",
+      "type": "interstitial",
+      "id": "DefaultInterstitial"
+    },
+    "IRONSOURCEMEDIATION_OFFERWALL_TITLE_SIDEBAR": {
+      "network": "ironsourcemediation",
+      "type": "offerwall",
+      "data": {
+        "id": "TITLE_SIDEBAR"
+      }
+    },
+    "IRONSOURCEMEDIATION_OFFERWALL_SHOP": {
+      "network": "ironsourcemediation",
+      "type": "offerwall",
+      "data": {
+        "id": "SHOP"
+      }
+    },
+    "IRONSOURCEMEDIATION_REWARDED_DOUBLE_COINS_THIS_GAME": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "DOUBLE_COINS",
+      "rewards": [
+        {
+          "id": "COIN_DOUBLE_THIS_GAME",
+          "name": "Double Coins Earned This Game",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_EXIT_COINS": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "EXIT_COINS",
+      "rewards": [
+        {
+          "id": "coins",
+          "name": "1,000 Coins",
+          "amount": 1000
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_SLOT_MACHINE_EVERY_FIFTH_GAME": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "SLOTS_VIDEO",
+      "rewards": [
+        {
+          "id": "SLOT_MACHINE_TOKENS",
+          "name": "3 Slot Machine Tokens",
+          "amount": 3
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_REVIVE_EVERY_GAME": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "GAME_HUD_REVIVE",
+      "rewards": [
+        {
+          "id": "QUICK_REVIVE",
+          "name": "1 Quick Revive",
+          "amount": 1
+        },
+        {
+          "id": "EXTRA_TIME",
+          "name": "10 Extra Seconds",
+          "amount": 10
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_VEHICLE_MAGNET_START": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "GAME_HUD_VEHICLE_MAGNET_START",
+      "rewards": [
+        {
+          "id": "VEHICLE_MAGNET_START",
+          "name": "Vehicle magnet",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_VEHICLE_REVIVE": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "GAME_HUD_VEHICLE_REVIVE",
+      "rewards": [
+        {
+          "id": "QUICK_REVIVE",
+          "name": "1 Quick Revive",
+          "amount": 1
+        },
+        {
+          "id": "EXTRA_TIME",
+          "name": "10 Extra Seconds",
+          "amount": 10
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_NOT_ENOUGH_COINS": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "NOT_ENOUGH_COINS",
+      "rewards": [
+        {
+          "id": "coins",
+          "name": "200 Coins",
+          "amount": 200
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_GET_COINS": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "GET_COINS",
+      "rewards": [
+        {
+          "id": "coins",
+          "name": "200 Coins",
+          "amount": 200
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_EVENT_REWARD_DAY_UNLOCK": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "EVENT_REWARD_DAY_UNLOCK",
+      "rewards": [
+        {
+          "id": "event_reward_day_unlock",
+          "name": "unlock access to next day of event rewards",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_EVENT_TICKETS": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "EVENT_TICKETS",
+      "rewards": [
+        {
+          "id": "event_ticket",
+          "name": "gain event tickets",
+          "amount": 5
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_DOUBLE_EVENT_TOKENS": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "DOUBLE_EVENT_TOKENS",
+      "rewards": [
+        {
+          "id": "double_event_tokens_this_game",
+          "name": "double event tickets",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_DAILY_REWARD": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "DAILY_REWARD",
+      "rewards": [
+        {
+          "id": "daily_reward",
+          "name": "daily reward from title screen",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_DAILY_RV_TIERS": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "DAILY_RV_TIERS",
+      "rewards": [
+        {
+          "id": "daily_rv_tiers",
+          "name": "daily rv tiers from daily rv tiers popup",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_RESULTS_SCREEN_REWARDED_VIDEO": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "RESULTS_SCREEN_REWARDED_VIDEO",
+      "rewards": [
+        {
+          "id": "results_screen_interstitial_reward",
+          "name": "rewarded video on results screen",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_SAM_DOUBLE_DAILY_REWARD": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "SAM_DOUBLE_DAILY_REWARD",
+      "rewards": [
+        {
+          "id": "sam_double_daily_reward",
+          "name": "double daily reward from sam",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_SAM_RESET": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "SAM_RESET",
+      "rewards": [
+        {
+          "id": "sam_reset",
+          "name": "make sam available again today",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_GAME_HUD_SAM_START": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "GAME_HUD_SAM_START",
+      "rewards": [
+        {
+          "id": "sam_start",
+          "name": "give sam to the player",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_GAME_HUD_SAM_REVIVE": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "GAME_HUD_SAM_REVIVE",
+      "rewards": [
+        {
+          "id": "sam_revive",
+          "name": "give sam to the player",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_GAME_HUD_GADGET_START": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "GAME_HUD_GADGET_START",
+      "rewards": [
+        {
+          "id": "gadget_start",
+          "name": "give a random gadget to the player only for a single game",
+          "amount": 1
+        }
+      ]
+    },
+    "IRONSOURCEMEDIATION_RESULTS_SCREEN_SKIP_MISSION": {
+      "network": "ironsourcemediation",
+      "type": "video",
+      "id": "RESULTS_SCREEN_SKIP_MISSION",
+      "rewards": [
+        {
+          "id": "skip_mission",
+          "name": "skip mission from results screen",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "networks": {
+    "ironsourcemediation": {
+      "name": "ironsourcemediation"
+    }
+  }
+}

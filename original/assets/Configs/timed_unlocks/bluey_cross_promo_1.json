@@ -1,0 +1,6 @@
+{
+	"notification_icon": "whenRunning",
+	"auto_start": true,
+	"timer_length_date_start": "2025-05-13T00:00+00:00",
+	"timer_length_date_end": "2025-12-31T00:00+00:00"
+}

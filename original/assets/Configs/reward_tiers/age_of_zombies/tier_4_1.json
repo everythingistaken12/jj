@@ -1,0 +1,19 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 300
+    },
+    "#AppleArcade":
+    {
+        "cost": 300
+    },
+	"cost": 600,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_CAVEMAN_BODY_NAME",	
+	"rewards_texture": "textures/menus/shop/itemicons/bodyCaveman.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyCaveman.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"caveman_body"
+	]
+}

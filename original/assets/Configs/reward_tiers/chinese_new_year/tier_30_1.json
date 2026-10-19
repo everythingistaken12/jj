@@ -1,0 +1,44 @@
+{
+    "#default":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_PRINCESS_HEAD_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/headLNYPrincessBetty.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headLNYPrincessBetty.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_princess_betty_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_NIAN_HOG_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleHogNian.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogNian.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_hog"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_NIAN_HOG_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleHogNian.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogNian.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_hog"
+        ]
+    }
+}

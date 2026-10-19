@@ -1,0 +1,47 @@
+{
+    "name": "Fly a distance of between 1000 and 1050.",
+    "requirement": "Travel at least 1000m and travel at most 1050m in one game",
+    "retired": false,
+    "meta_data": {
+        "groupId": "12",
+        "difficulty": 3,
+        "icon": "reach",
+        "description": "MISSION_FLY_1",
+        "hash": "FLY_DIST",
+        "skillGrind": "SKILL",
+        "probability": "30",
+        "tag2": "DIST_ONLY"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 1000
+            },
+            {
+                "o": "m",
+                "s": "g",
+                "d": "travel",
+                "c": -1050
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            },
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

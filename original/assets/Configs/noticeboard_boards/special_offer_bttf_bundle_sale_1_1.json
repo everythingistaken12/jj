@@ -1,0 +1,8 @@
+{
+	"name": "SpecialOffer_BTTFBundle",
+	"template": "SALE_ITEM",
+	"screen": "NoticeBoardBTTFBundle",
+	"item_id": "BTTF_BUNDLE_SALE_1",
+	"sale_item": "BTTF_BUNDLE_SALE_1",
+	"on_show_event": "specialOffer"
+}

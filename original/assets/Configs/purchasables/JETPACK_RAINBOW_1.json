@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_RAINBOW",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_RAINBOWJETPACK_NAME",
+        "description": "ITEM_RAINBOWJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackRB",
+        "startWeek": 50
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_RAINBOW"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 29
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 29
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

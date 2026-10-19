@@ -1,0 +1,16 @@
+{
+    "storeId": "METAL_SLUG_BUNDLE",
+    "template": "template_4x2",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [1.0, 0.6, 0.1, 1.0],
+    "itemImages": "specialBundleMetalSlugImages",
+    "infoText": "SHOP_BUTTON_BUY_NOW",
+    "conditions": [
+        [
+            {
+                "rewardSet": "metal_slug_2021_2 < 13"
+            }
+        ]
+    ]
+}

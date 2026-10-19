@@ -1,0 +1,13 @@
+{
+	"name": "SpecialOffer_CoinPack4",
+	"template": "SALE_ITEM",
+	"screen": "NoticeBoardSpecialOffer",
+	"item_id": "COIN_PACK_FOUR",
+	"on_show_event": "specialOffer",
+	"set_name_to_coin_value": true,
+	"show_coin_bonus_percent": true,
+	"data_source": {
+		"title": "COIN4_ANCHOR",
+		"icon": "textures/menus/shop/ItemIcons/coinsItem4.tex"
+	}
+}

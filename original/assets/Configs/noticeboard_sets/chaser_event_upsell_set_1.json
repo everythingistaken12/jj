@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"chaser_event_available",
+				"chaser_event_inactive"
+			],
+			"board": "chaser_event_upsell"
+		}			
+	]
+}

@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 988,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_TAOIST_HEAD_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/headTaoist.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headTaoist.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "taoist_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 958,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_LNY_HOG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleHogLNY.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogLNY.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_hog"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 958,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_LNY_HOG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleHogLNY.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogLNY.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_hog"
+        ]
+    }
+}

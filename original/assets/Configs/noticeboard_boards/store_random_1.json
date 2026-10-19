@@ -1,0 +1,10 @@
+{
+	"name": "Store_Random",
+	"template": "ITEM",
+	"screen": "NoticeBoardStore",
+	"item_id": "<random>",
+	"with_tags": "(Jetpack || Head || Body) && !premium && !excludeFromRandom",
+	"data_source": {
+		"title": "NB_TREAT_YOURSELF"
+	}
+}

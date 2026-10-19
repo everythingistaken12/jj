@@ -1,0 +1,12 @@
+{
+    "#default":
+    {
+        "currency": "coins",
+        "cost": 20000
+    },
+    "#AppleArcade":
+    {
+        "currency": "coins",
+        "cost": 7500
+    }
+}

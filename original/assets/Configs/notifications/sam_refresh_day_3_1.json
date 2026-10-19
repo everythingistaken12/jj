@@ -1,0 +1,19 @@
+{
+	"category": "sam",
+	"priority": 0,
+	"message": 
+	[
+		"PUSH_SAM_DAY3_1",
+		"PUSH_SAM_DAY3_2",
+		"PUSH_SAM_DAY3_3"
+	],
+	"schedule": 
+	{
+		"target_utc": 0,
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21
+	},
+	"condition" : "sam_refresh_day_3_check"
+}

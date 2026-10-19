@@ -1,0 +1,22 @@
+{
+    "name": "Touch 50 red flashing lights.",
+    "requirement": "Touch 50 red lights",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "oddball",
+        "description": "MISSION_ALARM_2",
+        "hash": "TOUCH_ALARM_TOTAL",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "touch",
+                "o": "red light",
+                "s": "t",
+                "c": 50
+            }
+        ]
+    }
+}

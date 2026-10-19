@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_ChineseNewYearTiger_Bundle",
+    "screen": "NoticeBoardChineseNewYearTigerBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "CHINESE_NEW_YEAR_TIGER_BUNDLE"
+}

@@ -1,0 +1,32 @@
+{
+    "currency": "PirateSkulls2",
+    "currency_texture": "events/pirate/textures/menus/eventpopup/currencytoken_64.tex",
+    "tiers":
+    [
+        "pirate/tier_1",
+        "pirate/tier_2",
+        "pirate/tier_3",
+        "pirate/tier_4",
+        "pirate/tier_5",
+        "pirate/tier_6",
+        "pirate/tier_7",
+        "pirate/tier_8",
+        "pirate/tier_9",
+        "pirate/tier_10",
+        "pirate/tier_11",
+        "pirate/tier_12",
+        "pirate/tier_13",
+        "pirate/tier_14",
+        "pirate/tier_15",
+        "pirate/tier_16",
+        "pirate/tier_17",
+        "pirate/tier_18",
+        "pirate/tier_19",
+        "pirate/tier_20",
+        "pirate/tier_21",
+        "pirate/tier_22",
+        "pirate/tier_23",
+        "pirate/tier_24",
+        "pirate/tier_25"
+    ]
+}

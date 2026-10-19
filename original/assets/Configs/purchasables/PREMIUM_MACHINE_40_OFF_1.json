@@ -1,0 +1,37 @@
+{
+    "reference_id": "PREMIUM_MACHINE_40_OFF",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COUNTERFEITMACHINE_NAME",
+        "description": "ITEM_COUNTERFEITMACHINE_DESC",
+        "hidden": true,
+        "saleItem": {
+            "saleStart": "f",
+            "saleEnd": "f",
+            "originalPrice": 0
+        },
+        "icon": "counterfeitMachine"
+    },
+    "additional_deliverables": {
+        "PREMIUM_MACHINE": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.CounterfeitMachine_40PC_Off",
+        "google_play_store": "com.halfbrick.jetpack.counterfeitmachine.40pcoff",
+        "brick_bucks_store": "premium_machine_40_off"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

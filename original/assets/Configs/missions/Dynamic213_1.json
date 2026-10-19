@@ -1,0 +1,43 @@
+{
+    "name": "Ride 600m in Bad Ass Hog in a single run.",
+    "requirement": "Travel 600m with one bad ass hog",
+    "retired": false,
+    "meta_data": {
+        "groupId": "42",
+        "difficulty": 3,
+        "icon": "vehicleTravel",
+        "description": "MISSION_VEHICLE_3",
+        "hash": "VEHICLE_DISTANCE",
+        "skillGrind": "SKILL",
+        "probability": "75",
+        "tag1": "VEHICLE",
+        "tag2": "DIST_VEHICLE",
+        "metaData": {
+            "vehicleType": "Bad Ass Hog"
+        }
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 600
+            },
+            {
+                "i": 6,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "vehicle",
+                "a": "destroy",
+                "i": 6
+            }
+        ]
+    }
+}

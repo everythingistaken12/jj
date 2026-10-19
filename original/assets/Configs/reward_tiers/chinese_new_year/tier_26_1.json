@@ -1,0 +1,13 @@
+{
+    "cost": 1388,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_TAOIST_HEAD_NAME",
+    "frame_texture": "textures/menus/shared/frameGold.tex",
+    "rewards_texture": "textures/menus/shop/itemicons/headTaoist.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/headTaoist.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "taoist_head"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "specialBundle": "irish_myth_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.235, 0.439, 0.263, 1.0],
+    "itemImages": "specialBundleIrishMythImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

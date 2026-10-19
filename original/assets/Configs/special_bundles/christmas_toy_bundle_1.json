@@ -1,0 +1,65 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "christmas_2025_christmas_toy_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHRISTMAS_TOY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TOY_TRAIN_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "JETPACK_CUSTOM_FIREPLACE == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_christmas_toy_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHRISTMAS_TOY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TOY_TRAIN_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "JETPACK_CUSTOM_FIREPLACE == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_christmas_toy_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_CHRISTMAS_TOY_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TOY_TRAIN_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "JETPACK_CUSTOM_FIREPLACE == 0"
+			}
+		]
+	],
+	"store_id": "CHRISTMAS_TOY_BUNDLE",
+	"timer_id": "christmas_2025_christmas_toy_bundle",
+	"trigger_name": "christmas_toy_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_CHRISTMAS_TOY_VIEWS"
+}

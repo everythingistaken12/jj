@@ -1,0 +1,13 @@
+
+{
+	"cost": 2000,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/shop/itemicons/jetpackFoam.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackFoam.tex",
+	"display_description": "ITEM_FOAM_JETPACK_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"jetpack_foam"
+	],
+	"random_rewards": []
+}

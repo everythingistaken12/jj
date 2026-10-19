@@ -1,0 +1,17 @@
+{
+    "vehicleName": "Strong",
+    "displayName": "Strong",
+
+    "sequenceBar": "bar_sam",
+    "ComponentsDir": "MegaBarry",
+    "Streak1Colour": {
+        "r": "104",
+        "g": "219",
+        "b": "115"
+    },
+    "Streak2Colour": {
+        "r": "185",
+        "g": "255",
+        "b": "172"
+    }
+}

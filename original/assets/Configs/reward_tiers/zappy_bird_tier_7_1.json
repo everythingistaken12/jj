@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 1250,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_GOLDENBIRD_NAME",		
+		"frame_texture": "textures/menus/shared/frameMetallic.tex",
+		"rewards_texture": "textures/menus/shop/ItemIcons/vehicleBirdGold.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleBirdGold.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"gold_profit_bird"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 675,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_BIRDMAGNET_NAME",		
+		"frame_texture": "textures/menus/shared/frameMetallic.tex",
+		"rewards_texture": "textures/menus/shop/ItemIcons/vehicleBirdMagnet.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleBirdMagnet.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"magnet_profit_bird"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 675,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_BIRDMAGNET_NAME",		
+		"frame_texture": "textures/menus/shared/frameMetallic.tex",
+		"rewards_texture": "textures/menus/shop/ItemIcons/vehicleBirdMagnet.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleBirdMagnet.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"magnet_profit_bird"
+		]
+    }
+}

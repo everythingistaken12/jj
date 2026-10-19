@@ -1,0 +1,45 @@
+{
+    "#default":
+    {
+        "cost": 1500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DEATH_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/deathCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/iconReaperRobes.tex",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "death_head",
+            "death_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 525,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_HARLEQUIN_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyHarlequin.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyHarlequin.tex",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "harlequin_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 525,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_HARLEQUIN_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyHarlequin.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyHarlequin.tex",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "harlequin_body"
+        ]
+    }
+}

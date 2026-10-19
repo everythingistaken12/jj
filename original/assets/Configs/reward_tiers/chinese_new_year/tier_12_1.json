@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_QUICKREVIVE8PACK_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/reviveX3.tex",
+        "rewards_quantity": 8,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "revive_x8"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 408,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CNY_PIG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleCnyPig.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleCnyPig.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_pig"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 408,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CNY_PIG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleCnyPig.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleCnyPig.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_pig"
+        ]
+    }
+}

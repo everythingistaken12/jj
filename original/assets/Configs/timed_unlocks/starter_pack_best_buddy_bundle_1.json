@@ -1,0 +1,17 @@
+{
+	"notification_icon": "whenRunning",
+	"auto_start": true,
+	"push_message": "find string",
+	"button_text": "INTRO_PACK_TIMER_TITLE",
+	"button_icon": "textures/menus/shop/ItemIcons/iconBestBuddyPack.tex",
+	"meta": {
+		"comment": "",
+		"shutdown_conditions": {
+			"itemOwned": "BestBuddyBundleOneTime",
+			"itemOwned": "DJ_HEAD",
+			"itemOwned": "PERK_ROBOT_DOG_1",
+			"itemOwned": "PERK_DUD_MISSILES_1"
+		}
+	},
+	"timer_length_seconds": 604800
+}

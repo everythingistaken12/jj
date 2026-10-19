@@ -1,0 +1,10 @@
+{
+	"bool_value": "true",
+	"string_value": "hello world",
+	"texture_value": "textures/Characters/Jetpacks/jetpackSlimer.tex",
+	"int_value": 10,
+	"float_value": 1.0,
+	"bool_value_2": false,
+	"color": [255, 128, 64, 32],
+	"color_rgb": [0, 127, 255]
+}

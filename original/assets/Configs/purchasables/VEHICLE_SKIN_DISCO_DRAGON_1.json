@@ -1,0 +1,31 @@
+{
+    "reference_id": "VEHICLE_SKIN_DISCO_DRAGON",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Hidden"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_DISCO_DRAGON_NAME",
+        "description": "VEHICLE_SKIN_DISCO_DRAGON_DESC",
+        "equipable": true,
+        "icon": "vehicleDragonDisco",
+        "isSkin": true,
+        "vehicleType": "Dragon",
+        "defaultSkin": false,
+        "hideUntil": "VEHICLE_SKIN_DISCO_DRAGON",
+        "isNew": true
+    },
+    "payment_methods": {},    
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

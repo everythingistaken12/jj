@@ -1,0 +1,14 @@
+{
+    "cost": 800,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/ItemIcons/headBard.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/headBard.tex",
+        "display_description": "ITEM_BARD_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "bard_head"
+        ]
+
+}

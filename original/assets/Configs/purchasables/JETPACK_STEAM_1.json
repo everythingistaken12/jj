@@ -1,0 +1,42 @@
+{
+    "reference_id": "JETPACK_STEAM",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_STEAMPOWEREDJETPACK_NAME",
+        "description": "ITEM_STEAMPOWEREDJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackSP",
+        "startWeek": 4
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 20
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_STEAM"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 8
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 20
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_STEAM"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 8
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "305950935766",
+    "firebase_url": "https://halfbrick-jetpack-joyride.firebaseio.com",
+    "project_id": "halfbrick-jetpack-joyride",
+    "storage_bucket": "halfbrick-jetpack-joyride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305950935766:android:07676b47cc6eaecc",
+        "android_client_info": {
+          "package_name": "com.halfbrick.jetpackjoyride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305950935766-d63e4qfeqa4ekrhdncngo79sf2cdlals.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyImHO33ItIebOfTvFLOc8qShZLM61HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305950935766-1qlv8ua9l8do520dcehpat766viul8bj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305950935766-t0kk0ui9pa18h0hucfjpbpfcflm2kdm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halfbrick.jetpack",
+                "app_store_id": "457446957"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4526847101233557~5364900623"
+    }
+  ],
+   "configuration_version": "1"
+}

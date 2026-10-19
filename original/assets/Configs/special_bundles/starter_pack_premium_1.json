@@ -1,0 +1,28 @@
+{
+    "conditions":
+    [
+        [
+            {
+                "timerRunning": "starter_pack"
+            },
+            {
+                "statistic": "DAYS_SINCE_INSTALL >= 1"
+            },
+            {
+                "statistic": "GAMES_PLAYED_TODAY >= 1"
+            } 
+        ]
+    ],
+    "datasource_metas":
+    {
+        "title": "INTRO_PACK_POPUP_TITLE",
+        "description": "SHOP_DIVIDER_PREMIUM",
+        "texture": "textures/menus/offers/barryGroup_sparks.tex",
+        "decoyBacking": "textures/menus/offers/BattlePass/backingFree.tex",
+        "decoyBackingTexture": "textures/menus/bricknetUpsell/BlingItOnEvent/BlingItOn/backing.tex",
+        "is_premium": true
+    },
+    "timer_id": "starter_pack",
+    "store_id": "STARTER_PACK_PREMIUM",
+    "statistic_prefix": "SPECIAL_BUNDLE_STARTER_PACK_PREMIUM_VIEWS"
+}

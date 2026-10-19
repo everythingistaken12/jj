@@ -1,0 +1,14 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_custom_havoc_jetpack",
+        "not_purchased_battle_cat",
+        "not_purchased_talon_fighter",
+        "not_purchased_jetpack_custom_man_at_arms"
+      ],
+      "board": "special_offer_motu_ultimate_bundle"
+    }
+  ]
+}

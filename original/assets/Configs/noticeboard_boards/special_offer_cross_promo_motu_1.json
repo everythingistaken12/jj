@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Cross_Promo_Motu",
+    "screen": "NoticeBoardCrossPromoMotu",
+    "on_show_event": "specialOffer",
+    "item_id": "CROSS_PROMO_MOTU"
+}

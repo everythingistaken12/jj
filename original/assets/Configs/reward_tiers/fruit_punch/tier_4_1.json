@@ -1,0 +1,12 @@
+{
+  "cost": 3500,
+  "display_name": "REWARD_UNLOCK",
+  "display_description": "ITEM_NINJA_HEAD_NAME",    
+  "frame_texture": "textures/menus/shared/frameMetallic.tex",
+  "rewards_texture": "textures/menus/shop/itemicons/headNinja.tex",
+  "rewards_icon_texture": "textures/menus/shop/itemicons/headNinja.tex",
+  "fallback_rewards": "FallbackSet_Low",
+  "guaranteed_rewards": [
+    "ninja_head"
+  ]
+}

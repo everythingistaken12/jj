@@ -1,0 +1,12 @@
+{
+	"name": "SpecialOffer_WaveRider",
+	"template": "SALE_ITEM",
+	"screen": "NoticeBoardJetSki",
+	"item_id": "VEHICLE_JETSKI",
+	"on_show_event": "specialOffer",
+	"data_source": {
+		"icon": "textures/menus/shop/ItemIcons/vehicleJetski.tex",
+		"title": "WAVERIDER_ANCHOR",
+		"name": "ITEM_PRE_PURCHASE_JETSKI_NAME"
+	}
+}

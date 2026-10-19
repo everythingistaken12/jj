@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "NINJA_HEAD",
+	"fallback": "coin_pack_7000"
+}

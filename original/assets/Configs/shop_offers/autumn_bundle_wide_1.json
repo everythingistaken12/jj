@@ -1,0 +1,10 @@
+{
+    "specialBundle": "autumn_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.612, 0.502, 0.208, 1.0],
+    "foregroundIcon": "textures/menus/shop/ItemIcons/coins1.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

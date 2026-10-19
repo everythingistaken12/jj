@@ -1,0 +1,30 @@
+{
+	"selector": "gamesPlayedToday",
+	"loop_point": 0,
+	"boards": [
+		{
+			"board": "metal_slug_bundle_set"
+		},
+		{
+			"board": "marco_bundle_set"
+		},
+		{
+			"board": "fio_bundle_set"
+		},
+		{
+			"board": "tarma_bundle_set"
+		},
+		{
+			"board": "eri_bundle_set"
+		},
+		{
+			"board": "metal_slug_vehicle_bundle_set"
+		},
+		{
+			"board": "metal_slug_jetpack_bundle_set"
+		},
+		{
+			"board": "metal_slug_sam_bundle_set"
+		}
+	]
+}

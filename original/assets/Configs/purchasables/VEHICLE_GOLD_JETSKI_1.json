@@ -1,0 +1,32 @@
+{
+    "reference_id": "VEHICLE_GOLD_JETSKI",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLDENJETSKI_NAME",
+        "description": "ITEM_GOLDENJETSKI_DESC",
+        "equipable": true,
+        "icon": "vehicleJetskiGold",
+        "hideUntil": "VEHICLE_SKIN_JETSKI",
+        "displayLocked": "VEHICLE_SKIN_JETSKI",
+        "isSkin": true,
+        "vehicleType": "JetSki",
+        "defaultSkin": false
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_GOLD_JETSKI"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

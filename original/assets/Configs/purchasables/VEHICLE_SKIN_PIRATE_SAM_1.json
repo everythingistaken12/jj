@@ -1,0 +1,33 @@
+{
+    "reference_id": "VEHICLE_SKIN_PIRATE_SAM",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Sam"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_PIRATE_SAM_NAME",
+        "description": "VEHICLE_SKIN_PIRATE_SAM_DESC",
+        "equipable": true,
+        "icon": "vehiclePirateSam",
+        "hideUntil": "VEHICLE_SKIN_PIRATE_SAM",
+        "isSkin": true,
+        "vehicleType": "Sam",
+        "defaultSkin": false,
+        "samAtlas": "Events/Pirate/Textures",
+        "samMusic": "Events/Pirate/Music_SAMPirate",
+        "samNotificationTex": "Events/Pirate/Textures/Menus/consumables/notificationSAM.tex"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

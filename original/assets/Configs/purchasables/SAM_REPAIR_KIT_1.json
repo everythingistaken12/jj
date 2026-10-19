@@ -1,0 +1,27 @@
+{
+    "reference_id": "SAM_REPAIR_KIT",
+    "tags": [
+        "Utilities",
+        "consumable",
+        "SamRepair"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_HEADSTART_NAME",
+        "description": "ITEM_HEADSTART_DESC",
+        "icon": "skip"
+    },
+    "payment_methods": {
+        "brick_bucks_store": "sam_repair_kit"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

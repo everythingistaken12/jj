@@ -1,0 +1,30 @@
+{
+    "reference_id": "VEHICLE_GOLD_ZOMBIETREX",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Mech"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_GOLD_ZOMBIETREX_NAME",
+        "description": "VEHICLE_GOLD_ZOMBIETREX_DESC",
+        "equipable": true,
+        "icon": "vehicleMechGoldZombieTrex",
+        "crosspromo": "https://halfbrick.com",
+        "awardsCrosspromoImmediately": true,
+        "isSkin": true,
+        "vehicleType": "Mech",
+        "defaultSkin": false,
+        "hidden": true
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

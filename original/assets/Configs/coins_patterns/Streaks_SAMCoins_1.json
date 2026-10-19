@@ -1,0 +1,45 @@
+{
+    "coin_pattern_file": {
+        "probability": {
+            "value": 1,
+            "startDistance": 0
+        },
+        "coin_pattern": [
+            {
+                "filename": "patterns/coinPatternSAM3.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternSAM2.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternSAM1.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternSAM4.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternNoCoins.txt",
+                "probability": {
+                    "value": 40,
+                    "startDistance": 20
+                }
+            }
+        ]
+    }
+}

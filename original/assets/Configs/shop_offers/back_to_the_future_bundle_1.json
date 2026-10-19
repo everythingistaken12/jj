@@ -1,0 +1,9 @@
+{
+    "specialBundle": "back_to_the_future_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.294, 0.427, 0.969, 1.0],
+    "itemImages": "specialBundleBTTFImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

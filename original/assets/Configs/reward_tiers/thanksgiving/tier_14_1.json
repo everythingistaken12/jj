@@ -1,0 +1,38 @@
+{
+    "#default":
+    {
+        "cost": 1500,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_AUTUMN_BODY_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/bodyAutumn.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyAutumn.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"autumn_body"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 950,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "VEHICLE_SKIN_TURKEY_TREX_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleMechTurkeyTrex.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechTurkeyTrex.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"turkey_trex"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 950,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "VEHICLE_SKIN_TURKEY_TREX_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleMechTurkeyTrex.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechTurkeyTrex.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"turkey_trex"
+		]
+    }    
+}

@@ -1,0 +1,31 @@
+{
+    "reference_id": "TMNT_EVENT_TOKEN_50",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "PERK_BONUS_SLOT_NAME",
+        "description": "NOTIFICATIONS_TMNT_NOT_PLAYED_5_DAYS",
+        "icon": "Textures/Menus/eventPopUp/currencyToken_64.tex",
+        "coins": 50,
+        "nameNoCoins": "PERK_BONUS_SLOT_NAME"
+    },
+    "additional_deliverables": {
+        "tmnt_token": {
+            "is_currency": true,
+            "value": "50"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "tmnteventtoken50"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

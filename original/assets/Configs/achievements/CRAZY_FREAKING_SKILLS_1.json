@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_26",
+    "description": "ACHIEVEMENT_DESC_26",
+    "type": "VEHICLE_DISTANCE",
+    "sub_type_1": "Teleporter",
+    "texture": "crazyFreakingSkills",
+    "points": 30,
+    "max_progress": 800,
+    "provider_ids": {
+        "amazon": "1082862",
+        "game_center": 
+        {
+            "default": "1082862",
+            "AppleArcade": "crazy_freaking_skills_aa",
+            "HalfbrickPlus": "crazy_freaking_skills_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQGQ"
+        }
+    }
+}

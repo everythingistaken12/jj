@@ -1,0 +1,28 @@
+{
+    "reference_id": "IRISH_PUNK_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "bundle",
+        "hidden",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_IRISH_PUNK_HEAD_NAME",
+        "description": "ITEM_IRISH_PUNK_HEAD_DESC",
+        "equipable": true,
+        "icon": "headIrishPunk",
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

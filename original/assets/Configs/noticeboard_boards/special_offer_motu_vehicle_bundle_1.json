@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Motu_Vehicle_Bundle",
+    "screen": "NoticeboardMotuVehicleBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "MOTU_VEHICLE_BUNDLE"
+}

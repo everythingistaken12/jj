@@ -1,0 +1,19 @@
+{
+    "name": "Collect A Vehicle",
+    "requirement": "Collect 1 Vehicle",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 0,
+        "note": "This is a tutorial mission, don't use it in normal games."
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

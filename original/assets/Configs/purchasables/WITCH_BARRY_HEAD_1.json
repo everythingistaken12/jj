@@ -1,0 +1,27 @@
+{
+    "reference_id": "WITCH_BARRY_HEAD",
+    "tags": [
+        "Head",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_WITCH_BARRY_HEAD_NAME",
+        "description": "ITEM_WITCH_BARRY_HEAD_DESC",
+        "equipable": true,
+        "icon": "headWitchBarry",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "apple_arcade",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

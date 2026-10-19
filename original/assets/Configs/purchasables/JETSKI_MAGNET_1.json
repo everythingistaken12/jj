@@ -1,0 +1,30 @@
+{
+    "reference_id": "JETSKI_MAGNET",
+    "tags": [
+        "Upgrades",
+        "Magnet"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETSKIMAGNET_NAME",
+        "description": "ITEM_JETSKIMAGNET_DESC",
+        "unequipable": true,
+        "icon": "vehicleJetskiMagnet",
+        "hideUntil": "VEHICLE_SKIN_JETSKI",
+        "displayLocked": "VEHICLE_SKIN_JETSKI",
+        "vehicleType": "JetSki"
+    },
+    "payment_methods": {
+        "jetpack_store": "JETSKI_MAGNET"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

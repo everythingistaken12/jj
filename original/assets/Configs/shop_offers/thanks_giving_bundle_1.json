@@ -1,0 +1,9 @@
+{
+    "specialBundle": "thanks_giving_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.612, 0.502, 0.208, 1.0],
+    "itemImages": "specialBundleThanksGivingImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

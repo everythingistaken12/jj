@@ -1,0 +1,22 @@
+{
+    "name": "ACHIEVEMENT_30",
+    "description": "ACHIEVEMENT_DESC_30",
+    "type": "DISTANCE_NOT_TOUCH",
+    "texture": "germaphobe",
+    "points": 50,
+    "max_progress": 2000,
+    "provider_ids": {
+        "amazon": "1082902",
+        "game_center": 
+        {
+            "default": "1082902",
+            "AppleArcade": "germaphobe_aa",
+            "HalfbrickPlus": "germaphobe_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQHQ"
+        }
+    }
+}

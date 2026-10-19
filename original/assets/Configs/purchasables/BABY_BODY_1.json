@@ -1,0 +1,32 @@
+{
+    "reference_id": "BABY_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BABY_BODY_NAME",
+        "description": "ITEM_BABY_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyBaby"
+    },
+    "payment_methods": {
+        "jetpack_store": "BABY_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 9
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 9
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

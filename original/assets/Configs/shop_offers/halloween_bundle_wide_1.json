@@ -1,0 +1,10 @@
+{
+    "specialBundle": "halloween_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.471, 0.180, 0.647, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/HalloweenEvent/halloween/specialBundleHalloweenVehicle.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

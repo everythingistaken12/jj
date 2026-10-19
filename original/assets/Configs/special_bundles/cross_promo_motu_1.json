@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "motu_2026_2_cross_promo_motu"
+			},
+			{
+				"statistic": "CROSS_PROMO_MOTU_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			}
+		],
+		[
+			{
+				"timerRunning": "motu_2026_2_cross_promo_motu"
+			},
+			{
+				"statistic": "CROSS_PROMO_MOTU_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			}
+		],
+		[
+			{
+				"timerRunning": "motu_2026_2_cross_promo_motu"
+			},
+			{
+				"statistic": "CROSS_PROMO_MOTU_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			}
+		]
+	],
+	"store_id": "CROSS_PROMO_MOTU",
+	"timer_id": "motu_2026_2_cross_promo_motu",
+	"trigger_name": "cross_promo_motu",
+	"statistic_prefix": "CROSS_PROMO_MOTU_VIEWS"
+}

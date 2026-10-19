@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_rock_mech",
+        "st_patricks_bard_bundle_timer_running"
+      ],
+      "board": "special_offer_st_patricks_harmonious_bundle"
+    }
+  ]
+}

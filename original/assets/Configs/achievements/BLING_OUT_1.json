@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_3",
+    "description": "ACHIEVEMENT_DESC_3",
+    "type": "PURCHASE",
+    "sub_type_1": "GOLD_VEHICLE",
+    "texture": "BlingedOut",
+    "secret": true,
+    "points": 30,
+    "max_progress": 1,
+    "provider_ids": {
+        "amazon": "1082632",
+        "game_center": 
+        {
+            "default": "1082632",
+            "AppleArcade": "blinged_out_aa",
+            "HalfbrickPlus": "blinged_out_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQBA"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "reference_id": "BIFF_BODY",
+    "tags": [
+        "premium",
+        "bundle",
+        "Body",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BIFF_BODY_NAME",
+        "description": "ITEM_BIFF_BODY_DESC",
+        "equipable": true,
+        "rewardOnly": {
+            "value": true,
+            "prereq": "EVENTS_ONLY"
+        },
+        "icon": "bodyBiff"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

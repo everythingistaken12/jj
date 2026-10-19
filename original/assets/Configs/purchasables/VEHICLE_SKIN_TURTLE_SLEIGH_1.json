@@ -1,0 +1,31 @@
+{
+    "reference_id": "VEHICLE_SKIN_TURTLE_SLEIGH",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Hidden"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_TURTLE_SLEIGH_NAME",
+        "description": "VEHICLE_SKIN_TURTLE_SLEIGH_DESC",
+        "equipable": true,
+        "icon": "vehicleSledTurtleSleigh",
+        "isSkin": true,
+        "vehicleType": "Sled",
+        "defaultSkin": false,
+        "hideUntil": "VEHICLE_SKIN_TURTLE_SLEIGH",
+        "isNew": true
+    },
+    "payment_methods": {},    
+    "skus": [
+        "halfbrick_plus",
+        "apple_arcade",
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

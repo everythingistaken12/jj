@@ -1,0 +1,196 @@
+{
+  "slot_file": {
+    "cash_in_cost": 100,
+    "rewards": {
+      "COINS_100": 200,
+      "COINS_500": 1000,
+      "COINS_1000": 2000
+    },
+    "slot": [
+      {
+        "probability": {
+          "value": 120
+        },
+        "type": {
+          "value": "COINS_100"
+        },
+        "intensity": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 90
+        },
+        "type": {
+          "value": "COINS_500"
+        },
+        "intensity": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 50
+        },
+        "type": {
+          "value": "COINS_1000"
+        },
+        "intensity": {
+          "value": 6
+        }
+      },
+      {
+        "probability": {
+          "value": 120
+        },
+        "type": {
+          "value": "EXPLOSION1"
+        },
+        "intensity": {
+          "value": 0
+        },
+        "afterWinProbPercent": {
+          "value": 0.5
+        }
+      },
+      {
+        "probability": {
+          "value": 75
+        },
+        "type": {
+          "value": "EXPLOSION2"
+        },
+        "intensity": {
+          "value": 3
+        },
+        "afterWinProbPercent": {
+          "value": 0.25
+        }
+      },
+      {
+        "probability": {
+          "value": 40
+        },
+        "type": {
+          "value": "EXPLOSION3"
+        },
+        "intensity": {
+          "value": 7
+        },
+        "afterWinProbPercent": {
+          "value": 0.1
+        }
+      },
+      {
+        "probability": {
+          "value": 100
+        },
+        "type": {
+          "value": "REVIVE"
+        },
+        "intensity": {
+          "value": 5
+        },
+        "afterWinProbPercent": {
+          "value": 0.025
+        }
+      },
+      {
+        "probability": {
+          "value": 70
+        },
+        "type": {
+          "value": "TOKENS"
+        },
+        "intensity": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 120
+        },
+        "type": {
+          "value": "DOUBLE_COINS"
+        },
+        "intensity": {
+          "value": 0
+        },
+        "afterWinProbPercent": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 100
+        },
+        "type": {
+          "value": "START_500M"
+        },
+        "intensity": {
+          "value": 0
+        },
+        "afterWinProbPercent": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 100
+        },
+        "type": {
+          "value": "START_500M"
+        },
+        "intensity": {
+          "value": 0
+        },
+        "afterWinProbPercent": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 0
+        },
+        "type": {
+          "value": "SLOT_SHOP_ITEM_BOMB"
+        },
+        "intensity": {
+          "value": 1
+        },
+        "afterWinProbPercent": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 0
+        },
+        "type": {
+          "value": "SLOT_SHOP_ITEM_REVIVE"
+        },
+        "intensity": {
+          "value": 1
+        },
+        "afterWinProbPercent": {
+          "value": 0
+        }
+      },
+      {
+        "probability": {
+          "value": 0
+        },
+        "type": {
+          "value": "SLOT_SHOP_ITEM_HEAD_START"
+        },
+        "intensity": {
+          "value": 1
+        },
+        "afterWinProbPercent": {
+          "value": 0
+        }
+      }
+    ]
+  }
+}

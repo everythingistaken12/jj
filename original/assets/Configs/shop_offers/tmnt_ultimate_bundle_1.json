@@ -1,0 +1,10 @@
+{
+    "storeId": "TMNT_ULTIMATE_BUNDLE",
+    "timerId": "tmnt_2024_tmnt_ultimate_bundle",
+    "template": "template_4x2_backing",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0],
+    "itemImages": "specialBundleTMNTUltimateBundleImages",
+    "backingTexture": "textures/menus/bricknetUpsell/TMNTEvent/TMNT/backing.tex"
+}

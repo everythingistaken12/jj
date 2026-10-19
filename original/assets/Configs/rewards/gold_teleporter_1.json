@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "VEHICLE_GOLD_TELEPORTER",
+	"fallback": "coin_pack_12500"
+}

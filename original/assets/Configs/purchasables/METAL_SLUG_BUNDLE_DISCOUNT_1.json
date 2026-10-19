@@ -1,0 +1,152 @@
+{
+    "reference_id": "METAL_SLUG_BUNDLE_DISCOUNT",
+    "tags": [
+        "prepurchase",
+        "premium",
+        "Upgrades",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_METAL_SLUG_BUNDLE_DISCOUNT_NAME",
+        "description": "ITEM_METAL_SLUG_BUNDLE_DISCOUNT_DESC",
+        "icon": "iconMetalSlugPack",
+        "hideWhen": [
+            "VEHICLE_SKIN_MS_HOG", 
+            "VEHICLE_SKIN_MS_MECH", 
+            "VEHICLE_SKIN_MS_BIRD",
+            "VEHICLE_SKIN_MS_DRAGON",
+            "VEHICLE_SKIN_JETSKI",
+            "VEHICLE_SKIN_MS_JETSKI",
+            "VEHICLE_SKIN_MS_SAM",
+            "TARMA_HEAD",
+            "TARMA_BODY",
+            "FIO_HEAD",
+            "FIO_BODY",
+            "MARCO_HEAD",
+            "MARCO_BODY",
+            "ERI_HEAD",
+            "ERI_BODY",
+            "JETPACK_ROCKETLAUNCHER",
+            "JETPACK_LASERCANNON",
+            "JETPACK_HEAVYMG",
+            "JETPACK_FLAMESHOT"
+        ],
+        "auto_equip": true
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "VEHICLE_SKIN_MS_HOG": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MS_MECH": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MS_BIRD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MS_DRAGON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_JETSKI": {
+            "is_currency": false,
+            "value": 1
+        },          
+        "VEHICLE_SKIN_MS_JETSKI": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MS_SAM": {
+            "is_currency": false,
+            "value": 1
+        },        
+        "TARMA_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "TARMA_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "FIO_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "FIO_BODY": {
+            "is_currency": false,
+            "value": 1
+        },     
+        "MARCO_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MARCO_BODY": {
+            "is_currency": false,
+            "value": 1
+        },      
+        "ERI_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "ERI_BODY": {
+            "is_currency": false,
+            "value": 1
+        },       
+        "JETPACK_ROCKETLAUNCHER": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_LASERCANNON": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_HEAVYMG": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_FLAMESHOT": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_MS_FOREST": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_MS_HALLWAY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_MS_VILLAGE": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_MS_WAREHOUSE": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.metalslugbundlediscount",
+        "google_play_store": "com.halfbrick.jetpack.metalslugbundlediscount",
+        "brick_bucks_store": "metal_slug_bundle_discount"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

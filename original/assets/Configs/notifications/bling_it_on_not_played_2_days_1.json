@@ -1,0 +1,14 @@
+{
+	"category": "bling_it_on_not_played_2_days",
+	"priority": 1500,
+	"message": "NOTIFICATIONS_BLING_IT_ON_NOT_PLAYED_2_DAYS",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 172800
+	},
+	"condition" : "bling_it_on_not_played_check"
+}

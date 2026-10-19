@@ -1,0 +1,39 @@
+{
+    "name": "Rub your head against the roof for 1200m.",
+    "requirement": "Travel 1200m while rubbing roof while on foot",
+    "retired": false,
+    "meta_data": {
+        "groupId": "17",
+        "difficulty": 2,
+        "icon": "Oddball",
+        "description": "MISSION_RUB_2",
+        "hash": "RUB_HEAD_DISTANCE_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "100",
+        "tag2": "DIST_SECONDARY",
+        "tag3": "JETPACK"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 1200
+            },
+            {
+                "a": "rub",
+                "o": "roof",
+                "p": true,
+                "d": "end rub"
+            },
+            {
+                "a": "on",
+                "o": "foot",
+                "p": true,
+                "d": "off"
+            }
+        ]
+    }
+}

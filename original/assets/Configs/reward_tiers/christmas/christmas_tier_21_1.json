@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 1750,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_GARLAND_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackGarland.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackGarland.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_custom_garland"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1050
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_DRAGON_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleDragonChristmas.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonChristmas.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_dragon"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1050
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_DRAGON_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleDragonChristmas.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonChristmas.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_dragon"
+        ]
+        }
+}

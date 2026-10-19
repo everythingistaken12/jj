@@ -1,0 +1,10 @@
+{
+    "#default":
+    {
+        "enabled": true
+    },
+    "#HalfbrickPlus":
+    {
+        "enabled": false
+    }
+}

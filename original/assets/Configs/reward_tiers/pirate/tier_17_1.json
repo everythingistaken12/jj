@@ -1,0 +1,20 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 450
+    },
+    "#AppleArcade":
+    {
+        "cost": 450
+    },
+    "cost": 2500,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_SPACE_PIRATE_HEAD_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/headSpacePirate.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/headSpacePirate.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "space_pirate_head"
+    ]
+}

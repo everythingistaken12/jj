@@ -1,0 +1,63 @@
+{
+    "EventDisplayName": "CHASER_EVENT_RULES_TITLE",
+    "Filepath": "Events/Chaser",
+    "Iconpath": "Events/Chaser/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/Chaser/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/Chaser/Textures/Menus/eventPopUp/backing.tex",
+    "BannerTexturePath": "Events/Chaser/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_CHASER_GAMES_PLAYED",
+    "currencyType": "ChaserTokens",
+    "info_text_1": "EVENT_RULES_TEXT_1",
+    "info_text_2": "CHRISTMAS_EVENT_RULES_1",
+    "info_text_3": "",
+    "#AppleArcade":
+    {
+        "levelUnlocked": 70
+    },
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 70
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "chaser",
+        "noticeboardSchedule": "turbo_tidal_schedule",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "chaser_2024_1"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "chaser_2024_1",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "chaser_2025",
+        "analytics_event_name": "chaser",
+        "analytics_display_souls_collected": true,
+        "leaderboard": "BEST_CHRISTMAS",
+        "trigger_name": "chaser",
+        "reload_sam": true,
+        "reload_worker": true,
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+            "MISSILE_PACKAGE",
+            "SAM_PACKAGE",
+            "BUBBLES_PACKAGE"
+        ],
+        "missileExplosion": "missileExplosion.tex",
+        "_comment" : "effect_playerhurt was used but it must have different texture size - the same as missileExplosion",
+        "_missileExplosion": "effect_playerhurt.tex"
+    },
+    "Features":
+    [
+        "chaser",
+        "blink_if_immune",
+        "distance_based_leaderboard"
+    ],
+    "title_screen_settings": "chaser"
+}

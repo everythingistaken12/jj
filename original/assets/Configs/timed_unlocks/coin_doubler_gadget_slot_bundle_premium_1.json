@@ -1,0 +1,15 @@
+{
+	"notification_icon": "whenRunning",
+	"auto_start": true,
+	"push_message": "find string",
+	"button_text": "ITEM_COIN_DOUBLER_GADGET_SLOT_BUNDLE_NAME",
+	"button_icon": "textures/menus/bricknetUpsell/CoinDoublerGadgetSlot/ThirdGadgetSlot_LightBlue.tex",
+	"meta": {
+		"comment": "",
+		"shutdown_conditions": {
+			"itemOwned": "GADGET_SLOT_3",
+			"itemOwned": "PREMIUM_MACHINE"
+		}
+	},
+	"timer_length_seconds": 172800
+}

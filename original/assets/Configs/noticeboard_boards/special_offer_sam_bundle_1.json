@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Sam_Bundle",
+    "screen": "NoticeBoardSamBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "SAM_BUNDLE"
+}

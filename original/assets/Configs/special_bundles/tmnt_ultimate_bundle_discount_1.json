@@ -1,0 +1,74 @@
+{
+	"conditions": [
+		[
+			{
+        		"timerRunning": "tmnt_2024_tmnt_ultimate_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_TMNT_ULTIMATE_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_MECH == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_JETSKI == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_SAM == 0"
+			}
+		],
+		[
+			{
+        		"timerRunning": "tmnt_2024_tmnt_ultimate_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_TMNT_ULTIMATE_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_MECH == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_JETSKI == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_SAM == 0"
+			}
+		],
+		[
+			{
+        		"timerRunning": "tmnt_2024_tmnt_ultimate_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_TMNT_ULTIMATE_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_MECH == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_JETSKI == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_TMNT_SAM == 0"
+			}
+		]
+	],
+	"timer_id": "tmnt_2024_tmnt_ultimate_bundle_discount",
+	"store_id": "TMNT_ULTIMATE_BUNDLE_DISCOUNT",
+	"trigger_name": "tmnt_ultimate_bundle_discount",
+	"statistic_prefix": "SPECIAL_BUNDLE_TMNT_ULTIMATE_BUNDLE_DISCOUNT_VIEWS"
+}

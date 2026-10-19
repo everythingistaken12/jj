@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_Pirate_UltimateBundle",
+	"screen": "NoticeBoardPirateUltimateBundle",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "PIRATE_ULTIMATE_BUNDLE_2023",
+	"data_source": {
+		"title": "PIRATE_ULTIMATE_BUNDLE_TITLE"
+	}	
+}

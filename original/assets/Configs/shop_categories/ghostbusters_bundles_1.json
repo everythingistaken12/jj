@@ -1,0 +1,29 @@
+{
+    "title": "GHOSTBUSTERS_EVENT_RULES_TITLE",
+
+    "icon": "Events\\Ghostbusters\\Textures\\Menus\\Main\\IconEvent.tex",
+
+    "rowsLimit" : 16,
+
+    "_": "if 'header_template' is omitted then its value is 'header'",
+    "header_template": "header",
+
+    "_": "if 'template' is omitted then its value is 'category'",
+    "template": "category",
+
+    "filler_template_1x1": "templateEmpty_1x1",
+
+    "filler_template_2x1": "templateEmpty_2x1",
+
+    "offers": [
+        "ghostbusters_bundle",
+        "gb_afterlife_bundle",
+        "gb_crossing_the_streams_bundle",
+        "gb_headquarters_bundle",
+        "gb_jetpack_bundle",
+        "gb_key_master_bundle",
+        "gb_gate_keeper_bundle",
+        "gb_ecto_bundle",
+        "gb_sam_bundle"
+    ]
+}

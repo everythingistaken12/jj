@@ -1,0 +1,29 @@
+{
+    "reference_id": "VEHICLE_SKIN_MOTU_BATTLE_CAT",
+    "tags": [
+        "Mech",
+        "Vehicle",
+        "Vehicle Skins"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MOTU_BATTLE_CAT_NAME",
+        "description": "VEHICLE_SKIN_MOTU_BATTLE_CAT_DESC",
+        "equipable": true,
+        "icon": "vehicleMechBattleCat",
+        "isSkin": true,
+        "vehicleType": "Mech",
+        "defaultSkin": false,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

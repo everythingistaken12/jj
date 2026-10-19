@@ -1,0 +1,46 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/halloweenBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/bat.xml",
+            "offset_x": 90,
+            "offset_y": 120
+        },        
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/jackOLantern.xml",
+            "offset_x": 0,
+            "offset_y": -96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/pumpkin.xml",
+            "offset_x": -15,
+            "offset_y": -96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/pumpkin.xml",
+            "offset_x": 40,
+            "offset_y": -110
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/candleGroup.xml",
+            "offset_x": -35,
+            "offset_y": -100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/candleShort.xml",
+            "offset_x": -5,
+            "offset_y": -110
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/candleTall.xml",
+            "offset_x": 150,
+            "offset_y": -90
+        }
+    ]
+}

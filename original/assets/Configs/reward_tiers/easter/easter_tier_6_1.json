@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/chickHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headEgg.tex",
+        "display_description": "ITEM_EGG_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_egg_head"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyEgg.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyEgg.tex",
+        "display_description": "ITEM_EGG_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_egg_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyEgg.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyEgg.tex",
+        "display_description": "ITEM_EGG_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_egg_body"
+        ]
+    }
+}

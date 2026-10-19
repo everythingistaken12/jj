@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Jetpack_Bundle",
+    "screen": "NoticeBoardGBJetpackBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GB_JETPACK_BUNDLE"
+}

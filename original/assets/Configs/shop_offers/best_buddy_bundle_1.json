@@ -1,0 +1,9 @@
+{
+    "specialBundle": "starter_pack_best_buddy_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.557, 0.949, 0.984, 1.0],    
+    "itemImages": "specialBundleBestBuddyImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

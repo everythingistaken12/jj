@@ -1,0 +1,100 @@
+{
+  "reference_id": "EASTER_ULTIMATE_BUNDLE_2023",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_EASTER_ULTIMATE_BUNDLE_NAME",
+    "description": "todo",
+    "icon": "iconEasterPack",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+      "VEHICLE_SKIN_RABBIT_MECH",
+      "JETPACK_CARROT",
+      "VEHICLE_SKIN_CHICKEN",
+      "EGG_HEAD",
+      "EGG_BODY",
+      "VEHICLE_SKIN_CHICKEN",
+      "VEHICLE_SKIN_EASTER_SAM",
+      "JETPACK_EGGBASKET",
+      "OSTARA_HEAD",
+      "OSTARA_BODY",
+      "EASTER_ISLAND_HEAD",
+      "EASTER_ISLAND_BODY",
+      "VEHICLE_SKIN_EGG_TELEPORTER",
+      "JETPACK_CARROTLAUNCHER"
+    ]
+  },
+  "additional_deliverables": {
+    "VEHICLE_SKIN_RABBIT_MECH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CARROT": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_CHICKEN": {
+      "is_currency": false,
+      "value": 1
+    },
+    "EGG_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "EGG_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_EASTER_SAM": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_EGGBASKET": {
+      "is_currency": false,
+      "value": 1
+    },
+    "OSTARA_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "OSTARA_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "EASTER_ISLAND_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "EASTER_ISLAND_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_EGG_TELEPORTER": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CARROTLAUNCHER": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.easter.ultimate.pack.2023",
+    "google_play_store": "com.halfbrick.jetpack.easter.ultimate.pack.2023",
+    "brick_bucks_store": "easter_ultimate_bundle_2023"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

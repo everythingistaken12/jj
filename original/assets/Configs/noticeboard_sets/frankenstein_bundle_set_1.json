@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_frankenstein_jetpack",
+        "frankenstein_bundle_timer_running"
+      ],
+      "board": "special_offer_frankenstein_bundle"
+    }
+  ]
+}

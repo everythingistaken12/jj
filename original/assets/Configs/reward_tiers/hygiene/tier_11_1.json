@@ -1,0 +1,13 @@
+
+{
+	"cost": 2250,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/shop/itemicons/vehicleBirdSupply.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleBirdSupply.tex",
+	"display_description": "VEHICLE_SKIN_SUPPLY_BIRD_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"supply_bird"
+	],
+	"random_rewards": []
+}

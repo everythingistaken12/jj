@@ -1,0 +1,50 @@
+{
+	"#default":
+    {
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleEasterProfitbird.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleBirdChicken.tex",
+        "display_description": "VEHICLE_SKIN_CHICKEN_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "rubber_chicken"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 875,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/ItemIcons/jetpackCarrotLauncher.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/jetpackCarrotLauncher.tex",
+        "display_description": "ITEM_CARROTLAUNCHER_JETPACK_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_carrotlauncher"
+        ],
+        "random_rewards":
+        []
+    },
+    "#AppleArcade":
+    {
+        "cost": 875,
+		"display_name": "REWARD_UNLOCK",
+		"frame_texture": "textures/menus/shared/frameGold.tex",
+		"rewards_texture": "textures/menus/shop/ItemIcons/jetpackCarrotLauncher.tex",
+		"rewards_icon_texture": "textures/menus/shop/ItemIcons/jetpackCarrotLauncher.tex",
+		"display_description": "ITEM_CARROTLAUNCHER_JETPACK_NAME",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards":
+		[
+			"jetpack_carrotlauncher"
+		],
+		"random_rewards":
+		[]
+    }
+}

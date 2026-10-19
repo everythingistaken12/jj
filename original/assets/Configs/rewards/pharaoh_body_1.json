@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "HALLOWEEN_PHARAOH_BODY",
+	"fallback": "coin_pack_7000"
+}

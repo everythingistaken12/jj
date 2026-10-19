@@ -1,0 +1,10 @@
+{
+  "itemId": "<random>",
+  "type": "item",
+  "withTags": "(Head || Body) && !excludeFromRandom",
+  "fallback": "coinPack1500",
+  "icon": "textures/menus/shop/ItemIcons/question.tex",
+  "meta": {
+    "anonymous": true
+  }
+}

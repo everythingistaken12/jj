@@ -1,0 +1,30 @@
+{
+    "currency": "ChaserTokens",
+    "currency_texture": "Events/Chaser/Textures/Menus/eventPopUp/currencyToken_64.tex",
+    "#default":
+    {
+        "tiers":
+        [
+            "chaser/chaser_tier_1",
+            "chaser/chaser_tier_2",
+            "chaser/chaser_tier_3",
+            "chaser/chaser_tier_4",
+            "chaser/chaser_tier_5",
+            "chaser/chaser_tier_6",
+            "chaser/chaser_tier_7",
+            "chaser/chaser_tier_8",
+            "chaser/chaser_tier_9",
+            "chaser/chaser_tier_10",
+            "chaser/chaser_tier_11",
+            "chaser/chaser_tier_12",
+            "chaser/chaser_tier_13",
+            "chaser/chaser_tier_14",
+            "chaser/chaser_tier_15",
+            "chaser/chaser_tier_16",
+            "chaser/chaser_tier_17",
+            "chaser/chaser_tier_18",
+            "chaser/chaser_tier_19",
+            "chaser/chaser_tier_20"
+        ]
+    }
+}

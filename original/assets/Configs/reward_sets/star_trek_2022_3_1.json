@@ -1,0 +1,16 @@
+{
+  "currency": "star_trek_token",
+  "currency_texture": "textures/menus/eventPopUp/currencyToken_64.tex",
+  "tiers": [
+    "star_trek/tier_1",
+    "star_trek/tier_2",
+    "star_trek/tier_3",
+    "star_trek/tier_4",
+    "star_trek/tier_5",
+    "star_trek/tier_6",
+    "star_trek/tier_7",
+    "star_trek/tier_8",
+    "star_trek/tier_9",
+    "star_trek/tier_10"
+  ]
+}

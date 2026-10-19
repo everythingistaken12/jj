@@ -1,0 +1,148 @@
+{
+    "dailyMissionCount": 29,
+    "rewardCurrency": "ChristmasBaubles",
+    "dailyMissions": [
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_SANTA",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CUSTOM_SANTA_BAG",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_50_GAMES",
+            "timeToUnlock": 0
+        },
+        {
+            "#default":
+            {
+                "missionName": "PLAY_15_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            },
+            "#HalfbrickPlus":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            },
+            "#AppleArcade":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 86400
+            }
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_COINS",
+            "timeToUnlock": 172800
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_ELF",
+            "timeToUnlock": 259200
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_JETPACK_SNOWGLOBE",
+            "timeToUnlock": 345600
+        },
+        {
+            "missionName": "COLLECT_12500_COINS",
+            "timeToUnlock": 432000
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_LADY_SANTA",
+            "timeToUnlock": 518400
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_GINGER_BREAD_SLEIGH",
+            "timeToUnlock": 604800
+        },
+        {
+            "missionName": "COLLECT_100_SPIN_TOKENS",
+            "timeToUnlock": 691200
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_YETI_MECH",
+            "timeToUnlock": 777600
+        },
+        {
+            "missionName": "RUN_100000_TOTAL_DISTANCE",
+            "timeToUnlock": 864000
+        },
+        {
+            "missionName": "USE_50_REVIVE",
+            "timeToUnlock": 950400
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_FROSTY",
+            "timeToUnlock": 1036800
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CUSTOM_GARLAND",
+            "timeToUnlock": 1123200
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_2500_DISTANCE",
+            "timeToUnlock": 1209600
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_ICE_SKATE",
+            "timeToUnlock": 1296000
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_NUT_CRACKER",
+            "timeToUnlock": 1382400
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_JETPACK_CUSTOM_FIREPLACE",
+            "timeToUnlock": 1468800
+        },
+        {
+            "missionName": "PICKUP_15_VEHICLE_TOKENS",
+            "timeToUnlock": 1555200
+        },
+        {
+            "missionName": "RUN_3000_TOTAL_DISTANCE_VEHICLE",
+            "timeToUnlock": 1641600
+        },
+        {
+            "#default":
+            {
+                "missionName": "PLAY_5_GAMES_WITH_SAM_WITH_MORE_THAN_750_DISTANCE",
+                "timeToUnlock": 1728000
+            },
+            "#HalfbrickPlus":
+            {
+                "missionName": "PLAY_5_GAMES_WITH_UGLY_SWEATER",
+                "timeToUnlock": 1728000
+            },
+            "#AppleArcade":
+            {
+                "missionName": "PLAY_5_GAMES_WITH_UGLY_SWEATER",
+                "timeToUnlock": 1728000
+            }
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_TOY_TRAIN_DRAGON",
+            "timeToUnlock": 1814400
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_JETPACK_CHRISTMASBELL",
+            "timeToUnlock": 1900800
+        },
+        {
+            "missionName": "COLLECT_500_EVENT_TOKENS",
+            "timeToUnlock": 1987200
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_CHRISTMAS_SANTA_HOG",
+            "timeToUnlock": 2073600
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_REINDEER_COSTUME",
+            "timeToUnlock": 2160000
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_JETPACK_CUSTOM_CHRISTMAS_TREE",
+            "timeToUnlock": 2246400
+        }
+    ]
+}

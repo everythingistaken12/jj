@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 55,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "5000_COINS",
+        "rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "coin_pack_5000"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_POSEIDON_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headPoseidon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headPoseidon.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "poseidon_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_POSEIDON_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headPoseidon.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headPoseidon.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "poseidon_head"
+        ]
+    }
+}

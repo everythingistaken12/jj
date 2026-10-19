@@ -1,0 +1,10 @@
+{
+    "specialBundle": "fruit_king_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.141, 0.7, 0.263, 1.0],
+    "foregroundIcon": "textures/Characters/Vehicles/Components/Mech/TrufflesMech/icon.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

@@ -1,0 +1,28 @@
+{
+  "reference_id": "BETTY_BEEFPIES_HEAD",
+  "tags": [
+    "excludeFromRandom",
+    "hidden",
+    "Head"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_BETTY_BEEFPIES_HEAD_NAME",
+    "description": "ITEM_BETTY_BEEFPIES_HEAD_DESC",
+    "equipable": true,
+    "icon": "headBettyBeefpies",
+    "hidden": true
+  },
+  "payment_methods": {
+    "jetpack_store": "BETTY_BEEFPIES_HEAD"
+  },
+  "skus": [
+    "ios",
+    "windows",
+    "google_play",
+    "halfbrick_plus",
+    "apple_arcade"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_18",
+    "description": "ACHIEVEMENT_DESC_18",
+    "progress_description": "ACHIEVEMENT_PROG_9",
+    "type": "FINAL_SPIN",
+    "sub_type_1": "EXPLOSION3",
+    "texture": "fallout",
+    "points": 20,
+    "max_progress": 3,
+    "provider_ids": {
+        "amazon": "1082782",
+        "game_center": 
+        {
+            "default": "1082782",
+            "AppleArcade": "fallout_aa",
+            "HalfbrickPlus": "fallout_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQEQ"
+        }
+    }
+}

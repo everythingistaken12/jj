@@ -1,0 +1,12 @@
+{
+	"cost": 1150,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/shop/ItemIcons/JetpackEasterHologram.tex",
+	"rewards_icon_texture": "textures/menus/shop/ItemIcons/JetpackEasterHologram.tex",
+	"display_description": "ITEM_JETPACK_CUSTOM_EASTER_HOLOGRAM_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"jetpack_easter_hologram"
+	],
+	"random_rewards": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Rub your head against the roof for 500m",
+    "requirement": "Travel 500m while rubbing roof while on foot",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "oddball",
+        "hash": "RUB_HEAD_DISTANCE_TOTAL",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 500
+            },
+            {
+                "a": "rub",
+                "o": "roof",
+                "p": true,
+                "d": "end rub"
+            },
+            {
+                "a": "on",
+                "o": "foot",
+                "p": true,
+                "d": "off"
+            }
+        ]
+    }
+}

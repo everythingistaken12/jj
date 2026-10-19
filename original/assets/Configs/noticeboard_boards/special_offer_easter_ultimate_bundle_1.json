@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_Easter_UltimateBundle",
+	"screen": "NoticeBoardEasterUltimateBundle",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "EASTER_ULTIMATE_BUNDLE_2023",
+	"data_source": {
+		"title": "EASTER_UNLOCK_ALL_NAME"
+	}	
+}

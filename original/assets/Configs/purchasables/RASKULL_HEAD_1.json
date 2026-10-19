@@ -1,0 +1,33 @@
+{
+    "reference_id": "RASKULL_HEAD",
+    "tags": [
+        "Head",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_RASKULL_HEAD_NAME",
+        "description": "ITEM_RASKULL_HEAD_DESC",
+        "equipable": true,
+        "icon": "headRaskull"
+    },
+    "payment_methods": {
+        "jetpack_store": "RASKULL_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 26
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 26
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

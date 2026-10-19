@@ -1,0 +1,89 @@
+{
+    "electric_bubble_duration": 2.5,
+    "electric_bubble_thrust_multiplier": 0.45,
+
+    "frost_bubble_break_type": "taps",
+    "frost_bubble_duration": 2.75,
+    "frost_bubble_slow": 0.85,
+    "frost_bubble_tap_pitch_scale": 2.0,
+    "frost_bubble_taps_to_break": 3.0,
+    
+    "simple_bubble_force_fade": 1.0,
+    "simple_bubble_force_value": 350.0,
+    
+    "slime_bubble_ceiling_particles": "Bubble_Slime_Ceiling",
+    "slime_bubble_duration": 5.5,
+    "slime_bubble_floor_ceiling_slow": 0.8,
+    "slime_bubble_floor_particles": "Bubble_Slime_Ground",
+    "slime_bubble_gravity_multiplier": 1.78,
+    
+    "simple_bubble_pop": "Bubble_Simple_Pop",
+    "electric_bubble_pop": "Bubble_Electric_Pop",
+    "frost_bubble_pop": "Bubble_Frost_Pop",
+    "slime_bubble_pop": "",
+    
+    "slime_bubble_effect": "Bubble_Slime_Debuff",
+    "frost_bubble_effect": "Snowglobe_Trail",
+    "electric_bubble_effect": "Bubble_Electric_Effect",
+    
+    "slime_bubble_sfx_lp": "",
+    "slime_effect_sfx_start": "chaser_obstacle_slime_activate",
+    "slime_effect_sfx_lp": "chaser_obstacle_slime_lp",
+    "slime_effect_sfx_end": "chaser_obstacle_slime_end",
+    
+    "electric_bubble_sfx_lp": "",
+    "electric_effect_sfx_start": "chaser_obstacle_electricity_activate",
+    "electric_effect_sfx_lp": "chaser_obstacle_electricity_lp",
+    "electric_effect_sfx_end": "chaser_obstacle_electricity_end",
+    
+    "frost_bubble_sfx_lp": "",
+    "frost_effect_sfx_start": "chaser_obstacle_ice_activate",
+    "frost_effect_sfx_lp": "chaser_obstacle_ice_lp",
+    "frost_effect_sfx_end": "chaser_obstacle_ice_end",
+    
+    "simple_bubble_sfx_lp": "",
+    "simple_bubble_sfx_pop": "chaser_obstacle_bounce_activate",
+    
+    "banana_slow_duration": 7,
+    "banana_slow_music_factor": 0.5,
+    "banana_slow_music_time": 2.0,
+    "banana_slow_pitch": -0.5,
+    "banana_slow_pitch_time": 0.5,
+    "banana_slow_coin_animation_factor" : 0.25,
+    "banana_slow_coin_velocity_factor" : 0.25,
+    "banana_slow_zapper_velocity_factor" : 0.25,
+    "banana_slow_zapper_animation_factor" : 0.25,
+    "banana_slow_bubble_sfx_lp": "",
+    "banana_slow_effect_sfx_start": "chaser_freeze_banana_pop",
+    "banana_slow_effect_sfx_lp": "",
+    "banana_slow_effect_sfx_end": "",
+    "banana_slow_pop": "freeze_banana_pop",
+    "banana_slow_effect": "",
+
+    "banana_frenzy_duration": 7,
+    "banana_frenzy_bubble_sfx_lp": "",
+    "banana_frenzy_effect_sfx_start": "chaser_frenzy_banana_pop",
+    "banana_frenzy_effect_sfx_lp": "",
+    "banana_frenzy_effect_sfx_end": "",
+    "banana_frenzy_pop": "frenzy_banana_pop",
+    "banana_frenzy_effect": "",
+    "banana_frenzy_effect": "",
+
+    "banana_frenzy_coins_per_second" : 20,
+    "banana_frenzy_velocity_min" : [-10.0, 0.0],
+    "banana_frenzy_velocity_max" : [0.0, 10.0],
+    "banana_frenzy_vertical_range" : [-130.0, 130.0],
+    "banana_frenzy_hud_particles": "frenzy_banana_effect",
+    "banana_frenzy_fruit_pickup_sounds": ["", ""],
+
+    "banana_double_duration" : 10,
+    "banana_double_bubble_sfx_lp" : "",
+    "banana_double_effect_sfx_start" : "chaser_double_banana_pop",
+    "banana_double_effect_sfx_lp" : "",
+    "banana_double_effect_sfx_end" : "",
+    "banana_double_pop" : "double_banana_pop",
+    "banana_double_effect" : "",
+
+    "bubble_level_speed": 0.225,
+    "bubble_size": 32.0
+}

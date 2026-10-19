@@ -1,0 +1,13 @@
+{
+    "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/ItemIcons/vehicleMechRock.tex",
+        "rewards_icon_texture": "textures/menus/shop/ItemIcons/vehicleMechRock.tex",
+        "display_description": "VEHICLE_SKIN_ROCK_MECH_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "rock_mech"
+        ]
+}

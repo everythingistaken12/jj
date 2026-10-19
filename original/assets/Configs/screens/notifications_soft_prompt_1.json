@@ -1,0 +1,6 @@
+{
+	"quiet_time_after_prompt": 259200,
+	"limit_per_lifetime": 3,
+	"placements": [
+	]
+}

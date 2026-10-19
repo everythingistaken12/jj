@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_LEAD_BOOTS_1",
+    "tags": [
+        "Gadget",
+        "tier2"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_LEAD_BOOTS_NAME",
+        "description": "PERK_LEAD_BOOTS_DESC",
+        "icon": "gravityBelt",
+        "equipable": true,
+        "unequipable": true
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_LEAD_BOOTS_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 13
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 13
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

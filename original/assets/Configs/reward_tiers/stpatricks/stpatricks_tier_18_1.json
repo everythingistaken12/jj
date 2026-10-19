@@ -1,0 +1,12 @@
+{
+    "cost": 975,
+    "display_name": "REWARD_UNLOCK",
+    "rewards_texture": "textures/menus/shop/itemicons/headLeprechaunFemale.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/headLeprechaunFemale.tex",
+    "display_description": "ITEM_LEPRECHAUN_FEMALE_HEAD_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "leprechaun_female_head"
+    ]
+}

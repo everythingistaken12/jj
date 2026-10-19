@@ -1,0 +1,27 @@
+{
+    "name": "Hi five 100 scientists",
+    "requirement": "Hi five 100 scientists",
+    "retired": false,
+    "meta_data": {
+        "groupId": "21",
+        "difficulty": 3,
+        "icon": "worker",
+        "description": "MISSION_SCIENTIST_3",
+        "hash": "SCIENTISTS_HIGH_FIVE_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "Tag4": "SCIENTIST",
+        "probability": "100",
+        "tag3": "HI_FIVE"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "hi five",
+                "o": "scientist",
+                "s": "t",
+                "c": 100
+            }
+        ]
+    }
+}

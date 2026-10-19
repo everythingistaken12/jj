@@ -1,0 +1,89 @@
+{
+  "reference_id": "GB_CROSSING_THE_STREAMS_BUNDLE",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_GB_CROSSING_THE_STREAMS_BUNDLE_NAME",
+    "description": "todo",
+    "icon": "headGBGhostbuster",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": "VEHICLE_SKIN_ECTO"
+  },
+  "additional_deliverables": {
+    "GB_GHOSTBUSTER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "GB_GHOSTBUSTER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ECTO": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_PROTON": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_HALLWAY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_LIBRARY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_WAREHOUSE": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_SUBWAY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_HALLWAY_LIBRARY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_HALLWAY_SUBWAY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_HALLWAY_HOTEL": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_MYSTIC_BUILDING": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_GB_HOTEL": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "coins": {
+      "is_currency": true,
+      "value": 20000
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.gbcrossingthestreams.bundle",
+    "google_play_store": "com.halfbrick.jetpack.gbcrossingthestreams.bundle",
+    "brick_bucks_store": "gb_crossing_the_streams_bundle"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

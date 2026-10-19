@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Easter_Bundle_Discount",
+    "screen": "NoticeBoardEasterBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "EASTER_BUNDLE"
+}

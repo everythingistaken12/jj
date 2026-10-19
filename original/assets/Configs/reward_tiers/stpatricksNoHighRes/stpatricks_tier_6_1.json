@@ -1,0 +1,12 @@
+{
+    "cost": 225,
+    "display_name": "REWARD_UNLOCK",
+    "rewards_texture": "textures/menus/shop/itemicons/headIrishPunk.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/headIrishPunk.tex",
+    "display_description": "ITEM_IRISH_PUNK_HEAD_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "irish_punk_head"
+    ]
+}

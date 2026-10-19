@@ -1,0 +1,47 @@
+{
+	"#default":
+	{
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/headWhiteRabbit.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headWhiteRabbit.tex",
+        "display_description": "ITEM_WHITE_RABBIT_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_white_rabbit_head"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+	{
+		"cost": 1025,
+		"display_name": "REWARD_UNLOCK",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleBirdChicken.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleBirdChicken.tex",
+		"display_description": "VEHICLE_SKIN_CHICKEN_NAME",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards":
+		[
+			"rubber_chicken"
+		],
+		"random_rewards":
+		[]
+	},
+    "#AppleArcade":
+    {
+		"cost": 1025,
+		"display_name": "REWARD_UNLOCK",
+		"rewards_texture": "textures/menus/shop/itemicons/vehicleBirdChicken.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleBirdChicken.tex",
+		"display_description": "VEHICLE_SKIN_CHICKEN_NAME",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards":
+		[
+			"rubber_chicken"
+		],
+		"random_rewards":
+		[]
+	}
+}

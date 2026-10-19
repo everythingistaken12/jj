@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_Zappy_Bird_Mega_Bundle",
+	"screen": "NoticeboardZappyBirdMegaBundle_anim",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "ZAPPY_BIRD_MEGA_BUNDLE",
+	"data_source": {
+		"title": "ZAPPY_BIRD_MEGA_BUNDLE_TITLE"
+	}	
+}

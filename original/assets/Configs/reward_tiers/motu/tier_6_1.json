@@ -1,0 +1,27 @@
+{
+    "#default":
+    {
+        "cost": 200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "3000_COINS",
+        "rewards_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "coin_pack_3000"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_MOTU_EVIL_LYN_STAFF_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackHemanEvilLynStaff.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackHemanEvilLynStaff.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_custom_evil_lyn_staff"
+        ]
+    }
+}

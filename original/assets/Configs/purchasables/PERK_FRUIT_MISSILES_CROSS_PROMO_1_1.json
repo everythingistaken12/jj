@@ -1,0 +1,38 @@
+{
+    "reference_id": "PERK_FRUIT_MISSILES_CROSS_PROMO_1",
+    "tags": [
+        "Gadget",
+        "tier1"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_FRUIT_MISSILES_NAME",
+        "description": "PERK_FRUIT_MISSILES_CROSS_PROMO_DESC",
+        "icon": "fruitMissile",
+        "equipable": true,
+        "unequipable": true,
+        "crosspromo": "https://apps.apple.com/us/app/fruit-ninja-classic/id1552127102",
+        "awardsCrosspromoImmediately": true,
+        "#HalfbrickPlus": {
+            "hidden" : true
+        },
+        "isNew": true,
+        "hideWhen": "PERK_FRUIT_MISSILES_1"
+    },
+      "additional_deliverables": {
+        "PERK_FRUIT_MISSILES_1": {
+          "is_currency": false,
+          "value": 1
+        }
+      },
+    "payment_methods": {
+        "jetpack_store": "PERK_FRUIT_MISSILES_CROSS_PROMO_1"
+    },
+    "skus": [
+        "halfbrick_plus",
+        "apple_arcade",
+        "windows"
+    ]
+}

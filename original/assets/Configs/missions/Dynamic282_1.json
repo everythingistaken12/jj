@@ -1,0 +1,37 @@
+{
+    "name": "Travel 600m total in Dragon",
+    "requirement": "Travel 600m in Dragon",
+    "retired": false,
+    "meta_data": {
+        "groupId": "51",
+        "difficulty": 1,
+        "icon": "vehicleTravel",
+        "description": "MISSION_VEHICLE_10",
+        "hash": "VEHICLE_FLY_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "100",
+        "tag1": "VEHICLE",
+        "tag2": "DIST_VEHICLE",
+        "metaData": {
+            "vehicleType": "Dragon"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 600
+            },
+            {
+                "i": 1,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true,
+                "d": "destroy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+	"#default":
+    {
+        "cost": 1000,
+	    "display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_PARTY_JETPACK_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackPT.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackPT.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_party"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_JETPACK_NOT_CHAMPAGNE_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackNotChampagne.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackNotChampagne.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_not_champagne"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_JETPACK_NOT_CHAMPAGNE_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackNotChampagne.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackNotChampagne.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_not_champagne"
+		]
+    }
+	
+}

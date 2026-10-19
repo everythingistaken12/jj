@@ -1,0 +1,151 @@
+{
+  "reference_id": "TMNT_ULTIMATE_BUNDLE",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TMNT_BUNDLE_UNLOCK_ALL_NAME",
+    "description": "todo",
+    "icon": "iconTMNTUltimatePack",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+      "TMNT_SPLINTER_HEAD",
+      "TMNT_SPLINTER_BODY",
+      "TMNT_SHREDDER_HEAD",
+      "TMNT_SHREDDER_BODY",
+      "TMNT_LEONARDO_HEAD",
+      "TMNT_LEONARDO_BODY",
+      "TMNT_MICHELANGELO_HEAD",
+      "TMNT_MICHELANGELO_BODY",
+      "TMNT_DONATELLO_HEAD",
+      "TMNT_DONATELLO_BODY",
+      "TMNT_RAPHAEL_HEAD",
+      "TMNT_RAPHAEL_BODY",
+      "TMNT_APRIL_HEAD",
+      "TMNT_APRIL_BODY",
+      "JETPACK_MUTAGEN",
+      "JETPACK_PIZZA",
+      "VEHICLE_SKIN_TMNT_MECH",
+      "VEHICLE_SKIN_TMNT_JETSKI",
+      "VEHICLE_SKIN_TMNT_SAM",
+      "BACKGROUND_TMNT_SEWERS",
+      "BACKGROUND_TMNT_LAIR"
+    ]
+  },
+  "additional_deliverables": {
+    "TMNT_SPLINTER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_SPLINTER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_SHREDDER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_SHREDDER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_LEONARDO_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_LEONARDO_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_MICHELANGELO_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_MICHELANGELO_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_DONATELLO_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_DONATELLO_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_RAPHAEL_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_RAPHAEL_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_APRIL_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_APRIL_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_MUTAGEN": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_PIZZA": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_TMNT_MECH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_JETSKI": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_TMNT_JETSKI": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_TMNT_SAM": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_TMNT_SEWERS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_TMNT_LAIR": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_TMNT_NYC_STREETS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "coins": {
+      "is_currency": true,
+      "value": 20000
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.tmntultimate.bundle",
+    "google_play_store": "com.halfbrick.jetpack.tmntultimate.bundle",
+    "brick_bucks_store": "tmnt_ultimate_bundle"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

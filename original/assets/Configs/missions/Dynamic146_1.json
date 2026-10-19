@@ -1,0 +1,27 @@
+{
+    "name": "Collect 3 final spin tokens total",
+    "requirement": "Collect 3 final spin tokens total",
+    "retired": false,
+    "meta_data": {
+        "groupId": "29",
+        "difficulty": 1,
+        "icon": "token",
+        "description": "MISSION_TOKEN_1",
+        "hash": "TOKENS_COLLECT_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "150",
+        "tag1": "TOKENS",
+        "tag2": "COLLECT"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "final spin token",
+                "s": "t",
+                "c": 3
+            }
+        ]
+    }
+}

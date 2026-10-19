@@ -1,0 +1,33 @@
+{
+    "reference_id": "LAB_COAT",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_LABCOAT_NAME",
+        "description": "ITEM_LABCOAT_DESC",
+        "equipable": true,
+        "icon": "bodyScientist",
+        "startWeek": 43
+    },
+    "payment_methods": {
+        "jetpack_store": "LAB_COAT"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 12
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 12
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

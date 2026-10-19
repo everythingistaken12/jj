@@ -1,0 +1,31 @@
+{
+    "reference_id": "CHEERLEADER_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "Head",
+        "samReward"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CHEERLEADER_HEAD_NAME",
+        "description": "ITEM_CHEERLEADER_HEAD_DESC",
+        "equipable": true,
+        "icon": "headCheerleader",
+        "rewardOnly": {
+            "value": true
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "CHEERLEADER_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

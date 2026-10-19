@@ -1,0 +1,19 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_lny_hog",
+				"chinese_new_year_tiger_bundle_timer_running"
+			],
+			"board": "special_offer_chinese_new_year_tiger_bundle"
+		},
+		{
+			"mediation": [
+				"not_purchased_lny_hog",
+				"chinese_new_year_tiger_bundle_discount_timer_running"
+			],
+			"board": "special_offer_chinese_new_year_tiger_bundle_sale"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "specialBundle": "pirate_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.996, 0.816, 0.647, 1.0],
+    "itemImages": "specialBundlePirateImagesA",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

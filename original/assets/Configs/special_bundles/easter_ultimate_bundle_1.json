@@ -1,0 +1,74 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "easter_2026_easter_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_EASTER_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_RABBIT_MECH == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHICKEN == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_easter_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_EASTER_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_RABBIT_MECH == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHICKEN == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_easter_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_EASTER_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_RABBIT_MECH == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_CHICKEN == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EASTER_SAM == 0"
+			}
+		]
+	],
+	"store_id": "EASTER_ULTIMATE_BUNDLE_2026",
+	"timer_id": "easter_2026_easter_ultimate_bundle",
+	"trigger_name": "easter_ultimate_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_EASTER_ULTIMATE_VIEWS"
+}

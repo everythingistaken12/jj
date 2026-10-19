@@ -1,0 +1,33 @@
+{
+    "reference_id": "HARDASS_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_HARDASS_HEAD_NAME",
+        "description": "ITEM_HARDASS_HEAD_DESC",
+        "equipable": true,
+        "icon": "headHardass",
+        "song": "Music_Rock"
+    },
+    "payment_methods": {
+        "jetpack_store": "HARDASS_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 9
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 9
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

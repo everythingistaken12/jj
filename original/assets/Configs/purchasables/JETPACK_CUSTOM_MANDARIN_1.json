@@ -1,0 +1,26 @@
+{
+  "reference_id": "JETPACK_CUSTOM_MANDARIN",
+  "tags": [
+    "Jetpack"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_JETPACK_CUSTOM_MANDARIN_NAME",
+    "description": "ITEM_JETPACK_CUSTOM_MANDARIN_DESC",
+    "equipable": true,
+    "icon": "jetpackMandarin",
+    "isNew": true,
+    "hidden": true
+  },
+  "payment_methods": {},
+  "skus": [
+    "apple_tv",
+    "apple_arcade",
+    "google_play",
+    "halfbrick_plus",
+    "ios",
+    "windows"
+  ]
+}

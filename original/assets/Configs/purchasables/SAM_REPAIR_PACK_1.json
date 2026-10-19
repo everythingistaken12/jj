@@ -1,0 +1,34 @@
+{
+    "reference_id": "SAM_REPAIR_PACK",
+    "tags": [
+        "consumable",
+        "Bundle",
+        "Utilities",
+        "SamRepair"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_HEADSTART5PACK_NAME",
+        "description": "ITEM_HEADSTART5PACK_DESC",
+        "icon": "skipx3"
+    },
+    "additional_deliverables": {
+        "SAM_REPAIR_KIT": {
+            "is_currency": false,
+            "value": "5"
+        }
+    },
+    "payment_methods": {
+        "brick_bucks_store": "sam_repair_pack"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

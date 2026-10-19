@@ -1,0 +1,84 @@
+{
+    "gameplay_steps": true,
+    "stash_steps": false,
+    "game_mode": "tutorial",
+    "skip_newuser_question": true,
+    "new_onboarding": {
+        "enabled": true,
+        "steps": {
+            "ONBOARDING_STREAK_RUN_1": {
+                "coins_bottom_offset": 1000.0,
+                "coins_top_offset": 2400.0,
+                "coins_cliff_offset": 3800.0,
+                "coins_mid_offset": 5200.0,
+                "distance_to_end": 380.0
+            },
+
+            "ONBOARDING_STREAK_RUN_1_ZAPPER": {
+                "zapper_offset": 200.0,
+                "zapper_vertical_position": -120.0,
+                "distance_to_start": 10.0,
+                "distance_to_end": 60.0
+            },
+
+            "ONBOARDING_STREAK_RUN_1_HARD_ZAPPER": {
+                "zapper_offset": 250.0,
+                "zapper_vertical_position_0": -120.0,
+                "zapper_vertical_position_1": -90.0,
+                "zapper_vertical_position_2": 90.0,
+                "zapper_vertical_position_3": 120.0,
+                "distance_to_start": 10.0,
+                "distance_to_end": 80.0
+            },
+
+            "ONBOARDING_STREAK_RUN_1_MISSILES": {
+                "coins_offset" : 550.0,
+                "distance_to_start" : 10.0,
+                "distance_to_end" : 80.0
+            },
+
+            "ONBOARDING_STREAK_RUN_1_LASERS": {
+                "laser_offset": 0.0,
+                "coins_offset": 500.0,
+                "distance_to_start": 10.0,
+                "distance_to_end": 80.0 
+            },
+
+            "ONBOARDING_STREAK_RUN_1_SAM": {
+                "coins_offset": 500.0,
+                "token_offset": 300.0,
+                "distance_to_start": 10.0,
+                "distance_to_end": 80.0,
+                "coins_pattern": 8
+            },
+
+            "ONBOARDING_STREAK_RUN_2_VEHICLE": {
+                "vehicle_offset": 800.0,
+                "next_spawn_offset": 1800.0,
+                "attempts_limit": 4,
+                "distance_per_attempt": 80.0
+            },
+
+            "ONBOARDING_STREAK_RUN_2_SAM": {
+                "coins_offset": 500.0,
+                "token_offset": 300.0,
+                "distance_to_start": 10.0,
+                "distance_to_end": 80.0,
+                "coins_pattern": 8
+            },
+
+            "ONBOARDING_STREAK_RUN_2_TRAVEL1000": {
+                "cash_dash_chance": 0.05,
+                "cash_dash_interval": 10,
+                "cash_dash_limit": 1
+            },
+            "ONBOARDING_STREAK_RUN_3_SAM": {
+                "coins_offset": 500.0,
+                "token_offset": 300.0,
+                "distance_to_start": 50.0,
+                "distance_to_end": 120.0,
+                "coins_pattern": -1
+            }
+        }
+    }
+}

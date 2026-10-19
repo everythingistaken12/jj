@@ -1,0 +1,29 @@
+{
+    "name": "Close call with a missile.",
+    "requirement": "Fly near 1 missile",
+    "retired": false,
+    "meta_data": {
+        "groupId": "6",
+        "difficulty": 2,
+        "icon": "missile",
+        "description": "MISSION_CLOSE_CALL_MISSILE_SINGLE",
+        "hash": "CLOSE_CALL",
+        "skillGrind": "SKILL",
+        "Tag4": "CLOSE_CALL",
+        "probability": "112",
+        "tag1": "MISSILES",
+        "metaData": {
+            "closeCallType": "MISSILES"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "fly near",
+                "o": "missile",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

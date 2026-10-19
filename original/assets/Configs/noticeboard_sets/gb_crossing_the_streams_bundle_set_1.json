@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_gb_ecto"
+      ],
+      "board": "special_offer_gb_crossing_the_streams_bundle"
+    }
+  ]
+}

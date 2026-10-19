@@ -1,0 +1,10 @@
+{
+    "storeId": "STAR_TREK_BUNDLE",
+    "timerId": "star_trek_2022_3_star_trek_bundle",
+    "template": "template_4x2",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [0.039, 0.588, 0.961, 1.0],
+    "itemImages": "specialBundleStarTrekImages",
+    "infoText": "SHOP_BUTTON_BUY_NOW"
+}

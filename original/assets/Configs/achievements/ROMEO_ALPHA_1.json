@@ -1,0 +1,22 @@
+{
+    "name": "ACHIEVEMENT_21",
+    "description": "ACHIEVEMENT_DESC_21",
+    "type": "DISTANCE",
+    "texture": "romeoAlphaDelta",
+    "points": 30,
+    "max_progress": 5000,
+    "provider_ids": {
+        "amazon": "1082812",
+        "game_center": 
+        {
+            "default": "1082812",
+            "AppleArcade": "romeo_alpha_delta_aa",
+            "HalfbrickPlus": "romeo_alpha_delta_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQFA"
+        }
+    }
+}

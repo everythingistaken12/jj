@@ -1,0 +1,7 @@
+{
+	"type": "item",
+	"item_id": "CONSUMABLE_SUPER_HEADSTART",
+	"display_name": "ITEM_SUPERHEADSTART8PACK_NAME",
+	"quantity": 8,
+	"icon": "textures/menus/shop/ItemIcons/superskipx3.tex"
+}

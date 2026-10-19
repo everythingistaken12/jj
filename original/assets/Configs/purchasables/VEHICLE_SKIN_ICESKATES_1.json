@@ -1,0 +1,48 @@
+{
+    "reference_id": "VEHICLE_SKIN_ICESKATES",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Ice Skates"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ICESKATES_NAME",
+        "description": "VEHICLE_SKIN_ICESKATES_DESC",
+        "equipable": true,
+        "icon": "vehicleIceSkates",
+        "isSkin": true,
+        "vehicleType": "IceSkates",
+        "#AppleArcade": {
+            "hideUntil": "",
+            "displayLocked": ""
+        },
+        "#HalfbrickPlus": {
+            "hideUntil": "",
+            "displayLocked": ""
+        },
+        "#default": {
+            "hideUntil": "VEHICLE_SKIN_ICESKATES",
+            "displayLocked": "VEHICLE_SKIN_ICESKATES"
+        },
+        "defaultSkin": true,
+        "isNew": true
+    },
+    "payment_methods": {
+        "#AppleArcade": {
+            "jetpack_store": "VEHICLE_SKIN_ICESKATES"
+        },
+        "#HalfbrickPlus": {
+            "jetpack_store": "VEHICLE_SKIN_ICESKATES"
+        }
+    },
+    "skus": [
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

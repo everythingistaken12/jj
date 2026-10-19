@@ -1,0 +1,20 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 900
+    },
+    "#AppleArcade":
+    {
+        "cost": 900
+    },
+    "cost": 1000,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_MAROONED_BODY_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/bodyMarooned.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/bodyMarooned.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "pirate_marooned_body"
+    ]
+}

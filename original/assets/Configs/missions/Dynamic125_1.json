@@ -1,0 +1,37 @@
+{
+    "name": "Knock over 20 scientists with little stomper!",
+    "requirement": "Knock over 20 scientists with Mech",
+    "retired": false,
+    "meta_data": {
+        "groupId": "22",
+        "difficulty": 3,
+        "icon": "worker",
+        "description": "MISSION_SCIENTIST_1",
+        "hash": "SCIENTISTS_KNOCK_OVER",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "Tag4": "SCIENTIST",
+        "probability": "150",
+        "tag1": "VEHICLE",
+        "metaData": {
+            "vehicleType": "Mech"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "knock over",
+                "o": "scientist",
+                "s": "t",
+                "c": 20
+            },
+            {
+                "i": 3,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true,
+                "d": "destroy"
+            }
+        ]
+    }
+}

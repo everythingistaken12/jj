@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 950,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DEMON_JETPACK_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleDemonJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackDemon.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_demon_wings"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_BONEDRAGON_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/boneDragonVehicle.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonBone.tex",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "bone_dragon"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_BONEDRAGON_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/boneDragonVehicle.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonBone.tex",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "bone_dragon"
+        ]
+    }
+}

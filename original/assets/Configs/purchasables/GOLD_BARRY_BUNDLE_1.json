@@ -1,0 +1,68 @@
+{
+    "reference_id": "GOLD_BARRY_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "GOLD_BARRY_BUNDLE_TITLE",
+        "description": "ITEM_GOLD_BARRY_BUNDLE_DESC",
+        "icon": "vehicleSamGold",
+        "hideWhen": "JETPACK_GOLD_LASER",
+        "auto_equip": true,
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables": {
+        "JETPACK_CUSTOM_GOLD_LASER": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GOLD_BARRY_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GOLD_BARRY_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GOLD_ROBOT_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GOLD_ROBOT_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GOLD_SCIENTIST_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GOLD_SCIENTIST_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+    	"DISABLE_ADS": {
+	    "is_currency": false,
+	    "value": 1
+	},
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.goldbarrybundle",
+        "google_play_store": "com.halfbrick.jetpack.goldbarrybundle",
+        "brick_bucks_store": "gold_barry_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

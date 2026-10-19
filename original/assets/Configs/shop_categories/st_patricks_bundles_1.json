@@ -1,0 +1,20 @@
+{
+    "title": "CHRISTMAS_EVENT_RULES_TITLE",
+    "icon": "textures\\menus\\shop\\iconStPatricks.tex",
+    "rowsLimit": 99,
+    "_": "if 'template' is omitted then its value is 'category'",
+    "header_template": "header",
+    "template": "category",
+    "filler_template_1x1": "templateEmpty_1x1",
+    "filler_template_2x1": "templateEmpty_2x1",
+    "offers":
+    [
+    "cross_promo_st_patricks",
+    "st_patricks_bard_bundle",
+    "shamrock_bundle",
+    "celtic_bundle_wide",
+    "irish_myth_bundle_wide",
+    "st_patricks_day_bundle_wide",
+    "nature_bundle_wide"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+	"cost": 600,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_FIO_BODY_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/fioBodyCostume.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyFio.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"fio_body"
+	]
+}

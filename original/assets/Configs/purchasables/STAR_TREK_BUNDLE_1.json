@@ -1,0 +1,173 @@
+{
+  "reference_id": "STAR_TREK_BUNDLE",
+  "tags": [
+    "prepurchase",
+    "premium",
+    "Upgrades",
+    "bundle"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_STAR_TREK_BUNDLE_NAME",
+    "description": "ITEM_STAR_TREK_BUNDLE_DESC",
+    "icon": "iconStarTrekPack",
+    "hideWhen": [
+      "VEHICLE_SKIN_ST_SAM",
+      "VEHICLE_SKIN_ST_MECH",
+      "VEHICLE_SKIN_ST_BIRD",
+      "VEHICLE_SKIN_ST_TELEPORTER",
+      "VEHICLE_SKIN_ST_DRAGON",
+      "DATA_HEAD",
+      "DATA_BODY",
+      "PICARD_HEAD",
+      "PICARD_BODY",
+      "JANEWAY_HEAD",
+      "JANEWAY_BODY",
+      "BURNHAM_HEAD",
+      "BURNHAM_BODY",
+      "LOCUTUS_HEAD",
+      "LOCUTUS_BODY",
+      "WORF_HEAD",
+      "WORF_BODY",
+      "SPOCK_HEAD",
+      "SPOCK_BODY",
+      "KIRK_HEAD",
+      "KIRK_BODY",
+      "JETPACK_PHASER",
+      "JETPACK_BORGCUBE",
+      "JETPACK_STARSHIP"
+    ],
+    "auto_equip": true
+  },
+  "additional_deliverables": {
+    "coins": {
+      "is_currency": true,
+      "value": 20000
+    },
+    "VEHICLE_SKIN_ST_SAM": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ST_MECH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ST_BIRD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ST_TELEPORTER": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ST_DRAGON": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DATA_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DATA_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "PICARD_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "PICARD_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JANEWAY_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JANEWAY_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BURNHAM_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BURNHAM_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "LOCUTUS_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "LOCUTUS_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "WORF_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "WORF_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "SPOCK_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "SPOCK_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "KIRK_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "KIRK_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_BORGCUBE": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_STARSHIP": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_PHASER": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_ST_ENTERPRISE": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_ST_KLINGON": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_ST_BORG": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.startrekbundle",
+    "google_play_store": "com.halfbrick.jetpack.startrekbundle",
+    "brick_bucks_store": "startrek_bundle"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"name": "SpecialOffer_StarterPack",
+    "screen": "NoticeboardStarterPackNoAds",
+    "on_show_event": "specialOffer",
+    "item_id": "STARTER_PACK_BARRY"
+}

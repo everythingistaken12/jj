@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"cut_and_run_event_available",
+				"cut_and_run_event_inactive"
+			],
+			"board": "cut_and_run_event_upsell"
+		}			
+	]
+}

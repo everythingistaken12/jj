@@ -1,0 +1,221 @@
+{
+    "categoryGlow": "buttonAssistsGlow",
+    "headerGlow": "HeadingGlowAssists",
+    "itemGlow": "itemsGlowAssists",
+    "#default":
+    {
+    "itemGroups": [
+        {
+            "titleColourBase": "252,232,50",
+            "titleColourMid": "252,250,227",
+            "titleColourStroke": "51,47,10",
+            "items": [
+                "PERK_FRUIT_MISSILES_CROSS_PROMO_1",
+                "PERK_FRUIT_MISSILES_1",
+                "PERK_BRICK_SIGNUP_1",
+                "PERK_BRICK_1",
+                "PERK_ROBOT_DOG_1",
+                "PERK_GROUND_BOOST_1",
+                "PERK_NO_SCIENTISTS_1",
+                "PERK_RUBBER_BONES_1"
+            ]
+        },
+        {
+            "unlockCount": 2,
+            "titleColourBase": "51,156,255",
+            "titleColourMid": "229,243,255",
+            "titleColourStroke": "10,31,51",
+            "items": [
+                "PERK_LEAD_BOOTS_1",
+                "PERK_DUD_MISSILES_1",
+                "PERK_BONUS_SLOT_1"
+            ]
+        },
+        {
+            "unlockCount": 4,
+            "titleColourBase": "51,207,255",
+            "titleColourMid": "229,249,255",
+            "titleColourStroke": "10,41,51",
+            "items": [
+                "PERK_ICY_EXTERIOR_1",
+                "PERK_IDENTIFY_VEHICLES_1",
+                "PERK_COIN_MULTIPLIER_1"
+            ]
+        },
+        {
+            "unlockCount": 6,
+            "titleColourBase": "51,255,190",
+            "titleColourMid": "229,255,247",
+            "titleColourStroke": "10,51,38",
+            "items": [
+                "PERK_SLOW_MISSILES_1",
+                "PERK_TOKEN_MAGNET_1",
+                "PERK_FLYING_PIG_1"
+            ]
+        },
+        {
+            "unlockCount": 8,
+            "titleColourBase": "65,255,51",
+            "titleColourMid": "231,255,229",
+            "titleColourStroke": "13,51,10",
+            "items": [
+                "PERK_START_IN_VEHICLE_1",
+                "PERK_MAGNET_1",
+                "PERK_SLOT_GUARANTEE_1"
+            ]
+        },
+        {
+            "unlockCount": 10,
+            "titleColourBase": "255,156,51",
+            "titleColourMid": "255,236,217",
+            "titleColourStroke": "51,31,10",
+            "items": [
+                "PERK_DUD_ZAPPERS_1",
+                "PERK_BOOST_MACHINE_1"
+            ]
+        }
+    ]
+    },
+    "#AppleArcade":
+    {
+     "itemGroups": [
+        {
+            "titleColourBase": "252,232,50",
+            "titleColourMid": "252,250,227",
+            "titleColourStroke": "51,47,10",
+            "items": [
+                "PERK_GROUND_BOOST_1",
+                "PERK_NO_SCIENTISTS_1",
+                "PERK_RUBBER_BONES_1"
+            ]
+        },
+        {
+            "unlockCount": 2,
+            "titleColourBase": "51,156,255",
+            "titleColourMid": "229,243,255",
+            "titleColourStroke": "10,31,51",
+            "items": [
+                "PERK_LEAD_BOOTS_1",
+                "PERK_DUD_MISSILES_1",
+                "PERK_BONUS_SLOT_1"
+            ]
+        },
+        {
+            "unlockCount": 4,
+            "titleColourBase": "51,207,255",
+            "titleColourMid": "229,249,255",
+            "titleColourStroke": "10,41,51",
+            "items": [
+                "PERK_ICY_EXTERIOR_1",
+                "PERK_IDENTIFY_VEHICLES_1",
+                "PERK_COIN_MULTIPLIER_1"
+            ]
+        },
+        {
+            "unlockCount": 6,
+            "titleColourBase": "51,255,190",
+            "titleColourMid": "229,255,247",
+            "titleColourStroke": "10,51,38",
+            "items": [
+                "PERK_SLOW_MISSILES_1",
+                "PERK_TOKEN_MAGNET_1",
+                "PERK_FLYING_PIG_1"
+            ]
+        },
+        {
+            "unlockCount": 8,
+            "titleColourBase": "65,255,51",
+            "titleColourMid": "231,255,229",
+            "titleColourStroke": "13,51,10",
+            "items": [
+                "PERK_START_IN_VEHICLE_1",
+                "PERK_MAGNET_1",
+                "PERK_SLOT_GUARANTEE_1"
+            ]
+        },
+        {
+            "unlockCount": 10,
+            "titleColourBase": "255,156,51",
+            "titleColourMid": "255,236,217",
+            "titleColourStroke": "51,31,10",
+            "items": [
+                "PERK_DUD_ZAPPERS_1",
+                "PERK_BOOST_MACHINE_1",
+                "PERK_ROBOT_DOG_1"
+            ]
+        }
+    ]       
+    },
+    "#HalfbrickPlus":
+    {
+     "itemGroups": [
+        {
+            "titleColourBase": "252,232,50",
+            "titleColourMid": "252,250,227",
+            "titleColourStroke": "51,47,10",
+            "items": [
+                "PERK_FRUIT_MISSILES_1",
+                "PERK_BRICK_1",
+                "PERK_GROUND_BOOST_1",
+                "PERK_NO_SCIENTISTS_1",
+                "PERK_RUBBER_BONES_1"
+            ]
+        },
+        {
+            "unlockCount": 2,
+            "titleColourBase": "51,156,255",
+            "titleColourMid": "229,243,255",
+            "titleColourStroke": "10,31,51",
+            "items": [
+                "PERK_LEAD_BOOTS_1",
+                "PERK_DUD_MISSILES_1",
+                "PERK_BONUS_SLOT_1"
+            ]
+        },
+        {
+            "unlockCount": 4,
+            "titleColourBase": "51,207,255",
+            "titleColourMid": "229,249,255",
+            "titleColourStroke": "10,41,51",
+            "items": [
+                "PERK_ICY_EXTERIOR_1",
+                "PERK_IDENTIFY_VEHICLES_1",
+                "PERK_COIN_MULTIPLIER_1"
+            ]
+        },
+        {
+            "unlockCount": 6,
+            "titleColourBase": "51,255,190",
+            "titleColourMid": "229,255,247",
+            "titleColourStroke": "10,51,38",
+            "items": [
+                "PERK_SLOW_MISSILES_1",
+                "PERK_TOKEN_MAGNET_1",
+                "PERK_FLYING_PIG_1"
+            ]
+        },
+        {
+            "unlockCount": 8,
+            "titleColourBase": "65,255,51",
+            "titleColourMid": "231,255,229",
+            "titleColourStroke": "13,51,10",
+            "items": [
+                "PERK_START_IN_VEHICLE_1",
+                "PERK_MAGNET_1",
+                "PERK_SLOT_GUARANTEE_1"
+            ]
+        },
+        {
+            "unlockCount": 10,
+            "titleColourBase": "255,156,51",
+            "titleColourMid": "255,236,217",
+            "titleColourStroke": "51,31,10",
+            "items": [
+                "PERK_DUD_ZAPPERS_1",
+                "PERK_BOOST_MACHINE_1",
+                "PERK_ROBOT_DOG_1"
+            ]
+        }
+    ]       
+    }
+}

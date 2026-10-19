@@ -1,0 +1,59 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/motu_grayskull.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/motu_heman.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/motu_hero.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/motu_icon.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/motu_power.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/motu_skeletor.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/motu_teela.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

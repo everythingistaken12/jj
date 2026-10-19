@@ -1,0 +1,26 @@
+{
+    "#default":
+    {
+        "cost": 750,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_MOTU_MANATARMS_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyManAtArms.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyManAtArms.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "motu_man_at_arms_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_MOTU_EVILLYN_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headEvilLyn.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headEvilLyn.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "motu_evil_lyn_head"
+        ]
+    }
+}

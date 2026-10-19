@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 300,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_PUMPKIN_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleHalloweenJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackPK.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex", 
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "jetpack_pumpkin"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 325,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SKELETON_HEAD_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/skeletonHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headSkeleton.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex", 
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "skeleton_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 325,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SKELETON_HEAD_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/skeletonHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headSkeleton.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex", 
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "skeleton_head"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_ice_dragon",
+				"winter_bundle_timer_running"
+			],
+			"board": "special_offer_winter_bundle"
+		},
+		{
+			"mediation": [
+				"not_purchased_ice_dragon",
+				"winter_bundle_discount_timer_running"
+			],
+			"board": "special_offer_winter_bundle_sale"
+		}
+	]
+}

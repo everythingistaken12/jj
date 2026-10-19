@@ -1,0 +1,31 @@
+{
+    "reference_id": "MARTY_HEAD",
+    "tags": [
+        "premium",
+        "bundle",
+        "Head",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_MARTY_HEAD_NAME",
+        "description": "ITEM_MARTY_HEAD_DESC",
+        "equipable": true,
+        "rewardOnly": {
+            "value": true,
+            "prereq": "EVENTS_ONLY"
+        },
+        "icon": "headMarty"
+    },
+    "payment_methods": {
+        "jetpack_store": "MARTY_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "#default":
+    {
+        "name": "COIN_SPECIAL_NAME",
+        "description": "COIN_SPECIAL_DESC",
+        "item_id": "PICKUP_COINSPECIAL",
+        "spawn_weight": 25,
+        "shop_icon": "textures/menus/shop/itemIcons/pickUps/coinSpecial.tex",
+        "pickup_icon": "textures/entities/pickupCoinSpecial.xml",
+        "trail_colour_start": "230,230,144,128",
+        "trail_colour_mid": "250,244,60,64",
+        "trail_colour_end": "160,150,70,0",
+        "particle_effect": "Coin_Token_Sparkle",
+        "levels":
+        [
+            {
+                "cost": 0,
+                "distance": 60,
+                "numCoinsExplosion": 300,
+                "gemPercent": 5,
+                "spriteFile": "pickups/CoinPayload/coinPayload1.xml"
+            },
+            {
+                "cost": 12500,
+                "distance": 80,
+                "numCoinsExplosion": 400,
+                "gemPercent": 10,
+                "spriteFile": "pickups/CoinPayload/coinPayload2.xml"
+            },
+            {
+                "cost": 65000,
+                "distance": 100,
+                "numCoinsExplosion": 500,
+                "gemPercent": 15,
+                "spriteFile": "pickups/CoinPayload/coinPayload3.xml"
+            },
+            {
+                "cost": 225000,
+                "distance": 120,
+                "numCoinsExplosion": 600,
+                "gemPercent": 20,
+                "spriteFile": "pickups/CoinPayload/coinPayload4.xml"
+            },
+            {
+                "cost": 650000,
+                "distance": 150,
+                "numCoinsExplosion": 700,
+                "gemPercent": 25,
+                "spriteFile": "pickups/CoinPayload/coinPayload4.xml"
+            }
+        ]
+    },
+    "#AppleArcade":
+    {
+        "name": "COIN_SPECIAL_NAME",
+        "description": "COIN_SPECIAL_DESC",
+        "item_id": "PICKUP_COINSPECIAL",
+        "spawn_weight": 25,
+        "shop_icon": "textures/menus/shop/itemIcons/pickUps/coinSpecial.tex",
+        "pickup_icon": "textures/entities/pickupCoinSpecial.xml",
+        "trail_colour_start": "230,230,144,128",
+        "trail_colour_mid": "250,244,60,64",
+        "trail_colour_end": "160,150,70,0",
+        "particle_effect": "Coin_Token_Sparkle",
+        "required_mission_level": 15,
+        "levels":
+        [
+            {
+                "cost": 500,
+                "distance": 60,
+                "numCoinsExplosion": 150,
+                "gemPercent": 5,
+                "spriteFile": "pickups/CoinPayload/coinPayload1.xml"
+            },
+            {
+                "cost": 1000,
+                "distance": 80,
+                "numCoinsExplosion": 200,
+                "gemPercent": 10,
+                "spriteFile": "pickups/CoinPayload/coinPayload2.xml"
+            },
+            {
+                "cost": 3250,
+                "distance": 100,
+                "numCoinsExplosion": 250,
+                "gemPercent": 15,
+                "spriteFile": "pickups/CoinPayload/coinPayload3.xml"
+            },
+            {
+                "cost": 11250,
+                "distance": 120,
+                "numCoinsExplosion": 300,
+                "gemPercent": 20,
+                "spriteFile": "pickups/CoinPayload/coinPayload4.xml"
+            },
+            {
+                "cost": 32500,
+                "distance": 150,
+                "numCoinsExplosion": 350,
+                "gemPercent": 25,
+                "spriteFile": "pickups/CoinPayload/coinPayload4.xml"
+            }
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "name": "COIN_SPECIAL_NAME",
+        "description": "COIN_SPECIAL_DESC",
+        "item_id": "PICKUP_COINSPECIAL",
+        "spawn_weight": 25,
+        "shop_icon": "textures/menus/shop/itemIcons/pickUps/coinSpecial.tex",
+        "pickup_icon": "textures/entities/pickupCoinSpecial.xml",
+        "trail_colour_start": "230,230,144,128",
+        "trail_colour_mid": "250,244,60,64",
+        "trail_colour_end": "160,150,70,0",
+        "particle_effect": "Coin_Token_Sparkle",
+        "required_mission_level": 15,
+        "levels":
+        [
+            {
+                "cost": 500,
+                "distance": 60,
+                "numCoinsExplosion": 150,
+                "gemPercent": 5,
+                "spriteFile": "pickups/CoinPayload/coinPayload1.xml"
+            },
+            {
+                "cost": 1000,
+                "distance": 80,
+                "numCoinsExplosion": 200,
+                "gemPercent": 10,
+                "spriteFile": "pickups/CoinPayload/coinPayload2.xml"
+            },
+            {
+                "cost": 3250,
+                "distance": 100,
+                "numCoinsExplosion": 250,
+                "gemPercent": 15,
+                "spriteFile": "pickups/CoinPayload/coinPayload3.xml"
+            },
+            {
+                "cost": 11250,
+                "distance": 120,
+                "numCoinsExplosion": 300,
+                "gemPercent": 20,
+                "spriteFile": "pickups/CoinPayload/coinPayload4.xml"
+            },
+            {
+                "cost": 32500,
+                "distance": 150,
+                "numCoinsExplosion": 350,
+                "gemPercent": 25,
+                "spriteFile": "pickups/CoinPayload/coinPayload4.xml"
+            }
+        ]
+    }
+}

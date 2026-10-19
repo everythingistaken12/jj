@@ -1,0 +1,14 @@
+{
+	"category": "anniversary_not_played_10_days",
+	"priority": 1500,
+	"message": "NOTIFICATIONS_ANNIVERSARY_NOT_PLAYED_4_DAYS",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 864000
+	},
+	"condition" : "anniversary_not_played_check"
+}

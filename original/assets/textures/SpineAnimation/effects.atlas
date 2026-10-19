@@ -1,0 +1,43 @@
+effects.png
+size:233,78
+filter:Linear,Linear
+pma:true
+angry face
+bounds:117,40,32,36
+bubble
+bounds:2,4,65,72
+offsets:1,1,67,74
+calm face
+bounds:131,2,32,36
+crying face
+bounds:151,40,32,36
+enemyPointerBig
+bounds:69,4,17,22
+rotate:90
+enemyPointerSmall
+bounds:93,5,9,14
+rotate:90
+laughing face
+bounds:165,2,32,36
+rage face
+bounds:185,40,32,36
+sad face
+bounds:199,2,32,36
+shine
+bounds:117,31,7,7
+offsets:1,1,9,9
+smiling face
+bounds:69,23,46,53
+steam1
+bounds:109,3,11,10
+offsets:1,1,13,12
+rotate:90
+steam2
+bounds:121,5,8,9
+offsets:1,1,10,11
+tear
+bounds:93,16,30,5
+offsets:1,1,32,7
+tearshine
+bounds:117,24,5,5
+offsets:1,1,7,7

@@ -1,0 +1,82 @@
+{
+    "is_super_head_start_enabled": true,
+    "is_gadget_start_enabled": true,
+    "is_sam_start_enabled": true,
+    "is_sam_end_enabled": true,
+    "is_revive_enabled": true,
+    "is_revive_video_enabled": true,
+    "is_blast_enabled": true,
+    "is_stacking_items_enabled": false,
+    "is_highlighting_inventory_items_enabled": false,
+    "revive_pack_iap":
+    {
+        "id": "REVIVE_10_BUNDLE",
+        "behaviour": "replace_ads",
+        "consumed_rv_revives_required": 2,
+        "consumed_coins_revives_required": -1
+    },
+    "uid": "",
+    "gadgets":
+    [
+        {
+            "name": "PERK_MAGNET",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_TOKEN_MAGNET",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_COIN_MULTIPLIER",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_RUBBER_BONES",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_ICY_EXTERIOR",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_SLOW_MISSILES",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_DUD_MISSILES",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_SLOT_GUARANTEE",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_FLYING_PIG",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_DUD_ZAPPERS",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_BOOST_MACHINE",
+            "probability": 1,
+            "rarity": 0
+        },
+        {
+            "name": "PERK_LEAD_BOOTS",
+            "probability": 1,
+            "rarity": 0
+        }
+    ]
+}

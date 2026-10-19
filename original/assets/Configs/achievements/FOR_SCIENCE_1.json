@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_17",
+    "description": "ACHIEVEMENT_DESC_17",
+    "progress_description": "ACHIEVEMENT_PROG_7",
+    "type": "WORKERS",
+    "texture": "forScience",
+    "points": 20,
+    "max_progress": 1000,
+    "provider_ids": {
+        "amazon": "1082772",
+        "game_center": 
+        {
+            "default": "1082772",
+            "AppleArcade": "for_science_aa",
+            "HalfbrickPlus": "for_science_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQEA"
+        }
+    }
+}

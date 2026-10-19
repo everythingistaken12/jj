@@ -1,0 +1,33 @@
+{
+    "reference_id": "VEHICLE_SKIN_EASTER_SAM",
+    "tags": [
+        "Sam",
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_EASTER_SAM_NAME",
+        "description": "VEHICLE_SKIN_EASTER_SAM_DESC",
+        "equipable": true,
+        "icon": "vehicleEasterSam",
+        "hideUntil": "VEHICLE_SKIN_EASTER_SAM",
+        "isSkin": true,
+        "vehicleType": "Sam",
+        "defaultSkin": false,
+        "samAtlas": "Events/Easter/Textures",
+        "samMusic": "Events/Easter/Music_SAMEaster",
+        "samNotificationTex": "Events/Easter/Textures/Menus/consumables/notificationSAM.tex"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

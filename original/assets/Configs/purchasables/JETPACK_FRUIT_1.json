@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_FRUIT",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_FRUITJETPACK_NAME",
+        "description": "ITEM_FRUITJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackF",
+        "startWeek": 16
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_FRUIT"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 11
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 11
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

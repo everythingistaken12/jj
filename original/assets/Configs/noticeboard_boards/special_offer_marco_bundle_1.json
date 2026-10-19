@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_MarcoBundle",
+    "screen": "NoticeBoardMarcoBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "MARCO_BUNDLE"
+}

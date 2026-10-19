@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_durian_jetpack",
+        "fruit_king_bundle_timer_running"
+      ],
+      "board": "special_offer_fruit_king_bundle"
+    }
+  ]
+}

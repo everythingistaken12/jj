@@ -1,0 +1,21 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "star_trek_bundle_timer_running",
+        "not_purchased_stdragon",
+        "not_purchased_stbird",
+        "not_purchased_stteleporter",
+        "not_purchased_stmech",
+        "not_purchased_phaser_jetpack",
+        "not_purchased_borgcube_jetpack",
+        "not_purchased_starship_jetpack",
+        "not_purchased_picard_head",
+        "not_purchased_kirk_head",
+        "not_purchased_janeway_head"
+      ],
+      "board": "special_offer_star_trek_bundle"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Touch 40 red flashing lights",
+    "requirement": "Touch 40 red lights",
+    "retired": false,
+    "meta_data": {
+        "groupId": "31",
+        "difficulty": 2,
+        "icon": "Oddball",
+        "description": "MISSION_ALARM_2",
+        "hash": "TOUCH_ALARM_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "Tag4": "CLOSE_CALL",
+        "probability": "120",
+        "tag2": "ALARM"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "touch",
+                "o": "red light",
+                "s": "t",
+                "c": 40
+            }
+        ]
+    }
+}

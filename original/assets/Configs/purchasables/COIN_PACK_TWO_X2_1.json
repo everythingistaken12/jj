@@ -1,0 +1,52 @@
+{
+    "reference_id": "COIN_PACK_TWO_X2",
+    "tags":
+    [
+        "coinpack",
+        "Premium",
+        "Bundle",
+        "consumable"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas":
+    {
+        "name": "ITEM_COINPACK_TWO_NAME",
+        "description": "ITEM_COINPACK_TWO_DESC",
+        "icon": "coins2",
+        "coins": 240000,
+        "showX2Bonus": true,
+        "nameNoCoins": "ITEM_COINPACK_TWO_NAME_NONUMBER",
+        "hideWhen": "COIN_PACK_TWO_X2",
+        "metadata":
+        {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables":
+    {
+        "coins":
+        {
+            "is_currency": true,
+            "value": 240000
+        }
+    },
+    "payment_methods":
+    {
+        "apple_store": "com.halfbrick.jetpack.coinpacktwox2",
+        "google_play_store": "com.halfbrick.jetpack.coinpacktwox2",
+        "brick_bucks_store": "coin_pack_twox2"
+    },
+    "skus":
+    [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

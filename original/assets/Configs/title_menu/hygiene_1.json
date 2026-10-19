@@ -1,0 +1,28 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/waterTrail.xml",
+            "offset_x": -50,
+            "offset_y": -100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/toiletPaperPile.xml",
+            "offset_x": -130,
+            "offset_y": -75
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/soap.xml",
+            "offset_x": -20,
+            "offset_y": -100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/toiletPaper.xml",
+
+            "offset_x": -40,
+            "offset_y": -115
+        }
+    ]
+
+}

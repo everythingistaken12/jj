@@ -1,0 +1,8 @@
+{
+    "currency": "coins",
+    "#HalfbrickPlus":
+    {
+        "cost": 1250
+    },
+    "cost": 0
+}

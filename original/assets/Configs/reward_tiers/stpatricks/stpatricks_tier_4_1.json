@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 100,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/druidHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headDruid.tex",
+        "display_description": "ITEM_DRUIDHEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "druid_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 300,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyDruid.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyDruid.tex",
+        "display_description": "ITEM_DRUIDBODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "druid_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 300,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyDruid.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyDruid.tex",
+        "display_description": "ITEM_DRUIDBODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "druid_body"
+        ]
+    }
+}

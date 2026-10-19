@@ -1,0 +1,57 @@
+{
+    "reference_id": "CHINESE_NEW_YEAR_TIGER_BUNDLE_DISCOUNT",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "LUNAR_NEW_YEAR_TIGER_BUNDLE_NAME",
+        "description": "todo",
+        "icon": "iconCNYRatBundle",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_LNY_HOG"
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": 8888
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        },
+        "VEHICLE_SKIN_LNY_HOG": {
+            "is_currency": false,
+            "value": 1
+        },
+        "LNY_BLUE_TIGER_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "LNY_BLUE_TIGER_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_MANDARIN": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.chinesenewyear2022tigerdiscount.bundle",
+        "google_play_store": "com.halfbrick.jetpack.chinesenewyeartigerdiscount.bundle",
+        "brick_bucks_store": "chinese_new_year_tiger_discount_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

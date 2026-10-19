@@ -1,0 +1,9 @@
+{
+    "specialBundle": "frankenstein_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.392, 0.463, 0.557, 1.0],
+    "itemImages": "specialBundleFrankensteinImages_preview",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

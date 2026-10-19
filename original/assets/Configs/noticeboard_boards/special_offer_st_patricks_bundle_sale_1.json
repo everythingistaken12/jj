@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_St_Patricks_Bundle_Discount",
+    "screen": "NoticeBoardStPatricksBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "ST_PATRICKS_DAY_BUNDLE"
+}

@@ -1,0 +1,42 @@
+{
+  "reference_id": "LNY_BLUE_TIGER_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_LNY_BLUE_TIGER_HEAD_NAME",
+    "description": "ITEM_LNY_BLUE_TIGER_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeBlueTiger",
+    "isNew": true,
+    "hideWhen": "LNY_BLUE_TIGER_HEAD"
+  },
+  "additional_deliverables": {
+    "LNY_BLUE_TIGER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "LNY_BLUE_TIGER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.bluetigercostume",
+    "google_play_store": "com.halfbrick.jetpack.bluetigercostume",
+    "brick_bucks_store": "bluetiger_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

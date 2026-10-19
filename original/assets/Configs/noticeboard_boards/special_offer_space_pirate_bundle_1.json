@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Space_Pirate_Bundle",
+    "screen": "NoticeBoardSpacePirateBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "SPACE_PIRATE_BUNDLE"
+}

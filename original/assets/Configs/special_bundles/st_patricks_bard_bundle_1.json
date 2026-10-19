@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "stpatricks_2026_bard_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BARD_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ROCK_MECH == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "stpatricks_2026_bard_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BARD_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ROCK_MECH == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "stpatricks_2026_bard_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BARD_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ROCK_MECH == 0"
+			}
+		]
+	],
+	"store_id": "ST_PATRICKS_BARD_BUNDLE",
+	"timer_id": "stpatricks_2026_bard_bundle",
+	"trigger_name": "bard_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_BARD_BUNDLE_VIEWS"
+}

@@ -1,0 +1,10 @@
+{
+    "specialBundle": "easter_space_bundle_discount",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.996, 0.588,  0.996, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/EasterEvent/HologramEaster/jetski.tex",    
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

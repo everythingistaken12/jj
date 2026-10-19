@@ -1,0 +1,44 @@
+{
+    "reference_id": "COIN_PACK_FOUR",
+    "tags": [
+        "coinpack",
+        "premium",
+        "bundle",
+        "consumable"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "converts_into_paying_user": false,
+    "metas": {
+        "name": "ITEM_COINPACK_FOUR_NAME_NONUMBER",
+        "description": "ITEM_COINPACK_FOUR_DESC",
+        "icon": "coins4",
+        "coins": 700000,
+        "nameNoCoins": "ITEM_COINPACK_FOUR_NAME_NONUMBER",
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": 700000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.coinpackfour.restructured",
+        "google_play_store": "com.halfbrick.jetpack.coinpackfour.restructured",
+        "brick_bucks_store": "coin_pack_four"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

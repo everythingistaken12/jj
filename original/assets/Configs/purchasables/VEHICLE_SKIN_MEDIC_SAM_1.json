@@ -1,0 +1,33 @@
+{
+    "reference_id": "VEHICLE_SKIN_MEDIC_SAM",
+    "tags": [
+        "Upgrades",
+        "Sam",
+        "Vehicle Skins"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MEDIC_SAM_NAME",
+        "description": "VEHICLE_SKIN_MEDIC_SAM_DESC",
+        "equipable": true,
+        "icon": "vehicleSamMedic",
+        "hideUntil": "VEHICLE_SKIN_MEDIC_SAM",
+        "isSkin": true,
+        "vehicleType": "Sam",
+        "defaultSkin": false,
+        "samAtlas": "Events/Hygiene/Textures",
+        "samMusic": "Events/Hygiene/Music_SAMMedic",
+        "samNotificationTex": "Events/Hygiene/Textures/Menus/consumables/notificationSAM.tex"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",        
+	"halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

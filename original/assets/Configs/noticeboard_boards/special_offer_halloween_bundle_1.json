@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Halloween_Bundle",
+    "screen": "NoticeBoardHalloweenBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "HALLOWEEN_BUNDLE"
+}

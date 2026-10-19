@@ -1,0 +1,30 @@
+{
+    "reference_id": "JETPACK_TEDDY",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "#AppleArcade":{"reference_price_item": ""},
+        "#HalfbrickPlus":{"reference_price_item": ""},
+        "reference_price_item": "JETPACK_TEDDY_REFERENCE_PRICE",
+        "name": "ITEM_TEDDY_BEAR_JETPACK_NAME",
+        "description": "ITEM_TEDDY_BEAR_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackTED",
+        "startWeek": 46
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_TEDDY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

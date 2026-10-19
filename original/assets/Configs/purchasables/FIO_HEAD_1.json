@@ -1,0 +1,27 @@
+{
+    "reference_id": "FIO_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_FIO_HEAD_NAME",
+        "description": "ITEM_FIO_HEAD_DESC",
+        "equipable": true,
+        "icon": "headFio",
+        "hidden": true,
+        "death_sfx": "ms_run_over_fio",
+        "equip_sfx": "ms_equip_fio"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,157 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinPattern1.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern2.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern3.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern4.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern5.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern6.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern7.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern8.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern9.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern10.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern11.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern12.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern13.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern14.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternChristmasHoHoHo.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternChristmasMerry2.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternChristmasTree.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternChristmasReindeer.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternChristmasSleigh.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternChristmasStocking.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternChristmasCandyCane.txt",
+        "probability": {
+          "value": 6,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

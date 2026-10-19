@@ -1,0 +1,30 @@
+{
+    "reference_id": "JETPACK_TRADITIONAL",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "#AppleArcade":{"reference_price_item": ""},
+        "#HalfbrickPlus":{"reference_price_item": ""},
+        "reference_price_item": "JETPACK_TRADITIONAL_REFERENCE_PRICE",
+        "name": "ITEM_TRADITIONALJETPACK_NAME",
+        "description": "ITEM_TRADITIONALJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackS",
+        "startWeek": 12
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_TRADITIONAL"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

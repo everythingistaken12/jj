@@ -1,0 +1,52 @@
+{
+    "vehicleName": "Starship",
+    "displayName": "VEHICLE_STARSHIP",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_STARSHIP",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_STARSHIP",
+        "distanceBest": "VEHICLE_BEST_STARSHIP",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_STARSHIP"
+    },
+    "MissionText": "MISSION_VEHICLE_STARSHIP",
+    "sprite": "starship.xml",
+    "RequiredTextures": {
+        "Texture": "starship.tex"
+    },
+    "MagnetDeliverable": "STARSHIP_MAGNET",
+    "headData": "Characters/Vehicles/Starship/StarshipData.xml",
+    "allowHalo": "false",
+    "sequenceBar": "bar_starship",
+    "fragsDir": "Starship",
+    "ComponentsDir": "Starship",
+    "Streak1Colour": {
+        "r": "144",
+        "g": "181",
+        "b": "201"
+    },
+    "Streak2Colour": {
+        "r": "182",
+        "g": "245",
+        "b": "243"
+    },
+    "probability": "20.0",
+    "duration": "0.0",
+    "SequenceFirstFront": "true",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.3",
+    "INITIAL_BOOST": "6.5",
+    "BOOST": "0.6",
+    "FRICTION": "0.98",
+    "BOOST_FRAME_COUNT": "12",
+    "JUMP_COUNT": "1",
+    "STREAK": "DELOREAN_STREAK",
+    "START_VELOCITY": "400.0",
+    "MAX_VELOCITY": "6000.0",
+    "VELOCITY_INCREASE": "0.40",
+    "skins": {
+        "skin": {
+            "name": "VEHICLE_SKIN_STARSHIP",
+            "script": "Starship",
+            "default": "true"
+        }
+    }
+}

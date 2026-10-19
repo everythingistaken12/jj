@@ -1,0 +1,8 @@
+{
+	"type": "item",
+	"name": "CONSUMABLE_SUPER_HEADSTART",
+	"quantity": 3,
+	"icon": "textures/menus/shop/ItemIcons/superskipx3.tex",
+	"text": "DC_REWARDS_SUPER_HEADSTART_3",
+	"tweet": "SAM_CHALLENGE_SOCIAL_SUPER_HEAD_START_1"
+}

@@ -1,0 +1,11 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_delorean"
+			],
+			"board": "special_offer_bttf_bundle"
+		}
+	]
+}

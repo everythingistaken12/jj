@@ -1,0 +1,117 @@
+{
+    "reference_id": "MOTU_ULTIMATE_BUNDLE_2025",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "MOTU_ULTIMATE_BUNDLE_2025_TITLE",
+        "description": "todo",
+        "icon": "iconSpookyPack",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "MOTU_ULTIMATE_BUNDLE_2025"
+    },
+    "additional_deliverables": {
+        "BACKGROUND_MOTU_EXTERIOR": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_MOTU_EXTERIOR_VARIANT": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BACKGROUND_MOTU_HALLWAY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MOTU_TALON_FIGHTER": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MOTU_BATTLE_CAT": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MOTU_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_MOTU_EVIL_LYN_STAFF": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_MOTU_HAVOC_JETPACK": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_SKELETOR_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_SKELETOR_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_EVILLYN_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_EVILLYN_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_MOTU_POWER_SWORD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_MOTU_MAN_AT_ARMS_JETPACK": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_HEMAN_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_HEMAN_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_MANATARMS_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_MANATARMS_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_TEELA_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "MOTU_TEELA_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.motuultimatebundle2025",
+        "google_play_store": "com.halfbrick.jetpackjoyride.motuultimatebundle2025",
+        "brick_bucks_store": "motu_ultimate_bundle_2025"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

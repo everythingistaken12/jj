@@ -1,0 +1,40 @@
+{
+    "#default":
+    {
+        "cost": 600,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_QUICKREVIVE10PACK_NAME",   
+        "rewards_texture": "textures/menus/shop/itemicons/reviveX10.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/reviveX10.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "revive_x10"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1025,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_GARLAND_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackGarland.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackGarland.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_custom_garland"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1025,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_GARLAND_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackGarland.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackGarland.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_custom_garland"
+        ]
+    }
+}

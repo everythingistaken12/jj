@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_IrishMyth_Bundle",
+    "screen": "NoticeBoardIrishMythBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "IRISH_MYTH_BUNDLE"
+}

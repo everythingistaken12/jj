@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 1750,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_JETPACK_CUSTOM_FIREPLACE_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackFireplace.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackFireplace.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_custom_fireplace"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_SAM_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons//vehicleChristmasSam.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons//vehicleChristmasSam.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_sam"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_CHRISTMAS_SAM_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons//vehicleChristmasSam.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons//vehicleChristmasSam.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "christmas_sam"
+        ]
+    }
+}

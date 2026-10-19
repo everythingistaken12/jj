@@ -1,0 +1,30 @@
+{
+    "name": "Destroy Bad Ass Hog 1 times",
+    "requirement": "Destroy Bad Ass Hog 1 time",
+    "retired": false,
+    "meta_data": {
+        "groupId": "61",
+        "difficulty": 1,
+        "icon": "vehicleDestroy",
+        "description": "MISSION_DESTROY_VEHICLE_SINGLE",
+        "hash": "VEHICLE_DESTROY_TOTAL",
+        "skill_grind": "GRIND",
+        "Tag4": "DESTROY",
+        "probability": "75",
+        "tag1": "VEHICLE",
+        "metaData": {
+            "vehicleType": "Bad Ass Hog"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "destroy",
+                "o": "vehicle",
+                "s": "t",
+                "i": 6,
+                "c": 1
+            }
+        ]
+    }
+}

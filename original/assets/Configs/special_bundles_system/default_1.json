@@ -1,0 +1,103 @@
+{
+  "bundles": [
+    {
+      "id": "starter_pack",
+      "title_screen_item": "starterPack"
+    },
+    {
+      "id": "starter_pack_best_buddy_bundle",
+      "title_screen_item": "specialBundle"
+    },
+    {
+      "id": "disable_ads",
+      "title_screen_item": "directPurchaseOffer"
+    },
+    {
+      "id": "coin_doubler_gadget_slot_bundle",
+      "title_screen_item": "specialBundle"
+    },
+    {
+      "id": "x2_coin_offer",
+      "title_screen_item": "coinOffer"
+    },
+    "daily_reward_tiers",
+    "game_crosspromo",
+    "coin_doubler_gadget_slot_bundle",
+
+    "cross_promo_fruit_punch",
+    "fruit_king_bundle",
+
+    "cross_promo_chinese_new_year",
+    "chinese_new_year_wooden_dragon_bundle",
+    "chinese_new_year_bundle",
+    "chinese_new_year_ox_bundle",
+    "chinese_new_year_rat_bundle",
+    "chinese_new_year_tiger_bundle",
+    "chinese_new_year_rabbit_bundle",
+    "chinese_new_year_snake_dragon_bundle",
+
+    "cross_promo_st_patricks",
+    "shamrock_bundle",
+    "st_patricks_bard_bundle",
+    "celtic_bundle",
+    "st_patricks_day_bundle",
+    "nature_bundle",
+    "irish_myth_bundle",
+
+    "cross_promo_easter",
+    "easter_ultimate_bundle",
+    "easter_fluffy_bundle",
+    "easter_bundle",
+    "easter_eggstreme_bundle",
+    "easter_space_bundle",
+    "chicken_bundle",
+    "spring_bundle",
+
+    "cross_promo_bling_it_on",
+    "bling_it_on_bundle",
+    "gold_barry_bundle",
+
+    "cross_promo_age_of_zombies",
+    "aoz_ultimate_bundle",
+    "aoz_ancestry_bundle",
+    "aoz_prehistoric_bundle",
+    "aoz_savage_bundle",
+
+    "cross_promo_pirate",
+    "pirate_ultimate_bundle",
+    "pirate_castaway_bundle",
+    "space_pirate_bundle",
+    "steakfries_revenge_bundle",
+    "cursed_bundle",       
+    "ocean_bundle",
+    "pirate_bundle",
+    "pirate_bundle_jetski",
+
+    "cross_promo_motu",
+    "motu_hero_bundle",
+    "motu_villain_bundle",
+    "motu_vehicle_bundle",
+    "motu_heman_bundle",
+    "motu_ultimate_bundle",
+
+    "4th_of_july_bundle",
+    "gold_barry_bundle",
+    "cross_promo_hygiene",
+    "hygiene_bundle",
+    "sam_bundle",
+    "cross_promo_zappy_bird",
+    "zappy_bird_mega_bundle",
+    "cross_promo_anniversary",
+    "anniversary_10_bundle",
+    "anniversary_11_bundle",
+    "cross_promo_halloween",
+    "halloween_bundle",
+    "halloween_mummy_bundle",
+    "halloween_ultimate_bundle",
+    "frankenstein_bundle",
+    "bewitched_bundle",
+    "spooky_bundle"
+  ],
+  "popups_per_session": 2,
+  "popups_cooldown": 0
+}

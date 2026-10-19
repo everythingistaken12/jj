@@ -1,0 +1,34 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "boards":
+    [
+        {
+            "board": "gif_cross_promo"
+        },
+        {
+            "board": "daily_reward_tiers"
+        },
+        {
+            "board": "special_offer_cross_promo_halloween"
+        },
+        {
+            "board": "halloween_ultimate_bundle_set"
+        },
+        {
+            "board": "bewitched_bundle_set"
+        },
+        {
+            "board": "frankenstein_bundle_set"
+        },
+        {
+            "board": "halloween_bundle_set"
+        },
+        {
+            "board": "halloween_mummy_bundle_set"
+        },
+        {
+            "board": "spooky_bundle_set"
+        }
+    ]
+}

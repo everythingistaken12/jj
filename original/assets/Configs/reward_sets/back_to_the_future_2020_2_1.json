@@ -1,0 +1,15 @@
+{
+	"currency": "tokens_bttf",
+	"currency_texture": "Events/BackToTheFuture/textures/Menus/Results/currencyToken.tex",
+	"tiers": [
+		"back_to_the_future_tier_1",
+		"back_to_the_future_tier_2",
+		"back_to_the_future_tier_3",
+		"back_to_the_future_tier_4",
+		"back_to_the_future_tier_5",
+		"back_to_the_future_tier_6",
+		"back_to_the_future_tier_7",
+		"back_to_the_future_tier_8",
+		"back_to_the_future_tier_9"					
+	]
+}

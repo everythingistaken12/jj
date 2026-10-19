@@ -1,0 +1,42 @@
+{
+    "reference_id": "MOTU_SKELETOR_COSTUME",
+    "tags": [
+        "Head",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_MOTU_SKELETOR_HEAD_NAME",
+        "description": "ITEM_MOTU_SKELETOR_HEAD_DESC",
+        "equipable": true,
+        "icon": "costumeSkeletor",
+        "hideWhen": "MOTU_SKELETOR_HEAD",
+        "isNew": true
+    },
+  "additional_deliverables": {
+    "MOTU_SKELETOR_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "MOTU_SKELETOR_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.motuskeletorcostume",
+    "google_play_store": "com.halfbrick.jetpack.motuskeletorcostume",
+    "brick_bucks_store": "motu_skeletor_costume"
+  },
+    "skus": [
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

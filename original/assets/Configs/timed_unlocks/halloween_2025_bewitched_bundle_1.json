@@ -1,0 +1,10 @@
+{
+  "timer_length_date_start": "2025-10-17T00:00",
+  "timer_length_date_end": "2025-11-07T00:00",
+  "auto_start": false,
+  "meta": {
+    "shutdown_conditions": {
+      "itemOwned": "VEHICLE_SKIN_BROOMSTICK_DRAGON"
+    }
+  }
+}

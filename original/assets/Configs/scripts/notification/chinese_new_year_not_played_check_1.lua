@@ -1,0 +1,1 @@
+return EventSystem.GetActiveEventName() == "chinese_new_year"

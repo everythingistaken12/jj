@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Gate_Keeper_Bundle",
+    "screen": "NoticeBoardGBGatekeeperBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GB_GATE_KEEPER_BUNDLE"
+}

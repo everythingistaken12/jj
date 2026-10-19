@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_gb_mech"
+      ],
+      "board": "special_offer_gb_gate_keeper_bundle"
+    }
+  ]
+}

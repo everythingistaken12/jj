@@ -1,0 +1,43 @@
+{
+    "reference_id": "DIGITAL_MAN_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "todo",
+        "description": "todo",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true
+    },
+    "additional_deliverables": {
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        },
+        "digitalMan_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "digitalMan_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 50000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.may2017bundle1",
+        "google_play_store": "com.halfbrick.jetpack.may2017bundle",
+        "brick_bucks_store": "digital_man_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

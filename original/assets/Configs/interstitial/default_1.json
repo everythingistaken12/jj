@@ -1,0 +1,50 @@
+{
+    "rewardsSet":
+    [
+        {
+            "weight": 5,
+            "name": "revive",
+            "amount": 1
+        },
+        {
+            "weight": 2,
+            "name": "revive",
+            "amount": 3
+        },
+        {
+            "weight": 1,
+            "name": "revive",
+            "amount": 5
+        },
+        {
+            "weight": 5,
+            "name": "coins",
+            "amount": 500
+        },
+        {
+            "weight": 2,
+            "name": "coins",
+            "amount": 750
+        },
+        {
+            "weight": 1,
+            "name": "coins",
+            "amount": 1000
+        },
+        {
+            "weight": 5,
+            "name": "headstart",
+            "amount": 1
+        },
+        {
+            "weight": 3,
+            "name": "super_headstart",
+            "amount": 1
+        },
+        {
+            "weight": 1,
+            "name": "double_coins",
+            "amount": 1
+        }
+    ]
+}

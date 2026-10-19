@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_EriBundle",
+    "screen": "NoticeBoardEriBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "ERI_BUNDLE"
+}

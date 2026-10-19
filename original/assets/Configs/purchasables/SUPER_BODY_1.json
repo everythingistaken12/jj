@@ -1,0 +1,33 @@
+{
+    "reference_id": "SUPER_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SUPERSUIT_NAME",
+        "description": "ITEM_SUPERSUIT_DESC",
+        "equipable": true,
+        "icon": "bodySuper",
+        "startWeek": 3
+    },
+    "payment_methods": {
+        "jetpack_store": "SUPER_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 18
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 18
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

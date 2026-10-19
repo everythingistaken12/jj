@@ -1,0 +1,34 @@
+{
+    "reference_id": "TELEPORTER_MAGNET",
+    "tags": [
+        "Upgrades",
+        "Magnet"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_TELEPORTERMAGNET_NAME",
+        "description": "ITEM_TELEPORTERMAGNET_DESC",
+        "unequipable": true,
+        "icon": "vehicleTeleporterMagnet",
+        "vehicleType": "Teleporter"
+    },
+    "payment_methods": {
+        "jetpack_store": "TELEPORTER_MAGNET"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 16
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 16
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

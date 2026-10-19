@@ -1,0 +1,27 @@
+{
+    "reference_id": "WORKER_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SAFETYHELMET_NAME",
+        "description": "ITEM_SAFETYHELMET_DESC",
+        "equipable": true,
+        "icon": "headConstruction",
+        "startWeek": 51
+    },
+    "payment_methods": {
+        "jetpack_store": "WORKER_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

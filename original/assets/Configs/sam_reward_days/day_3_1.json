@@ -1,0 +1,30 @@
+{
+	"text":{
+		"title": "DC_TITLE_1",
+		"levels": [
+			"DC_DAY_3_1",
+			"DC_DAY_3_2",
+			"DC_DAY_3_3",
+			"DC_DAY_3_4",
+			"DC_DAY_3_5",
+			"DC_DAY_3_6",
+			"DC_DAY_3_7",
+			"DC_DAY_3_8",
+			"DC_DAY_3_9",
+			"DC_DAY_3_10",
+			"DC_DAY_3_11",
+			"DC_DAY_3_12",
+			"DC_DAY_3_13",
+			"DC_DAY_3_14",
+			"DC_DAY_3_15"
+		],
+		"flavour": [
+			{ "text": "DC_NEXT_6" },
+			{ "text": "DC_NEXT_7" },
+			{ "text": "DC_NEXT_5" }
+		]
+	},
+	"rewards": [
+		{ "reward": "coins_day_3", "chance": 5 }
+	]
+}

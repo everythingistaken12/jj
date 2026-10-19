@@ -1,0 +1,8 @@
+{
+    "specialBundle": "easter_bundle",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.984, 0.341, 0.969, 1.0],
+    "itemImages": "specialBundleEasterImages"
+}

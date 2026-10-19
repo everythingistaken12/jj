@@ -1,0 +1,11 @@
+{
+	"cost": 700,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_PICARD_BODY_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/picardBodyCostume.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyPicard.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"picard_body"
+	]
+}

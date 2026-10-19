@@ -1,0 +1,40 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "#AppleArcade":
+    {
+        "boards":
+        [
+            {
+                "board": "screenshot"
+            }
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "boards":
+        [
+            {
+                "board": "screenshot"
+            }
+        ]
+    },
+    "boards":
+    [
+        {
+            "board": "gif_cross_promo"
+        },
+        {
+            "board": "daily_reward_tiers"
+        },
+        {
+            "board": "special_offer_cross_promo_thanksgiving"
+        },
+        {
+            "board": "autumn_bundle_set"
+        },
+        {
+            "board": "thanks_giving_bundle_set"
+        }
+    ]
+}

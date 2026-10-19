@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "easter_2026_cross_promo_easter"
+			},
+			{
+				"statistic": "CROSS_PROMO_EASTER_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_cross_promo_easter"
+			},
+			{
+				"statistic": "CROSS_PROMO_EASTER_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			}
+		],
+		[
+			{
+				"timerRunning": "easter_2026_cross_promo_easter"
+			},
+			{
+				"statistic": "CROSS_PROMO_EASTER_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			}
+		]
+	],
+	"store_id": "CROSS_PROMO_EASTER",
+	"timer_id": "easter_2026_cross_promo_easter",
+	"trigger_name": "cross_promo_easter",
+	"statistic_prefix": "CROSS_PROMO_EASTER_VIEWS"
+}

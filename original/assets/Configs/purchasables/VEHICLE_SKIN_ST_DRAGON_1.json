@@ -1,0 +1,29 @@
+{
+    "reference_id": "VEHICLE_SKIN_ST_DRAGON",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Hidden"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ST_DRAGON_NAME",
+        "description": "VEHICLE_SKIN_ST_DRAGON_DESC",
+        "equipable": true,
+        "icon": "vehicleDragonStarTrek",
+        "isSkin": true,
+        "vehicleType": "Dragon",
+        "defaultSkin": false,
+        "hideUntil": "VEHICLE_SKIN_ST_DRAGON",
+        "isNew": true
+    },
+    "payment_methods": {},    
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

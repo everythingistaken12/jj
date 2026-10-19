@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "trifold_offer_A"
+			},
+			{
+				"statistic": "TRIFOLD_OFFER_A_VIEWS_TODAY == 0"
+			}
+		]
+	],
+	"store_id": [
+		"TRIFOLD_OFFER_RUN_A_DISCOUNT",
+		"TRIFOLD_OFFER_SUPER_RUN_A_DISCOUNT",
+		"TRIFOLD_OFFER_MEGA_RUN_A_DISCOUNT"
+	],
+	"datasource_metas": {
+		"call_to_action_text": "TRIFOLD_OFFER_CALL_TO_ACTION",
+		"rewards_texture": "textures/menus/offers/gr_item_trifold.tex",
+		"milestone": 1500
+	},
+	"timer_id": "trifold_offer_A",
+	"statistic_prefix": "TRIFOLD_OFFER_A_VIEWS"
+}

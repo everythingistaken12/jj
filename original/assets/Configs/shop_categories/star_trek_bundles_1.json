@@ -1,0 +1,29 @@
+{
+    "title": "STAR_TREK_EVENT_RULES_TITLE",
+
+    "icon": "Events\\StarTrek\\Textures\\Menus\\Shop\\iconST.tex",
+
+    "rowsLimit" : 7,
+
+    "_": "if 'header_template' is omitted then its value is 'header'",
+    "header_template": "header",
+
+    "_": "if 'template' is omitted then its value is 'category'",
+    "template": "category",
+
+    "filler_template_1x1": "templateEmpty_1x1",
+
+    "filler_template_2x1": "templateEmpty_2x1",
+
+    "offers": [
+        "star_trek_bundle",
+        "star_trek_bundle_discount",
+        "star_trek_starship_bundle_wide",
+        "star_trek_tos_bundle_wide",
+        "star_trek_vehicle_bundle_wide",
+        "star_trek_tng_bundle_wide",             
+        "star_trek_jetpack_bundle_wide",
+        "star_trek_voyager_bundle_wide",
+        "star_trek_sam_bundle_wide"
+    ]
+}

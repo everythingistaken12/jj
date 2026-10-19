@@ -1,0 +1,1 @@
+return ShouldShowDailyRewardNotification() and HasClaimedDailyReward()

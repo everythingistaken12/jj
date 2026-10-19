@@ -1,0 +1,102 @@
+{
+	"conditions": [
+		[
+		    {
+		    	"timerRunning": "christmas_2023_star_trek_tos_bundle"
+		    },
+			{
+				"statistic": "SPECIAL_BUNDLE_STAR_TREK_TOS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ST_TELEPORTER == 0"
+			},
+			{
+				"inventoryCount": "KIRK_HEAD == 0"
+			},
+			{
+				"inventoryCount": "KIRK_BODY == 0"
+			},
+			{
+				"inventoryCount": "SPOCK_HEAD == 0"
+			},
+			{
+				"inventoryCount": "SPOCK_BODY == 0"
+			},
+			{
+				"inventoryCount": "JETPACK_STARSHIP == 0"
+			}
+		],
+		[
+		    {
+		    	"timerRunning": "christmas_2023_star_trek_tos_bundle"
+		    },
+			{
+				"statistic": "SPECIAL_BUNDLE_STAR_TREK_TOS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ST_TELEPORTER == 0"
+			},
+			{
+				"inventoryCount": "KIRK_HEAD == 0"
+			},
+			{
+				"inventoryCount": "KIRK_BODY == 0"
+			},
+			{
+				"inventoryCount": "SPOCK_HEAD == 0"
+			},
+			{
+				"inventoryCount": "SPOCK_BODY == 0"
+			},
+			{
+				"inventoryCount": "JETPACK_STARSHIP == 0"
+			}
+		],
+		[
+		    {
+		    	"timerRunning": "christmas_2023_star_trek_tos_bundle"
+		    },
+			{
+				"statistic": "SPECIAL_BUNDLE_STAR_TREK_TOS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ST_TELEPORTER == 0"
+			},
+			{
+				"inventoryCount": "KIRK_HEAD == 0"
+			},
+			{
+				"inventoryCount": "KIRK_BODY == 0"
+			},
+			{
+				"inventoryCount": "SPOCK_HEAD == 0"
+			},
+			{
+				"inventoryCount": "SPOCK_BODY == 0"
+			},
+			{
+				"inventoryCount": "JETPACK_STARSHIP == 0"
+			}
+		]
+	],
+	"timer_id": "star_trek_2022_3_star_trek_tos_bundle",
+	"store_id": "STAR_TREK_TOS_BUNDLE",
+    "timer_id": "christmas_2023_star_trek_tos_bundle",
+	"trigger_name": "star_trek_tos_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_STAR_TREK_TOS_VIEWS"
+}

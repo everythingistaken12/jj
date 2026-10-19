@@ -1,0 +1,11 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [ 
+				"disable_ads"
+			],
+			"board": "special_offer_remove_ads"
+		}
+	]
+}

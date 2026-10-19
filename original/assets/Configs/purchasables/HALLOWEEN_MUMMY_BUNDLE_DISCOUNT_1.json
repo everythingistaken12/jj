@@ -1,0 +1,57 @@
+{
+  "reference_id": "HALLOWEEN_MUMMY_BUNDLE_DISCOUNT",
+  "tags": [
+    "Bundle"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "additional_deliverables": {
+    "HALLOWEEN_PHARAOH_COSTUME": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_HALLOWEEN_BIRD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CUSTOM_SARCOPHAGUS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CONSUMABLE_REVIVE": {
+      "is_currency": false,
+      "value": 10
+    },
+    "coins": {
+      "is_currency": true,
+      "value": 20000
+    }
+  },
+  "metas": {
+    "name": "HALLOWEEN_MUMMY_BUNDLE_TITLE",
+    "icon": "costumeHalloweenPharaoh",
+    "hidden": true,
+    "hideWhen": [
+      "HALLOWEEN_PHARAOH_BODY",
+      "HALLOWEEN_PHARAOH_COSTUME",
+      "HALLOWEEN_PHARAOH_HEAD",
+      "VEHICLE_SKIN_HALLOWEEN_BIRD",
+      "JETPACK_CUSTOM_SARCOPHAGUS"
+    ]
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.bundle.halloween_mummy_bundle_discount",
+    "google_play_store": "com.halfbrick.jetpack.bundle.halloween_mummy_bundle_discount",
+    "brick_bucks_store": "halloween_mummy_bundle_discount"
+  },
+  "skus": [
+    "ios",
+    "google_play",
+    "windows"
+  ]
+}

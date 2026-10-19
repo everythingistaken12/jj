@@ -1,0 +1,23 @@
+{
+    "name": "Collect 5 vehicles",
+    "requirement": "Collect 5 vehicles",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "vehicle",
+        "description": "MISSION_VEHICLE_6",
+        "hash": "VEHICLE_COLLECT_ANY",
+        "showProgress": "true",
+        "starter": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "s": "t",
+                "c": 5
+            }
+        ]
+    }
+}

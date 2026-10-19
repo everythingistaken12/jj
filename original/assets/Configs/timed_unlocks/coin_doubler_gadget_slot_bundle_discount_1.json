@@ -1,0 +1,15 @@
+{
+	"notification_icon": "whenRunning",
+	"auto_start": true,
+	"push_message": "find string",
+	"button_text": "INTRO_PACK_TIMER_TITLE",
+	"button_icon": "textures/menus/main/iconStarterPack.tex",
+	"meta": {
+		"comment": "",
+		"shutdown_conditions": {
+			"itemOwned": "GADGET_SLOT_3",
+			"itemOwned": "PREMIUM_MACHINE"
+		}
+	},
+	"timer_length_seconds": 604800
+}

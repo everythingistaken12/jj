@@ -1,0 +1,54 @@
+{
+	"atlas_folder": "TitleTMNT",
+	"atlas": "textures/levels/bgTitleTMNT.atlas",
+	"bg_0": {
+		"size": { "x": 444.0, "y": 512.0 },
+		"pos": { "x": -34.0, "y": 0.0 },
+		"uv": [
+			{ "u": 0.1328125, "v": 0.0 },
+			{ "u": 0.998046875, "v": 1.0 }
+		]
+	},
+	"bg_1": {
+		"size": { "x": 160.0, "y": 512.0 },
+		"pos": { "x": 268.0, "y": 0.0 },
+		"uv": [
+			{ "u": 0.001953125, "v": 0.0 },
+			{ "u": 0.3125, "v": 1.0 }
+		]
+	},
+	"level_offset": { "x": 182.0, "y": 0.0 },
+	"skin": "default",
+	"wall_smash_sfx": "tmnt_intro_splash",
+	"wall_smash_vfx": "TMNT_Intro_Splash",
+
+	"gramophone_enabled": false,
+	"perk_monitors_enabled": false,
+	"best_distance_enabled": false,
+	"sam_screen_enabled": false,
+	"events_ticket_screen": false,
+	"playerStartPos": 
+	{
+		"pos": 
+		{
+			"x": -200,
+			"y": -50
+		}
+	},
+	"jetpack": 
+	{
+		"pos": 
+		{
+			"x": -35,
+			"y": -128
+		}
+	},
+	"props":
+	[
+		{
+			"sprite_file": "Textures/Levels/TitleTMNT/Objects/tvStand.xml",
+			"offset_x": 245,
+			"offset_y": -90
+		}
+	]
+}

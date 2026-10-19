@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_StarTrek_Bundle_Discount",
+	"screen": "NoticeBoardStarTrekBundleDiscount",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "STAR_TREK_BUNDLE_DISCOUNT",
+	"data_source": {
+		"title": "ITEM_STAR_TREK_BUNDLE_NAME"
+	}	
+}

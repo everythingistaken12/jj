@@ -1,0 +1,42 @@
+{
+  "reference_id": "HALLOWEEN_PHARAOH_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "HALLOWEEN_PHARAOH_COSTUME_NAME",
+    "description": "HALLOWEEN_PHARAOH_COSTUME_DESC",
+    "equipable": true,
+    "icon": "costumeHalloweenPharaoh",
+    "isNew": true,
+    "hideWhen": "HALLOWEEN_PHARAOH_HEAD"
+  },
+  "additional_deliverables": {
+    "HALLOWEEN_PHARAOH_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "HALLOWEEN_PHARAOH_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.halloweenpharaohcostume",
+    "google_play_store": "com.halfbrick.jetpack.halloweenpharaohcostume",
+    "brick_bucks_store": "halloweenpharaoh_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

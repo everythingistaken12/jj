@@ -1,0 +1,12 @@
+{
+	"cost": 950,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/shop/ItemIcons/headEasterExosuit.tex",
+	"rewards_icon_texture": "textures/menus/shop/ItemIcons/headEasterExosuit.tex",
+	"display_description": "ITEM_EASTER_EXOSUIT_HEAD_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"easter_exosuit_head"
+	],
+	"random_rewards": []
+}

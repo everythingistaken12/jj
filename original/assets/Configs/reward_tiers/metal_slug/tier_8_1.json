@@ -1,0 +1,11 @@
+{
+	"cost": 750,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_ERI_HEAD_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/iconEriPack.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headEri.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"eri_head"
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Ecto_Bundle",
+    "screen": "NoticeBoardGBEctoBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GB_ECTO_BUNDLE"
+}

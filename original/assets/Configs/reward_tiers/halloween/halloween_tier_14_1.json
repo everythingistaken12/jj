@@ -1,0 +1,46 @@
+{
+    "#default":
+    {
+        "cost": 400,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/skipx5.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/skipx5.tex",
+        "display_description": "ITEM_HEADSTART8PACK_NAME",
+        "rewards_quantity": 8,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "headstart_x8"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 550,
+    	"display_name": "REWARD_UNLOCK",
+    	"display_description": "VEHICLE_SKIN_VAMPIRE_NAME",
+    	"rewards_texture": "textures/menus/shop/itemicons/vehicleGravitySuitVampire.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleGravitySuitVampire.tex",
+    	"frame_texture": "textures/menus/shared/frameGold.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"vampire"
+    	]
+    },
+    "#AppleArcade":
+    {
+        "cost": 550,
+    	"display_name": "REWARD_UNLOCK",
+    	"display_description": "VEHICLE_SKIN_VAMPIRE_NAME",
+    	"rewards_texture": "textures/menus/shop/itemicons/vehicleGravitySuitVampire.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleGravitySuitVampire.tex",
+    	"frame_texture": "textures/menus/shared/frameGold.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"vampire"
+    	]
+    }
+}

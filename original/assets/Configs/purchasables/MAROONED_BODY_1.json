@@ -1,0 +1,27 @@
+{
+    "reference_id": "MAROONED_BODY",
+    "tags": [
+        "Body",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_MAROONED_BODY_NAME",
+        "description": "ITEM_MAROONED_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyMarooned",
+        "isNew": true,
+        "hidden": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "apple_arcade",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

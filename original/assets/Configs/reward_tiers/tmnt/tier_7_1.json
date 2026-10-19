@@ -1,0 +1,11 @@
+{
+	"cost": 700,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_JETPACK_PIZZA_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/jetpackPizza.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackPizza.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"jetpack_pizza"
+	]
+}

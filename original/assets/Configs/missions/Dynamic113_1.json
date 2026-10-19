@@ -1,0 +1,38 @@
+{
+    "name": "Hi five 15 scientists in one game.",
+    "requirement": "Hi five 15 scientists in one game",
+    "retired": false,
+    "meta_data": {
+        "groupId": "20",
+        "difficulty": 2,
+        "icon": "worker",
+        "description": "MISSION_SCIENTIST_2",
+        "hash": "SCIENTISTS_HIGH_FIVE",
+        "skillGrind": "SKILL",
+        "Tag4": "SCIENTIST",
+        "probability": "75",
+        "tag3": "HI_FIVE"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "hi five",
+                "o": "scientist",
+                "s": "g",
+                "c": 15
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

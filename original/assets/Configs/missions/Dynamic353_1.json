@@ -1,0 +1,31 @@
+{
+    "name": "Destroy Teleporter 5 times",
+    "requirement": "Destroy Teleporter 5 times",
+    "retired": false,
+    "meta_data": {
+        "groupId": "60",
+        "difficulty": 3,
+        "icon": "vehicleDestroy",
+        "description": "MISSION_DESTROY_VEHICLE",
+        "hash": "VEHICLE_DESTROY_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "Tag4": "DESTROY",
+        "probability": "10",
+        "tag1": "VEHICLE",
+        "metaData": {
+            "vehicleType": "Teleporter"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "destroy",
+                "o": "vehicle",
+                "s": "t",
+                "i": 4,
+                "c": 5
+            }
+        ]
+    }
+}

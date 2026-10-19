@@ -1,0 +1,10 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "boards":
+    [
+        {
+            "board": "screenshot"
+        }
+    ]
+}

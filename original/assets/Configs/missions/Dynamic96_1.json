@@ -1,0 +1,50 @@
+{
+    "name": "Rub your head against roof for 500m in one game.",
+    "requirement": "Travel 500m while rubbing roof in one game while on foot",
+    "retired": false,
+    "meta_data": {
+        "groupId": "16",
+        "difficulty": 2,
+        "icon": "Oddball",
+        "description": "MISSION_RUB_1",
+        "hash": "RUB_HEAD_DISTANCE",
+        "skillGrind": "SKILL",
+        "probability": "90",
+        "tag2": "DIST_SECONDARY",
+        "tag3": "JETPACK"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 500
+            },
+            {
+                "a": "rub",
+                "o": "roof",
+                "p": true,
+                "d": "end rub"
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            },
+            {
+                "a": "on",
+                "o": "foot",
+                "p": true,
+                "d": "off"
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

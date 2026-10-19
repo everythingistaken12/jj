@@ -1,0 +1,30 @@
+{
+    "reference_id": "DEATH_HEAD",
+    "tags": [
+        "Head",
+        "excludeFromRandom",
+        "bundle",
+        "premium"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_DEATH_HEAD_NAME",
+        "description": "ITEM_DEATH_HEAD_DESC",
+        "equipable": true,
+        "icon": "headDeath",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "DEATH_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

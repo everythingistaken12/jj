@@ -1,0 +1,13 @@
+{
+	"cost": 100,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_BIFF_BODY_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/BiffBarryBodyCostume.tex",
+	"rewards_locked_texture": "textures/menus/shop/itemicons/bodyBiff.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyBiff.tex",
+	"frame_texture": "textures/menus/shared/frameMetallic.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"biff_body"
+	]
+}

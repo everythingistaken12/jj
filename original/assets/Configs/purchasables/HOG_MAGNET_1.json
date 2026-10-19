@@ -1,0 +1,34 @@
+{
+    "reference_id": "HOG_MAGNET",
+    "tags": [
+        "Upgrades",
+        "Magnet"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_HOGMAGNET_NAME",
+        "description": "ITEM_HOGMAGNET_DESC",
+        "unequipable": true,
+        "icon": "vehicleHogMagnet",
+        "vehicleType": "Hog"
+    },
+    "payment_methods": {
+        "jetpack_store": "HOG_MAGNET"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 20
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 20
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

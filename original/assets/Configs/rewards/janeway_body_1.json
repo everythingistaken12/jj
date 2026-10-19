@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "JANEWAY_BODY",
+	"fallback": "coin_pack_12500"
+}

@@ -1,0 +1,21 @@
+{
+	"category": "bling_it_on_not_played_4_days",
+	"priority": 1500,
+	"message": "NOTIFICATIONS_BLING_IT_ON_NOT_PLAYED_4_DAYS",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 345600
+	},
+	"condition" : "bling_it_on_not_played_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "BLING_EVENT_TOKEN_50"
+	},
+	"deep_link_requires_token": true
+}

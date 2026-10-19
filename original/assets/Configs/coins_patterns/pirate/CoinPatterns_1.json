@@ -1,0 +1,101 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinPatternDubloons.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternAnchor.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternBuccaneer.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternJollyRoger.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternScallywag.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternHelm.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternShip.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternScurvy.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternAhoy.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternArrr.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternPirates.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternTreasure.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternYarr.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

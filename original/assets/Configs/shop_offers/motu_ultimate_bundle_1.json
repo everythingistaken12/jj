@@ -1,0 +1,10 @@
+{
+    "storeId": "MOTU_ULTIMATE_BUNDLE_2025",
+    "template": "template_4x2_backing",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [1.0, 0.6, 0.1, 1.0],
+    "itemImages": "specialBundleMotuUltimateBundleImages",
+    "infoText": "SHOP_BUTTON_BUY_NOW",
+    "backingTexture": "textures/menus/bricknetUpsell/MOTUEvent/MOTU/backing.tex"
+}

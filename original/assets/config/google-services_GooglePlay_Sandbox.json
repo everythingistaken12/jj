@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "987321215649",
+    "firebase_url": "https://jetpack-joyride-sandbox-default-rtdb.firebaseio.com",
+    "project_id": "jetpack-joyride-sandbox",
+    "storage_bucket": "jetpack-joyride-sandbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987321215649:android:0608811eb2007edcecdee0",
+        "android_client_info": {
+          "package_name": "com.halfbrick.jetpackjoyride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLo60L6pUqgW0ij1v6zDTaelgps4uqPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+{
+    "reference_id": "PHIL_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_HONESTPHIL_NAME",
+        "description": "ITEM_HONESTPHIL_DESC",
+        "equipable": true,
+        "icon": "headPhil",
+        "startWeek": 7
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 4
+    },
+    "payment_methods": {
+        "jetpack_store": "PHIL_HEAD"
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 4
+    },
+    "payment_methods": {
+        "jetpack_store": "PHIL_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

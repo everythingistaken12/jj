@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "christmas_2025_4th_of_july_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_4TH_OF_JULY_BUNDLE_VIEWS == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EAGLE_BIRD == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_4th_of_july_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_4TH_OF_JULY_BUNDLE_VIEWS == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EAGLE_BIRD == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_4th_of_july_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_4TH_OF_JULY_BUNDLE_VIEWS == 0"
+			}, 
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_EAGLE_BIRD == 0"
+			}
+		]
+	],
+	"store_id": "4TH_OF_JULY_BUNDLE",
+	"timer_id": "christmas_2025_4th_of_july_bundle",
+	"trigger_name": "4th_of_july_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_4TH_OF_JULY_BUNDLE_VIEWS"
+}

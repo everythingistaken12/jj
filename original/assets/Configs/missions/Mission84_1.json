@@ -1,0 +1,21 @@
+{
+    "name": "FLY A TOTAL OF 1500m",
+    "requirement": "Travel 1500m total",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "fly",
+        "hash": "FLY_DIST_TOTAL",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 1500
+            }
+        ]
+    }
+}

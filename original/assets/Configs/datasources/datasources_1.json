@@ -1,0 +1,18 @@
+{
+	"datasources": [
+		"event_button",
+		"event_rules_popup",
+		"shop_buy_now",
+		"preinsterstitial_offers",
+		"title_screen_experiment",
+		"event_token_doubler",
+		"title_screen_crosspromo",
+		"title_screen_daily_reward",
+		"decoy_bundle_experiment",
+		"inbox_icon_count",
+		"title_screen_gif_location",
+		"inbox_icon_hand",
+		"inbox_feature_banner",
+		"multiplayer_ui_entry"
+	]
+}

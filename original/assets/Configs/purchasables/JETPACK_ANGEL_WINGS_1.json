@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_ANGEL_WINGS",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ANGEL_WINGS_JETPACK_NAME",
+        "description": "ITEM_ANGEL_WINGS_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackA",
+        "startWeek": 38
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_ANGEL_WINGS"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 21
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 21
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

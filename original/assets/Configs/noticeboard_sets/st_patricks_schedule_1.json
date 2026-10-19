@@ -1,0 +1,30 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "special_offer_cross_promo_st_patricks"
+    },
+    {
+      "board": "daily_reward_tiers"
+    },
+    {
+      "board": "st_patricks_bard_bundle_set"
+    },
+    {
+      "board": "shamrock_bundle_set"
+    },
+    {
+      "board": "celtic_bundle_set"
+    },
+    {
+      "board": "st_patricks_bundle_set"
+    },
+    {
+      "board": "nature_bundle_set"
+    },
+    {
+      "board": "irish_myth_bundle_set"
+    }
+  ]
+}

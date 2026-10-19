@@ -1,0 +1,69 @@
+{
+  "reference_id": "TMNT_GNARLY_BUNDLE",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TMNT_GNARLY_BUNDLE_NAME",
+    "description": "todo",
+    "icon": "iconTMNTGnarlyPack",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+      "TMNT_DONATELLO_HEAD",
+      "TMNT_DONATELLO_BODY",
+      "JETPACK_PIZZA"
+    ]
+  },
+  "additional_deliverables": {
+    "TMNT_DONATELLO_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_DONATELLO_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_PIZZA": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_TMNT_SEWERS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_TMNT_LAIR": {
+      "is_currency": false,
+      "value": 1
+    },
+    "BACKGROUND_TMNT_NYC_STREETS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CONSUMABLE_REVIVE": {
+      "is_currency": false,
+      "value": 10
+    },
+    "coins": {
+      "is_currency": true,
+      "value": 20000
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.tmntgnarly.bundle",
+    "google_play_store": "com.halfbrick.jetpack.tmntgnarly.bundle",
+    "brick_bucks_store": "tmnt_gnarly_bundle"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

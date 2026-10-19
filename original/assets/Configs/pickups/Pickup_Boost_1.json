@@ -1,0 +1,143 @@
+{
+    "#default":
+    {
+    "name": "BOOST_NAME",
+    "description": "BOOST_DESC",
+    "item_id": "PICKUP_BOOST",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/boost.tex",
+    "pickup_icon": "textures/entities/pickupBoost.xml",
+    "trail_colour_start": "172,230,186,128",
+    "trail_colour_mid": "50,230,50,64",
+    "trail_colour_end": "60,130,80,0",
+    "particle_effect": "Boost_Token_Sparkle",
+    "levels": [
+        {
+
+            "cost": 1500,
+            "distanceMeters": 100,
+            "endThreshold": 30,
+            "speed": 2000
+        },
+        {
+            "cost": 3000,
+            "distanceMeters": 200,
+            "endThreshold": 30,
+            "speed": 2000
+        },
+        {
+            "cost": 17500,
+            "distanceMeters": 300,
+            "endThreshold": 40,
+            "speed": 3000
+        },
+        {
+            "cost": 85000,
+            "distanceMeters": 400,
+            "endThreshold": 50,
+            "speed": 3500
+        },
+        {
+            "cost": 425000,
+            "distanceMeters": 500,
+            "endThreshold": 50,
+            "speed": 3500
+        }
+    ]
+ 
+},
+    "#AppleArcade":
+    {
+    "name": "BOOST_NAME",
+    "description": "BOOST_DESC",
+    "item_id": "PICKUP_BOOST",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/boost.tex",
+    "pickup_icon": "textures/entities/pickupBoost.xml",
+    "trail_colour_start": "172,230,186,128",
+    "trail_colour_mid": "50,230,50,64",
+    "trail_colour_end": "60,130,80,0",
+    "particle_effect": "Boost_Token_Sparkle",
+    "required_mission_level": 5,
+    "levels": [
+        {
+
+            "cost": 2000,
+            "distanceMeters": 100,
+            "endThreshold": 30,
+            "speed": 2000
+        },
+        {
+            "cost": 4000,
+            "distanceMeters": 200,
+            "endThreshold": 30,
+            "speed": 2000
+        },
+        {
+            "cost": 8750,
+            "distanceMeters": 300,
+            "endThreshold": 40,
+            "speed": 3000
+        },
+        {
+            "cost": 18750,
+            "distanceMeters": 400,
+            "endThreshold": 50,
+            "speed": 3500
+        },
+        {
+            "cost": 21250,
+            "distanceMeters": 500,
+            "endThreshold": 50,
+            "speed": 3500
+        }
+    ]
+  },
+    "#HalfbrickPlus":
+    {
+    "name": "BOOST_NAME",
+    "description": "BOOST_DESC",
+    "item_id": "PICKUP_BOOST",
+    "spawn_weight": 25,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/boost.tex",
+    "pickup_icon": "textures/entities/pickupBoost.xml",
+    "trail_colour_start": "172,230,186,128",
+    "trail_colour_mid": "50,230,50,64",
+    "trail_colour_end": "60,130,80,0",
+    "particle_effect": "Boost_Token_Sparkle",
+    "required_mission_level": 5,
+    "levels": [
+        {
+
+            "cost": 2000,
+            "distanceMeters": 100,
+            "endThreshold": 30,
+            "speed": 2000
+        },
+        {
+            "cost": 4000,
+            "distanceMeters": 200,
+            "endThreshold": 30,
+            "speed": 2000
+        },
+        {
+            "cost": 8750,
+            "distanceMeters": 300,
+            "endThreshold": 40,
+            "speed": 3000
+        },
+        {
+            "cost": 18750,
+            "distanceMeters": 400,
+            "endThreshold": 50,
+            "speed": 3500
+        },
+        {
+            "cost": 21250,
+            "distanceMeters": 500,
+            "endThreshold": 50,
+            "speed": 3500
+        }
+    ]
+  } 
+}

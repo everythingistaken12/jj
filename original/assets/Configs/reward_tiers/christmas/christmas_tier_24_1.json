@@ -1,0 +1,13 @@
+{
+    "cost": 800,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_TOY_TRAIN_DRAGON_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons//vehicleDragonToyTrain.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons//vehicleDragonToyTrain.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "toy_train_dragon"
+        ]
+
+}

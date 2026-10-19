@@ -1,0 +1,10 @@
+{
+    "specialBundle": "nutcracker_bundle_discount",
+    "template": "template_2x2_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0],
+    "foregroundIcon": "textures/menus/shop/ItemIcons/costumeNutCracker.tex",
+    "itemImages": "specialBundleNutcrackerImages",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

@@ -1,0 +1,10 @@
+{
+    "specialBundle": "cross_promo_thanksgiving",
+    "template": "template_2x2_cross_promo_backing",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.612, 0.502, 0.208, 1.0],
+    "itemImages": "specialBundleCrossPromoThanksgiving",
+    "backingTexture": "textures/menus/bricknetupsell/ThanksGiving/backing.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

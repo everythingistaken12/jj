@@ -1,0 +1,28 @@
+{
+    "#default":
+    {
+        "cost": 28,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SANTAHAT_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headSanta.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headSanta.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "santa_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 75,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_REINDEER_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headReindeer.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headReindeer.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "reindeer_head"
+        ]
+    }
+}

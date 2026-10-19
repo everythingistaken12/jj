@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"chinese_new_year_event_available",
+				"chinese_new_year_event_inactive"
+			],
+			"board": "chinese_new_year_event_upsell"
+		}			
+	]
+}

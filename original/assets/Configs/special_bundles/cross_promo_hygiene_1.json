@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "hygiene_2026_1_cross_promo_hygiene"
+			},
+			{
+				"statistic": "CROSS_PROMO_HYGIENE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			}
+		],
+		[
+			{
+				"timerRunning": "hygiene_2026_1_cross_promo_hygiene"
+			},
+			{
+				"statistic": "CROSS_PROMO_HYGIENE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			}
+		],
+		[
+			{
+				"timerRunning": "hygiene_2026_1_cross_promo_hygiene"
+			},
+			{
+				"statistic": "CROSS_PROMO_HYGIENE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			}
+		]
+	],
+	"store_id": "CROSS_PROMO_HYGIENE",
+	"timer_id": "hygiene_2026_1_cross_promo_hygiene",
+	"trigger_name": "cross_promo_hygiene",
+	"statistic_prefix": "CROSS_PROMO_HYGIENE_VIEWS"
+}

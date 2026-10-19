@@ -1,0 +1,31 @@
+{
+	"text":{
+		"title": "DC_TITLE_1",
+		"levels": [
+			"DC_DAY_4_1",
+			"DC_DAY_4_2",
+			"DC_DAY_4_3",
+			"DC_DAY_4_4",
+			"DC_DAY_4_5",
+			"DC_DAY_4_6",
+			"DC_DAY_4_7",
+			"DC_DAY_4_8",
+			"DC_DAY_4_9",
+			"DC_DAY_4_10",
+			"DC_DAY_4_11",
+			"DC_DAY_4_12",
+			"DC_DAY_4_13",
+			"DC_DAY_4_14",
+			"DC_DAY_4_15"
+		],
+		"flavour": [
+			{ "text": "DC_NEXT_9" }
+		]
+	},
+	"rewards": [
+		{ "reward": "coins_day_4", "chance": 5 },
+		{ "reward": "revives_3", "chance": 2 },
+		{ "reward": "headstarts_10", "chance": 2 },
+		{ "reward": "super_headstarts_5", "chance": 2 }
+	]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Travel 4000m total",
+    "requirement": "Travel 4000m total",
+    "retired": false,
+    "meta_data": {
+        "groupId": "13",
+        "difficulty": 1,
+        "icon": "fly",
+        "description": "MISSION_FLY_4",
+        "hash": "FLY_DIST_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "120",
+        "tag2": "DIST_ONLY"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 4000
+            }
+        ]
+    }
+}

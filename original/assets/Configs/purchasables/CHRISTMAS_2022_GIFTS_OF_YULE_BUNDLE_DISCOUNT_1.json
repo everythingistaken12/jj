@@ -1,0 +1,57 @@
+{
+  "reference_id": "CHRISTMAS_2022_GIFTS_OF_YULE_BUNDLE_DISCOUNT",
+  "tags": [
+    "Bundle"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "additional_deliverables": {
+    "CHRISTMAS_LADY_SANTA_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CHRISTMAS_LADY_SANTA_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CUSTOM_CHRISTMAS_LIGHTS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CONSUMABLE_REVIVE": {
+      "is_currency": false,
+      "value": 10
+    },
+    "coins": {
+      "is_currency": true,
+      "value": 20000
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "metas": {
+    "name": "ITEM_CHRISTMAS_2022_GIFTS_OF_YULE_BUNDLE_NAME",
+    "icon": "iconLadySantaCostume",
+    "hidden": true,
+    "hideWhen": [
+      "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG"
+    ]
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.bundle.christmas_2022_gifts_of_yule_bundle_discount",
+    "google_play_store": "com.halfbrick.jetpack.bundle.christmas_2022_gifts_of_yule_bundle_discount",
+    "brick_bucks_store": "christmas_2022_gifts_of_yule_bundle_discount"
+  },
+  "skus": [
+    "ios",
+    "google_play",
+    "windows"
+  ]
+}

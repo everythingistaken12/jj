@@ -1,0 +1,38 @@
+{
+    "#default":
+    {
+        "cost": 1025,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_TURKEY_JETPACK_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackTurkey.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackTurkey.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_turkey"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 750,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_TURKEY_JETPACK_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackTurkey.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackTurkey.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_turkey"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 750,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_TURKEY_JETPACK_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackTurkey.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackTurkey.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_turkey"
+		]
+    }    
+}

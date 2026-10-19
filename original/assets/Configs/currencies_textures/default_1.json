@@ -1,0 +1,80 @@
+{
+	"textures": [
+		{
+			"name": "coins",
+			"texture": "textures/menus/shop/coin_64.tex"
+		},
+		{
+			"name": "EasterEggs",
+			"texture": "textures/menus/shop/iconEaster.tex"
+		},
+		{
+			"name": "age_of_zombies_token",
+			"texture": "textures/menus/shop/iconAOZ.tex"
+		},
+		{
+			"name": "Shamrocks",
+			"texture": "textures/menus/shop/iconStPatricks.tex"
+		},
+		{
+			"name": "ChineseEnvelope",
+			"texture": "Events/ChineseNewYear/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "PirateSkulls2",
+			"texture": "Events/Pirate/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "Fruit",
+			"texture": "Events/CutAndRun/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "ZappersPassed",
+			"texture": "Events/ZappyBird/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "BlingToken",
+			"texture": "Events/BlingItOn/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "ChristmasBaubles",
+			"texture": "Events/Christmas/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "SoulTokens",
+			"texture": "Events/Halloween/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "anniversary_token",
+			"texture": "Events/Anniversary/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "SoulTokens",
+			"texture": "Events/Halloween/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "ChaserTokens",
+			"texture": "Events/Chaser/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "FruitPunchTokens",
+			"texture": "Events/FruitPunch/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "BrainsAttackTokens",
+			"texture": "Events/BrainsAttack/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "motu_token",
+			"texture": "Events/MoTU/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "thanksgiving_token",
+			"texture": "Events/Thanksgiving/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		},
+		{
+			"name": "soap",
+			"texture": "Events/Hygiene/Textures/Menus/eventPopUp/currencyToken_64.tex"
+		}
+	]
+}

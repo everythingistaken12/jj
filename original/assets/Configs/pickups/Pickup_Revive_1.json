@@ -1,0 +1,11 @@
+{
+    "name": "PICKUP_COMING_SOON_NAME",
+    "description": "PICKUP_COMING_SOON_DESC",
+    "spawn_weight": 0,
+    "shop_icon": "textures/menus/shop/itemIcons/pickUps/comingSoon.tex",
+    "pickup_icon": "textures/pickups/shieldPickupIcon.tex",
+    "trail_colour_start": "255,128,128,128",
+    "trail_colour_mid": "255,128,128,128",
+    "trail_colour_end": "255,128,128,128",
+    "levels": []
+}

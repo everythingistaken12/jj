@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "5000_COINS",
+        "rewards_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "coin_pack_5000"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 975,
+    	"display_name": "REWARD_UNLOCK",
+    	"display_description": "CHRISTMAS_LADY_SANTA_BODY_NAME",
+    	"rewards_texture": "textures/menus/shop/itemicons/bodyLadySanta.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyLadySanta.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"christmas_lady_santa_body"
+    	]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 975,
+    	"display_name": "REWARD_UNLOCK",
+    	"display_description": "CHRISTMAS_LADY_SANTA_BODY_NAME",
+    	"rewards_texture": "textures/menus/shop/itemicons/bodyLadySanta.tex",
+    	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyLadySanta.tex",
+    	"fallback_rewards": "FallbackSet_Low",
+    	"guaranteed_rewards":
+    	[
+        	"christmas_lady_santa_body"
+    	]
+    }
+}

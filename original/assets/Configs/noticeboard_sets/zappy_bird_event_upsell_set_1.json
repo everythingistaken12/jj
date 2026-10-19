@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"zappy_bird_event_available",
+				"zappy_bird_event_inactive"
+			],
+			"board": "zappy_bird_event_upsell"
+		}			
+	]
+}

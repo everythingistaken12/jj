@@ -1,0 +1,42 @@
+{
+	"#default":
+    {
+        "cost": 150,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "888_COINS",
+		"rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+		"rewards_locked_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"coin_pack_888"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 50,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "888_COINS",
+		"rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+		"rewards_locked_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"coin_pack_888"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 50,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "888_COINS",
+		"rewards_texture": "textures/menus/eventPopUp/coinsIcon.tex",
+		"rewards_locked_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"coin_pack_888"
+		]
+    }
+	
+}

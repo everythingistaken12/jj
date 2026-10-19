@@ -1,0 +1,32 @@
+{
+    "reference_id": "SPONSORED_VIDEO",
+    "tags": [
+        "Premium",
+        "Bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINS_VIDEO_NAME",
+        "description": "ITEM_COINS_VIDEO_DESC",
+        "icon": "Sponsoredvideo",
+        "coins": 750,
+        "maxViewsPerDay": 3,
+        "metadata": {
+            "customBuy": "sponsoredVideo"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "750"
+        }
+    },
+    "payment_methods": {},
+    "skus": [
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

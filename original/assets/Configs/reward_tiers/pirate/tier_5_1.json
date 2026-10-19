@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 250,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "12500_COINS",
+        "rewards_texture": "textures/menus/eventPopUp/coinsIcon1.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "coin_pack_12500"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UNDEAD_PIRATE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyUndeadPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyUndeadPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "undead_pirate_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UNDEAD_PIRATE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyUndeadPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyUndeadPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "undead_pirate_body"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Cash in 1 spin token total.",
+    "requirement": "Cash in 1 final spin tokens total",
+    "retired": false,
+    "meta_data": {
+        "groupId": "24",
+        "difficulty": 1,
+        "icon": "token",
+        "hash": "SLOTS_CASH_IN",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "150",
+        "tag1": "TOKENS"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "cash in",
+                "o": "final spin token",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

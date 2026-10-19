@@ -1,0 +1,79 @@
+{
+    "dailyMissionCount": 15,
+    "rewardCurrency": "BlingToken",
+    "dailyMissions": [
+        {
+            "missionName": "COLLECT_200_BIG_DIAMOND",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_50_GAMES",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_COINS",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_MORE_THAN_100_SMALL_DIAMOND",
+            "timeToUnlock": 86400
+        },
+        {
+            "#default":
+            {
+                "missionName": "PLAY_15_GAMES_WITH_SAM",
+                "timeToUnlock": 172800
+            },
+            "#HalfbrickPlus":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 172800
+            },
+            "#AppleArcade":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 172800
+            }
+        },
+        {
+            "missionName": "COLLECT_12500_COINS",
+            "timeToUnlock": 259200
+        },
+        {
+            "missionName": "PLAY_3_GAMES_WITH_GOLD_MECH",
+            "timeToUnlock": 345600
+        },
+        {
+            "missionName": "USE_10_REVIVE",
+            "timeToUnlock": 432000
+        },
+        {
+            "missionName": "COLLECT_1000_SMALL_DIAMOND",
+            "timeToUnlock": 518400
+        },
+        {
+            "missionName": "COLLECT_100_SPIN_TOKENS",
+            "timeToUnlock": 604800
+        },
+        {
+            "missionName": "RUN_75000_TOTAL_DISTANCE",
+            "timeToUnlock": 691200
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_MORE_THAN_10_BIG_DIAMOND",
+            "timeToUnlock": 777600
+        },
+        {
+            "missionName": "RUN_3000_TOTAL_DISTANCE_VEHICLE",
+            "timeToUnlock": 864000
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_2500_DISTANCE",
+            "timeToUnlock": 950400
+        },
+        {
+            "missionName": "PICKUP_15_VEHICLE_TOKENS",
+            "timeToUnlock": 1036800
+        }
+    ]
+}

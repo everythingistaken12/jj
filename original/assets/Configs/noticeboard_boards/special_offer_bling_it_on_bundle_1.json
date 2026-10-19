@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Bling_It_On_Bundle",
+    "screen": "NoticeBoardBlingItOnBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "BLING_IT_ON_BUNDLE"
+}

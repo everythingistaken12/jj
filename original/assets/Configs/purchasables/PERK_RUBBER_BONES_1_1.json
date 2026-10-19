@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_RUBBER_BONES_1",
+    "tags": [
+        "Gadget",
+        "tier1"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_RUBBER_BONES_NAME",
+        "description": "PERK_RUBBER_BONES_DESC",
+        "icon": "rubberBall",
+        "equipable": true,
+        "unequipable": true
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_RUBBER_BONES_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 5
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 5
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

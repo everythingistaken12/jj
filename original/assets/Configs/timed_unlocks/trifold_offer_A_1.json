@@ -1,0 +1,16 @@
+{
+	"conditions": [
+		[
+			{
+				"statistic": "BEST_DISTANCE > 1500"
+			}
+		]
+	],
+	"auto_start": false,
+	"datasource_metas": {
+		"button_text": "TRIFOLD_1500M_TITLE_SCREEN_NAME",
+		"button_icon": "textures/menus/offers/button_v1_pic1.tex",
+		"button_icon_back": "textures/menus/offers/button_v2_base.tex"
+	},
+	"timer_length_seconds": 259200
+}

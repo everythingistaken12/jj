@@ -1,0 +1,26 @@
+{
+	"vertical_offset" : 28.0,
+	"vertical_offset_for_bird" : 38.0,
+	"spine_atlas": "textures/SpineAnimation/effects.atlas",
+	"spine_animation": "textures/SpineAnimation/emotes.json",
+	"emotes" : [
+		{
+			"id" : 1,
+			"sfx": "emote_angry",
+			"animation" : "angry",
+			"animation_offscreen" : "angryOffscreen"
+		},
+		{
+			"id" : 2,
+			"sfx": "emote_happy",
+			"animation" : "happy",
+			"animation_offscreen" : "happyOffscreen"
+		},
+		{
+			"id" : 3,
+			"sfx": "emote_sad",
+			"animation" : "sad",
+			"animation_offscreen" : "sadOffscreen"
+		}
+	]
+}

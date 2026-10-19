@@ -1,0 +1,14 @@
+{
+    "cost": 25,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "7777_COINS",
+    "frame_texture": "textures/menus/shared/frameGold.tex",
+    "rewards_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem0.tex",
+    "rewards_quantity": 1,
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "coin_pack_7777"
+    ]
+}

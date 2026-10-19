@@ -1,0 +1,19 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_unicorn_jetpack",
+        "nature_bundle_timer_running"
+      ],
+      "board": "special_offer_nature_bundle"
+    },
+    {
+      "mediation": [
+        "not_purchased_unicorn_jetpack",
+        "nature_bundle_discount_timer_running"
+      ],
+      "board": "special_offer_nature_bundle"
+    }
+  ]
+}

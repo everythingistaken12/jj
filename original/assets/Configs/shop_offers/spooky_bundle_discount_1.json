@@ -1,0 +1,9 @@
+{
+    "specialBundle": "spooky_bundle_discount",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [0.471, 0.180, 0.647, 1.0],
+    "itemImages": "specialBundleSpookyBundle",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

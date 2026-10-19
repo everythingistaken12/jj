@@ -1,0 +1,21 @@
+{
+    "gramophone_enabled": true,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/buntingAnniversary.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        }, 
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/wallRibbonsAnniversary.xml",
+            "offset_x": 100,
+            "offset_y": 80
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/wallRibbonsAnniversary.xml",
+            "offset_x": -120,
+            "offset_y": 80
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "star_trek_starship_bundle_timer_running",
+        "not_purchased_starship"
+      ],
+      "board": "special_offer_star_trek_starship_bundle"
+    }
+  ]
+}

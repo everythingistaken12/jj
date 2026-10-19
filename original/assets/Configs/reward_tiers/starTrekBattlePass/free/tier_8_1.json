@@ -1,0 +1,11 @@
+{
+	"cost": 750,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_KIRK_HEAD_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/iconKirkPack.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headKirk.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"kirk_head"
+	]
+}

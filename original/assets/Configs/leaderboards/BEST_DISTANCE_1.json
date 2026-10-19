@@ -1,0 +1,16 @@
+{
+    "provider_ids": {
+        "amazon": "",
+        "game_center": 
+        {
+            "default": "588234",
+            "AppleArcade": "best_distance_aa",
+            "HalfbrickPlus": "best_distance_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQKQ",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQAA"
+        }
+    }
+}

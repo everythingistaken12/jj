@@ -1,0 +1,29 @@
+{
+    "reference_id": "DELOREAN_MAGNET",
+    "tags": [
+        "Magnet",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_MAGNET_DELOREAN_NAME",
+        "description": "VEHICLE_MAGNET_DELOREAN_DESC",
+        "unequipable": true,
+        "icon": "vehicleDeloreanMagnet",
+        "hideUntil": "VEHICLE_SKIN_DELOREAN",
+        "vehicleType": "Delorean"
+    },
+    "payment_methods": {
+        "jetpack_store": "DELOREAN_MAGNET"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "reference_id": "MARCO_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_MARCO_HEAD_NAME",
+    "description": "ITEM_MARCO_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeMarco",
+    "hidden": true,
+    "hideWhen": "MARCO_HEAD"
+  },
+  "additional_deliverables": {
+    "MARCO_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "MARCO_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.marcocostume",
+    "google_play_store": "com.halfbrick.jetpack.marcocostume",
+    "brick_bucks_store": "marco_costume"    
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

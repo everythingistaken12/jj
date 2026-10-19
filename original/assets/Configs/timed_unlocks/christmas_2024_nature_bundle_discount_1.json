@@ -1,0 +1,11 @@
+{
+	"notification_icon": "whenRunning",
+	"auto_start": true,
+	"timer_length_date_start": "2024-12-06T00:00",
+	"timer_length_date_end": "2025-01-03T00:00",
+	"meta": {
+		"shutdown_conditions": {
+			"itemOwned": "JETPACK_UNICORN"
+		}
+	}
+}

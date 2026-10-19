@@ -1,0 +1,8 @@
+{
+	"type": "item",
+	"item_id": "CONSUMABLE_REVIVE",
+	"display_name": "ITEM_QUICKREVIVE3PACK_NAME",
+	"display_description": "ITEM_QUICKREVIVE3PACK_DESC",
+	"quantity": 3,
+	"icon": "textures/menus/shop/ItemIcons/reviveX3.tex"
+}

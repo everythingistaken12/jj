@@ -1,0 +1,317 @@
+{
+	"diamondPercent": 5,
+	"goldPercent": 25,
+	"silverPercent": 50,
+	"bronzePercent": 80,
+	"stonePercent": 100,
+	"entries":[
+		{
+			"name": "Bubbles O'Malley",
+			"score": 24987
+		},
+		{
+			"name": "Zuzu P. Fizzypop",
+			"score": 24765
+		},
+		{
+			"name": "Sir Stumblesalot",
+			"score": 23789
+		},
+		{
+			"name": "Lola Gigglewater",
+			"score": 23954
+		},
+		{
+			"name": "Balthazar McSnazz",
+			"score": 25000
+		},
+		{
+			"name": "Professor Peculiar",
+			"score": 23123
+		},
+		{
+			"name": "Zara Sparklepants",
+			"score": 22056
+		},
+		{
+			"name": "Baron Von Wacky",
+			"score": 21234
+		},
+		{
+			"name": "Pixie P. Fizzypop",
+			"score": 20567
+		},
+		{
+			"name": "Ravi R. Ridiculous",
+			"score": 22567
+		},
+		{
+			"name": "Samantha Sillius Maximus",
+			"score": 18765
+		},
+		{
+			"name": "Bingo B. Bizarro",
+			"score": 17890
+		},
+		{
+			"name": "Crazy Chris Chaos",
+			"score": 23543
+		},
+		{
+			"name": "Daisy D. Dillydally",
+			"score": 12987
+		},
+		{
+			"name": "Raj R. Ridonkulous",
+			"score": 16234
+		},
+		{
+			"name": "Mona M. Mirthstone",
+			"score": 17456
+		},
+		{
+			"name": "Nigel N. Nutmeg",
+			"score": 11234
+		},
+		{
+			"name": "Olga O. Oddfellow",
+			"score": 9987
+		},
+		{
+			"name": "Penny P. Peculiarpants",
+			"score": 10987
+		},
+		{
+			"name": "Newbie N. Nimble",
+			"score": 10456
+		},
+		{
+			"name": "Gizmo G. Gadgeteer",
+			"score": 8256
+		},
+		{
+			"name": "Whizbang W. Wonder",
+			"score": 5123
+		},
+		{
+			"name": "Topsy T. Turvy",
+			"score": 6123
+		},
+		{
+			"name": "Nina N. Nutty",
+			"score": 9876
+		},
+		{
+			"name": "Felicity F. Fizzlebottom",
+			"score": 6897
+		},
+		{
+			"name": "Quincy Q. Quirkmire",
+			"score": 5923
+		},
+		{
+			"name": "Yara Y. Yodel",
+			"score": 4876
+		},
+		{
+			"name": "Waldo W. Wobble",
+			"score": 3234
+		},
+		{
+			"name": "Xander X. Xanadu",
+			"score": 2334
+		},
+		{
+			"name": "Zelda Z. Zany",
+			"score": 1276
+		},
+		{
+			"name": "Fredrick F. Funtimes",
+			"score": 5643
+		},
+		{
+			"name": "Gertie G. Guffaw",
+			"score": 7432
+		},
+		{
+			"name": "Harriet H. Hilarity",
+			"score": 24567
+		},
+		{
+			"name": "Ignatius I. Imaginarium",
+			"score": 18765
+		},
+		{
+			"name": "Jasper J. Jester",
+			"score": 24543
+		},
+		{
+			"name": "Kiki K. Kook",
+			"score": 19456
+		},
+		{
+			"name": "Lenny L. Laughalot",
+			"score": 21012
+		},
+		{
+			"name": "Molly M. Mischief",
+			"score": 15234
+		},
+		{
+			"name": "Ned N. Noodles",
+			"score": 9432
+		},
+		{
+			"name": "Opal O. Outlandish",
+			"score": 7567
+		},
+		{
+			"name": "Pip P. Peculiar",
+			"score": 6897
+		},
+		{
+			"name": "Quinn Q. Quizzical",
+			"score": 9456
+		},
+		{
+			"name": "Roxy R. Raucous",
+			"score": 23456
+		},
+		{
+			"name": "Sylvia S. Sillypants",
+			"score": 15987
+		},
+		{
+			"name": "Theo T. Ticklish",
+			"score": 10432
+		},
+		{
+			"name": "Uma U. Unusual",
+			"score": 7543
+		},
+		{
+			"name": "Vinnie V. Vortex",
+			"score": 21432
+		},
+		{
+			"name": "Wendy W. Whimsy",
+			"score": 20345
+		},
+		{
+			"name": "Xena X. Xenial",
+			"score": 18234
+		},
+		{
+			"name": "Yvonne Y. Yippee",
+			"score": 17654
+		},
+		{
+			"name": "Zeke Z. Zigzag",
+			"score": 15678
+		},
+		{
+			"name": "Arlo A. Absurd",
+			"score": 13456
+		},
+		{
+			"name": "Bella B. Buffoon",
+			"score": 9234
+		},
+		{
+			"name": "Calvin C. Capers",
+			"score": 14567
+		},
+		{
+			"name": "Darla D. Droll",
+			"score": 12678
+		},
+		{
+			"name": "Eddie E. Eccentric",
+			"score": 17654
+		},
+		{
+			"name": "Fanny F. Frolic",
+			"score": 11234
+		},
+		{
+			"name": "George G. Giggles",
+			"score": 15321
+		},
+		{
+			"name": "Hank H. Hoopla",
+			"score": 14678
+		},
+		{
+			"name": "Ivy I. Irreverent",
+			"score": 18765
+		},
+		{
+			"name": "Jack J. Jolly",
+			"score": 20345
+		},
+		{
+			"name": "Kelly K. Knavish",
+			"score": 17678
+		},
+		{
+			"name": "Lyla L. Loopy",
+			"score": 19876
+		},
+		{
+			"name": "Marty M. Mirthful",
+			"score": 15432
+		},
+		{
+			"name": "Nina N. Nutty",
+			"score": 13765
+		},
+		{
+			"name": "Ollie O. Oddity",
+			"score": 13421
+		},
+		{
+			"name": "Patty P. Peculiar",
+			"score": 17865
+		},
+		{
+			"name": "Quinn Q. Quixotic",
+			"score": 20765
+		},
+		{
+			"name": "Ruby R. Riot",
+			"score": 24954
+		},
+		{
+			"name": "Stanley S. Sillypants",
+			"score": 4337
+		},
+		{
+			"name": "Timmy T. Tickle",
+			"score": 4211
+		},
+		{
+			"name": "Una U. Unbelievable",
+			"score": 3566
+		},
+		{
+			"name": "Vera V. Vaudeville",
+			"score": 2304
+		},
+		{
+			"name": "Walter W. Whacky",
+			"score": 1982
+		},
+		{
+			"name": "Xavier X. Xylophone",
+			"score": 1144
+		},
+		{
+			"name": "Yancy Y. Yahoo",
+			"score": 1175
+		},
+		{
+			"name": "Zara Z. Zippy",
+			"score": 502
+		}
+	]
+}

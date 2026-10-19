@@ -1,0 +1,38 @@
+{
+    "#default":
+    {
+        "cost": 400,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_TURKEY_BODY_NAME",	
+		"rewards_texture": "textures/menus/shop/itemicons/bodyTurkey.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyTurkey.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"turkey_body"
+		]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_TURKEY_BODY_NAME",	
+		"rewards_texture": "textures/menus/shop/itemicons/bodyTurkey.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyTurkey.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"turkey_body"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_TURKEY_BODY_NAME",	
+		"rewards_texture": "textures/menus/shop/itemicons/bodyTurkey.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyTurkey.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"turkey_body"
+		]
+    }    
+}

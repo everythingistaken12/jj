@@ -1,0 +1,364 @@
+{
+    "categoryGlow": "buttonVehiclesGlow",
+    "headerGlow": "HeadingGlowVehicles",
+    "itemGlow": "itemsGlowVehicles",
+    "itemGroups":
+    [
+        {
+            "string": "ITEM_PURCHASE_DIVIDER",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerBlue",
+            "coloursBase": "51,156,255",
+            "coloursMid": "229,243,255",
+            "coloursStroke": "10,31,51",
+            "timeSensitive": "VEHICLE_JETSKI|CHRISTMAS_BUNDLE",
+            "#AppleArcade":
+            {
+                "items":
+                [
+                    "CHRISTMAS_BUNDLE"
+                ]
+            },
+            "#HalfbrickPlus":
+            {
+                "items":
+                [
+                    "CHRISTMAS_BUNDLE"
+                ]
+            },
+            "#default":
+            {
+                "items":
+                [
+                    "CHRISTMAS_BUNDLE",
+                    "VEHICLE_JETSKI",
+                    "VEHICLE_ICESKATES"
+                ]
+            },
+            "_commentedItems":
+            [
+                "VEHICLE_SLEIGH"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_ICESKATES_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerIceskates",
+            "coloursBase": "252, 119, 112, 255",
+            "coloursMid": "255, 201, 201, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_ICESKATES",
+                "ICESKATES_MAGNET"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_SAM_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerSam",
+            "coloursBase": "255, 220, 53, 255",
+            "coloursMid": "255, 255, 173, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_SAM",
+                "VEHICLE_ST_SAM",
+                "VEHICLE_SKIN_ST_SAM",
+                "VEHICLE_UNCLE_SAM",
+                "VEHICLE_SKIN_UNCLE_SAM",
+                "VEHICLE_MEDIC_SAM",
+                "VEHICLE_SKIN_MS_SAM",
+                "VEHICLE_SKIN_MEDIC_SAM",
+                "VEHICLE_GOLD_SAM",
+                "VEHICLE_SKIN_GOLD_SAM",
+                "VEHICLE_HALLOWEEN_SAM",
+                "VEHICLE_SKIN_HALLOWEEN_SAM",
+                "VEHICLE_BTTF_SAM",
+                "VEHICLE_SKIN_BTTF_SAM",
+                "VEHICLE_PIRATE_SAM",
+                "VEHICLE_SKIN_PIRATE_SAM",
+                "VEHICLE_EASTER_SAM",
+                "VEHICLE_SKIN_EASTER_SAM",
+                "VEHICLE_STPATRICKS_SAM",
+                "VEHICLE_SKIN_STPATRICKS_SAM",
+                "VEHICLE_CHRISTMAS_SAM",
+                "VEHICLE_SKIN_CHRISTMAS_SAM",
+                "VEHICLE_CNY_SAM",
+                "VEHICLE_SKIN_CNY_SAM",
+                "VEHICLE_GB_SAM",
+                "VEHICLE_SKIN_GB_SAM",
+                "VEHICLE_TMNT_SAM",
+                "VEHICLE_SKIN_TMNT_SAM",
+                "VEHICLE_AOZ_CAVEMAN_SAM",
+                "VEHICLE_SKIN_AOZ_CAVEMAN_SAM",
+                "VEHICLE_MOTU_SAM",
+                "VEHICLE_SKIN_MOTU_SAM"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_HOG_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerHog",
+            "coloursBase": "140, 172, 205, 255",
+            "coloursMid": "169, 224, 238, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_HOG",
+                "VEHICLE_GOLD_HOG",
+                "HOG_MAGNET",
+                "VEHICLE_SKIN_DULLAHAN",
+                "VEHICLE_SKIN_NIAN_HOG",
+                "VEHICLE_SKIN_HOVERHOG",
+                "VEHICLE_SKIN_SCOOTER",
+                "VEHICLE_SKIN_MS_HOG",
+                "VEHICLE_SKIN_PIRATE_HOG",
+                "VEHICLE_SKIN_LNY_HOG",
+                "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_TELEPORTER_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerTeleporter",
+            "coloursBase": "220, 53, 255, 255",
+            "coloursMid": "255, 173, 255, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_TELEPORTER",
+                "VEHICLE_GOLD_TELEPORTER",
+                "TELEPORTER_MAGNET",
+                "VEHICLE_SKIN_EGG_TELEPORTER",
+                "VEHICLE_ST_TELEPORTER",
+                "VEHICLE_SKIN_ST_TELEPORTER",
+                "VEHICLE_SKIN_CELTIC_TELEPORTER",
+                "VEHICLE_SKIN_BARRYBOX",
+                "VEHICLE_SKIN_YIN_YANG_TELEPORTER",
+                "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER",
+                "VEHICLE_SKIN_WASHER"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_DELOREAN_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerDragon",
+            "coloursBase": "252, 119, 112, 255",
+            "coloursMid": "255, 201, 201, 255",
+            "coloursStroke": "10,31,51",
+            "hideUntil": "VEHICLE_SKIN_DELOREAN",
+            "items":
+            [
+                "VEHICLE_SKIN_DELOREAN",
+                "DELOREAN_MAGNET"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_GRAVITY_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerGravity",
+            "coloursBase": "77, 148, 207, 255",
+            "coloursMid": "195, 255, 255, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_GRAVITY",
+                "VEHICLE_GOLD_GRAVITY",
+                "GRAVITY_SUIT_MAGNET",
+                "VEHICLE_SKIN_MAGNETSUIT",
+                "VEHICLE_SKIN_VAMPIRE",
+                "VEHICLE_GB_GOZER",
+                "VEHICLE_SKIN_GB_GOZER"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_HOVERBOARD_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerHog",
+            "coloursBase": "252, 119, 112, 255",
+            "coloursMid": "255, 201, 201, 255",
+            "coloursStroke": "10,31,51",
+            "hideUntil": "VEHICLE_SKIN_HOVERBOARD",
+            "items":
+            [
+                "VEHICLE_SKIN_HOVERBOARD",
+                "HOVERBOARD_MAGNET"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_LIL_STOMPER_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerMech",
+            "coloursBase": "241, 110, 101, 255",
+            "coloursMid": "255, 229, 179, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_LIL_STOMPER",
+                "VEHICLE_GOLD_MECH",
+                "STOMPER_MAGNET",
+                "VEHICLE_SKIN_TRUFFLES_MECH",
+                "VEHICLE_SKIN_TURKEY_TREX",
+                "VEHICLE_SKIN_SPACE_PIRATE_MECH",
+                "VEHICLE_SKIN_PIRATE_MECH",
+                "VEHICLE_SKIN_YETI_MECH",
+                "VEHICLE_SKIN_OX",
+                "VEHICLE_SKIN_RABBIT_MECH",
+                "VEHICLE_SKIN_GORILLA",
+                "VEHICLE_SKIN_SEAHORSE",
+                "VEHICLE_SKIN_MS_MECH",
+                "VEHICLE_ST_MECH",
+                "VEHICLE_SKIN_ST_MECH",
+                "VEHICLE_GB_MECH",
+                "VEHICLE_SKIN_GB_MECH",
+                "VEHICLE_TMNT_MECH",
+                "VEHICLE_SKIN_TMNT_MECH",
+                "VEHICLE_SKIN_ANNIVERSARY_MECH",
+                "VEHICLE_ANNIVERSARY_MECH",
+                "VEHICLE_SKIN_ZOMBIETREX",
+                "VEHICLE_GOLD_ZOMBIETREX_CROSS_PROMO",
+                "VEHICLE_GOLD_ZOMBIETREX",
+                "VEHICLE_SKIN_ROCK_MECH",
+                "VEHICLE_MOTU_BATTLE_CAT",
+                "VEHICLE_SKIN_MOTU_BATTLE_CAT"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_MR_CUDDLES_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerDragon",
+            "coloursBase": "118, 188, 73, 255",
+            "coloursMid": "230, 255, 135, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_MR_CUDDLES",
+                "VEHICLE_GOLD_DRAGON",
+                "DRAGON_MAGNET",
+                "VEHICLE_SKIN_NIMBUS",
+                "VEHICLE_SKIN_BONEDRAGON",
+                "VEHICLE_SKIN_CNY_DRAGON",
+                "VEHICLE_SKIN_ICE_DRAGON",
+                "VEHICLE_SKIN_COLOSSATRON",
+                "VEHICLE_SKIN_MS_DRAGON",
+                "VEHICLE_ST_DRAGON",
+                "VEHICLE_SKIN_ST_DRAGON",
+                "VEHICLE_GB_DRAGON",
+                "VEHICLE_SKIN_GB_DRAGON",
+                "VEHICLE_SKIN_DISCO_DRAGON",
+                "VEHICLE_SKIN_CELTIC_RUNE_DRAGON",
+                "VEHICLE_GOLD_COLOSSATRON",
+                "VEHICLE_GOLD_COLOSSATRON_CROSS_PROMO",
+                "VEHICLE_SKIN_CHRISTMAS_DRAGON",
+                "VEHICLE_SKIN_PINK_BUNNY_DRAGON",
+                "VEHICLE_SKIN_BROOMSTICK_DRAGON",
+                "VEHICLE_SKIN_ZOMBIE_DRAGON",
+                "VEHICLE_SKIN_TOY_TRAIN_DRAGON",
+                "VEHICLE_SKIN_CNY_SNAKE"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_BIRD_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerBird",
+            "coloursBase": "70, 198, 101, 255",
+            "coloursMid": "178, 255, 172, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_BIRD",
+                "VEHICLE_GOLD_BIRD",
+                "BIRD_MAGNET",
+                "VEHICLE_SKIN_MECHAMICRO",
+                "VEHICLE_SKIN_CNY_PIG",
+                "VEHICLE_SKIN_CHICKEN",
+                "VEHICLE_SKIN_TURKEY",
+                "VEHICLE_SKIN_SUPPLY_BIRD",
+                "VEHICLE_SKIN_EAGLE",
+                "VEHICLE_SKIN_MS_BIRD",
+                "VEHICLE_ST_BIRD",
+                "VEHICLE_SKIN_ST_BIRD",
+                "VEHICLE_SKIN_HALLOWEEN_BIRD",
+                "VEHICLE_SKIN_WOODEN_DRAGON_BIRD",
+                "VEHICLE_SKIN_ST_PATRICKS_BIRD",
+                "VEHICLE_SKIN_ZOMBIE_BIRD",
+                "VEHICLE_MOTU_TALON_FIGHTER",
+                "VEHICLE_SKIN_MOTU_TALON_FIGHTER"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_STARSHIP_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerStarship",
+            "coloursBase": "252, 119, 112, 255",
+            "coloursMid": "255, 201, 201, 255",
+            "coloursStroke": "10,31,51",
+            "hideUntil": "VEHICLE_SKIN_STARSHIP",
+            "items":
+            [
+                "VEHICLE_STARSHIP",
+                "VEHICLE_SKIN_STARSHIP",
+                "STARSHIP_MAGNET"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_ECTO_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerEcto",
+            "coloursBase": "252, 119, 112, 255",
+            "coloursMid": "255, 201, 201, 255",
+            "coloursStroke": "10,31,51",
+            "hideUntil": "VEHICLE_SKIN_ECTO",
+            "items":
+            [
+                "VEHICLE_ECTO",
+                "VEHICLE_SKIN_ECTO",
+                "ECTO_MAGNET",
+                "VEHICLE_ECTO_AFTERLIFE",
+                "VEHICLE_SKIN_ECTO_AFTERLIFE"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_SLEIGH_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerSleigh",
+            "coloursBase": "252, 119, 112, 255",
+            "coloursMid": "255, 201, 201, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_SLEIGH",
+                "VEHICLE_GOLD_SLEIGH",
+                "SLEIGH_MAGNET",
+                "VEHICLE_SKIN_CHARIOT",
+                "VEHICLE_SKIN_GINGER_BREAD_SLEIGH",
+                "VEHICLE_SKIN_TURTLE_SLEIGH"
+            ]
+        },
+        {
+            "string": "VEHICLE_SKIN_JETSKI_NAME",
+            "arrowsDirection": "arrowDown",
+            "arrowsAnim": "headerJetski",
+            "coloursBase": "143, 208, 31, 255",
+            "coloursMid": "247, 253, 79, 255",
+            "coloursStroke": "10,31,51",
+            "items":
+            [
+                "VEHICLE_SKIN_JETSKI",
+                "VEHICLE_GOLD_JETSKI",
+                "JETSKI_MAGNET",
+                "VEHICLE_SKIN_RUBBER_DUCKY",
+                "VEHICLE_SKIN_SUBMARINE",
+                "VEHICLE_SKIN_PIRATE_JETSKI",
+                "VEHICLE_SKIN_MS_JETSKI",
+                "VEHICLE_SKIN_CNY_JETSKI",
+                "VEHICLE_TMNT_JETSKI_INCLUDED",
+                "VEHICLE_TMNT_JETSKI",
+                "VEHICLE_SKIN_TMNT_JETSKI",
+                "VEHICLE_SKIN_EASTER_HOLOGRAM_JETSKI",
+                "VEHICLE_SKIN_YELLOW_SUBMARINE_JETSKI"
+            ]
+        }
+    ]
+}

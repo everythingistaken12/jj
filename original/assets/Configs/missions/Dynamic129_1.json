@@ -1,0 +1,32 @@
+{
+    "name": "Slide a total of 25m on your face",
+    "requirement": "Travel 25m while sliding on face",
+    "retired": false,
+    "meta_data": {
+        "groupId": "23",
+        "difficulty": 2,
+        "icon": "Oddball",
+        "description": "MISSION_FLY_7",
+        "hash": "SLIDE_DIST_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "probability": "72",
+        "tag2": "DIST_SECONDARY"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 25
+            },
+            {
+                "a": "slide on",
+                "o": "face",
+                "p": true,
+                "d": "stop slide"
+            }
+        ]
+    }
+}

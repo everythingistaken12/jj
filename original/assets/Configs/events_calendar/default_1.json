@@ -1,0 +1,483 @@
+{
+    "#default":
+    {
+        "events":
+        [
+            {
+                "instance_id": "cny_2026",
+                "event": "chinese_new_year",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-02-13T00:00+00:00",
+                "end_date": "2026-03-06T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "fruit_punch_2026_1",
+                "event": "fruit_punch",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-03-06T00:00+00:00",
+                "end_date": "2026-03-13T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "stpatricks_2026",
+                "event": "stpatricks",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-03-13T00:00+00:00",
+                "end_date": "2026-04-03T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "easter_2026",
+                "event": "easter",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-04-03T00:00+00:00",
+                "end_date": "2026-04-24T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_2",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-04-24T00:00+00:00",
+                "end_date": "2026-05-08T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "hygiene_2026_1",
+                "event": "hygiene",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-05-08T00:00+00:00",
+                "end_date": "2026-05-22T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "motu_2026_2",
+                "event": "motu",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-05-22T00:00+00:00",
+                "end_date": "2026-06-12T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "age_of_zombies_2026_1",
+                "event": "age_of_zombies",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-06-12T00:00+00:00",
+                "end_date": "2026-06-26T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "pirate_2026",
+                "event": "pirate",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-06-26T00:00+00:00",
+                "end_date": "2026-07-17T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "fruit_punch_2026_2",
+                "event": "fruit_punch",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-17T00:00+00:00",
+                "end_date": "2026-07-24T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "zappy_bird_2026_3",
+                "event": "zappy_bird",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-24T00:00+00:00",
+                "end_date": "2026-07-31T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_3",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-31T00:00+00:00",
+                "end_date": "2026-08-14T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "motu_2026_3",
+                "event": "motu",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-08-14T00:00+00:00",
+                "end_date": "2026-09-04T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "anniversary_2026",
+                "event": "anniversary",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-09-04T00:00+00:00",
+                "end_date": "2026-09-18T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "hygiene_2026_2",
+                "event": "hygiene",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-09-18T00:00+00:00",
+                "end_date": "2026-10-02T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_4",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-10-02T00:00+00:00",
+                "end_date": "2026-10-16T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "halloween_2026",
+                "event": "halloween",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-10-16T00:00+00:00",
+                "end_date": "2026-11-06T00:00+00:00",
+                "force_event": true
+            }
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "events":
+        [
+            {
+                "instance_id": "cny_2026",
+                "event": "chinese_new_year",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-02-13T00:00+00:00",
+                "end_date": "2026-03-06T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "fruit_punch_2026_1",
+                "event": "fruit_punch",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-03-06T00:00+00:00",
+                "end_date": "2026-03-13T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "st_patricks_2026",
+                "event": "stpatricks",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-03-13T00:00+00:00",
+                "end_date": "2026-04-03T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "easter_2026",
+                "event": "easter",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-04-03T00:00+00:00",
+                "end_date": "2026-04-24T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_2",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-04-24T00:00+00:00",
+                "end_date": "2026-05-08T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "hygiene_2026_1",
+                "event": "hygiene",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-05-08T00:00+00:00",
+                "end_date": "2026-05-22T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "motu_2026_1",
+                "event": "motu",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-05-22T00:00+00:00",
+                "end_date": "2026-06-12T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "age_of_zombies_2026_1",
+                "event": "age_of_zombies",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-06-12T00:00+00:00",
+                "end_date": "2026-06-26T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "pirate_2026",
+                "event": "pirate",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-06-26T00:00+00:00",
+                "end_date": "2026-07-17T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "fruit_punch_2026_2",
+                "event": "fruit_punch",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-17T00:00+00:00",
+                "end_date": "2026-07-24T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "zappy_bird_2026_3",
+                "event": "zappy_bird",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-24T00:00+00:00",
+                "end_date": "2026-07-31T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_3",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-31T00:00+00:00",
+                "end_date": "2026-08-14T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "motu_2026_3",
+                "event": "motu",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-08-14T00:00+00:00",
+                "end_date": "2026-09-04T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "anniversary_2026",
+                "event": "anniversary",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-09-04T00:00+00:00",
+                "end_date": "2026-09-18T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "hygiene_2026_2",
+                "event": "hygiene",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-09-18T00:00+00:00",
+                "end_date": "2026-10-02T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_4",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-10-02T00:00+00:00",
+                "end_date": "2026-10-16T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "halloween_2026",
+                "event": "halloween",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-10-16T00:00+00:00",
+                "end_date": "2026-11-06T00:00+00:00",
+                "force_event": true
+            }
+        ],
+        "all_events":
+        [
+            "anniversary",
+            "bling_it_on",
+            "chinese_new_year",
+            "cut_and_run",
+            "thanksgiving",
+            "easter",
+            "pirate",
+            "halloween",
+            "stpatricks",
+            "zappy_bird",
+            "christmas",
+            "fruit_punch",
+            "hygiene",
+            "chaser",
+            "brains_attack",
+            "age_of_zombies",
+            "motu"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "events":
+        [
+            {
+                "instance_id": "fruit_punch_2026_1",
+                "event": "fruit_punch",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-03-05T00:00+00:00",
+                "end_date": "2026-03-12T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "st_patricks_2026",
+                "event": "stpatricks",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-03-12T00:00+00:00",
+                "end_date": "2026-04-02T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "easter_2026",
+                "event": "easter",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-04-02T00:00+00:00",
+                "end_date": "2026-04-23T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_2",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-04-23T00:00+00:00",
+                "end_date": "2026-05-07T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "hygiene_2026_1",
+                "event": "hygiene",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-05-07T00:00+00:00",
+                "end_date": "2026-05-21T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "aoz_2026_2",
+                "event": "age_of_zombies",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-05-21T00:00+00:00",
+                "end_date": "2026-06-18T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "zappy_bird_2026_2",
+                "event": "zappy_bird",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-06-18T00:00+00:00",
+                "end_date": "2026-06-25T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "pirates_2026",
+                "event": "pirate",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-06-25T00:00+00:00",
+                "end_date": "2026-07-16T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "fruit_punch_2026_2",
+                "event": "fruit_punch",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-16T00:00+00:00",
+                "end_date": "2026-07-23T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "zappy_bird_2026_3",
+                "event": "zappy_bird",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-23T00:00+00:00",
+                "end_date": "2026-07-30T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_3",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-07-30T00:00+00:00",
+                "end_date": "2026-08-13T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "age_of_zombies_2026_3",
+                "event": "age_of_zombies",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-08-13T00:00+00:00",
+                "end_date": "2026-09-03T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "anniversary_2026",
+                "event": "anniversary",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-09-03T00:00+00:00",
+                "end_date": "2026-09-17T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "hygiene_2026_2",
+                "event": "hygiene",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-09-17T00:00+00:00",
+                "end_date": "2026-10-01T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "bling_it_on_2026_4",
+                "event": "bling_it_on",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-10-01T00:00+00:00",
+                "end_date": "2026-10-15T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "halloween_2026",
+                "event": "halloween",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-10-15T00:00+00:00",
+                "end_date": "2026-11-05T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "age_of_zombies_2026_4",
+                "event": "age_of_zombies",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-11-05T00:00+00:00",
+                "end_date": "2026-11-26T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "thanksgiving_2026",
+                "event": "thanksgiving",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-11-26T00:00+00:00",
+                "end_date": "2026-12-10T00:00+00:00",
+                "force_event": true
+            },
+            {
+                "instance_id": "christmas_2026",
+                "event": "christmas",
+                "incoming_alert_date": "2019-02-22T00:00+00:00",
+                "start_date": "2026-12-10T00:00+00:00",
+                "end_date": "2027-01-08T00:00+00:00",
+                "force_event": true
+            }
+        ],
+        "all_events":
+        [
+            "anniversary",
+            "bling_it_on",
+            "chinese_new_year",
+            "cut_and_run",
+            "thanksgiving",
+            "easter",
+            "pirate",
+            "halloween",
+            "stpatricks",
+            "zappy_bird",
+            "christmas",
+            "fruit_punch",
+            "brains_attack",
+            "chaser",
+            "hygiene",
+            "age_of_zombies"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "reference_id": "ERI_HEAD",
+    "tags": [
+        "excludeFromRandom",
+        "hidden",
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ERI_HEAD_NAME",
+        "description": "ITEM_ERI_HEAD_DESC",
+        "equipable": true,
+        "icon": "headEri",
+        "hidden": true,
+        "death_sfx": "ms_run_over_eri",
+        "equip_sfx": "ms_equip_eri"
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

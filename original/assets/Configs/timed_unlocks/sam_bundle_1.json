@@ -1,0 +1,14 @@
+{
+	"timer_length_date_start": "2019-12-01T00:00+10:00",
+	"timer_length_date_end": "2019-12-31T00:00+10:00",
+	"auto_start": true,	
+	"meta": {
+		"shutdown_conditions": {
+			"itemOwned": "VEHICLE_SKIN_PIRATE_SAM",
+			"itemOwned": "VEHICLE_SKIN_CNY_SAM",
+			"itemOwned": "VEHICLE_SKIN_CHRISTMAS_SAM",
+			"itemOwned": "VEHICLE_SKIN_EASTER_SAM",
+			"itemOwned": "VEHICLE_SKIN_STPATRICKS_SAM"
+		}
+	}
+}

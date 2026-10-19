@@ -1,0 +1,63 @@
+{
+    "reference_id": "AOZ_PREHISTORIC_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "AOZ_PREHISTORIC_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "iconPrehistoricBundle",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+	"hideWhen": [
+      	  "VEHICLE_SKIN_ZOMBIE_BIRD",
+	  "CAVEMAN_BETTY_HEAD",
+	  "CAVEMAN_HEAD",
+	  "CAVEMAN_BODY"
+    	]
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_ZOMBIE_BIRD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CAVEMAN_BETTY_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CAVEMAN_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "CAVEMAN_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "CONSUMABLE_REVIVE":
+        {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.prehistoric_bundle",
+        "google_play_store": "com.halfbrick.jetpack.prehistoric_bundle",
+        "brick_bucks_store": "prehistoric_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

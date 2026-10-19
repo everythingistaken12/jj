@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_WATER",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_WATER_JETPACK_NAME",
+        "description": "ITEM_WATER_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackW",
+        "startWeek": 30
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_WATER"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 13
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 13
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

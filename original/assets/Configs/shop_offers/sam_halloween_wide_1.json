@@ -1,0 +1,7 @@
+{
+    "storeId": "VEHICLE_HALLOWEEN_SAM",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "foregroundIcon": "Events/Halloween/Textures/Menus/Consumables/notificationSAM.tex"    
+}

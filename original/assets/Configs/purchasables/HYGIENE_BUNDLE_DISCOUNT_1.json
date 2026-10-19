@@ -1,0 +1,61 @@
+{
+    "reference_id": "HYGIENE_BUNDLE_DISCOUNT",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "HYGIENE_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "iconHygienePack",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_SUPPLY_BIRD"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_SUPPLY_BIRD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_FOAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "NURSE_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "NURSE_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "HygieneBundleDiscountOneTime": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.hygiene.pack.discount.new",
+        "google_play_store": "com.halfbrick.jetpack.hygiene.pack.discount",
+        "brick_bucks_store": "hygiene_bundle_discount"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

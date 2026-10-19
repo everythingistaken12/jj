@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 750,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/headLeprechaunFemale.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headLeprechaunFemale.tex",
+        "display_description": "ITEM_LEPRECHAUN_FEMALE_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "leprechaun_female_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 950,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleTeleporterCeltBox.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleTeleporterCeltBox.tex",
+        "display_description": "VEHICLE_SKIN_CELTIC_TELEPORTER_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "celtic_teleporter"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 950,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleTeleporterCeltBox.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleTeleporterCeltBox.tex",
+        "display_description": "VEHICLE_SKIN_CELTIC_TELEPORTER_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "celtic_teleporter"
+        ]
+    }
+}

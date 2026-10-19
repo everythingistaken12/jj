@@ -1,0 +1,9 @@
+{
+    "enabled":
+    {
+        "default": true,
+        "AppleArcade": false,
+        "HalfbrickPlus": true
+    },
+    "default_read_cache_time": 300
+}

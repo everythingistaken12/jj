@@ -1,0 +1,16 @@
+{
+    "cost": 1,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_WORKER_HEAD_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/costumeWorker.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/costumeWorker.tex",
+    "rewards_locked_texture": "textures/menus/shop/itemicons/costumeWorker.tex",
+    "backing_texture": "Events/BrainsAttack/Textures/Menus/eventInfo/brainsAttackLevelBackground.tex",
+    "frame_texture":"textures/menus/shared/frameAqua.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "hazmat_body",
+        "hazmat_head"
+    ]
+}

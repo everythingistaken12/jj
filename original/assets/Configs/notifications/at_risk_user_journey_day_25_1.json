@@ -1,0 +1,14 @@
+{
+	"category": "at_risk_user_journey_d25",
+	"priority": 0,
+	"message": "PUSH_RISK_USER_D25",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 2160000
+	},
+	"condition" : "at_risk_user_journey_check"
+}

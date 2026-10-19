@@ -1,0 +1,58 @@
+{
+	"conditions": [
+		[
+			{
+				"statistic": "MAGIC_BRICK_WARS_CROSSPROMO == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 0"
+			},
+			{
+				"inventoryCount": "RASKULL_HEAD == 0"
+			},
+			{
+				"inventoryCount": "RASKULL_BODY == 0"
+			}
+		],
+		[
+			{
+				"statistic": "MAGIC_BRICK_WARS_CROSSPROMO == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 0"
+			},
+			{
+				"inventoryCount": "RASKULL_HEAD == 0"
+			},
+			{
+				"inventoryCount": "RASKULL_BODY == 0"
+			}
+		],
+		[
+			{
+				"statistic": "MAGIC_BRICK_WARS_CROSSPROMO == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 3"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 0"
+			},
+			{
+				"inventoryCount": "RASKULL_HEAD == 0"
+			},
+			{
+				"inventoryCount": "RASKULL_BODY == 0"
+			}
+		]
+	],
+	"trigger_name": "magicBrickWars",
+	"statistic_total": "MAGIC_BRICK_WARS_CROSSPROMO",
+	"crosspromo_reward": "RASKULL_COSTUME"
+}

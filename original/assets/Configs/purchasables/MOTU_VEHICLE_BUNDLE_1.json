@@ -1,0 +1,49 @@
+{
+    "reference_id": "MOTU_VEHICLE_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "MOTU_VEHICLE_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "iconSpookyPack",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_MOTU_BATTLE_CAT"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_MOTU_TALON_FIGHTER": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MOTU_BATTLE_CAT": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_MOTU_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.motuvehiclebundle",
+        "google_play_store": "com.halfbrick.jetpackjoyride.motuvehiclebundle",
+        "brick_bucks_store": "motu_vehicle_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

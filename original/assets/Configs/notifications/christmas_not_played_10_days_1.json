@@ -1,0 +1,21 @@
+{
+	"category": "christmas_not_played_10_days",
+	"priority": 1500,
+	"message": "NOTIFICATIONS_CHRISTMAS_NOT_PLAYED_10_DAYS",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 864000
+	},
+	"condition" : "christmas_not_played_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "ChristmasBaubles50"
+	},
+	"deep_link_requires_token": true
+}

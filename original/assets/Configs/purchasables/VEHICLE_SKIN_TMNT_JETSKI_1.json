@@ -1,0 +1,29 @@
+{
+  "reference_id": "VEHICLE_SKIN_TMNT_JETSKI",
+  "tags": [
+    "Vehicle Skins",
+    "Upgrades",
+    "hidden"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "VEHICLE_SKIN_TMNT_JETSKI_NAME",
+    "description": "VEHICLE_SKIN_TMNT_JETSKI_DESC",
+    "equipable": true,
+    "icon": "vehicleJetskiTMNT",
+    "hideUntil": "VEHICLE_SKIN_TMNT_JETSKI",
+    "isSkin": true,
+    "vehicleType": "JetSki",
+    "defaultSkin": false,
+    "isNew": true
+  },
+  "payment_methods": {},  
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

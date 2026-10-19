@@ -1,0 +1,16 @@
+{
+    "cost": 1,
+    "display_name": "REWARD_UNLOCK",
+    "display_description": "ITEM_ENTREPRENEUR_HEAD_NAME",
+    "rewards_texture": "textures/menus/shop/itemicons/costumeEntrepreneur.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/costumeEntrepreneur.tex",
+    "rewards_locked_texture": "textures/menus/shop/itemicons/costumeEntrepreneur.tex",
+    "backing_texture": "textures/menus/chaserLevelBackground.tex",
+    "frame_texture":"textures/menus/shared/frameAqua.tex",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "entrepreneur_body",
+        "entrepreneur_head"
+    ]
+}

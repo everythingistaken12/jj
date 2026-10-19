@@ -1,0 +1,11 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"browser_available"
+			],
+			"board": ""
+		}
+	]
+}

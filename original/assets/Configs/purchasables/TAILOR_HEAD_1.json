@@ -1,0 +1,31 @@
+{
+    "reference_id": "TAILOR_HEAD",
+    "tags": [
+        "Head",
+        "excludeFromRandom",
+        "samReward"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_TAILOR_HEAD_NAME",
+        "description": "ITEM_TAILOR_HEAD_DESC",
+        "equipable": true,
+        "icon": "headTailor",
+        "rewardOnly": {
+            "value": true
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "TAILOR_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "light_enabled": false,
+    "gramophone_enabled": true,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternUnlit.xml",
+            "offset_x": -200,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternLit.xml",
+            "offset_x": -150,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternLongUnlit.xml",
+            "offset_x": -100,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternLongLit.xml",
+            "offset_x": -50,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternUnlit.xml",
+            "offset_x": 0,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternLit.xml",
+            "offset_x": 50,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternLongUnlit.xml",
+            "offset_x": 100,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/lanternUnlit.xml",
+            "offset_x": 200,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/firecracker.xml",
+            "offset_x": 155,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/firecracker.xml",
+            "offset_x": 20,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/firecracker.xml",
+            "offset_x": -123,
+            "offset_y": 100
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/firecracker.xml",
+            "offset_x": -126,
+            "offset_y": 100
+        }
+    ]
+}

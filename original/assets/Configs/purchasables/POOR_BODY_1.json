@@ -1,0 +1,27 @@
+{
+    "reference_id": "POOR_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_POOR_BODY_NAME",
+        "description": "ITEM_POOR_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyPoor",
+        "startWeek": 39
+    },
+    "payment_methods": {
+        "jetpack_store": "POOR_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

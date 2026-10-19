@@ -1,0 +1,38 @@
+{
+    "dailyMissionCount": 8,
+    "rewardCurrency": "ZappersPassed",
+    "dailyMissions": [
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_25_ZAPPERS",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_25_GAMES",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "USE_25_REVIVE",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "RUN_25000_TOTAL_DISTANCE",
+            "timeToUnlock": 86400
+        },
+        {
+            "missionName": "PLAY_5_GAMES_WITH_MORE_THAN_10_ZAPPERS_WITHOUT_DYING",
+            "timeToUnlock": 172800
+        },
+        {
+            "missionName": "COLLECT_1000_COINS",
+            "timeToUnlock": 259200
+        },
+        {
+            "missionName": "MISS_100_ZAPPERS",
+            "timeToUnlock": 345600
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_DISTANCE",
+            "timeToUnlock": 432000
+        }
+    ]
+}

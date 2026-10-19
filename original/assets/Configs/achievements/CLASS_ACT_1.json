@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_29",
+    "description": "ACHIEVEMENT_DESC_29",
+    "type": "DISTANCE_STYLE",
+    "sub_type_1": "CLASSY",
+    "texture": "classAct",
+    "points": 50,
+    "max_progress": 1000,
+    "provider_ids": {
+        "amazon": "1082892",
+        "game_center": 
+        {
+            "default": "1082892",
+            "AppleArcade": "class_act_aa",
+            "HalfbrickPlus": "class_act_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQHA"
+        }
+    }
+}

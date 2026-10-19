@@ -1,0 +1,40 @@
+{
+    "name": "Fly a distance of 1000m with any jetpack other than the Machine Gun Jetpack.",
+    "requirement": "Travel first 1000m during one game without firing JETPACK_DEFAULT jetpack",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 3,
+        "icon": "fly",
+        "description": "MISSION_FLY_6",
+        "hash": "FLY_NOT_MACHINEGUN_DIST"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 1000
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            },
+            {
+                "o": "jetpack",
+                "d": "fire",
+                "c": 0,
+                "h": true,
+                "i": 0
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

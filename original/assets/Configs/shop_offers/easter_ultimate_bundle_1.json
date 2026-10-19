@@ -1,0 +1,11 @@
+{
+  "storeId": "EASTER_ULTIMATE_BUNDLE_2025",
+  "timerId": "easter_2025_easter_ultimate_bundle",
+  "template": "template_4x2_backing",
+  "tileWidth": 4,
+  "tileHeight": 2,
+  "backingColor": [0.557, 0.949, 0.984, 1.0],   
+  "itemImages": "specialBundleEasterUltimateBundleImages",
+  "backingTexture": "textures/menus/bricknetUpsell/EasterEvent/easter/backing.tex",
+  "infoText": "SHOP_BUTTON_BUY_NOW"
+}

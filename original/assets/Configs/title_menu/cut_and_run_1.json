@@ -1,0 +1,53 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/fruitNinjaBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/apple.xml",
+            "offset_x": -50,
+            "offset_y": -115
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/apple.xml",
+            "offset_x": -40,
+            "offset_y": -105
+        },        
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/orange.xml",
+            "offset_x": -40,
+            "offset_y": -115
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/apple.xml",
+            "offset_x": -30,
+            "offset_y": -115
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/banana.xml",
+            "offset_x": 20,
+            "offset_y": -112
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/apple.xml",
+            "offset_x": 30,
+            "offset_y": -112
+        },        
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/orange.xml",
+            "offset_x": 0,
+            "offset_y": -115
+        },        
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/strawberry.xml",
+            "offset_x": -10,
+            "offset_y": -115
+        }                   
+
+    ]
+
+}

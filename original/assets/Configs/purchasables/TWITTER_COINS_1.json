@@ -1,0 +1,37 @@
+{
+    "reference_id": "TWITTER_COINS",
+    "tags": [
+        "premium",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINS_TWITTER_NAME",
+        "description": "ITEM_COINS_TWITTER_DESC",
+        "icon": "twitter",
+        "coins": 1000,
+        "metadata": {
+            "link": "twitter:///user?screen_name=halfbrick",
+            "backupLink": "http://bit.ly/18ETNN7"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "1000"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "TWITTER_COINS"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

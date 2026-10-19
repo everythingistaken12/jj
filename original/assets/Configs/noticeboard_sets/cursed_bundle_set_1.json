@@ -1,0 +1,22 @@
+{
+    "selector": "random",
+    "boards":
+    [
+        {
+            "mediation":
+            [
+                "not_purchased_cannon",
+                "cursed_bundle_timer_running"
+            ],
+            "board": "special_offer_cursed_bundle"
+        },
+        {
+            "mediation":
+            [
+                "not_purchased_cannon",
+                "cursed_bundle_discount_timer_running"
+            ],
+            "board": "special_offer_cursed_bundle_sale"
+        }
+    ]
+}

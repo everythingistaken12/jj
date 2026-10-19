@@ -1,0 +1,9 @@
+{
+	"show": [
+		{
+			"TIMER_RUNNING": [
+				"bttf_event_noticeboard"
+			]
+		}
+	]
+}

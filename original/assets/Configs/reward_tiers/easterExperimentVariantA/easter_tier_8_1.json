@@ -1,0 +1,31 @@
+{
+    "#default":
+    {
+        "cost": 475,
+        "display_name": "REWARD_UNLOCK",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "rewards_texture": "textures/menus/eventPopUp/specialBundleEasterJetpack.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackCarrot.tex",
+        "display_description": "ITEM_CARROT_JETPACK_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_carrot"
+        ],
+        "random_rewards":
+        []
+    },
+    "#AppleArcade":
+    {
+        "cost": 800,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/jetpackEggBasket.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackEggBasket.tex",
+        "display_description": "ITEM_EGGBASKET_JETPACK_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_eggbasket"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "reference_id": "PERK_BRICK_SIGNUP_1",
+    "tags": [
+        "Gadget",
+        "tier1"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_BRICK_NAME",
+        "description": "PERK_BRICK_SIGNUP_DESC",
+        "icon": "brick",
+        "equipable": true,
+        "unequipable": true,
+        "crosspromo": "https://jetpackjoyride.page.link/HalfbrickPlusPreRegister",
+        "awardsCrosspromoImmediately": true,
+        "isNew": true,
+        "hideWhen": "PERK_BRICK_1"
+    },
+      "additional_deliverables": {
+        "PERK_BRICK_1": {
+          "is_currency": false,
+          "value": 1
+        }
+      },
+    "payment_methods": {
+        "jetpack_store": "PERK_BRICK_SIGNUP_1"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_SteakfriesRevenge_Bundle",
+    "screen": "NoticeBoardSteakfriesRevengeBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "STEAKFRIES_REVENGE_BUNDLE"
+}

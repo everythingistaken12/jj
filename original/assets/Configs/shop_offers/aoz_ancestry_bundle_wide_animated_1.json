@@ -1,0 +1,10 @@
+{
+    "specialBundle": "aoz_ancestry_bundle",
+    "template": "template_2x1_anim",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.373, 0.561, 1.0, 1.0],
+    "itemImages": "specialBundleAncestryBundleImages_preview",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

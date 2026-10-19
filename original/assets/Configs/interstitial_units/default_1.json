@@ -1,0 +1,34 @@
+{
+	"android": [
+		{
+			"id": "rolevztkvioi4fq3"
+		}
+	],
+	"android_coppa": [
+		{
+			"id" : "v6dclsgdej5yy24m"
+		}
+	],
+	"ios": [
+		{
+			"id": "pmggdbep09xsif5q"
+		},
+		{
+			"id": "z2qdjjij7d0dutfw"
+		},
+		{
+			"id": "9ltmqfnlflelfdpf"
+		}
+	],
+	"ios_coppa": [
+		{
+			"id": "pmggdbep09xsif5q"
+		},
+		{
+			"id": "z2qdjjij7d0dutfw"
+		},
+		{
+			"id": "9ltmqfnlflelfdpf"
+		}
+	]
+}

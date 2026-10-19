@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_GOLD_MGJP",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLD_MACHINEGUNJETPACK_NAME",
+        "description": "ITEM_GOLD_MACHINEGUNJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackMGG",
+        "startWeek": 34
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_GOLD_MGJP"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 30
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 30
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Buy something in my stash.",
+    "requirement": "enter stash and spend coins",
+    "retired": false,
+    "meta_data": {
+        "groupId": "26",
+        "difficulty": 2,
+        "icon": "shop",
+        "description": "MISSION_SHOP_COINS_1",
+        "hash": "SPEND_COINS",
+        "skillGrind": "GRIND",
+        "Tag4": "BUY",
+        "probability": "150",
+        "tag1": "COINS",
+        "skipIf": "HALF_ITEMS_OWNED"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "enter",
+                "o": "stash",
+                "s": "t",
+                "c": 1
+            },
+            {
+                "a": "spend",
+                "o": "coin",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

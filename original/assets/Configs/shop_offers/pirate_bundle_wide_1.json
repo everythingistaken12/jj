@@ -1,0 +1,17 @@
+{
+    "specialBundle": "pirate_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.996, 0.816, 0.647, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/PirateEvent/pirate/specialBundlePirateShip.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW",
+    "conditions": [
+        [
+            {
+                "inventoryCount": "VEHICLE_SKIN_JETSKI == 1"
+            }
+        ]
+    ]
+}

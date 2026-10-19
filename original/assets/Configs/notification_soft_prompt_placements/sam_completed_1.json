@@ -1,0 +1,9 @@
+{
+	"enabled": false,
+	"limit_per_lifetime": 1,
+	"title": "NOTIFICATIONS_SOFT_PROMPT_SAM_TITLE",
+	"message": "NOTIFICATIONS_SOFT_PROMPT_SAM_MESSAGE_1",
+	"confirm_button": "NOTIFICATIONS_SOFT_PROMPT_GENERIC_CONFIRM",
+	"later_button": "NOTIFICATIONS_SOFT_PROMPT_GENERIC_LATER",
+	"screen_trigger": "sam"
+}

@@ -1,0 +1,32 @@
+{
+    "reference_id": "TOPHAT_GOLD",
+    "tags": [
+        "Head",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLDENTOPHAT_NAME",
+        "description": "ITEM_GOLDENTOPHAT_DESC",
+        "equipable": true,
+        "rewardOnly": {
+            "value": true,
+            "prereq": "EVENTS_ONLY"
+        },
+        "icon": "headtuxGold",
+        "startWeek": 0
+    },
+    "payment_methods": {
+        "jetpack_store": "TOPHAT_GOLD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

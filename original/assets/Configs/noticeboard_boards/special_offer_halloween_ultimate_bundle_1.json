@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_Halloween_UltimateBundle",
+	"screen": "NoticeBoardHalloweenUltimateBundle",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "HALLOWEEN_ULTIMATE_BUNDLE_2024",
+	"data_source": {
+		"title": "HALLOWEEN_ULTIMATE_BUNDLE_NAME"
+	}	
+}

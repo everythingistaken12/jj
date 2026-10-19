@@ -1,0 +1,28 @@
+{
+    "#default":
+    {
+        "cost": 600,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_PRE_PURCHASE_SLEIGH_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleSled.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleSled.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "sleigh_of_awesome"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1000,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FROSTIE_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyFrosty.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "frosty_body"
+        ]
+    }
+}

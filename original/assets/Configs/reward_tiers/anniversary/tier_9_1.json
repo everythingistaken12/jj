@@ -1,0 +1,43 @@
+{
+	"#default":
+    {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/skipx5.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/skipx5.tex",
+        "display_description": "ITEM_HEADSTART8PACK_NAME",
+        "rewards_quantity": 8,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "headstart_x8"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 650,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_JETPACK_CUSTOM_DISCOBALL_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackDiscoball.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackDiscoball.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_discoball"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 650,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_JETPACK_CUSTOM_DISCOBALL_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/jetpackDiscoball.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackDiscoball.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"jetpack_discoball"
+		]
+    }
+	
+}

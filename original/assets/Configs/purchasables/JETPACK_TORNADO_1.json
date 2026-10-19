@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_TORNADO",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_TORNADO_NAME",
+        "description": "ITEM_JETPACK_TORNADO_DESC",
+        "icon": "jetpackT",
+        "equipable": true,
+        "startWeek": 20
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_TORNADO"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 23
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 23
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

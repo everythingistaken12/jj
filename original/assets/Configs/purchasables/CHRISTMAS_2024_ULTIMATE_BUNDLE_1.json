@@ -1,0 +1,167 @@
+{
+  "reference_id": "CHRISTMAS_2024_ULTIMATE_BUNDLE",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_CHRISTMAS_ULTIMATE_BUNDLE_NAME",
+    "description": "todo",
+    "icon": "iconEasterPack",
+    "hidden": true,
+    "force_hide": true,
+    "auto_equip": true,
+    "hideWhen": [
+      "JETPACK_CHRISTMAS_TREE",
+      "SANTA_HEAD",
+      "SANTA_BODY",
+      "VEHICLE_SKIN_SLEIGH",
+      "VEHICLE_SKIN_ICE_DRAGON",
+      "ELF_HEAD",
+      "ELF_BODY",
+      "JETPACK_SNOWGLOBE",
+      "VEHICLE_SKIN_YETI_MECH",
+      "FROSTY_HEAD",
+      "FROSTY_BODY",
+      "REINDEER_HEAD",
+      "REINDEER_BODY",
+      "JETPACK_CHRISTMASBELL",
+      "CHRISTMAS_LADY_SANTA_BODY",
+      "CHRISTMAS_LADY_SANTA_HEAD",
+      "JETPACK_CUSTOM_CHRISTMAS_LIGHTS",
+      "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG",
+      "JETPACK_CUSTOM_SANTA_BAG",
+      "NUT_CRACKER_HEAD",
+      "NUT_CRACKER_BODY"
+    ]
+  },
+  "additional_deliverables": {
+    "JETPACK_CHRISTMAS_TREE": {
+      "is_currency": false,
+      "value": 1
+    },
+    "SANTA_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "SANTA_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_SLEIGH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_ICE_DRAGON": {
+      "is_currency": false,
+      "value": 1
+    },
+    "ELF_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "ELF_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_SNOWGLOBE": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_YETI_MECH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "FROSTY_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "FROSTY_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "REINDEER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "REINDEER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CHRISTMASBELL": {
+      "is_currency": false,
+      "value": 1
+    },
+    "NUT_CRACKER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "NUT_CRACKER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CUSTOM_SANTA_BAG": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_SLEIGH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_GINGER_BREAD_SLEIGH": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CHRISTMAS_LADY_SANTA_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "CHRISTMAS_LADY_SANTA_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CUSTOM_CHRISTMAS_LIGHTS": {
+      "is_currency": false,
+      "value": 1
+    },
+    "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG": {
+      "is_currency": false,
+      "value": 1
+    },
+    "JETPACK_CUSTOM_FIREPLACE": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_TOY_TRAIN_DRAGON": {
+        "is_currency": false,
+        "value": 1
+    },
+    "JETPACK_CUSTOM_GARLAND": {
+        "is_currency": false,
+        "value": 1
+    },
+    "UGLY_SWEATER_HEAD": {
+        "is_currency": false,
+        "value": 1
+    },
+    "UGLY_SWEATER_BODY": {
+        "is_currency": false,
+        "value": 1
+    },
+    "VEHICLE_SKIN_CHRISTMAS_DRAGON": {
+        "is_currency": false,
+        "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.christmas_2024_ultimate_bundle",
+    "google_play_store": "com.halfbrick.jetpack.christmas_2024_ultimate_bundle",
+    "brick_bucks_store": "christmas_2024_ultimate_bundle"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

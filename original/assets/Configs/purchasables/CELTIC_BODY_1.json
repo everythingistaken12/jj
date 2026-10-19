@@ -1,0 +1,29 @@
+{
+    "reference_id": "CELTIC_BODY",
+    "tags": [
+        "excludeFromRandom",
+        "bundle",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CELTIC_BODY_NAME",
+        "description": "ITEM_CELTIC_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyCeltic",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "CELTIC_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

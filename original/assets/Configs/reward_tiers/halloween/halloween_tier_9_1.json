@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SKELETON_HEAD_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/skeletonHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headSkeleton.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex", 
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "skeleton_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DEATH_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyDeath.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyDeath.tex",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "death_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_DEATH_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyDeath.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyDeath.tex",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "death_body"
+        ]
+    }
+}

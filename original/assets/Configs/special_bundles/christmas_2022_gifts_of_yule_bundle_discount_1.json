@@ -1,0 +1,56 @@
+{
+  "conditions": [
+    [
+      {
+        "timerRunning": "christmas_2023_gifts_of_yule_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_CHRISTMAS_GIFTS_OF_YULE_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 0"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 5"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG == 0"
+      }
+    ],
+    [
+      {
+        "timerRunning": "christmas_2023_gifts_of_yule_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_CHRISTMAS_GIFTS_OF_YULE_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 1"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 3"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG == 0"
+      }
+    ],
+    [
+      {
+        "timerRunning": "christmas_2023_gifts_of_yule_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_CHRISTMAS_GIFTS_OF_YULE_BUNDLE_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL >= 2"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG == 0"
+      }
+    ]
+  ],
+  "store_id": "CHRISTMAS_2022_GIFTS_OF_YULE_BUNDLE_DISCOUNT",
+  "timer_id": "christmas_2023_gifts_of_yule_bundle_discount",
+  "trigger_name": "christmas_2022_gifts_of_yule_bundle_discount",
+  "statistic_prefix": "SPECIAL_BUNDLE_CHRISTMAS_GIFTS_OF_YULE_BUNDLE_DISCOUNT_VIEWS"
+}

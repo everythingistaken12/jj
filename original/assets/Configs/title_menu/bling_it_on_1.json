@@ -1,0 +1,21 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/blingItOnBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/coinPile.xml",
+            "offset_x": 75,
+            "offset_y": -96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/coinPile.xml",
+            "offset_x": -75,
+            "offset_y": -96
+        }
+    ]
+}

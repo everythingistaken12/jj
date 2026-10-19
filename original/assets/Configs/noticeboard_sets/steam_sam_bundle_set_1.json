@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_steam_sam"
+      ],
+      "board": "special_offer_steam_sam_bundle"
+    }
+  ]
+}

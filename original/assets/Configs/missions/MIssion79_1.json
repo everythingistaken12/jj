@@ -1,0 +1,22 @@
+{
+    "name": "Collect the mech 2 times",
+    "requirement": "Collect Mech 2 times",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "vehicle",
+        "hash": "VEHICLE_COLLECT",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "s": "t",
+                "i": 3,
+                "c": 2
+            }
+        ]
+    }
+}

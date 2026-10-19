@@ -1,0 +1,18 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_msjetski",
+        "not_purchased_msdragon",
+        "not_purchased_mshog",
+        "not_purchased_msbird",
+        "not_purchased_marco_head",
+        "not_purchased_eri_head",
+        "not_purchased_tarma_head",
+        "not_purchased_fio_head"
+      ],
+      "board": "special_offer_metal_slug_bundle"
+    }
+  ]
+}

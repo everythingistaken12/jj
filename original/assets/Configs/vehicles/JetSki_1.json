@@ -1,0 +1,151 @@
+{
+    "vehicleName": "JetSki",
+    "displayName": "VEHICLE_JETSKI",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_JETSKI",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_JETSKI",
+        "distanceBest": "VEHICLE_BEST_JETSKI",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_JETSKI"
+    },
+    "MissionText": "MISSION_VEHICLE_JETSKI",
+    "sprite": "jetski.xml",
+    "RequiredTextures": {
+        "Texture": [
+            "jetski.tex",
+            "handle.tex"
+        ]
+    },
+    "FlashTextures": {
+        "Texture": "surfboard.tex"
+    },
+    "GoldInventoryName": "VEHICLE_GOLD_JETSKI",
+    "MagnetDeliverable": "JETSKI_MAGNET",
+    "headData": "Characters/Vehicles/Jetski/VehicleJetskiData.xml",
+    "allowHalo": "true",
+    "fragsDir": "Jetski",
+    "ComponentsDir": "Jetski",
+    "ComponentsOffset": "12,-8",
+    "sequenceBar": "bar_jetski",
+    "probability": "20.0",
+    "Streak1Colour": {
+        "r": "219",
+        "g": "164",
+        "b": "140"
+    },
+    "Streak2Colour": {
+        "r": "209",
+        "g": "253",
+        "b": "79"
+    },
+    "duration": "0.0",
+    "SequenceFirstFront": "false",
+    "VELOCITY_SCALAR": "0.0",
+    "BOOST_FRAME_COUNT": "1",
+    "JUMP_COUNT": "10",
+    "STREAK": "JETSKI_STREAK",
+    "START_VELOCITY": "250.0",
+    "MAX_VELOCITY": "1000.0",
+    "VELOCITY_INCREASE": "0.09",
+    "GoldParticle": "GoldSparkle_Jetski",
+    "GoldParticleOffset": "0,-3",
+    "skins": {
+        "skin": [
+            {
+                "name": "VEHICLE_SKIN_JETSKI",
+                "script": "",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.5",
+                    "track": "Music_WaveRider"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.5",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_GOLD_JETSKI",
+                "script": "Gold",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.5",
+                    "track": "Music_WaveRider"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.5",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_RUBBER_DUCKY",
+                "script": "Bubbles"
+            },
+            {
+                "name": "VEHICLE_SKIN_PIRATE_JETSKI",
+                "script": "BrazenBarnacle",                
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.5",
+                    "track": "Music_Pirate"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "2.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_MS_JETSKI",
+                "script": "MSSubmarine"
+            },
+            {
+                "name": "VEHICLE_SKIN_TMNT_JETSKI",
+                "script": "TMNTJetski"
+            },
+            {
+                "name": "VEHICLE_SKIN_CNY_JETSKI",
+                "script": "CNYCarp"
+            },
+            {
+                "name": "VEHICLE_SKIN_EASTER_HOLOGRAM_JETSKI",
+                "script": "EasterHologram"
+            },
+            {
+                "name": "VEHICLE_SKIN_YELLOW_SUBMARINE_JETSKI",
+                "script": "YellowSubmarine"
+            }
+        ]
+    }
+}

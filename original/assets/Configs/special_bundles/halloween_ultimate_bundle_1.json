@@ -1,0 +1,92 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "halloween_2026_halloween_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_HALLOWEEN_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BONEDRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_VAMPIRE == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BROOMSTICK_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_HALLOWEEN_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "halloween_2026_halloween_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_HALLOWEEN_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BONEDRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_VAMPIRE == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BROOMSTICK_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_HALLOWEEN_SAM == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "halloween_2026_halloween_ultimate_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_HALLOWEEN_ULTIMATE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_FRANKENSTEIN_TELEPORTER == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BONEDRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_VAMPIRE == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_BROOMSTICK_DRAGON == 0"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_HALLOWEEN_SAM == 0"
+			}
+		]
+	],
+	"store_id": "HALLOWEEN_ULTIMATE_BUNDLE_2024",
+	"timer_id": "halloween_2026_halloween_ultimate_bundle",
+	"trigger_name": "halloween_ultimate_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_HALLOWEEN_ULTIMATE_VIEWS"
+}

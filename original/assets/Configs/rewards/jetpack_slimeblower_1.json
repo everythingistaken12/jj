@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "JETPACK_SLIME_BLOWER",
+	"fallback": "coin_pack_7500"
+}

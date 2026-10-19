@@ -1,0 +1,33 @@
+{
+    "reference_id": "SANTA_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SANTASUIT_NAME",
+        "description": "ITEM_SANTASUIT_DESC",
+        "equipable": true,
+        "icon": "bodySanta",
+        "startWeek": 47
+    },
+    "payment_methods": {
+        "jetpack_store": "SANTA_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 22
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 22
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

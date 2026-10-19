@@ -1,0 +1,21 @@
+{
+	"category": "chinese_new_year_d2",
+	"priority": 2000,
+	"message": "NOTIFICATIONS_CHINESE_NEW_YEAR_D2",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 86400
+	},
+	"condition" : "chinese_new_year_day_2_and_bundle_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "special_bundle",
+		"bundle": "chinese_new_year_bundle_2019",
+		"loc": "local_notification"
+	}
+}

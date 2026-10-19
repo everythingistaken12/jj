@@ -1,0 +1,8 @@
+{
+	"type": "currency",
+	"item_id": "coins",
+	"quantity": 888,
+	"icon": "textures/menus/shop/ItemIcons/coinsItem1.tex",
+	"display_name": "888_COINS",
+	"display_description": "888_COINS"
+}

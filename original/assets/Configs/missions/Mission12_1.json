@@ -1,0 +1,43 @@
+{
+    "name": "Fly a distance between 300 and 400",
+    "requirement": "Travel at least 300m and travel at most 400m in one game",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "fly",
+        "description": "MISSION_FLY_1",
+        "hash": "FLY_DIST"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 300
+            },
+            {
+                "o": "m",
+                "s": "g",
+                "d": "travel",
+                "c": -400
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            },
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

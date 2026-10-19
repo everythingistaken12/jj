@@ -1,0 +1,70 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "screenshot"
+    },
+    {
+      "board": "starter_pack_set"
+    },
+    {
+      "board": "best_buddy_bundle_set"
+    },
+    {
+      "board": "motu_ultimate_bundle_set"
+    },
+    {
+      "board": "gif_cross_promo"
+    },
+    {
+      "board": "zappy_bird_event_upsell_set"
+    },
+    {
+      "board": "motu_event_upsell_set"
+    },
+    {
+      "board": "christmas_event_upsell_set"
+    },
+    {
+      "board": "bling_it_on_event_upsell_set"
+    },
+    {
+      "board": "thanksgiving_event_upsell_set"
+    },
+    {
+      "board": "chinese_new_year_event_upsell_set"
+    },
+    {
+      "board": "fruit_punch_event_upsell_set"
+    },
+    {
+      "board": "easter_event_upsell_set"
+    },
+    {
+      "board": "hygiene_event_upsell_set"
+    },
+    {
+      "board": "aoz_event_upsell_set"
+    },
+    {
+      "board": "pirate_event_upsell_set"
+    },
+    {
+      "board": "anniversary_event_upsell_set"
+    },
+    {
+      "board": "halloween_event_upsell_set"
+    },
+    {
+      "board": "daily_reward_tiers"
+    },
+    {
+      "board": "remove_ads_set"
+    },
+    {
+      "board": "x2_coin_offer_bundle_set"
+    }
+  ]
+}
+

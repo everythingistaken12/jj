@@ -1,0 +1,38 @@
+{
+    "#default":
+    {
+        "cost": 100,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_ZOMBIEHEAD_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/zombieHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headZombie.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "zombie_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 125,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_WOLF_BODY_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/warewolfBodyCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyWolf.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "werewolf_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 125,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_WOLF_BODY_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/warewolfBodyCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyWolf.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "werewolf_body"
+        ]
+    }
+}

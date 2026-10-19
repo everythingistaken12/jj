@@ -1,0 +1,73 @@
+{
+    "coin_pattern_file": {
+        "probability": {
+            "value": 1,
+            "startDistance": 0
+        },
+        "coin_pattern": [
+            {
+                "filename": "patterns/coinPatternOnBoardingBot.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingTop.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingCliff.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingMid.txt",
+                "probability": {
+                    "value": 1,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingAboveZap.txt",
+                "probability": {
+                    "value": 40,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingHard.txt",
+                "probability": {
+                    "value": 40,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingAboveMissiles.txt",
+                "probability": {
+                    "value": 40,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingBetweenLasers.txt",
+                "probability": {
+                    "value": 40,
+                    "startDistance": 20
+                }
+            },
+            {
+                "filename": "patterns/coinPatternOnBoardingAfterSamToken.txt",
+                "probability": {
+                    "value": 40,
+                    "startDistance": 20
+                }
+            }
+        ]
+    }
+}

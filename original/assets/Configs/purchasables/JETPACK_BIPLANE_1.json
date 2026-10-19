@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_BIPLANE",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BIPLANE_JETPACK_NAME",
+        "description": "ITEM_BIPLANE_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackBP",
+        "startWeek": 32
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_BIPLANE"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 12
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 12
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

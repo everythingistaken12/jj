@@ -1,0 +1,23 @@
+{
+	"category": "new_user_journey_d3",
+	"priority": 1000,
+	"message": "PUSH_NEW_USER_D3_ALT",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 86400
+	},
+	"condition" : "new_user_journey_day_3_alt_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "POWER_UP",
+		"powerup": "Pickup_CoinSpecial",
+		"level": 0
+	},
+	"deep_link_requires_token": true
+}

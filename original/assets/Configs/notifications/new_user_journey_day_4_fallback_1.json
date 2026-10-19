@@ -1,0 +1,21 @@
+{
+	"category": "new_user_journey_d4f",
+	"priority": 1000,
+	"message": "PUSH_NEW_USER_D4_FALLBACK",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 172800
+	},
+	"condition" : "new_user_journey_day_4_check",
+	"deep_link" : 
+	{
+		"uri_scheme": "jetpack",
+		"uri_host": "reward_item",
+		"item": "COINS_REWARD_10000"
+	},
+	"deep_link_requires_token": true
+}

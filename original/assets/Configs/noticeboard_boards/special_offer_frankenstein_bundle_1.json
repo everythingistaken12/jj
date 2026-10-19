@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Frankenstein_Bundle",
+    "screen": "NoticeboardFrankensteinBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "FRANKENSTEIN_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

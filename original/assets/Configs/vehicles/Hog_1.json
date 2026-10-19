@@ -1,0 +1,189 @@
+{
+    "vehicleName": "Hog",
+    "displayName": "VEHICLE_HOG",
+    "statistics": {
+        "collectedGame": "VEHICLE_COLLECTED_GAME_HOG",
+        "collectedTotal": "VEHICLE_TOTAL_COLLECTED_HOG",
+        "distanceBest": "VEHICLE_BEST_HOG",
+        "distanceTotal": "VEHICLE_TOTAL_DISTANCE_HOG"
+    },
+    "MissionText": "MISSION_VEHICLE_HOG",
+    "sprite": "vehicleHog.xml",
+    "RequiredTextures": {
+        "Texture": "vehicleHog.tex"
+    },
+    "FlashTextures": {
+        "Texture": "vehicleHogSidecar.tex"
+    },
+    "GoldInventoryName": "VEHICLE_GOLD_HOG",
+    "MagnetDeliverable": "HOG_MAGNET",
+    "headData": "Characters/Vehicles/Hog/vehicleHogData.xml",
+    "allowHalo": "true",
+    "sequenceBar": "bar_hog",
+    "fragsDir": "Hog",
+    "ComponentsDir": "Hog",
+    "ComponentsOffset": "-1,18",
+    "Streak1Colour": {
+        "r": "126",
+        "g": "154",
+        "b": "193"
+    },
+    "Streak2Colour": {
+        "r": "166",
+        "g": "200",
+        "b": "225"
+    },
+    "probability": "20.0",
+    "duration": "0.0",
+    "SequenceFirstFront": "true",
+    "VELOCITY_SCALAR": "0.0",
+    "GRAVITY": "0.3",
+    "INITIAL_BOOST": "6.5",
+    "BOOST": "0.6",
+    "FRICTION": "0.98",
+    "BOOST_FRAME_COUNT": "12",
+    "JUMP_COUNT": "1",
+    "STREAK": "HOG_STREAK",
+    "START_VELOCITY": "400.0",
+    "MAX_VELOCITY": "6000.0",
+    "VELOCITY_INCREASE": "0.40",
+    "GoldParticle": "GoldSparkle_Hog",
+    "GoldParticleOffset": "5,-5",
+    "skins": {
+        "skin": [
+            {
+                "name": "VEHICLE_SKIN_HOG",
+                "script": "",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.0",
+                    "track": "Music_Hog"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_GOLD_HOG",
+                "script": "Gold",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.0",
+                    "track": "Music_Hog"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_HOVERHOG",
+                "script": "HoverHog"
+            },
+            {
+
+                "name": "VEHICLE_SKIN_DULLAHAN",
+                "script": "Dullahan",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "music": {
+                    "location": "construction_complete",
+                    "delay": "1.5",
+                    "track": "Music_Dullahan"
+                },
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_MS_HOG",
+                "script": "MSHog"
+            },
+            {
+                "music": [
+                    {
+                        "track": "Music_DragonCNY",
+                        "location": "ready"
+                    },
+                    {
+                        "location": "construction_complete",
+                        "delay": "1.0",
+                        "track": "Music_DragonCNY"
+                    }
+                ],
+
+                "name": "VEHICLE_SKIN_NIAN_HOG",
+                "script": "Nian",
+                "stop_music": [
+                    {
+                        "location": "vehicle_create",
+                        "delay": "0.0"
+                    },
+                    {
+                        "location": "vehicle_destroy",
+                        "delay": "0.0"
+                    }
+                ],
+                "outro": {
+                    "track": "default",
+                    "delay": "1.0",
+                    "fadein": "1.5"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_PIRATE_HOG",
+                "script": "PirateCannon"
+            },
+            {
+                "name": "VEHICLE_SKIN_TMNT_HOG",
+                "script": "TMNTHog"
+            },
+            {
+
+                "name": "VEHICLE_SKIN_LNY_HOG",
+                "script": "LNYHog",
+                "music": {
+                    "track": "Music_DragonCNY",
+                    "location": "ready"
+                }
+            },
+            {
+                "name": "VEHICLE_SKIN_CHRISTMAS_SANTA_HOG",
+                "script": "ChristmasSantaHog"
+            }
+        ]
+    }
+}

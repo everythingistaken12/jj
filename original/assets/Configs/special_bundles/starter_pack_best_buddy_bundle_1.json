@@ -1,0 +1,42 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "starter_pack_best_buddy_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BEST_BUDDY_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 1"
+			},
+			{
+				"inventoryCount": "BestBuddyBundleOneTime == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "starter_pack_best_buddy_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_BEST_BUDDY_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 1"
+			},
+			{
+				"inventoryCount": "BestBuddyBundleOneTime == 0"
+			}
+		]
+	],
+	"store_id": "BEST_BUDDY_BUNDLE",
+	"timer_id": "starter_pack_best_buddy_bundle",
+	"trigger_name": "bestBuddyBundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_BEST_BUDDY_BUNDLE_VIEWS"
+}

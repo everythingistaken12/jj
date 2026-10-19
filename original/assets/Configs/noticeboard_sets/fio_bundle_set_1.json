@@ -1,0 +1,11 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_msbird"
+      ],
+      "board": "special_offer_fio_bundle"
+    }
+  ]
+}

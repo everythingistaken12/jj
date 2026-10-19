@@ -1,0 +1,22 @@
+{
+    "name": "SMASH A HOLE IN THE WALL 10 TIMES",
+    "requirement": "Start 10 games",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "oddball",
+        "description": "MISSION_HOLE",
+        "hash": "START_FROM_MENU",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "start",
+                "o": "game",
+                "s": "t",
+                "c": 10
+            }
+        ]
+    }
+}

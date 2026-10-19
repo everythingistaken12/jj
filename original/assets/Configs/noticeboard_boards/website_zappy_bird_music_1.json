@@ -1,0 +1,7 @@
+{
+	"name": "Website_ZappyBird_Music",
+	"screen": "NoticeBoardZBMusic",
+	"data_source": {
+		"link": "http://play.halfbrick.com/?g=tunes"
+	}
+}

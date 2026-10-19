@@ -1,0 +1,21 @@
+{
+    "name": "Destroy A Vehicle",
+    "requirement": "Destroy 1 Vehicle",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "vehicleDestroy",
+        "hash": "VEHICLE_COLLECT_ANY",
+        "starter": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "destroy",
+                "o": "vehicle",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

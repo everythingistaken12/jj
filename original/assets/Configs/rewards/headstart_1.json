@@ -1,0 +1,7 @@
+{
+	"type": "item",
+	"item_id": "CONSUMABLE_HEADSTART_PACK",
+	"display_name": "",
+	"quantity": 1,
+	"icon": "textures/menus/shop/ItemIcons/skipx5.tex"
+}

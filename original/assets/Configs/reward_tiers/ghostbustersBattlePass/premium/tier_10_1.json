@@ -1,0 +1,11 @@
+{
+	"cost": 2500,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_PROTON_JETPACK_NAME",
+	"rewards_texture": "textures/menus/bricknetupsell/GhostbustersEvent/Ghostbusters/GBJetpackProtonPack.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/jetpackProtonPack.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"jetpack_proton"
+	]
+}

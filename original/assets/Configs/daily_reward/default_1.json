@@ -1,0 +1,114 @@
+{
+  "sequential": false,
+  "splitSequential": false,
+  "layout": "reward_and_rv_only",
+  "showTitleScreenFreeBadge": false,
+  "shouldShowNotification": false,
+  "rewardSets": [
+    {
+      "weight": 1,
+      "id": "daily_reward_offer_1",
+      "rewards": [
+        {
+          "name": "revive",
+          "amount": 2,
+          "free": true
+        },
+        {
+          "name": "revive",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "id": "daily_reward_offer_2",
+      "rewards": [
+        {
+          "name": "revive",
+          "amount": 2,
+          "free": true
+        },
+        {
+          "name": "revive",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "id": "daily_reward_offer_3",
+      "rewards": [
+        {
+          "name": "revive",
+          "amount": 1,
+          "free": true
+        },
+        {
+          "name": "revive",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "id": "daily_reward_offer_4",
+      "rewards": [
+        {
+          "name": "coins",
+          "amount": 750,
+          "free": true
+        },
+        {
+          "name": "coins",
+          "amount": 750
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "id": "daily_reward_offer_5",
+      "rewards": [
+        {
+          "name": "coins",
+          "amount": 1000,
+          "free": true
+        },
+        {
+          "name": "coins",
+          "amount": 1000
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "id": "daily_reward_offer_6",
+      "rewards": [
+        {
+          "name": "coins",
+          "amount": 1500,
+          "free": true
+        },
+        {
+          "name": "coins",
+          "amount": 2500
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "id": "daily_reward_offer_7",
+      "rewards": [
+        {
+          "name": "coins",
+          "amount": 3000,
+          "free": true
+        },
+        {
+          "name": "coins",
+          "amount": 5000
+        }
+      ]
+    }
+  ]
+}

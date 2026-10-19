@@ -1,0 +1,16 @@
+{
+	"currency": "ZappersPassed",
+	"currency_texture": "events/zappybird/textures/menus/eventpopup/currencytoken_64.tex",
+	"tiers": [
+		"zappy_bird_tier_1",
+		"zappy_bird_tier_2",
+		"zappy_bird_tier_3",
+		"zappy_bird_tier_4",
+		"zappy_bird_tier_5",
+		"zappy_bird_tier_6",
+		"zappy_bird_tier_7",
+		"zappy_bird_tier_8",
+		"zappy_bird_tier_9",
+		"zappy_bird_tier_10"
+	]
+}

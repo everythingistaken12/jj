@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"ghostbusters_event_available",
+				"ghostbusters_event_inactive"
+			],
+			"board": "ghostbusters_event_upsell"
+		}			
+	]
+}

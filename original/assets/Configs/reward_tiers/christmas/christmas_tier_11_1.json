@@ -1,0 +1,38 @@
+{
+    "#default": {
+        "cost": 300,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "3000_COINS",
+        "rewards_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/coinsItem1.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "coin_pack_3000"
+        ]
+    },
+    "#HalfbrickPlus": {
+        "cost": 675,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_YETI_MECH_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleMechYeti.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechYeti.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "yeti_mech"
+        ]
+    },
+    "#AppleArcade": {
+        "cost": 675,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_YETI_MECH_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleMechYeti.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechYeti.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "yeti_mech"
+        ]
+    }
+}

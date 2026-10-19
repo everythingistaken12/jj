@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "tmnt_2024_tmnt_radical_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_RADICAL_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "TMNT_LEONARDO_HEAD == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "tmnt_2024_tmnt_radical_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_RADICAL_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "TMNT_LEONARDO_HEAD == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "tmnt_2024_tmnt_radical_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_RADICAL_BUNDLE_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "TMNT_LEONARDO_HEAD == 0"
+			}
+		]
+	],
+	"store_id": "TMNT_RADICAL_BUNDLE",
+	"timer_id": "tmnt_2024_tmnt_radical_bundle",
+	"trigger_name": "tmnt_radical_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_RADICAL_BUNDLE_VIEWS"
+}

@@ -1,0 +1,30 @@
+{
+    "reference_id": "DEATH_BODY",
+    "tags": [
+        "premium",
+        "excludeFromRandom",
+        "bundle",
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_DEATH_BODY_NAME",
+        "description": "ITEM_DEATH_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyDeath",
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "DEATH_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

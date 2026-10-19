@@ -1,0 +1,912 @@
+ARCHIVE: C:\Users\techn\source\repos\jj\original\assets.zip
+Compressed file size: 170.44 MB
+File entries: 15005
+Directories: 1374
+Total uncompressed size: 830.69 MB
+
+TOP-LEVEL PATHS:
+  textures: 5654
+  Configs: 4871
+  sound: 1944
+  xml: 881
+  Events: 632
+  Particles: 207
+  dailyMissions: 197
+  patterns: 147
+  scripts: 100
+  shaders: 86
+  hbplus: 83
+  (root): 64
+  StringTables: 47
+  Replays: 40
+  AmazonHero: 17
+  pickups: 11
+  font: 9
+  config: 6
+  locale: 3
+  art: 2
+  bundles: 1
+  predictionML: 1
+  splashScreen: 1
+  uiprofiler: 1
+
+FILE TYPES (count, total unpacked size):
+  .tex: 5400 files, 702.62 MB
+  .json: 4825 files, 3.28 MB
+  .ogg: 2109 files, 60.07 MB
+  .xml: 1281 files, 2.28 MB
+  .uiscreen: 471 files, 33.98 MB
+  .lua: 358 files, 755.17 KB
+  .txt: 245 files, 73.14 KB
+  .atlas: 89 files, 739.96 KB
+  .str: 47 files, 3.42 MB
+  .jet: 40 files, 6.68 MB
+  .fs: 34 files, 43.37 KB
+  .vs: 34 files, 29.30 KB
+  .offline: 15 files, 78.86 KB
+  .sig: 15 files, 1.88 KB
+  .ttf: 15 files, 11.16 MB
+  .metal: 15 files, 34.47 KB
+  .otf: 3 files, 3.12 MB
+  .dat: 3 files, 32.85 KB
+  .fx: 3 files, 5.07 KB
+  .properties: 1 files, 259.00 B
+  .fnt: 1 files, 10.70 KB
+  .mp3: 1 files, 2.34 MB
+
+LARGEST 100 FILES (unpacked size):
+      16.66 MB |    0.5% of original compressed | textures/menus/offers/BattlePass/plankBP_fullB.tex
+      16.57 MB |    0.7% of original compressed | textures/menus/offers/BattlePass/plankBP_fullC.tex
+      10.17 MB |   15.2% of original compressed | Events/MoTU/splashScreen/default_EVENT.tex
+       9.55 MB |   43.8% of original compressed | Events/Halloween/splashScreen/default_EVENT.tex
+       8.26 MB |   48.9% of original compressed | Events/CutAndRun/splashScreen/default_EVENT.tex
+       8.00 MB |   12.8% of original compressed | Events/Halloween/Textures/Levels/bgHalloween0.tex
+       8.00 MB |    2.5% of original compressed | hbplus/textures/screen_ui0.tex
+       8.00 MB |    3.1% of original compressed | textures/Characters/workers0.tex
+       8.00 MB |    9.6% of original compressed | textures/levels/bgTestLab0.tex
+       6.00 MB |    4.0% of original compressed | textures/levels/bgBTTF_Future0.tex
+       5.34 MB |   44.3% of original compressed | hbplus/fonts/gangofchinese.ttf
+       4.71 MB |   14.6% of original compressed | hbplus/textures/bg_all_chars.tex
+       4.31 MB |   45.7% of original compressed | font/gangoffour.ttf
+       4.00 MB |    4.6% of original compressed | Events/Anniversary/Textures/Characters/workers0.tex
+       4.00 MB |    1.5% of original compressed | Events/Anniversary/Textures/Characters/workers1.tex
+       4.00 MB |    5.9% of original compressed | Events/GhostBusters/Textures/Characters/workers0.tex
+       4.00 MB |    2.4% of original compressed | Events/Halloween/Textures/Characters/workers0.tex
+       4.00 MB |    3.7% of original compressed | Events/TMNT/Textures/Characters/workers0.tex
+       4.00 MB |    9.9% of original compressed | textures/Effects/behindEffects0.tex
+       4.00 MB |    7.5% of original compressed | textures/Effects/frontEffects0.tex
+       4.00 MB |    1.0% of original compressed | textures/player0.tex
+       3.95 MB |   17.2% of original compressed | hbplus/textures/bg_login.tex
+       3.95 MB |   18.6% of original compressed | hbplus/textures/bg_logout.tex
+       3.94 MB |   22.4% of original compressed | hbplus/textures/bg_landing.tex
+       3.94 MB |    8.2% of original compressed | hbplus/textures/bg_pattern.tex
+       3.38 MB |   14.7% of original compressed | Events/AgeOfZombies/splashScreen/default_EVENT.tex
+       3.38 MB |   13.3% of original compressed | Events/Anniversary/splashScreen/default_EVENT.tex
+       3.38 MB |   13.0% of original compressed | Events/BlingItOn/splashScreen/default_EVENT.tex
+       3.38 MB |   13.1% of original compressed | Events/ChineseNewYear/splashScreen/default_EVENT.tex
+       3.38 MB |   12.3% of original compressed | Events/Easter/splashScreen/default_EVENT.tex
+       3.38 MB |   12.7% of original compressed | Events/Hygiene/splashScreen/default_EVENT.tex
+       3.38 MB |   12.7% of original compressed | Events/Pirate/splashScreen/default_EVENT.tex
+       3.38 MB |   12.0% of original compressed | Events/StPatricks/splashScreen/default_EVENT.tex
+       3.38 MB |   11.6% of original compressed | splashScreen/default.tex
+       3.00 MB |   10.6% of original compressed | textures/levels/bgAgeOfZombiesCaveman0.tex
+       3.00 MB |    2.5% of original compressed | textures/levels/bgAgeOfZombiesCaveman1.tex
+       3.00 MB |   13.3% of original compressed | textures/levels/bgBorgGantry0.tex
+       3.00 MB |   12.5% of original compressed | textures/levels/bgCave0.tex
+       3.00 MB |   10.6% of original compressed | textures/levels/bgEaster0.tex
+       3.00 MB |   19.7% of original compressed | textures/levels/bgForest0.tex
+       3.00 MB |   11.6% of original compressed | textures/levels/bgForestMetalSlug0.tex
+       3.00 MB |    7.2% of original compressed | textures/levels/bgGantryGhostbustersHotel0.tex
+       3.00 MB |    1.9% of original compressed | textures/levels/bgGantryGhostbustersHotel1.tex
+       3.00 MB |    9.3% of original compressed | textures/levels/bgGantryKlingon0.tex
+       3.00 MB |    6.6% of original compressed | textures/levels/bgGhostbustersFarm0.tex
+       3.00 MB |    5.2% of original compressed | textures/levels/bgGhostbustersFarm1.tex
+       3.00 MB |    3.1% of original compressed | textures/levels/bgGhostbustersFarm2.tex
+       3.00 MB |    7.8% of original compressed | textures/levels/bgGhostbustersTown0.tex
+       3.00 MB |    6.7% of original compressed | textures/levels/bgGhostbustersTown1.tex
+       3.00 MB |    4.1% of original compressed | textures/levels/bgGhostbustersTown2.tex
+       3.00 MB |    1.2% of original compressed | textures/levels/bgGhostbustersTown3.tex
+       3.00 MB |   12.2% of original compressed | textures/levels/bgHalloween0.tex
+       3.00 MB |    6.9% of original compressed | textures/levels/bgHallway0.tex
+       3.00 MB |    3.3% of original compressed | textures/levels/bgHallwayBrainsAttack0.tex
+       3.00 MB |    6.3% of original compressed | textures/levels/bgHallwayCaveman0.tex
+       3.00 MB |    5.1% of original compressed | textures/levels/bgHallwayDojoFruitninja0.tex
+       3.00 MB |    6.6% of original compressed | textures/levels/bgHallwayGhostbusters0.tex
+       3.00 MB |    4.3% of original compressed | textures/levels/bgHallwayGhostbustersHotel0.tex
+       3.00 MB |    4.8% of original compressed | textures/levels/bgHallwayGhostbustersLibrary0.tex
+       3.00 MB |    5.5% of original compressed | textures/levels/bgHallwayGhostbustersSubway0.tex
+       3.00 MB |    2.3% of original compressed | textures/levels/bgHallwayGhostbustersSubway1.tex
+       3.00 MB |    7.1% of original compressed | textures/levels/bgHallwayHygiene0.tex
+       3.00 MB |    6.8% of original compressed | textures/levels/bgHallwayMetalSlug0.tex
+       3.00 MB |    6.5% of original compressed | textures/levels/bgHallwayMOTU0.tex
+       3.00 MB |    8.8% of original compressed | textures/levels/bgHallwayStarTrek0.tex
+       3.00 MB |   14.3% of original compressed | textures/levels/bgHills0.tex
+       3.00 MB |    9.3% of original compressed | textures/levels/bgMOTUExterior0.tex
+       3.00 MB |   11.0% of original compressed | textures/levels/bgMOTUExteriorVariant0.tex
+       3.00 MB |    7.2% of original compressed | textures/levels/bgMysticBuildingGhostbusters0.tex
+       3.00 MB |    4.7% of original compressed | textures/levels/bgMysticBuildingGhostbusters1.tex
+       3.00 MB |    8.7% of original compressed | textures/levels/bgPirate0.tex
+       3.00 MB |    1.5% of original compressed | textures/levels/bgPirate1.tex
+       3.00 MB |   10.0% of original compressed | textures/levels/bgRoom0.tex
+       3.00 MB |    3.8% of original compressed | textures/levels/bgShreddersLair0.tex
+       3.00 MB |   14.1% of original compressed | textures/levels/bgSnowyHills0.tex
+       3.00 MB |    8.4% of original compressed | textures/levels/bgStarshipEnterprise0.tex
+       3.00 MB |   10.4% of original compressed | textures/levels/bgStPatricks0.tex
+       3.00 MB |    8.2% of original compressed | textures/levels/bgSubwayGhostbusters0.tex
+       3.00 MB |    8.2% of original compressed | textures/levels/bgTMNTNYCHallway0.tex
+       3.00 MB |   13.5% of original compressed | textures/levels/bgTMNTNYCVariant0.tex
+       3.00 MB |    2.2% of original compressed | textures/levels/bgTMNTNYCVariant1.tex
+       3.00 MB |    9.4% of original compressed | textures/levels/bgTMNTSewersHallway0.tex
+       3.00 MB |    7.2% of original compressed | textures/levels/bgTMNTSewersVariant0.tex
+       3.00 MB |    2.9% of original compressed | textures/levels/bgTMNTSewersVariant1.tex
+       3.00 MB |   10.3% of original compressed | textures/levels/bgTMNTSplinterHallway0.tex
+       3.00 MB |    9.6% of original compressed | textures/levels/bgTMNTSplinterVariant0.tex
+       3.00 MB |   16.3% of original compressed | textures/levels/bgVillageMetalSlug0.tex
+       3.00 MB |    3.3% of original compressed | textures/levels/bgVillageMetalSlug1.tex
+       3.00 MB |    5.8% of original compressed | textures/levels/bgWarehouse0.tex
+       3.00 MB |    6.2% of original compressed | textures/levels/bgWarehouseHygiene0.tex
+       3.00 MB |    9.0% of original compressed | textures/levels/bgWarehouseMetalSlug0.tex
+       3.00 MB |    4.5% of original compressed | textures/levels/bgWarehouseMetalSlug1.tex
+       2.97 MB |    2.1% of original compressed | textures/menus/privacyConsent/consent_dialog_background.tex
+       2.67 MB |    0.4% of original compressed | textures/menus/offers/BattlePass/backingFree.tex
+       2.67 MB |    0.5% of original compressed | textures/menus/offers/BattlePass/backingVIP.tex
+       2.34 MB |   91.8% of original compressed | model.mp3
+       2.29 MB |   76.6% of original compressed | font/smart_font_ui_japanese.otf
+       2.00 MB |    6.8% of original compressed | textures/Hud/freezeOverlay.tex
+       1.95 MB |    2.8% of original compressed | hbplus/textures/bg_popup_paywall.tex
+       1.88 MB |   61.9% of original compressed | hbplus/textures/gr_userjourney_scroll.tex
+
+FIRST 250 PATHS:
+       2.48 KB | achievements.offline
+      128.00 B | achievements.offline.sig
+      608.00 B | actions.offline
+      128.00 B | actions.offline.sig
+       7.83 KB | amazon.sdktester.json
+       8.05 KB | AmazonHero/assist.tex
+       8.05 KB | AmazonHero/avoid.tex
+       8.05 KB | AmazonHero/coin.tex
+       8.05 KB | AmazonHero/coinCluster.tex
+       8.05 KB | AmazonHero/fly.tex
+       8.05 KB | AmazonHero/missile.tex
+       8.05 KB | AmazonHero/oddball.tex
+       8.05 KB | AmazonHero/onFoot.tex
+       8.05 KB | AmazonHero/reach.tex
+       8.05 KB | AmazonHero/shop.tex
+       8.05 KB | AmazonHero/slalom.tex
+       8.05 KB | AmazonHero/token.tex
+       8.05 KB | AmazonHero/vehicle.tex
+       8.05 KB | AmazonHero/vehicleDestroy.tex
+       8.05 KB | AmazonHero/vehicleTravel.tex
+       8.05 KB | AmazonHero/worker.tex
+       8.05 KB | AmazonHero/zappy.tex
+     297.85 KB | art/fonts/fa-solid-900.ttf
+     158.78 KB | art/fonts/Roboto-Medium.ttf
+       86.00 B | bundles/bundlemanager.xml
+      22.19 KB | challenges.offline
+      128.00 B | challenges.offline.sig
+      544.00 B | cloudObjects.offline
+      128.00 B | cloudObjects.offline.sig
+       2.98 KB | config/google-services-hbp-android.json
+      721.00 B | config/google-services-hbp-ios.json
+       1.48 KB | config/google-services.json
+       1.48 KB | config/google-services_GooglePlay_Production.json
+      808.00 B | config/google-services_GooglePlay_Sandbox.json
+       1.77 KB | config/google-services_HalfbrickPlus.json
+      568.00 B | Configs/achievements/A_MAN_A_SON_1.json
+      590.00 B | Configs/achievements/ALPHA_CHARLIE_1.json
+      606.00 B | Configs/achievements/ANGRY_WINGS_1.json
+      649.00 B | Configs/achievements/ANOTHER_WAY_IN_1.json
+      625.00 B | Configs/achievements/BIG_SPENDER_1.json
+      621.00 B | Configs/achievements/BLING_OUT_1.json
+      567.00 B | Configs/achievements/BULLSEYE_1.json
+      599.00 B | Configs/achievements/CLASS_ACT_1.json
+      563.00 B | Configs/achievements/CRACKLING_1.json
+      639.00 B | Configs/achievements/CRAZY_FREAKING_SKILLS_1.json
+      637.00 B | Configs/achievements/DOG_DISTANCE_1.json
+      644.00 B | Configs/achievements/DRAGON_FRUIT_1.json
+      642.00 B | Configs/achievements/FALL_OUT_1.json
+      661.00 B | Configs/achievements/FOAM_PARTY_1.json
+      620.00 B | Configs/achievements/FOR_SCIENCE_1.json
+      644.00 B | Configs/achievements/FUZZY_LOCKS_1.json
+      578.00 B | Configs/achievements/GERMAPHOBE_1.json
+      643.00 B | Configs/achievements/GOLD_DIGGER_1.json
+      617.00 B | Configs/achievements/GREEN_EGGS_1.json
+      661.00 B | Configs/achievements/GW_MUSCAT_1.json
+      611.00 B | Configs/achievements/GW_SIERRA_1.json
+      605.00 B | Configs/achievements/GW_WOODY_1.json
+      566.00 B | Configs/achievements/HAPPY_SNAP_1.json
+      653.00 B | Configs/achievements/HIGH_ROLLER_1.json
+      596.00 B | Configs/achievements/HIPPY_1.json
+      591.00 B | Configs/achievements/JAMES_WHO_1.json
+      615.00 B | Configs/achievements/LICENCE_TO_THRILL_1.json
+      650.00 B | Configs/achievements/MARATHON_1.json
+      631.00 B | Configs/achievements/MIX_N_MATCH_1.json
+      627.00 B | Configs/achievements/NOT_SO_GREEN_1.json
+      624.00 B | Configs/achievements/PRETTY_WOMAN_1.json
+      570.00 B | Configs/achievements/REJECTED_1.json
+      656.00 B | Configs/achievements/ROAD_TRIP_1.json
+      587.00 B | Configs/achievements/ROMEO_ALPHA_1.json
+      599.00 B | Configs/achievements/SPICE_OF_LIFE_1.json
+      671.00 B | Configs/achievements/STRONG_TACTICS_1.json
+      583.00 B | Configs/achievements/TEEHEETWO_1.json
+      591.00 B | Configs/achievements/TOASTIE_1.json
+      616.00 B | Configs/achievements/VETERAN_1.json
+      764.00 B | Configs/achievements_lists/all_1.json
+      16.28 KB | Configs/advertising/mediation_1.json
+      124.00 B | Configs/advertising/system_1.json
+       3.35 KB | Configs/bubbles/default_1.json
+       67.00 B | Configs/bubbles/distance_config_1.json
+       67.00 B | Configs/bubbles/multiplayer_distance_config_1.json
+      164.00 B | Configs/bubbles/multiplayer_probability_config_1.json
+      164.00 B | Configs/bubbles/probability_config_1.json
+      910.00 B | Configs/chaser/chaser_1.json
+       5.28 KB | Configs/chaser/level_10_1.json
+       7.42 KB | Configs/chaser/level_11_1.json
+       7.90 KB | Configs/chaser/level_12_1.json
+       7.42 KB | Configs/chaser/level_13_1.json
+       7.42 KB | Configs/chaser/level_14_1.json
+      11.13 KB | Configs/chaser/level_15_1.json
+      10.66 KB | Configs/chaser/level_16_1.json
+      10.33 KB | Configs/chaser/level_17_1.json
+      10.33 KB | Configs/chaser/level_18_1.json
+      10.33 KB | Configs/chaser/level_19_1.json
+       2.59 KB | Configs/chaser/level_1_1.json
+      12.72 KB | Configs/chaser/level_20_1.json
+      16.38 KB | Configs/chaser/level_21_1.json
+       3.29 KB | Configs/chaser/level_2_1.json
+       3.48 KB | Configs/chaser/level_3_1.json
+       3.48 KB | Configs/chaser/level_4_1.json
+       4.05 KB | Configs/chaser/level_5_1.json
+       3.08 KB | Configs/chaser/level_6_1.json
+       3.08 KB | Configs/chaser/level_7_1.json
+       3.55 KB | Configs/chaser/level_8_1.json
+       3.55 KB | Configs/chaser/level_9_1.json
+       67.00 B | Configs/cloud_leaderboards/distance_1.json
+       67.00 B | Configs/cloud_leaderboards/event-tokens_1.json
+       26.00 B | Configs/cloud_leaderboards/multiplayer-dev_1.json
+       26.00 B | Configs/cloud_leaderboards/multiplayer_1.json
+       1.09 KB | Configs/coins_patterns/age_of_zombies/CoinPatterns_1.json
+      992.00 B | Configs/coins_patterns/Anniversary/CoinPatterns_1.json
+       4.50 KB | Configs/coins_patterns/back_to_the_future/CoinPatterns_1.json
+       3.12 KB | Configs/coins_patterns/bling_it_on/CoinPatterns_1.json
+       1.26 KB | Configs/coins_patterns/chinese_new_year/CoinPatterns_1.json
+       3.50 KB | Configs/coins_patterns/christmas/CoinPatterns_1.json
+       5.39 KB | Configs/coins_patterns/CoinPatterns_1.json
+       4.70 KB | Configs/coins_patterns/cut_and_run/CoinPatterns_1.json
+       1.47 KB | Configs/coins_patterns/easter/CoinPatterns_1.json
+       1.55 KB | Configs/coins_patterns/ghostbusters/CoinPatterns_1.json
+       1.32 KB | Configs/coins_patterns/halloween/CoinPatterns_1.json
+       1.21 KB | Configs/coins_patterns/metal_slug/CoinPatterns_1.json
+       1.22 KB | Configs/coins_patterns/motu/CoinPatterns_1.json
+      928.00 B | Configs/coins_patterns/multiplayer/cash_dash_1.json
+       2.23 KB | Configs/coins_patterns/pirate/CoinPatterns_1.json
+      10.42 KB | Configs/coins_patterns/pirate/Streaks_JETSKICoins_1.json
+       2.19 KB | Configs/coins_patterns/star_trek/CoinPatterns_1.json
+       1.52 KB | Configs/coins_patterns/stpatricks/CoinPatterns_1.json
+      825.00 B | Configs/coins_patterns/Streaks_CFTCoins_1.json
+       5.64 KB | Configs/coins_patterns/Streaks_CoinStreak_1.json
+      13.30 KB | Configs/coins_patterns/Streaks_DELCoins_1.json
+      13.68 KB | Configs/coins_patterns/Streaks_ECTOCoins_1.json
+      11.33 KB | Configs/coins_patterns/Streaks_GRAVCoins_1.json
+       7.51 KB | Configs/coins_patterns/Streaks_HOVERCoins_1.json
+       7.29 KB | Configs/coins_patterns/Streaks_ICESKATESCoins_1.json
+      10.42 KB | Configs/coins_patterns/Streaks_JETSKICoins_1.json
+       5.70 KB | Configs/coins_patterns/Streaks_MECHCoins_1.json
+       2.21 KB | Configs/coins_patterns/Streaks_OnBoardingCoins_1_1.json
+       1.24 KB | Configs/coins_patterns/Streaks_SAMCoins_1.json
+       1.57 KB | Configs/coins_patterns/tmnt/CoinPatterns_1.json
+       2.49 KB | Configs/coins_patterns/zappy_bird/CoinPatterns_1.json
+       2.11 KB | Configs/cross_promo/interstitials_1.json
+        2.00 B | Configs/cross_promo/list_1.json
+       31.00 B | Configs/currencies/age_of_zombies_token_1.json
+       31.00 B | Configs/currencies/anniversary_token_1.json
+       31.00 B | Configs/currencies/BlingToken_1.json
+       31.00 B | Configs/currencies/BrainsAttackTokens_1.json
+       31.00 B | Configs/currencies/ChaserTokens_1.json
+       31.00 B | Configs/currencies/ChineseEnvelope_1.json
+       31.00 B | Configs/currencies/ChristmasBaubles_1.json
+       34.00 B | Configs/currencies/coins_1.json
+       31.00 B | Configs/currencies/EasterEggs_1.json
+       31.00 B | Configs/currencies/Fruit_1.json
+       31.00 B | Configs/currencies/FruitPunchTokens_1.json
+       31.00 B | Configs/currencies/ghostbusters_token_1.json
+       31.00 B | Configs/currencies/metal_slug_crate_1.json
+       31.00 B | Configs/currencies/motu_token_1.json
+       31.00 B | Configs/currencies/PirateSkulls2_1.json
+       31.00 B | Configs/currencies/PirateSkulls_1.json
+       31.00 B | Configs/currencies/Shamrocks_1.json
+       31.00 B | Configs/currencies/soap_1.json
+       31.00 B | Configs/currencies/SoulTokens_1.json
+       31.00 B | Configs/currencies/star_trek_token_1.json
+       31.00 B | Configs/currencies/Stars_1.json
+       31.00 B | Configs/currencies/thanksgiving_token_1.json
+       31.00 B | Configs/currencies/tmnt_token_1.json
+       31.00 B | Configs/currencies/tokens_bttf_1.json
+       31.00 B | Configs/currencies/ZappersPassed_1.json
+      536.00 B | Configs/currencies_lists/all_1.json
+       2.14 KB | Configs/currencies_textures/default_1.json
+       2.08 KB | Configs/daily_reward/default_1.json
+      308.00 B | Configs/daily_reward/rv_tiers_1.json
+       1.69 KB | Configs/daily_reward_tiers/tier_1_1.json
+       1.64 KB | Configs/daily_reward_tiers/tier_2_1.json
+       2.00 KB | Configs/daily_reward_tiers/variantA/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantA/tier_2_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantA/tier_3_1.json
+       1.66 KB | Configs/daily_reward_tiers/variantA/tier_4_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantA/tier_5_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantA/tier_6_1.json
+       1.65 KB | Configs/daily_reward_tiers/variantA/tier_7_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantA/tier_8_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantA/tier_9_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantB/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantB/tier_2_1.json
+       1.66 KB | Configs/daily_reward_tiers/variantB/tier_3_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantB/tier_4_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantB/tier_5_1.json
+       1.65 KB | Configs/daily_reward_tiers/variantB/tier_6_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantB/tier_7_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantB/tier_8_1.json
+      525.00 B | Configs/daily_reward_tiers/variantB/tier_9_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantC/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantC/tier_2_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantC/tier_3_1.json
+       1.66 KB | Configs/daily_reward_tiers/variantC/tier_4_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantC/tier_5_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantC/tier_6_1.json
+       1.65 KB | Configs/daily_reward_tiers/variantC/tier_7_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantC/tier_8_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantC/tier_9_1.json
+       2.00 KB | Configs/daily_reward_tiers/variantD/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantD/tier_2_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantD/tier_3_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantD/tier_4_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantD/tier_5_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantD/tier_6_1.json
+      530.00 B | Configs/daily_reward_tiers/variantD/tier_7_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantD/tier_8_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantD/tier_9_1.json
+       3.46 KB | Configs/dailymissions/age_of_zombies/default_1.json
+       2.21 KB | Configs/dailymissions/Anniversary/default_1.json
+       2.19 KB | Configs/dailymissions/bling_it_on/default_1.json
+       3.54 KB | Configs/dailymissions/chinese_new_year/default_1.json
+       4.36 KB | Configs/dailymissions/christmas/default_1.json
+       69.00 B | Configs/dailymissions/CLEAR_3_ZAPPERS_1.json
+       74.00 B | Configs/dailymissions/COLLECT_1000_COINS_1.json
+       82.00 B | Configs/dailymissions/COLLECT_1000_SMALL_DIAMOND_1.json
+       79.00 B | Configs/dailymissions/COLLECT_100_SPIN_TOKENS_1.json
+       76.00 B | Configs/dailymissions/COLLECT_10_SPIN_TOKENS_1.json
+       75.00 B | Configs/dailymissions/COLLECT_12500_COINS_1.json
+       79.00 B | Configs/dailymissions/COLLECT_200_BIG_DIAMOND_1.json
+       76.00 B | Configs/dailymissions/COLLECT_20_SPIN_TOKENS_1.json
+       75.00 B | Configs/dailymissions/COLLECT_25000_COINS_1.json
+       72.00 B | Configs/dailymissions/COLLECT_2500_COINS_1.json
+       74.00 B | Configs/dailymissions/COLLECT_5000_COINS_1.json
+       80.00 B | Configs/dailymissions/COLLECT_500_EVENT_TOKENS_1.json
+       78.00 B | Configs/dailymissions/COLLECT_50_SPIN_TOKENS_1.json
+       76.00 B | Configs/dailymissions/COLLECT_5_DIAMONDS_BIG_1.json
+       78.00 B | Configs/dailymissions/COLLECT_5_DIAMONDS_SMALL_1.json
+       75.00 B | Configs/dailymissions/COLLECT_5_SPIN_TOKENS_1.json
+       92.00 B | Configs/dailymissions/DEBUG_EASTER_1.json
+      517.00 B | Configs/dailymissions/default_1.json
+       69.00 B | Configs/dailymissions/DISTANCE_1000_1.json
+       68.00 B | Configs/dailymissions/DISTANCE_200_1.json
+       68.00 B | Configs/dailymissions/DISTANCE_500_1.json
+       1.78 KB | Configs/dailymissions/easter/default_1.json
+       62.00 B | Configs/dailymissions/FREEBIE_1.json
+       75.00 B | Configs/dailymissions/FREEBIE_ANNIVERSARY_1.json
+      728.00 B | Configs/dailymissions/fruit_punch/default_1.json
+       3.46 KB | Configs/dailymissions/halloween/default_1.json
+       1.17 KB | Configs/dailymissions/hygiene/default_1.json
+       72.00 B | Configs/dailymissions/MISS_100_ZAPPERS_1.json
+       78.00 B | Configs/dailymissions/MISS_10_VEHICLE_TOKENS_1.json
+       75.00 B | Configs/dailymissions/MISS_3_VEHICLE_TOKENS_1.json
+       75.00 B | Configs/dailymissions/MISS_6_VEHICLE_TOKENS_1.json
+       3.06 KB | Configs/dailymissions/motu/default_1.json
+       80.00 B | Configs/dailymissions/PICKUP_10_VEHICLE_TOKENS_1.json
+       80.00 B | Configs/dailymissions/PICKUP_15_VEHICLE_TOKENS_1.json
+       77.00 B | Configs/dailymissions/PICKUP_3_VEHICLE_TOKENS_1.json
+       77.00 B | Configs/dailymissions/PICKUP_6_VEHICLE_TOKENS_1.json
+       1.78 KB | Configs/dailymissions/pirate/default_1.json
+
+PATHS WITH GAME-RELATED WORDS (may include false positives):
+       7.83 KB | amazon.sdktester.json
+       8.05 KB | AmazonHero/coin.tex
+       8.05 KB | AmazonHero/coinCluster.tex
+       8.05 KB | AmazonHero/vehicle.tex
+       8.05 KB | AmazonHero/vehicleDestroy.tex
+       8.05 KB | AmazonHero/vehicleTravel.tex
+     297.85 KB | art/fonts/fa-solid-900.ttf
+     158.78 KB | art/fonts/Roboto-Medium.ttf
+       86.00 B | bundles/bundlemanager.xml
+      590.00 B | Configs/achievements/ALPHA_CHARLIE_1.json
+      606.00 B | Configs/achievements/ANGRY_WINGS_1.json
+      649.00 B | Configs/achievements/ANOTHER_WAY_IN_1.json
+      568.00 B | Configs/achievements/A_MAN_A_SON_1.json
+      625.00 B | Configs/achievements/BIG_SPENDER_1.json
+      621.00 B | Configs/achievements/BLING_OUT_1.json
+      567.00 B | Configs/achievements/BULLSEYE_1.json
+      599.00 B | Configs/achievements/CLASS_ACT_1.json
+      563.00 B | Configs/achievements/CRACKLING_1.json
+      639.00 B | Configs/achievements/CRAZY_FREAKING_SKILLS_1.json
+      637.00 B | Configs/achievements/DOG_DISTANCE_1.json
+      644.00 B | Configs/achievements/DRAGON_FRUIT_1.json
+      642.00 B | Configs/achievements/FALL_OUT_1.json
+      661.00 B | Configs/achievements/FOAM_PARTY_1.json
+      620.00 B | Configs/achievements/FOR_SCIENCE_1.json
+      644.00 B | Configs/achievements/FUZZY_LOCKS_1.json
+      578.00 B | Configs/achievements/GERMAPHOBE_1.json
+      643.00 B | Configs/achievements/GOLD_DIGGER_1.json
+      617.00 B | Configs/achievements/GREEN_EGGS_1.json
+      661.00 B | Configs/achievements/GW_MUSCAT_1.json
+      611.00 B | Configs/achievements/GW_SIERRA_1.json
+      605.00 B | Configs/achievements/GW_WOODY_1.json
+      566.00 B | Configs/achievements/HAPPY_SNAP_1.json
+      653.00 B | Configs/achievements/HIGH_ROLLER_1.json
+      596.00 B | Configs/achievements/HIPPY_1.json
+      591.00 B | Configs/achievements/JAMES_WHO_1.json
+      615.00 B | Configs/achievements/LICENCE_TO_THRILL_1.json
+      650.00 B | Configs/achievements/MARATHON_1.json
+      631.00 B | Configs/achievements/MIX_N_MATCH_1.json
+      627.00 B | Configs/achievements/NOT_SO_GREEN_1.json
+      624.00 B | Configs/achievements/PRETTY_WOMAN_1.json
+      570.00 B | Configs/achievements/REJECTED_1.json
+      656.00 B | Configs/achievements/ROAD_TRIP_1.json
+      587.00 B | Configs/achievements/ROMEO_ALPHA_1.json
+      599.00 B | Configs/achievements/SPICE_OF_LIFE_1.json
+      671.00 B | Configs/achievements/STRONG_TACTICS_1.json
+      583.00 B | Configs/achievements/TEEHEETWO_1.json
+      591.00 B | Configs/achievements/TOASTIE_1.json
+      616.00 B | Configs/achievements/VETERAN_1.json
+      764.00 B | Configs/achievements_lists/all_1.json
+      16.28 KB | Configs/advertising/mediation_1.json
+      124.00 B | Configs/advertising/system_1.json
+       3.35 KB | Configs/bubbles/default_1.json
+       67.00 B | Configs/bubbles/distance_config_1.json
+       67.00 B | Configs/bubbles/multiplayer_distance_config_1.json
+      164.00 B | Configs/bubbles/multiplayer_probability_config_1.json
+      164.00 B | Configs/bubbles/probability_config_1.json
+      910.00 B | Configs/chaser/chaser_1.json
+       5.28 KB | Configs/chaser/level_10_1.json
+       7.42 KB | Configs/chaser/level_11_1.json
+       7.90 KB | Configs/chaser/level_12_1.json
+       7.42 KB | Configs/chaser/level_13_1.json
+       7.42 KB | Configs/chaser/level_14_1.json
+      11.13 KB | Configs/chaser/level_15_1.json
+      10.66 KB | Configs/chaser/level_16_1.json
+      10.33 KB | Configs/chaser/level_17_1.json
+      10.33 KB | Configs/chaser/level_18_1.json
+      10.33 KB | Configs/chaser/level_19_1.json
+       2.59 KB | Configs/chaser/level_1_1.json
+      12.72 KB | Configs/chaser/level_20_1.json
+      16.38 KB | Configs/chaser/level_21_1.json
+       3.29 KB | Configs/chaser/level_2_1.json
+       3.48 KB | Configs/chaser/level_3_1.json
+       3.48 KB | Configs/chaser/level_4_1.json
+       4.05 KB | Configs/chaser/level_5_1.json
+       3.08 KB | Configs/chaser/level_6_1.json
+       3.08 KB | Configs/chaser/level_7_1.json
+       3.55 KB | Configs/chaser/level_8_1.json
+       3.55 KB | Configs/chaser/level_9_1.json
+       67.00 B | Configs/cloud_leaderboards/distance_1.json
+       67.00 B | Configs/cloud_leaderboards/event-tokens_1.json
+       26.00 B | Configs/cloud_leaderboards/multiplayer-dev_1.json
+       26.00 B | Configs/cloud_leaderboards/multiplayer_1.json
+       1.09 KB | Configs/coins_patterns/age_of_zombies/CoinPatterns_1.json
+      992.00 B | Configs/coins_patterns/Anniversary/CoinPatterns_1.json
+       4.50 KB | Configs/coins_patterns/back_to_the_future/CoinPatterns_1.json
+       3.12 KB | Configs/coins_patterns/bling_it_on/CoinPatterns_1.json
+       1.26 KB | Configs/coins_patterns/chinese_new_year/CoinPatterns_1.json
+       3.50 KB | Configs/coins_patterns/christmas/CoinPatterns_1.json
+       5.39 KB | Configs/coins_patterns/CoinPatterns_1.json
+       4.70 KB | Configs/coins_patterns/cut_and_run/CoinPatterns_1.json
+       1.47 KB | Configs/coins_patterns/easter/CoinPatterns_1.json
+       1.55 KB | Configs/coins_patterns/ghostbusters/CoinPatterns_1.json
+       1.32 KB | Configs/coins_patterns/halloween/CoinPatterns_1.json
+       1.21 KB | Configs/coins_patterns/metal_slug/CoinPatterns_1.json
+       1.22 KB | Configs/coins_patterns/motu/CoinPatterns_1.json
+      928.00 B | Configs/coins_patterns/multiplayer/cash_dash_1.json
+       2.23 KB | Configs/coins_patterns/pirate/CoinPatterns_1.json
+      10.42 KB | Configs/coins_patterns/pirate/Streaks_JETSKICoins_1.json
+       2.19 KB | Configs/coins_patterns/star_trek/CoinPatterns_1.json
+       1.52 KB | Configs/coins_patterns/stpatricks/CoinPatterns_1.json
+      825.00 B | Configs/coins_patterns/Streaks_CFTCoins_1.json
+       5.64 KB | Configs/coins_patterns/Streaks_CoinStreak_1.json
+      13.30 KB | Configs/coins_patterns/Streaks_DELCoins_1.json
+      13.68 KB | Configs/coins_patterns/Streaks_ECTOCoins_1.json
+      11.33 KB | Configs/coins_patterns/Streaks_GRAVCoins_1.json
+       7.51 KB | Configs/coins_patterns/Streaks_HOVERCoins_1.json
+       7.29 KB | Configs/coins_patterns/Streaks_ICESKATESCoins_1.json
+      10.42 KB | Configs/coins_patterns/Streaks_JETSKICoins_1.json
+       5.70 KB | Configs/coins_patterns/Streaks_MECHCoins_1.json
+       2.21 KB | Configs/coins_patterns/Streaks_OnBoardingCoins_1_1.json
+       1.24 KB | Configs/coins_patterns/Streaks_SAMCoins_1.json
+       1.57 KB | Configs/coins_patterns/tmnt/CoinPatterns_1.json
+       2.49 KB | Configs/coins_patterns/zappy_bird/CoinPatterns_1.json
+       2.11 KB | Configs/cross_promo/interstitials_1.json
+        2.00 B | Configs/cross_promo/list_1.json
+       31.00 B | Configs/currencies/age_of_zombies_token_1.json
+       31.00 B | Configs/currencies/anniversary_token_1.json
+       31.00 B | Configs/currencies/BlingToken_1.json
+       31.00 B | Configs/currencies/BrainsAttackTokens_1.json
+       31.00 B | Configs/currencies/ChaserTokens_1.json
+       31.00 B | Configs/currencies/ChineseEnvelope_1.json
+       31.00 B | Configs/currencies/ChristmasBaubles_1.json
+       34.00 B | Configs/currencies/coins_1.json
+       31.00 B | Configs/currencies/EasterEggs_1.json
+       31.00 B | Configs/currencies/FruitPunchTokens_1.json
+       31.00 B | Configs/currencies/Fruit_1.json
+       31.00 B | Configs/currencies/ghostbusters_token_1.json
+       31.00 B | Configs/currencies/metal_slug_crate_1.json
+       31.00 B | Configs/currencies/motu_token_1.json
+       31.00 B | Configs/currencies/PirateSkulls2_1.json
+       31.00 B | Configs/currencies/PirateSkulls_1.json
+       31.00 B | Configs/currencies/Shamrocks_1.json
+       31.00 B | Configs/currencies/soap_1.json
+       31.00 B | Configs/currencies/SoulTokens_1.json
+       31.00 B | Configs/currencies/Stars_1.json
+       31.00 B | Configs/currencies/star_trek_token_1.json
+       31.00 B | Configs/currencies/thanksgiving_token_1.json
+       31.00 B | Configs/currencies/tmnt_token_1.json
+       31.00 B | Configs/currencies/tokens_bttf_1.json
+       31.00 B | Configs/currencies/ZappersPassed_1.json
+      536.00 B | Configs/currencies_lists/all_1.json
+       2.14 KB | Configs/currencies_textures/default_1.json
+       3.46 KB | Configs/dailymissions/age_of_zombies/default_1.json
+       2.21 KB | Configs/dailymissions/Anniversary/default_1.json
+       2.19 KB | Configs/dailymissions/bling_it_on/default_1.json
+       3.54 KB | Configs/dailymissions/chinese_new_year/default_1.json
+       4.36 KB | Configs/dailymissions/christmas/default_1.json
+       69.00 B | Configs/dailymissions/CLEAR_3_ZAPPERS_1.json
+       74.00 B | Configs/dailymissions/COLLECT_1000_COINS_1.json
+       82.00 B | Configs/dailymissions/COLLECT_1000_SMALL_DIAMOND_1.json
+       79.00 B | Configs/dailymissions/COLLECT_100_SPIN_TOKENS_1.json
+       76.00 B | Configs/dailymissions/COLLECT_10_SPIN_TOKENS_1.json
+       75.00 B | Configs/dailymissions/COLLECT_12500_COINS_1.json
+       79.00 B | Configs/dailymissions/COLLECT_200_BIG_DIAMOND_1.json
+       76.00 B | Configs/dailymissions/COLLECT_20_SPIN_TOKENS_1.json
+       75.00 B | Configs/dailymissions/COLLECT_25000_COINS_1.json
+       72.00 B | Configs/dailymissions/COLLECT_2500_COINS_1.json
+       74.00 B | Configs/dailymissions/COLLECT_5000_COINS_1.json
+       80.00 B | Configs/dailymissions/COLLECT_500_EVENT_TOKENS_1.json
+       78.00 B | Configs/dailymissions/COLLECT_50_SPIN_TOKENS_1.json
+       76.00 B | Configs/dailymissions/COLLECT_5_DIAMONDS_BIG_1.json
+       78.00 B | Configs/dailymissions/COLLECT_5_DIAMONDS_SMALL_1.json
+       75.00 B | Configs/dailymissions/COLLECT_5_SPIN_TOKENS_1.json
+       92.00 B | Configs/dailymissions/DEBUG_EASTER_1.json
+      517.00 B | Configs/dailymissions/default_1.json
+       69.00 B | Configs/dailymissions/DISTANCE_1000_1.json
+       68.00 B | Configs/dailymissions/DISTANCE_200_1.json
+       68.00 B | Configs/dailymissions/DISTANCE_500_1.json
+       1.78 KB | Configs/dailymissions/easter/default_1.json
+       62.00 B | Configs/dailymissions/FREEBIE_1.json
+       75.00 B | Configs/dailymissions/FREEBIE_ANNIVERSARY_1.json
+      728.00 B | Configs/dailymissions/fruit_punch/default_1.json
+       3.46 KB | Configs/dailymissions/halloween/default_1.json
+       1.17 KB | Configs/dailymissions/hygiene/default_1.json
+       72.00 B | Configs/dailymissions/MISS_100_ZAPPERS_1.json
+       78.00 B | Configs/dailymissions/MISS_10_VEHICLE_TOKENS_1.json
+       75.00 B | Configs/dailymissions/MISS_3_VEHICLE_TOKENS_1.json
+       75.00 B | Configs/dailymissions/MISS_6_VEHICLE_TOKENS_1.json
+       3.06 KB | Configs/dailymissions/motu/default_1.json
+       80.00 B | Configs/dailymissions/PICKUP_10_VEHICLE_TOKENS_1.json
+       80.00 B | Configs/dailymissions/PICKUP_15_VEHICLE_TOKENS_1.json
+       77.00 B | Configs/dailymissions/PICKUP_3_VEHICLE_TOKENS_1.json
+       77.00 B | Configs/dailymissions/PICKUP_6_VEHICLE_TOKENS_1.json
+       1.78 KB | Configs/dailymissions/pirate/default_1.json
+       78.00 B | Configs/dailymissions/PLAY_10_EVENT_GAMES_1.json
+       78.00 B | Configs/dailymissions/PLAY_10_GAMES_1.json
+       89.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_AUTUMN_COSTUME_1.json
+       89.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_BETTY_BEEFPIES_1.json
+       88.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_CAVEMAN_BETTY_1.json
+       85.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_CNY_FEMALE_1.json
+       78.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_ELF_1.json
+       83.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_EVILLYN_1.json
+       97.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_EVILLYN_STAFF_1.json
+       87.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_FRANKENSTEIN_1.json
+       94.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_GINGER_BREAD_SLEIGH_1.json
+       85.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_HARLEQUINN_1.json
+       84.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_ICE_SKATE_1.json
+       89.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_JETPACK_AUTUMN_1.json
+      107.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_JETPACK_CUSTOM_DISCOBALL_1.json
+       88.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_JETPACK_DEMON_1.json
+       92.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_JETPACK_FIREWORKS_1.json
+       92.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_JETPACK_SNOWGLOBE_1.json
+       85.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_LADY_SANTA_1.json
+       71.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_LEPRECHAUN_1.json
+       95.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_MORE_THAN_1500_COINS_1.json
+       98.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_MORE_THAN_1500_DISTANCE_1.json
+       98.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_MORE_THAN_2500_DISTANCE_1.json
+       95.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_MORE_THAN_25_ZAPPERS_1.json
+       86.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_RAT_COSTUME_1.json
+       80.00 B | Configs/dailymissions/PLAY_10_GAMES_WITH_TEELA_1.json
+       78.00 B | Configs/dailymissions/PLAY_15_GAMES_WITH_SAM_1.json
+       77.00 B | Configs/dailymissions/PLAY_1_GAMES_WITH_SAM_1.json
+       78.00 B | Configs/dailymissions/PLAY_25_GAMES_1.json
+       77.00 B | Configs/dailymissions/PLAY_3_EVENT_GAMES_1.json
+       75.00 B | Configs/dailymissions/PLAY_3_GAMES_1.json
+       98.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_ANNIVERSARY_MECH_1.json
+       92.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_BATTLE_CAT_1.json
+       91.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_GOLD_MECH_1.json
+       85.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_HOG_1.json
+       92.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_MORE_THAN_1000_COINS_1.json
+       95.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_MORE_THAN_1000_DISTANCE_1.json
+       92.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_MORE_THAN_2000_COINS_1.json
+       95.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_MORE_THAN_2500_DISTANCE_1.json
+       95.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_MORE_THAN_5000_DISTANCE_1.json
+       91.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_MORE_THAN_500_COINS_1.json
+       69.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_ROCK_MECH_1.json
+       95.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_TALON_FIGHTER_1.json
+       92.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_TELEPORTER_1.json
+       93.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_TURKEY_TREX_1.json
+       89.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_VAMPIRE_1.json
+       88.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_VEHICLE_TURKEY_1.json
+       95.00 B | Configs/dailymissions/PLAY_3_GAMES_WITH_ZOMBIE_DRAGON_1.json
+       79.00 B | Configs/dailymissions/PLAY_50_GAMES_1.json
+       64.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_BARD_1.json
+       97.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_BATTLE_THRUSTER_1.json
+       93.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_BONE_DRAGON_1.json
+       66.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_CELTIC_1.json
+       78.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_CELTIC_RUNE_DRAGON_1.json
+       77.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_CELTIC_TELEPORTER_1.json
+      101.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_CHRISTMAS_SANTA_HOG_1.json
+       89.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_CNY_PIG_1.json
+       91.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_CNY_SNAKE_1.json
+       69.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_COMMODORE_1.json
+       87.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_DEFAULT_BARRY_1.json
+       65.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_DRUID_1.json
+       68.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_DULLAHAN_1.json
+       74.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_EASTER_EXOSUIT_1.json
+       63.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_EGG_1.json
+       70.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_IRISH_PUNK_1.json
+       90.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_CAULDRON_1.json
+       79.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_CELTIC_RUNE_1.json
+       95.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_CHRISTMASBELL_1.json
+       80.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_CUSTOM_BUNNY_1.json
+      103.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_CUSTOM_CHRISTMAS_TREE_1.json
+       98.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_CUSTOM_FIREPLACE_1.json
+      102.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_CUSTOM_GOLDEN_RABBIT_1.json
+       77.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_EGGBASKET_1.json
+       73.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_FRUIT_1.json
+       74.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_KRAKEN_1.json
+       74.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_JETPACK_PARROT_1.json
+       77.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_LEPRECHAUN_FEMALE_1.json
+       92.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_LNY_PRINCESS_BETTY_1.json
+       85.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_MANATARMS_1.json
+      101.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_MORE_THAN_100_SMALL_DIAMOND_1.json
+       98.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_MORE_THAN_10_BIG_DIAMOND_1.json
+      109.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_MORE_THAN_10_ZAPPERS_WITHOUT_DYING_1.json
+       94.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_MORE_THAN_1500_COINS_1.json
+       83.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_MORE_THAN_1500_DISTANCE_1.json
+       85.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_NUT_CRACKER_1.json
+       66.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_OSTARA_1.json
+       81.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_PHARAOH_1.json
+       68.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_POSEIDON_1.json
+       71.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_POT_OF_GOLD_1.json
+       94.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_QING_EMPEROR_COSTUME_1.json
+       90.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_REINDEER_COSTUME_1.json
+      105.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_SAM_WITH_MORE_THAN_750_DISTANCE_1.json
+       75.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_ST_PATRICKS_BIRD_1.json
+       98.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_TOY_TRAIN_DRAGON_1.json
+       86.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_UGLY_SWEATER_1.json
+       73.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_UNDEAD_PIRATE_1.json
+       80.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_VEHICLE_SKIN_CHICKEN_1.json
+       86.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_VEHICLE_SKIN_PIRATE_JETSKI_1.json
+       84.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_VEHICLE_SKIN_PIRATE_MECH_1.json
+       84.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_VEHICLE_SKIN_RABBIT_MECH_1.json
+       84.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_VEHICLE_SKIN_SUPPLY_BIRD_1.json
+       85.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_WITCH_BETTY_1.json
+       91.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_YETI_MECH_1.json
+       92.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_ZOMBIETREX_1.json
+       93.00 B | Configs/dailymissions/PLAY_5_GAMES_WITH_ZOMBIE_BIRD_1.json
+       77.00 B | Configs/dailymissions/PLAY_6_EVENT_GAMES_1.json
+       77.00 B | Configs/dailymissions/PLAY_6_GAMES_1.json
+       82.00 B | Configs/dailymissions/RUN_100000_TOTAL_DISTANCE_1.json
+       80.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_1.json
+      108.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_ANNIVERSARY_PARTYBARRY_1.json
+       93.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_CAVEMAN_1.json
+       84.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_EASTER_BUNNY_1.json
+       92.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_FROSTY_1.json
+       99.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_HAVOC_JETPACK_1.json
+       91.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_HEMAN_1.json
+       91.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CELTIC_RUNE_1.json
+      114.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CUSTOM_AOZ_ZOMBIEREX_1.json
+      108.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CUSTOM_GARLAND_1.json
+      109.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CUSTOM_LNY_DRUM_1.json
+      112.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CUSTOM_RED_LANTERN_1.json
+      110.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_CUSTOM_SANTA_BAG_1.json
+       99.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_HEART_1.json
+      105.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_SARCOPHAGUS_1.json
+      100.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_JETPACK_TURKEY_1.json
+       82.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_LEPRECHAUN_1.json
+      108.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_LNY_BLUE_TIGER_COSTUME_1.json
+       78.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_PIRATE_1.json
+       97.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_POWER_SWORD_1.json
+       91.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_SANTA_1.json
+       78.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_SENSEI_1.json
+       94.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_SKELETON_1.json
+       94.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_SKELETOR_1.json
+      100.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_TAOIST_COSTUME_1.json
+       92.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_TURKEY_1.json
+       92.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_ZOMBIE_1.json
+      100.00 B | Configs/dailymissions/RUN_10000_TOTAL_DISTANCE_WITH_ZOMBIE_CAVEMAN_1.json
+       85.00 B | Configs/dailymissions/RUN_1000_TOTAL_DISTANCE_VEHICLE_1.json
+       78.00 B | Configs/dailymissions/RUN_20000_TOTAL_DISTANCE_1.json
+       80.00 B | Configs/dailymissions/RUN_25000_TOTAL_DISTANCE_1.json
+       85.00 B | Configs/dailymissions/RUN_2500_TOTAL_DISTANCE_VEHICLE_1.json
+       78.00 B | Configs/dailymissions/RUN_30000_TOTAL_DISTANCE_1.json
+       87.00 B | Configs/dailymissions/RUN_3000_TOTAL_DISTANCE_VEHICLE_1.json
+       85.00 B | Configs/dailymissions/RUN_5000_TOTAL_DISTANCE_VEHICLE_1.json
+       80.00 B | Configs/dailymissions/RUN_75000_TOTAL_DISTANCE_1.json
+       1.81 KB | Configs/dailymissions/stpatricks/default_1.json
+      192.00 B | Configs/dailymissions/TEST_1.json
+       2.62 KB | Configs/dailymissions/thanksgiving/default_1.json
+       69.00 B | Configs/dailymissions/USE_10_REVIVE_1.json
+       69.00 B | Configs/dailymissions/USE_25_REVIVE_1.json
+       67.00 B | Configs/dailymissions/USE_3_REVIVE_1.json
+       69.00 B | Configs/dailymissions/USE_50_REVIVE_1.json
+       66.00 B | Configs/dailymissions/USE_6_REVIVE_1.json
+       1.01 KB | Configs/dailymissions/zappy_bird/default_1.json
+       2.08 KB | Configs/daily_reward/default_1.json
+      308.00 B | Configs/daily_reward/rv_tiers_1.json
+       1.69 KB | Configs/daily_reward_tiers/tier_1_1.json
+       1.64 KB | Configs/daily_reward_tiers/tier_2_1.json
+       2.00 KB | Configs/daily_reward_tiers/variantA/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantA/tier_2_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantA/tier_3_1.json
+       1.66 KB | Configs/daily_reward_tiers/variantA/tier_4_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantA/tier_5_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantA/tier_6_1.json
+       1.65 KB | Configs/daily_reward_tiers/variantA/tier_7_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantA/tier_8_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantA/tier_9_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantB/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantB/tier_2_1.json
+       1.66 KB | Configs/daily_reward_tiers/variantB/tier_3_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantB/tier_4_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantB/tier_5_1.json
+       1.65 KB | Configs/daily_reward_tiers/variantB/tier_6_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantB/tier_7_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantB/tier_8_1.json
+      525.00 B | Configs/daily_reward_tiers/variantB/tier_9_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantC/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantC/tier_2_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantC/tier_3_1.json
+       1.66 KB | Configs/daily_reward_tiers/variantC/tier_4_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantC/tier_5_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantC/tier_6_1.json
+       1.65 KB | Configs/daily_reward_tiers/variantC/tier_7_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantC/tier_8_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantC/tier_9_1.json
+       2.00 KB | Configs/daily_reward_tiers/variantD/tier_1_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantD/tier_2_1.json
+       1.96 KB | Configs/daily_reward_tiers/variantD/tier_3_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantD/tier_4_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantD/tier_5_1.json
+       2.02 KB | Configs/daily_reward_tiers/variantD/tier_6_1.json
+      530.00 B | Configs/daily_reward_tiers/variantD/tier_7_1.json
+       1.17 KB | Configs/daily_reward_tiers/variantD/tier_8_1.json
+       2.01 KB | Configs/daily_reward_tiers/variantD/tier_9_1.json
+      397.00 B | Configs/datasources/datasources_1.json
+       59.00 B | Configs/datasources/decoy_bundle_experiment_1.json
+      154.00 B | Configs/datasources/event_button_1.json
+      188.00 B | Configs/datasources/event_rules_popup_1.json
+       23.00 B | Configs/datasources/event_token_doubler_1.json
+      510.00 B | Configs/datasources/inbox_feature_banner_1.json
+       33.00 B | Configs/datasources/inbox_icon_count_1.json
+      103.00 B | Configs/datasources/inbox_icon_hand_1.json
+       58.00 B | Configs/datasources/multiplayer_ui_entry_1.json
+       31.00 B | Configs/datasources/shop_buy_now_1.json
+      256.00 B | Configs/datasources/test_1.json
+       35.00 B | Configs/datasources/title_screen_daily_reward_1.json
+       37.00 B | Configs/datasources/title_screen_experiment_1.json
+       67.00 B | Configs/datasources/title_screen_gif_location_1.json
+      101.00 B | Configs/double_coins/default_1.json
+       4.39 KB | Configs/events/age_of_zombies_1.json
+       3.04 KB | Configs/events/Anniversary_1.json
+       4.22 KB | Configs/events/back_to_the_future_1.json
+       4.05 KB | Configs/events/bling_it_on_1.json
+       1.88 KB | Configs/events/brains_attack_1.json
+       1.95 KB | Configs/events/chaser_1.json
+       7.23 KB | Configs/events/chinese_new_year_1.json
+       6.17 KB | Configs/events/christmas_1.json
+       4.83 KB | Configs/events/cut_and_run_1.json
+       5.56 KB | Configs/events/easter_1.json
+       5.29 KB | Configs/events/fruit_punch_1.json
+       3.78 KB | Configs/events/ghostbusters_1.json
+       6.95 KB | Configs/events/halloween_1.json
+       3.49 KB | Configs/events/hygiene_1.json
+       4.49 KB | Configs/events/metal_slug_1.json
+       4.19 KB | Configs/events/motu_1.json
+       6.05 KB | Configs/events/pirate_1.json
+       4.76 KB | Configs/events/star_trek_1.json
+       6.76 KB | Configs/events/stpatricks_1.json
+       3.51 KB | Configs/events/thanksgiving_1.json
+       3.31 KB | Configs/events/tmnt_1.json
+       3.21 KB | Configs/events/zappy_bird_1.json
+      18.62 KB | Configs/events_calendar/default_1.json
+      152.00 B | Configs/force_update/config_1.json
+       2.00 KB | Configs/game_hud/default_2.json
+       34.00 B | Configs/game_modes/age_of_zombies_1.json
+       31.00 B | Configs/game_modes/anniversary_1.json
+       38.00 B | Configs/game_modes/back_to_the_future_1.json
+       29.00 B | Configs/game_modes/bling_it_on_1.json
+       31.00 B | Configs/game_modes/brains_attack_1.json
+       24.00 B | Configs/game_modes/chaser_1.json
+       34.00 B | Configs/game_modes/chinese_new_year_1.json
+       27.00 B | Configs/game_modes/christmas_1.json
+       25.00 B | Configs/game_modes/classic_1.json
+       31.00 B | Configs/game_modes/cut_and_run_1.json
+       26.00 B | Configs/game_modes/easter_1.json
+       31.00 B | Configs/game_modes/fruit_punch_1.json
+       32.00 B | Configs/game_modes/ghostbusters_1.json
+       29.00 B | Configs/game_modes/halloween_1.json
+       26.00 B | Configs/game_modes/hardcore_1.json
+       27.00 B | Configs/game_modes/hygiene_1.json
+       30.00 B | Configs/game_modes/metal_slug_1.json
+       24.00 B | Configs/game_modes/motu_1.json
+       41.00 B | Configs/game_modes/multiplayer_cash_dash_1.json
+       39.00 B | Configs/game_modes/multiplayer_classic_1.json
+       39.00 B | Configs/game_modes/multiplayer_cuddles_1.json
+       42.00 B | Configs/game_modes/multiplayer_zappy_bird_1.json
+       26.00 B | Configs/game_modes/pirate_1.json
+       29.00 B | Configs/game_modes/star_trek_1.json
+       28.00 B | Configs/game_modes/stpatricks_1.json
+       32.00 B | Configs/game_modes/thanksgiving_1.json
+       24.00 B | Configs/game_modes/tmnt_1.json
+       26.00 B | Configs/game_modes/tutorial_1.json
+       30.00 B | Configs/game_modes/zappy_bird_1.json
+      523.00 B | Configs/game_mode_rules/age_of_zombies_1.json
+      412.00 B | Configs/game_mode_rules/anniversary_1.json
+      418.00 B | Configs/game_mode_rules/back_to_the_future_1.json
+      560.00 B | Configs/game_mode_rules/bling_it_on_1.json
+      697.00 B | Configs/game_mode_rules/brains_attack_1.json
+      697.00 B | Configs/game_mode_rules/chaser_1.json
+      560.00 B | Configs/game_mode_rules/chinese_new_year_1.json
+      560.00 B | Configs/game_mode_rules/christmas_1.json
+      555.00 B | Configs/game_mode_rules/classic_1.json
+      472.00 B | Configs/game_mode_rules/cut_and_run_1.json
+      523.00 B | Configs/game_mode_rules/easter_1.json
+      517.00 B | Configs/game_mode_rules/fruit_punch_1.json
+      461.00 B | Configs/game_mode_rules/ghostbusters_1.json
+      523.00 B | Configs/game_mode_rules/halloween_1.json
+      359.00 B | Configs/game_mode_rules/hardcore_1.json
+      415.00 B | Configs/game_mode_rules/hygiene_1.json
+      415.00 B | Configs/game_mode_rules/metal_slug_1.json
+      524.00 B | Configs/game_mode_rules/motu_1.json
+      564.00 B | Configs/game_mode_rules/multiplayer_cash_dash_1.json
+      564.00 B | Configs/game_mode_rules/multiplayer_classic_1.json
+      568.00 B | Configs/game_mode_rules/multiplayer_cuddles_1.json
+      567.00 B | Configs/game_mode_rules/multiplayer_zappy_bird_1.json
+      737.00 B | Configs/game_mode_rules/pirate_1.json
+      415.00 B | Configs/game_mode_rules/star_trek_1.json
+      366.00 B | Configs/game_mode_rules/stpatricks_1.json
+      413.00 B | Configs/game_mode_rules/thanksgiving_1.json
+      412.00 B | Configs/game_mode_rules/tmnt_1.json
+      348.00 B | Configs/game_mode_rules/tutorial_1.json
+      420.00 B | Configs/game_mode_rules/zappy_bird_1.json
+     1003.00 B | Configs/interstitial/default_1.json
+      404.00 B | Configs/interstitial_units/default_1.json
+      213.00 B | Configs/jetpack_store/ALI_BODY_1.json
+      177.00 B | Configs/jetpack_store/ALI_BODY_REFERENCE_PRICE_1.json
+      210.00 B | Configs/jetpack_store/ALI_HEAD_1.json
+      211.00 B | Configs/jetpack_store/ALI_HEAD_REFERENCE_PRICE_1.json
+       45.00 B | Configs/jetpack_store/ANGEL_BODY_1.json
+       45.00 B | Configs/jetpack_store/ANGEL_HEAD_1.json
+       45.00 B | Configs/jetpack_store/ANNIVERSARY_TOKEN_50_1.json
+       45.00 B | Configs/jetpack_store/ASTRONAUT_BODY_1.json
+       45.00 B | Configs/jetpack_store/ASTRONAUT_HEAD_1.json
+      210.00 B | Configs/jetpack_store/BABY_BODY_1.json
+      212.00 B | Configs/jetpack_store/BABY_HEAD_1.json
+      215.00 B | Configs/jetpack_store/BASKETBALL_BODY_1.json
+      213.00 B | Configs/jetpack_store/BASKETBALL_HEAD_1.json
+       45.00 B | Configs/jetpack_store/BATHBARRY_BODY_1.json
+       45.00 B | Configs/jetpack_store/BATHBARRY_HEAD_1.json
+       50.00 B | Configs/jetpack_store/BEATLE_BODY_1.json
+       49.00 B | Configs/jetpack_store/BEATLE_HEAD_1.json
+       45.00 B | Configs/jetpack_store/BETTY_BEEFPIES_COSTUME_1.json
+       53.00 B | Configs/jetpack_store/BIFF_COSTUME_1.json
+      215.00 B | Configs/jetpack_store/BIRD_MAGNET_1.json
+       45.00 B | Configs/jetpack_store/CAPTAIN_BODY_1.json
+       45.00 B | Configs/jetpack_store/CAPTAIN_HEAD_1.json
+       45.00 B | Configs/jetpack_store/CAVEMAN_BODY_1.json
+  ... 14104 additional matching paths omitted

@@ -1,0 +1,30 @@
+{
+    "reference_id": "SSCOUT_BODY",
+    "tags": [
+        "Body",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_SAILOR_SCOUT_BODY_NAME",
+        "description": "ITEM_SAILOR_SCOUT_BODY_DESC",
+        "equipable": true,
+        "icon": "bodysScout",
+        "rewardOnly": {
+            "value": true
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "SSCOUT_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

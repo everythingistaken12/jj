@@ -1,0 +1,66 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinPatternStPatricksBig3LeafClover.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternStPatricksBig4LeafClover.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternStPatricksSmallClover.txt",
+        "probability": {
+          "value": 8,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternStPatricksMediumClover.txt",
+        "probability": {
+          "value": 8,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternStPatricksIrish.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternStPatricksRainbow.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternStPatricksPaddysDay.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternStPatricksVVV.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

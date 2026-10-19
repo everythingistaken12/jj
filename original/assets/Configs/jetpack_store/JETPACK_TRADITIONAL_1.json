@@ -1,0 +1,18 @@
+
+{
+ "#default":
+ {
+  "currency": "coins",
+    "cost": 10000
+ },
+"#HalfbrickPlus":
+ {
+    "currency": "coins",
+    "cost": 2500
+ },
+"#AppleArcade":
+ {
+    "currency": "coins",
+    "cost": 2500
+ }
+}

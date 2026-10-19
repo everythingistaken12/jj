@@ -1,0 +1,60 @@
+{
+    "reference_id": "CHRISTMAS_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_CHRISTMAS_BUNDLE_NAME",
+        "description": "ITEM_CHRISTMAS_BUNDLE_DESC",
+        "icon": "iconChristmasPack",
+        "hideWhen": "VEHICLE_SKIN_SLEIGH",
+        "auto_equip": true,
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables": {
+        "JETPACK_CHRISTMAS_TREE": {
+            "is_currency": false,
+            "value": 1
+        },
+        "SANTA_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "SANTA_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_SLEIGH": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "ChristmasBundleOneTime": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.christmaspack",
+        "google_play_store": "com.halfbrick.jetpack.christmaspack",
+        "brick_bucks_store": "christmas_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

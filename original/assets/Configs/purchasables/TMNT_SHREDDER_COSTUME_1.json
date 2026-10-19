@@ -1,0 +1,43 @@
+{
+  "reference_id": "TMNT_SHREDDER_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TMNT_SHREDDER_HEAD_NAME",
+    "description": "ITEM_TMNT_SHREDDER_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeTMNTShredder",
+    "isNew": true,
+    "hidden": true,
+    "hideWhen": "TMNT_SHREDDER_HEAD"
+  },
+  "additional_deliverables": {
+    "TMNT_SHREDDER_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_SHREDDER_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.shreddercostume.new",
+    "google_play_store": "com.halfbrick.jetpack.shreddercostume",
+    "brick_bucks_store": "shredder_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

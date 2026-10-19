@@ -1,0 +1,19 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "4th_of_july_bundle_timer_running",        
+        "not_purchased_profit_eagle"
+      ],
+      "board": "special_offer_4th_of_july_bundle"
+    },
+    {
+      "mediation": [
+        "not_purchased_profit_eagle",
+        "4th_of_july_bundle_discount_timer_running"
+      ],
+      "board": "special_offer_4th_of_july_bundle"
+    }
+  ]
+}

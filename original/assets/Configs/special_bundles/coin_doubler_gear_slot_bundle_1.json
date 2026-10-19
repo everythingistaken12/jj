@@ -1,0 +1,65 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "coin_doubler_gear_slot_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_COIN_DOUBLER_GEAR_SLOT_VIEWS == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "GADGET_SLOT_3 < 1"
+			},
+			{
+				"inventoryCount": "PREMIUM_MACHINE < 1"
+			}
+		],
+		[
+			{
+				"timerRunning": "coin_doubler_gear_slot_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_COIN_DOUBLER_GEAR_SLOT_VIEWS == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "GADGET_SLOT_3 < 1"
+			},
+			{
+				"inventoryCount": "PREMIUM_MACHINE < 1"
+			}
+		],
+		[
+			{
+				"timerRunning": "coin_doubler_gear_slot_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_COIN_DOUBLER_GEAR_SLOT_VIEWS == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "GADGET_SLOT_3 < 1"
+			},
+			{
+				"inventoryCount": "PREMIUM_MACHINE < 1"
+			}
+		]
+	],
+	"store_id": "COIN_DOUBLER_GEAR_SLOT_BUNDLE",
+	"timer_id": "coin_doubler_gear_slot_bundle",
+	"trigger_name": "coin_doubler_gear_slot_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_COIN_DOUBLER_GEAR_SLOT_VIEWS"
+}

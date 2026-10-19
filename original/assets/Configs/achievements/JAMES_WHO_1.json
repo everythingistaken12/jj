@@ -1,0 +1,23 @@
+{
+    "name": "ACHIEVEMENT_24",
+    "description": "ACHIEVEMENT_DESC_24",
+    "type": "PURCHASE",
+    "sub_type_1": "JETPACK",
+    "texture": "jamesWho",
+    "points": 30,
+    "max_progress": 2,
+    "provider_ids": {
+        "amazon": "1082842",
+        "game_center": 
+        {
+            "default": "1082842",
+            "AppleArcade": "james_who_aa",
+            "HalfbrickPlus": "james_who_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQFw"
+        }
+    }
+}

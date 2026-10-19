@@ -1,0 +1,34 @@
+{
+    "reference_id": "GRAVITY_SUIT_MAGNET",
+    "tags": [
+        "Magnet",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GRAVITYSUITMAGNET_NAME",
+        "description": "ITEM_GRAVITYSUITMAGNET_DESC",
+        "unequipable": true,
+        "icon": "vehicleGravitySuitMagnet",
+        "vehicleType": "GravitySuit"
+    },
+    "payment_methods": {
+        "jetpack_store": "GRAVITY_SUIT_MAGNET"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 15
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 15
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

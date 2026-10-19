@@ -1,0 +1,20 @@
+{
+    "notification_icon": "whenRunning",
+    "required_feature": "starter_pack",
+    "auto_start": true,
+    "push_message": "find string",
+    "datasource_metas":
+    {
+        "button_text": "INTRO_PACK_BONUS",
+        "button_icon": "textures/menus/offers/button_v1_pic3.tex",
+        "button_icon_back": "textures/menus/offers/button_v2_base.tex"
+    },
+    "meta":
+    {
+        "shutdown_conditions":
+        {
+            "itemOwned": "StarterPackOneTime"
+        }
+    },
+    "timer_length_seconds": 7200
+}

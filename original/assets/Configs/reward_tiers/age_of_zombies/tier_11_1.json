@@ -1,0 +1,35 @@
+{
+    "#HalfbrickPlus":
+    {
+        "cost": 875,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "VEHICLE_SKIN_ZOMBIE_DRAGON_NAME",	
+	"rewards_texture": "textures/menus/shop/itemicons/vehicleDragonZombie.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonZombie.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"zombie_dragon"
+	]
+    },
+    "#AppleArcade":
+    {
+        "cost": 875,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "VEHICLE_SKIN_ZOMBIE_DRAGON_NAME",	
+	"rewards_texture": "textures/menus/shop/itemicons/vehicleDragonZombie.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleDragonZombie.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"zombie_dragon"
+	]
+    },
+	"cost": 1250,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "MYSTERY_REWARD",	
+	"rewards_texture": "textures/menus/shop/itemicons/RewardBuy.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/RewardBuy.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"super_headstart_x8"
+	]
+}

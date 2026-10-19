@@ -1,0 +1,22 @@
+{
+    "name": "ACHIEVEMENT_31",
+    "description": "ACHIEVEMENT_DESC_31",
+    "type": "ACTIONSHOT",
+    "texture": "happySnap",
+    "points": 10,
+    "max_progress": 1,
+    "provider_ids": {
+        "amazon": "1105992",
+        "game_center": 
+        {
+            "default": "1105992",
+            "AppleArcade": "happy_snap_aa",
+            "HalfbrickPlus": "happy_snap_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQHg"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "notification_icon": "whenRunning",
+  "auto_start": true,
+  "timer_length_date_start": "2025-05-26T00:00",
+  "timer_length_date_end": "2025-08-11T00:00",
+  "meta": {
+    "shutdown_conditions": {
+      "itemOwned": "MOTU_ULTIMATE_BUNDLE_2025"
+    }
+  }
+}

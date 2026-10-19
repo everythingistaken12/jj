@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_easter_fluffy",
+        "easter_fluffy_bundle_timer_running"
+      ],
+      "board": "special_offer_easter_fluffy_bundle"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 950,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_KRAKEN_JETPACK_NAME",
+        "rewards_texture": "textures/menus/bricknetUpsell/PirateEvent/OceanPack/specialBundleKrakenJetpack.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackKraken.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_kraken"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 475,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_PIRATE_HOG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleHogPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_cannon"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 475,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_PIRATE_HOG_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleHogPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleHogPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_cannon"
+        ]
+    }
+}

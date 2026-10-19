@@ -1,0 +1,43 @@
+{
+  "reference_id": "TMNT_RAPHAEL_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TMNT_RAPHAEL_HEAD_NAME",
+    "description": "ITEM_TMNT_RAPHAEL_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeTMNTRaphael",
+    "isNew": true,
+    "hidden": true,
+    "hideWhen": "TMNT_RAPHAEL_HEAD"
+  },
+  "additional_deliverables": {
+    "TMNT_RAPHAEL_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_RAPHAEL_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.raphaelcostume",
+    "google_play_store": "com.halfbrick.jetpack.raphaelcostume",
+    "brick_bucks_store": "raphael_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

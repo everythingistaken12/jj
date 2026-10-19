@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_PIRATE_HEAD_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/pirateHeadCostume.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UNDEAD_PIRATE_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headUndeadPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headUndeadPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "undead_pirate_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 200,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UNDEAD_PIRATE_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headUndeadPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headUndeadPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "undead_pirate_head"
+        ]
+    }
+}

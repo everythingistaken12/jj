@@ -1,0 +1,25 @@
+{
+    "name": "ACHIEVEMENT_16",
+    "description": "ACHIEVEMENT_DESC_16",
+    "progress_description": "ACHIEVEMENT_PROG_8",
+    "type": "FINAL_SPIN",
+    "sub_type_1": "LOSE",
+    "texture": "highRoller",
+    "points": 20,
+    "max_progress": 100,
+    "provider_ids": {
+        "amazon": "1082762",
+        "game_center": 
+        {
+            "default": "1082762",
+            "AppleArcade": "high_roller_aa",
+            "HalfbrickPlus": "high_roller_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQJw"
+        }
+    }
+}
+

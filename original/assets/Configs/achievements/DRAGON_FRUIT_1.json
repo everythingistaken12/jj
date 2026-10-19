@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_32",
+    "description": "ACHIEVEMENT_DESC_32",
+    "type": "JETPACK_WITH_VEHICLE",
+    "sub_type_1": "FRUIT_PACK",
+    "sub_type_2": "Dragon",
+    "texture": "dragonFruit",
+    "points": 20,
+    "max_progress": 1,
+    "provider_ids": {
+        "amazon": "1310322",
+        "game_center": 
+        {
+            "default": "1310322",
+            "AppleArcade": "dragon_fruit_aa",
+            "HalfbrickPlus": "dragon_fruit_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQHw"
+        }
+    }
+}

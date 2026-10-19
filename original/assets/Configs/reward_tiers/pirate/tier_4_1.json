@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 150,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_POSEIDON_BODY_NAME",
+        "rewards_texture": "textures/menus/eventPopUp/poseidonBodyCostume.tex",
+        "frame_texture": "textures/menus/shared/frameMetallic.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyPoseidon.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "poseidon_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 150,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_SEAHORSE_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleMechSeaHorse.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechSeaHorse.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "sea_horse"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 150,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_SEAHORSE_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleMechSeaHorse.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechSeaHorse.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "sea_horse"
+        ]
+    }
+}

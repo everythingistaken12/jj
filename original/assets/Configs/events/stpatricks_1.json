@@ -1,0 +1,194 @@
+{
+    "EventDisplayName": "ST_PATRICKS_EVENT_RULES_TITLE",
+    "Filepath": "Events/StPatricks",
+    "Iconpath": "Events/StPatricks/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/StPatricks/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/StPatricks/Textures/Menus/eventInfo/backing.tex",
+    "BannerTexturePath": "Events/StPatricks/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_STPATRICKS_GAMES_PLAYED",
+    "currencyType": "Shamrocks",
+    "info_text_1": "EVENT_RULES_TEXT_1",
+    "info_text_2": "EVENT_RULES_TEXT_2",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 10
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 10
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "stpatricks",
+        "noticeboardSchedule": "st_patricks_schedule",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "stpatricks_2021"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "stpatricks_2021",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "stpatricks_2026",
+        "dailyEventMissions": true,
+        "analytics_event_name": "stpatricks",
+        "analytics_display_souls_collected": true,
+        "leaderboard": "BEST_STPATRICKS",
+        "trigger_name": "stpatricks",
+        "reload_sam": true,
+        "reload_worker": true,
+        "skin_lil_stomper": "VEHICLE_SKIN_ROCK_MECH",
+        "skin_crazy_freaking_teleporter": "VEHICLE_SKIN_CELTIC_TELEPORTER",
+        "skin_bad_ass_hog": "VEHICLE_SKIN_DULLAHAN",
+        "skin_mr_cuddles": "VEHICLE_SKIN_CELTIC_RUNE_DRAGON",
+        "skin_profit_bird": "VEHICLE_SKIN_ST_PATRICKS_BIRD",
+        "sam_music": "Music_SAMStPatricks",
+        "sam_music_starting_point": 0,
+        "force_vehicles":
+        [
+            "Bird",
+            "Mech",
+            "Hog",
+            "Teleporter",
+            "GravitySuit",
+            "Dragon"
+        ],
+        "level_object_tags":
+        [
+            "stPatricksDay"
+        ],
+        "enable_eventTokens": true,
+        "eventToken_value": 0,
+        "eventToken_splashParticleEffect": "Green_EventToken_Splash",
+        "eventToken_spawnRateMin": 7.5,
+        "eventToken_spawnRateMax": 3,
+        "eventToken_spawnRateLength": 75,
+        "eventToken_curveC0":
+        [
+            0.55,
+            0.55
+        ],
+        "eventToken_curveC1":
+        [
+            0.32,
+            0.1
+        ],
+        "eventToken_sprite": "textures/Entities/eventToken.xml",
+        "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+        "missileTexture": "shamrock.tex",
+        "missileEffectTexture": "shamrockEffects.tex",
+        "missileTrail": "Shamrock_Missile_Trail",
+        "missileExplosion": "shamrockExplosion.tex",
+        "missileSFXLaunch": "event_missile_launch",
+        "missileSFXExplode":
+        [
+            "rocket_explode_1",
+            "rocket_explode_2",
+            "rocket_explode_3"
+        ],
+        "missileSFXWarning": "missile_warning",
+        "brickui_textures":
+        [
+            "textures/logo/logo_barry.tex",
+            "textures/levels/Title/Objects/title_small.tex",
+            "textures/levels/Title/Objects/titleGlow_small.tex",
+            "Textures/Menus/Results/currencyToken.tex",
+            "Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "events/stpatricks/textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/backing.tex",
+            "events/stpatricks/textures/menus/eventpopup/backing.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/druidBodyCostume.tex",
+            "events/stpatricks/textures/menus/eventpopup/druidbodycostume.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/druidHeadCostume.tex",
+            "events/stpatricks/textures/menus/eventpopup/druidheadcostume.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/irishPunkBodyCostume.tex",
+            "events/stpatricks/textures/menus/eventpopup/irishpunkbodycostume.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/irishPunkHeadCostume.tex",
+            "events/stpatricks/textures/menus/eventpopup/irishpunkheadcostume.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/jetpack_GRJ.tex",
+            "events/stpatricks/textures/menus/eventpopup/jetpack_grj.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/jetpack_Unicorn.tex",
+            "events/stpatricks/textures/menus/eventpopup/jetpack_unicorn.tex",
+            "Events/StPatricks/Textures/Menus/eventPopUp/leprechaunBodyCostume.tex",
+            "events/stpatricks/textures/menus/eventpopup/leprechaunbodycostume.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex",
+            "Events/StPatricks/Textures/Menus/consumables/notificationSAM.tex",
+            "events/stpatricks/textures/menus/consumables/notificationsam.tex"
+        ],
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+            "MISSILE_PACKAGE",
+            "SAM_PACKAGE"
+        ]
+    },
+    "RandomSkinOverrides":
+    [
+        [
+            [
+                "JETPACK_GOLD_RAINBOW"
+            ],
+            [
+                "JETPACK_POT_OF_GOLD"
+            ],
+            [
+                "JETPACK_UNICORN"
+            ],
+            [
+                "JETPACK_FAIRYWINGS"
+            ],
+            [
+                "JETPACK_CUSTOM_CELTIC_RUNE"
+            ],
+            [
+                "JETPACK_CUSTOM_HARP"
+            ],
+            [
+                "JETPACK_CUSTOM_LUTE"
+            ]
+        ],
+        [
+            [
+                "DRUID_BODY",
+                "DRUID_HEAD"
+            ],
+            [
+                "IRISH_PUNK_BODY",
+                "IRISH_PUNK_HEAD"
+            ],
+            [
+                "LEPRECHAUN_BODY",
+                "LEPRECHAUN_HEAD"
+            ],
+            [
+                "CELTIC_BODY",
+                "CELTIC_HEAD"
+            ],
+            [
+                "LEPRECHAUN_FEMALE_HEAD",
+                "LEPRECHAUN_FEMALE_BODY"
+            ],
+            [
+                "BARD_BODY",
+                "BARD_HEAD"
+            ]
+        ]
+    ],
+    "Features":
+    [
+        "show_st_patricks_theme"
+    ],
+    "title_screen_settings": "stpatricks"
+}

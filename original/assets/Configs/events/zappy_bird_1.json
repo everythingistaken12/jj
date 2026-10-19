@@ -1,0 +1,89 @@
+{
+    "EventDisplayName": "ZB_EVENT_01",
+    "Filepath": "Events/ZappyBird",
+    "Iconpath": "Events/ZappyBird/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/ZappyBird/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/ZappyBird/Textures/Menus/eventInfo/backing.tex",
+    "BannerTexturePath": "Events/ZappyBird/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_ZAPPY_BIRD_GAMES_PLAYED",
+    "currencyType": "ZappersPassed",
+    "info_text_1": "ZB_EVENT_01",
+    "info_text_2": "ZB_EVENT_INFO",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 5
+    },
+    "#AppleArcade":
+    {
+        "levelUnlocked": 5
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "zappy_bird",
+        "noticeboardSchedule": "zappy_bird_schedule",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "zappy_bird_2020_2"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "zappy_bird_2020_2",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "zappy_bird_2026_3",
+        "analytics_event_name": "zappy_bird",
+        "analytics_display_obstacles_passed": true,
+        "leaderboard": "BEST_ZAPPY_BIRD",
+        "trigger_name": "zappy_bird",
+        "force_start_vehicle": "Bird",
+        "score_bounce": true,
+        "sam_screen_text": "ZB_EVENT_SAM_SCREEN",
+        "counter_name": "counterZappyBird",
+        "enable_best_score_hud": true,
+        "score_statistic": "BEST_ZAPPY_BIRD",
+        "GameRules": "ZappyBird",
+        "brickui_textures":
+        [
+            "textures/levels/title/objects/title_small.tex",
+            "textures/levels/title/objects/titleglow_small.tex",
+            "textures/menus/results/leaderboardlogo.tex",
+            "textures/menus/results/scoresuffix.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "textures/menus/results/logo.tex",
+            "events/zappybird/textures/levels/title/objects/title_small.tex",
+            "events/zappybird/textures/levels/title/objects/titleglow_small.tex",
+            "events/zappybird/textures/menus/results/leaderboardlogo.tex",
+            "events/zappybird/textures/menus/results/scoresuffix.tex",
+            "events/zappybird/textures/menus/eventpopup/currencytoken_64.tex",
+            "events/zappybird/textures/menus/results/logo.tex"
+        ],
+        "dailyEventMissions": true,
+        "quickRevivePrePurchased": "vehicleRevive.Triggers.prePurchased",
+        "quickReviveCoins": "vehicleRevive.Triggers.Coins",
+        "quickReviveVideoPrePurchased": "vehicleReviveVideo.Triggers.prePurchased",
+        "quickReviveVideoPlacement": "GAME_HUD_VEHICLE_REVIVE"
+    },
+    "Features":
+    [],
+    "title_screen_settings": "zappy_bird",
+    "utilities_start":
+    [
+        {
+            "#HalfbrickPlus":
+            {
+                "trigger": ""
+            },
+            "#AppleArcade":
+            {
+                "trigger": ""
+            },
+            "trigger": "birdMagnetStart.Triggers.videoAd",
+            "dontShowIfItemOwned": "BIRD_MAGNET"
+        }
+    ]
+}

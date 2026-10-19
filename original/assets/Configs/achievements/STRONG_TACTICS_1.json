@@ -1,0 +1,24 @@
+{
+    "name": "ACHIEVEMENT_40",
+    "description": "ACHIEVEMENT_DESC_40",
+    "progress_description": "ACHIEVEMENT_PROG_12",
+    "type": "SAM_COMPLETE",
+    "sub_type_1": "day5",
+    "texture": "strongArmTactics",
+    "points": 20,
+    "max_progress": 10,
+    "provider_ids": {
+        "amazon": "1647845",
+        "game_center": 
+        {
+            "default": "1647845",
+            "AppleArcade": "strong_arm_tactics_aa",
+            "HalfbrickPlus": "strong_arm_tactics_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQJg"
+        }
+    }
+}

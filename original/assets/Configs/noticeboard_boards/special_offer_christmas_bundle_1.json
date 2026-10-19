@@ -1,0 +1,7 @@
+{
+	"name": "SpecialOffer_Christmas_Bundle",
+	"template": "SALE_ITEM",
+	"screen": "NoticeBoardChristmasBundle",
+	"item_id": "CHRISTMAS_BUNDLE",
+	"on_show_event": "specialOffer"
+}

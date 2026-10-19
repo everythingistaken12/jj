@@ -1,0 +1,36 @@
+{
+    "reference_id": "VEHICLE_SKIN_NIMBUS",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_NIMBUS_NAME",
+        "description": "VEHICLE_SKIN_NIMBUS_DESC",
+        "equipable": true,
+        "icon": "vehicleDragonNimbus",
+        "isSkin": true,
+        "vehicleType": "Dragon",
+        "defaultSkin": false
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_NIMBUS"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 14
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 14
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

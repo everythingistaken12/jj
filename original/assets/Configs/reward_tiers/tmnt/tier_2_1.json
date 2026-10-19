@@ -1,0 +1,11 @@
+{
+	"cost": 55,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_TMNT_APRIL_HEAD_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/headTMNTApril.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headTMNTApril.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"tmnt_april_head"
+	]
+}

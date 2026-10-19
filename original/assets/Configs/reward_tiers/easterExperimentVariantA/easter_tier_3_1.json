@@ -1,0 +1,30 @@
+{
+    "#default":
+    {
+        "cost": 50,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/chickBodyCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyEgg.tex",
+        "display_description": "ITEM_EGG_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_egg_body"
+        ],
+        "random_rewards":
+        []
+    },
+    "#AppleArcade":
+    {
+        "cost": 150,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyOstara.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyOstara.tex",
+        "display_description": "ITEM_OSTARA_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ostara_body"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "reference_id": "EASTER_EGGSTREME_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_EASTER_EGGSTREME_BUNDLE_NAME",
+        "description": "todo",
+        "icon": "iconEasterEggstremePack",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "VEHICLE_SKIN_EGG_TELEPORTER"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_EGG_TELEPORTER": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CARROTLAUNCHER": {
+            "is_currency": false,
+            "value": 1
+        },
+        "EASTER_ISLAND_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "EASTER_ISLAND_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.easter.eggstreme.pack",
+        "google_play_store": "com.halfbrick.jetpack.easter.eggstreme.pack",
+        "brick_bucks_store": "easter_eggstreme_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

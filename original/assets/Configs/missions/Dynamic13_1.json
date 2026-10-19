@@ -1,0 +1,27 @@
+{
+    "name": "Collect 5 vehicles.",
+    "requirement": "Collect 5 vehicles",
+    "retired": false,
+    "meta_data": {
+        "groupId": "3",
+        "difficulty": 2,
+        "icon": "vehicle",
+        "description": "MISSION_VEHICLE_6",
+        "hash": "VEHICLE_COLLECT_ANY",
+        "showProgress": "true",
+        "skillGrind": "GRIND",
+        "probability": "150",
+        "tag1": "VEHICLE",
+        "tag2": "COLLECT"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "vehicle",
+                "s": "t",
+                "c": 5
+            }
+        ]
+    }
+}

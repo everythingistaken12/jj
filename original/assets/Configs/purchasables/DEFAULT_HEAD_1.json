@@ -1,0 +1,26 @@
+{
+    "reference_id": "DEFAULT_HEAD",
+    "tags": [
+        "Head",
+        "Fashion"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 1,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BARRYSHEAD_NAME",
+        "description": "ITEM_BARRYSHEAD_DESC",
+        "equipable": true,
+        "icon": "headDefault",
+        "startWeek": 0
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

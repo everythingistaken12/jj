@@ -1,0 +1,213 @@
+{
+  "coin_pattern_file": {
+    "probability": {
+      "value": 7,
+      "startDistance": 50
+    },
+    "coin_pattern": [
+      {
+        "filename": "patterns/coinPattern1.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern2.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern3.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern4.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern5.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern7.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern9.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern10.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern14.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern16.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern20.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern21.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPattern22.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN1.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN2.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN3.txt",
+        "probability": {
+          "value": 5,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN4.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN5.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN6.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN7.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN8.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN9.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN10.txt",
+        "probability": {
+          "value": 3,
+          "startDistance": 1800
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN11.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN12.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN13.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN14.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN15.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      },
+      {
+        "filename": "patterns/coinPatternFN16.txt",
+        "probability": {
+          "value": 10,
+          "startDistance": 0
+        }
+      }
+    ]
+  }
+}

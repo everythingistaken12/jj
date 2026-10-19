@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "christmas_2025_iceskates_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_ICESKATES_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ICESKATES == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_iceskates_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_ICESKATES_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ICESKATES == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "christmas_2025_iceskates_bundle"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_ICESKATES_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_ICESKATES == 0"
+			}
+		]
+	],
+	"store_id": "ICESKATES_BUNDLE",
+	"timer_id": "christmas_2025_iceskates_bundle",
+	"trigger_name": "iceskates_bundle",
+	"statistic_prefix": "SPECIAL_BUNDLE_ICESKATES_VIEWS"
+}

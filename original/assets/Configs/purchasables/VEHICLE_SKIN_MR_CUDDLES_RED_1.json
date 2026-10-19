@@ -1,0 +1,32 @@
+{
+    "reference_id": "VEHICLE_SKIN_MR_CUDDLES_RED",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "hidden"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_CNY_DRAGON_NAME",
+        "description": "VEHICLE_SKIN_CNY_DRAGON_DESC",
+        "equipable": true,
+        "icon": "vehicleDragonCny",
+        "isSkin": true,
+        "vehicleType": "Dragon",
+        "defaultSkin": false,
+        "hidden": true
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_MR_CUDDLES_RED"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

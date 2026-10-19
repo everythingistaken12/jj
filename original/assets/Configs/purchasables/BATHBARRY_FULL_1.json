@@ -1,0 +1,45 @@
+{
+    "reference_id": "BATHBARRY_FULL",
+    "tags": [
+        "Premium",
+        "One Time Offer",
+        "Bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_BATHBARRY_NAME",
+        "description": "ITEM_BATHBARRY_FULL_DESC",
+        "hidden": true,
+        "force_hide": true,
+        "discount": 50
+    },
+    "additional_deliverables": {
+        "BATHBARRY_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BATHBARRY_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.Costume.BathtimeBarry",
+        "google_play_store": "com.halfbrick.jetpack.costume.bath_time_barry",
+        "brick_bucks_store": "bathbarry_full"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

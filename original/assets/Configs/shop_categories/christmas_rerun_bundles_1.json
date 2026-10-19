@@ -1,0 +1,61 @@
+{
+    "title": "CHRISTMAS_EVENT_RULES_TITLE",
+    "icon": "textures\\menus\\shop\\crateSmall.tex",
+    "rowsLimit": 99,
+    "_": "if 'template' is omitted then its value is 'category'",
+    "header_template": "header",
+    "template": "category",
+    "filler_template_1x1": "templateEmpty_1x1",
+    "filler_template_2x1": "templateEmpty_2x1",
+    "offers":
+    [
+
+        "aoz_ancestry_bundle_wide_animated",
+        "aoz_prehistoric_bundle_wide_animated",
+        "aoz_savage_bundle_wide_animated",
+
+        "turbo_tidal_bundle_wide",
+        "fruit_king_bundle_wide",
+        "anniversary_10_bundle_wide",
+        "anniversary_11_bundle_wide",
+        "4th_of_july_bundle_wide",
+
+        "chinese_new_year_wooden_dragon_bundle_wide",
+        "chinese_new_year_bundle_wide",
+        "chinese_new_year_ox_bundle_wide",
+        "chinese_new_year_rat_bundle_wide",
+        "chinese_new_year_tiger_bundle_wide",
+        "chinese_new_year_rabbit_bundle_wide",
+        "chinese_new_year_snake_dragon_bundle",
+
+        "shamrock_bundle_wide",
+        "st_patricks_bard_bundle",
+        "celtic_bundle_wide",
+        "st_patricks_day_bundle_wide",
+        "nature_bundle_wide",
+        "irish_myth_bundle_wide",
+
+        "easter_fluffy_bundle_wide",
+        "easter_space_bundle_wide",
+        "easter_bundle_wide",
+        "easter_eggstreme_bundle_wide",
+        "chicken_bundle_wide",
+        "spring_bundle_wide",
+
+        "bewitched_bundle_wide",
+        "frankenstein_bundle_wide",
+        "halloween_bundle_wide",
+        "halloween_mummy_bundle_wide",
+        "spooky_bundle_wide",
+
+        "pirate_castaway_bundle_wide",
+        "space_pirate_bundle_wide",
+        "pirate_bundle_wide",
+        "pirate_bundle_jetski_wide",
+        "steakfries_revenge_bundle_wide",
+        "cursed_bundle_wide",
+        "ocean_bundle_wide",
+
+        "hygiene_bundle_wide"
+    ]
+}

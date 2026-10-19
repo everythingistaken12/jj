@@ -1,0 +1,34 @@
+{
+    "reference_id": "PERK_NO_SCIENTISTS_1",
+    "tags": [
+        "Gadget",
+        "tier1"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "PERK_NO_SCIENTISTS_NAME",
+        "description": "PERK_NO_SCIENTISTS_DESC",
+        "icon": "nerdRepellent",
+        "equipable": true,
+        "unequipable": true
+    },
+    "payment_methods": {
+        "jetpack_store": "PERK_NO_SCIENTISTS_1"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 1
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 1
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

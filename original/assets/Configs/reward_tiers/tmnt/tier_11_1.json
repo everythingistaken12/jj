@@ -1,0 +1,11 @@
+{
+	"cost": 3250,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "VEHICLE_SKIN_TMNT_SAM_NAME",
+	"rewards_texture": "textures/menus/shop/itemicons/vehicleSamTMNT.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/vehicleSamTMNT.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"tmnt_sam"
+	]
+}

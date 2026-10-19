@@ -1,0 +1,12 @@
+{
+	"cost": 350,
+	"display_name": "REWARD_UNLOCK",
+	"rewards_texture": "textures/menus/eventPopUp/doctorHeadCostume.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headDoctor.tex",
+	"display_description": "ITEM_DOCTOR_FACEMASK_NAME",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"doctor_head"
+	],
+	"random_rewards": []
+}

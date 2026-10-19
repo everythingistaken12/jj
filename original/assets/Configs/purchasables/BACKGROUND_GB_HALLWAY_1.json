@@ -1,0 +1,22 @@
+{
+    "reference_id": "BACKGROUND_GB_HALLWAY",
+    "tags": [
+        "background",
+        "premium",
+        "bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "hidden": true,
+        "force_hide": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

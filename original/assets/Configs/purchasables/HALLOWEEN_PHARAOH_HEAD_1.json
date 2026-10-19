@@ -1,0 +1,27 @@
+{
+  "reference_id": "HALLOWEEN_PHARAOH_HEAD",
+  "tags": [
+    "excludeFromRandom",
+    "hidden",
+    "Head"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "HALLOWEEN_PHARAOH_HEAD_NAME",
+    "description": "HALLOWEEN_PHARAOH_HEAD_DESC",
+    "equipable": true,
+    "icon": "headHalloweenPharaoh",
+    "hidden": true
+  },
+  "payment_methods": {},
+  "skus": [
+    "apple_tv",
+    "apple_arcade",
+    "google_play",
+    "halfbrick_plus",
+    "ios",
+    "windows"
+  ]
+}

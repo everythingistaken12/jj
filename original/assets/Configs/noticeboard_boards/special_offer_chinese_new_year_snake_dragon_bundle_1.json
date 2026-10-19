@@ -1,0 +1,7 @@
+{
+  "name": "SpecialOffer_chinese_new_year_snake_dragon_bundle",
+  "template": "SALE_ITEM",
+  "screen": "NoticeboardChineseNewYearSnakeDragonBundle_anim",
+  "on_show_event": "specialOffer",
+  "item_id": "CHINESE_NEW_YEAR_SNAKE_BUNDLE"
+}

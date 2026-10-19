@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_TarmaBundle",
+    "screen": "NoticeBoardTarmaBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "TARMA_BUNDLE"
+}

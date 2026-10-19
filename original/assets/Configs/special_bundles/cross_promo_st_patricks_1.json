@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "stpatricks_2026_cross_promo_stpatricks"
+			},
+			{
+				"statistic": "CROSS_PROMO_ST_PATRICKS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			}
+		],
+		[
+			{
+				"timerRunning": "stpatricks_2026_cross_promo_stpatricks"
+			},
+			{
+				"statistic": "CROSS_PROMO_ST_PATRICKS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			}
+		],
+		[
+			{
+				"timerRunning": "stpatricks_2026_cross_promo_stpatricks"
+			},
+			{
+				"statistic": "CROSS_PROMO_ST_PATRICKS_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			}
+		]
+	],
+	"store_id": "CROSS_PROMO_ST_PATRICKS",
+	"timer_id": "stpatricks_2026_cross_promo_stpatricks",
+	"trigger_name": "cross_promo_st_patricks",
+	"statistic_prefix": "CROSS_PROMO_ST_PATRICKS_VIEWS"
+}

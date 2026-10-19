@@ -1,0 +1,33 @@
+{
+    "reference_id": "BATHBARRY_HEAD",
+    "tags": [
+        "Head",
+        "One Time Offer",
+        "excludeFromRandom",
+        "samReward"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_BATHBARRY_HEAD_NAME",
+        "description": "ITEM_BATHBARRY_HEAD_DESC",
+        "equipable": true,
+        "icon": "headBathbarry",
+        "rewardOnly": {
+            "value": true,
+            "prereq": "VEHICLE_SKIN_RUBBER_DUCKY"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "BATHBARRY_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

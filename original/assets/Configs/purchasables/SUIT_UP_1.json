@@ -1,0 +1,33 @@
+{
+    "reference_id": "SUIT_UP",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_CLASSYSUIT_NAME",
+        "description": "ITEM_CLASSYSUIT_DESC",
+        "equipable": true,
+        "icon": "bodyTux",
+        "startWeek": 15
+    },
+    "payment_methods": {
+        "jetpack_store": "SUIT_UP"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 19
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 19
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

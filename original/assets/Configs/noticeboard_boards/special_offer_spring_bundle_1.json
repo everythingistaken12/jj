@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_SpringBundle",
+    "screen": "NoticeBoardSpringBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "SPRING_BUNDLE"
+}

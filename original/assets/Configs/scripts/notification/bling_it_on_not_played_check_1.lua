@@ -1,0 +1,1 @@
+return EventSystem.GetActiveEventName() == "bling_it_on"

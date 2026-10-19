@@ -1,0 +1,175 @@
+{
+    "EventDisplayName": "PIRATE_EVENT_RULES_TITLE",
+    "Filepath": "Events/Pirate",
+    "Iconpath": "Events/Pirate/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/Pirate/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/Pirate/Textures/Menus/eventInfo/backing.tex",
+    "BannerTexturePath": "Events/Pirate/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_PIRATE_GAMES_PLAYED",
+    "currencyType": "PirateSkulls2",
+    "info_text_1": "PIRATE_EVENT_INFO_1",
+    "info_text_2": "EVENT_RULES_TEXT_2",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 35
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 35
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "pirate",
+        "noticeboardSchedule": "pirate_schedule",
+        "dailyEventMissions": true,
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "pirate_2021_1"
+        },
+        "#AppleArcade":
+        {
+            "rewardGroup": "pirate_2021_1",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "pirate_2026",
+        "analytics_event_name": "pirate",
+        "analytics_display_souls_collected": true,
+        "leaderboard": "BEST_PIRATE",
+        "trigger_name": "pirate",
+        "reload_sam": true,
+        "sam_music": "Music_SAMPirate",
+        "sam_music_starting_point": 0,
+        "_sam_reset_popup_message": "SAM_BONUS_RUN_UPSELL_CHRISTMAS",
+        "water_in_title_screen": true,
+        "force_start_vehicle": "JetSki",
+        "force_vehicles":
+        [
+            "Bird",
+            "Mech",
+            "Hog",
+            "Teleporter",
+            "GravitySuit",
+            "Dragon"
+        ],
+        "skin_wave_rider": "VEHICLE_SKIN_PIRATE_JETSKI",
+        "skin_bad_ass_hog": "VEHICLE_SKIN_PIRATE_HOG",
+        "skin_lil_stomper": "VEHICLE_SKIN_PIRATE_MECH",
+        "level_object_tags":
+        [
+            "pirate"
+        ],
+        "enable_eventTokens": true,
+        "eventToken_value": 0,
+        "eventToken_spawnRateMin": 7.5,
+        "eventToken_spawnRateMax": 3,
+        "eventToken_spawnRateLength": 75,
+        "eventToken_curveC0":
+        [
+            0.55,
+            0.55
+        ],
+        "eventToken_curveC1":
+        [
+            0.32,
+            0.1
+        ],
+        "eventToken_sprite": "textures/Entities/eventToken.xml",
+        "eventToken_collectedSprite": "textures/Entities/eventTokenCollected.xml",
+        "eventToken_sparkleParticleEffect": "Coin_Token_Sparkle",
+        "eventToken_angleSpeed": 5,
+        "eventToken_amplitude": 10,
+        "eventToken_velocityFactor": 125,
+        "missileTexture": "cannonball.tex",
+        "missileEffectTexture": "cannonballEffects.tex",
+        "missileSFXLaunch": "event_missile_launch",
+        "brickui_textures":
+        [
+            "textures/logo/logo_barry.tex",
+            "textures/levels/Title/Objects/title_small.tex",
+            "textures/levels/Title/Objects/titleGlow_small.tex",
+            "Textures/Menus/Results/currencyToken.tex",
+            "Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/currencyToken_64.tex",
+            "events/pirate/textures/menus/eventpopup/currencytoken_64.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/backing.tex",
+            "events/pirate/textures/menus/eventpopup/backing.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/pirateBodyCostume.tex",
+            "events/pirate/textures/menus/eventpopup/piratebodycostume.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/poseidonBodyCostume.tex",
+            "events/pirate/textures/menus/eventpopup/poseidonbodycostume.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/jetpackKraken.tex",
+            "events/pirate/textures/menus/eventpopup/jetpackkraken.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/jetpack_Parrot.tex",
+            "events/pirate/textures/menus/eventpopup/jetpack_parrot.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/vehicleMechSeahorse.tex",
+            "events/pirate/textures/menus/eventpopup/vehiclemechseahorse.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/vehiclePirateSam.tex",
+            "events/pirate/textures/menus/eventpopup/vehiclepirateSam.tex",
+            "Events/Pirate/Textures/Menus/eventPopUp/iconEvent.tex",
+            "events/pirate/textures/menus/eventpopup/iconevent.tex",
+            "Textures/Menus/consumables/notificationSAM.tex",
+            "textures/menus/consumables/notificationsam.tex",
+            "Events/StPatricks/Textures/Menus/consumables/notificationSAM.tex",
+            "events/stpatricks/textures/menus/consumables/notificationsam.tex"
+        ],
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+            "SAM_PACKAGE"
+        ]
+    },
+    "Features":
+    [
+        "show_pirate_theme"
+    ],
+    "RandomSkinOverrides":
+    [
+        [
+            [
+                "JETPACK_PARROT"
+            ],
+            [
+                "JETPACK_TREASURECHEST"
+            ],
+            [
+                "JETPACK_KRAKEN"
+            ],
+            [
+                "JETPACK_CUSTOM_DAVYJONES"
+            ],
+            [
+                "JETPACK_CUSTOM_COCONUT"
+            ]
+        ],
+        [
+            [
+                "PIRATE_HEAD",
+                "PIRATE_BODY"
+            ],
+            [
+                "COMMODORE_HEAD",
+                "COMMODORE_BODY"
+            ],
+            [
+                "UNDEAD_PIRATE_HEAD",
+                "UNDEAD_PIRATE_BODY"
+            ],
+            [
+                "POSEIDON_HEAD",
+                "POSEIDON_BODY"
+            ],
+            [
+                "MAROONED_HEAD",
+                "MAROONED_BODY"
+            ]
+        ]
+    ],
+    "purchased_items_weight": 3.0,
+    "title_screen_settings": "pirate"
+}

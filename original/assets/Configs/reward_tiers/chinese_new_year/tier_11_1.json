@@ -1,0 +1,39 @@
+{
+    "#default": {
+        "cost": 500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_FAN_JETPACK_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/eventPopUp/jetpackFan.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackFan.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "jetpack_fan"
+        ]
+    },
+    "#HalfbrickPlus": {
+        "cost": 388,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_OX_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleMechOx.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechOx.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_ox"
+        ]
+    },
+    "#AppleArcade": {
+        "cost": 388,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_OX_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleMechOx.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechOx.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "cny_ox"
+        ]
+    }
+}

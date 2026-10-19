@@ -1,0 +1,10 @@
+{
+    "specialBundle": "tmnt_radical_bundle",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.608, 0.827, 0.082],
+    "foregroundIcon": "textures/menus/bricknetUpsell/TMNTEvent/TMNT/TMNTMutagen.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

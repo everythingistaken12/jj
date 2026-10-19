@@ -1,0 +1,65 @@
+{
+    "variants":
+    [
+        {
+            "type": "ads",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+                    "display_description": "ITEM_QUICKREVIVE5PACK_NAME",
+                    "reward": "revive",
+                    "amount": 10
+                }
+            ],
+            "backing_colour": "255,108,108,255",
+            "weight": 2
+        },
+        {
+            "type": "ads",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/ItemIcons/coins1.tex",
+                    "display_description": "GENERIC_COINS",
+                    "reward": "coins",
+                    "amount": 3500
+                }
+            ],
+            "backing_colour": "248,206,45,255",
+            "weight": 2
+        },
+        {
+            "type": "ads",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/eventPopUp/superHeadstartIcon.tex",
+                    "display_description": "ITEM_SUPERHEADSTART_SHORT_NAME",
+                    "reward": "super_headstart",
+                    "amount": 5
+                }
+            ],
+            "backing_colour": "46,164,254,255",
+            "weight": 1
+        },
+        {
+            "type": "ads",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/shop/CurrencyIcons/doubleCoins.tex",
+                    "display_description": "RESULTS_DOUBLE_COINS",
+                    "reward": "double_coins",
+                    "amount": 2
+                }
+            ],
+            "backing_colour": "254,186,46,255",
+            "weight": 5
+        }
+    ]
+}

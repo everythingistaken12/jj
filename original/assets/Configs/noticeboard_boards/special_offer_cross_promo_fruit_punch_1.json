@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Cross_Promo_Fruit_Punch",
+    "screen": "NoticeBoardCrossPromoFruitPunch",
+    "on_show_event": "specialOffer",
+    "item_id": "CROSS_PROMO_FRUIT_PUNCH"
+}

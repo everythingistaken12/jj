@@ -1,0 +1,36 @@
+{
+    "reference_id": "JETPACK_CUSTOM_GOLD_LASER",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_CUSTOM_GOLD_LASER_NAME",
+        "description": "ITEM_JETPACK_CUSTOM_GOLD_LASER_DESC",
+        "equipable": true,
+        "icon": "jetpackGoldLaser",
+        "isNew": true,
+        "hidden": true,
+        "#AppleArcade":
+        {
+            "hidden": false
+        },
+        "#HalfbrickPlus":
+        {
+            "hidden": false
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_CUSTOM_GOLD_LASER" 
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

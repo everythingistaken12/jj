@@ -1,0 +1,31 @@
+{
+    "reference_id": "ANGEL_HEAD",
+    "tags": [
+        "Head",
+        "excludeFromRandom",
+        "samReward"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ANGEL_HEAD_NAME",
+        "description": "ITEM_ANGEL_HEAD_DESC",
+        "equipable": true,
+        "icon": "headAngel",
+        "rewardOnly": {
+            "value": true
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "ANGEL_HEAD"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "reference_id": "TMNT_LEONARDO_COSTUME",
+  "tags": [
+    "costume"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TMNT_LEONARDO_HEAD_NAME",
+    "description": "ITEM_TMNT_LEONARDO_HEAD_DESC",
+    "equipable": true,
+    "icon": "costumeTMNTLeonardo",
+    "isNew": true,
+    "hidden": true,
+    "hideWhen": "TMNT_LEONARDO_HEAD"
+  },
+  "additional_deliverables": {
+    "TMNT_LEONARDO_BODY": {
+      "is_currency": false,
+      "value": 1
+    },
+    "TMNT_LEONARDO_HEAD": {
+      "is_currency": false,
+      "value": 1
+    },
+    "DISABLE_ADS": {
+      "is_currency": false,
+      "value": 1
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.leonardocostume",
+    "google_play_store": "com.halfbrick.jetpack.leonardocostume",
+    "brick_bucks_store": "leonardo_costume"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

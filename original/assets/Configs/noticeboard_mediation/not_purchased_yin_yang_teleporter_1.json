@@ -1,0 +1,12 @@
+{
+    "show":
+    [
+        {
+            "IS_PURCHASED":
+            [
+                "VEHICLE_SKIN_YIN_YANG_TELEPORTER",
+                false
+            ]
+        }
+    ]
+}

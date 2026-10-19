@@ -1,0 +1,45 @@
+{
+    "reference_id": "VEHICLE_TMNT_JETSKI_INCLUDED",
+    "tags": [
+        "prepurchase",
+        "Upgrades",
+        "bundle",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_TMNT_JETSKI_NAME",
+        "description": "VEHICLE_SKIN_TMNT_JETSKI_INCLUDED_DESC",
+        "icon": "vehicleJetskiTMNT",
+        "isNew": true,
+        "hidden": true,
+        "hideWhen": "VEHICLE_SKIN_JETSKI"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_JETSKI": {
+            "is_currency": false,
+            "value": 1
+        },        
+        "VEHICLE_SKIN_TMNT_JETSKI": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.tmntjetskiincluded",
+    "google_play_store": "com.halfbrick.jetpack.tmntjetskiincluded",
+    "brick_bucks_store": "VEHICLE_TMNT_JETSKI_INCLUDED"
+  },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

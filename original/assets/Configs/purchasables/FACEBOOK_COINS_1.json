@@ -1,0 +1,37 @@
+{
+    "reference_id": "FACEBOOK_COINS",
+    "tags": [
+        "Premium",
+        "Bundle"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINS_FACEBOOK_NAME",
+        "description": "ITEM_COINS_FACEBOOK_DESC",
+        "icon": "facebook",
+        "coins": 1000,
+        "metadata": {
+            "link": "fb://profile/200924623289384",
+            "backupLink": "http://on.fb.me/150kewH"
+        }
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "1000"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "FACEBOOK_COINS"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

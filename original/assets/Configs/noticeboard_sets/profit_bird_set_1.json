@@ -1,0 +1,17 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"youtube_available"
+			],
+			"board": "video_zappy_bird_video"
+		},
+		{
+			"mediation": [
+				"browser_available"
+			],
+			"board": "website_zappy_bird_music"
+		}
+	]
+}

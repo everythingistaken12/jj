@@ -1,0 +1,22 @@
+{
+    "name": "ACHIEVEMENT_33",
+    "description": "ACHIEVEMENT_DESC_33",
+    "type": "CRACKLING",
+    "texture": "crackling",
+    "points": 20,
+    "max_progress": 1,
+    "provider_ids": {
+        "amazon": "1526872",
+        "game_center": 
+        {
+            "default": "1526872",
+            "AppleArcade": "crackling_aa",
+            "HalfbrickPlus": "crackling_halfbrickplus"
+        },
+        "google_play": 
+        {
+            "default": "CgkIvYeR48sTEAIQGw",
+            "HalfbrickPlus": "CgkI7t311oIFEAIQIA"
+        }
+    }
+}

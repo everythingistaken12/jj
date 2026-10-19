@@ -1,0 +1,33 @@
+{
+    "reference_id": "KING_BODY",
+    "tags": [
+        "Body"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ROYALROBES_NAME",
+        "description": "ITEM_ROYALROBES_DESC",
+        "equipable": true,
+        "icon": "bodyKing",
+        "startWeek": 11
+    },
+    "payment_methods": {
+        "jetpack_store": "KING_BODY"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 27
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 27
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

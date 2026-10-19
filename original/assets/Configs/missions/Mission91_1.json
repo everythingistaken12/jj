@@ -1,0 +1,34 @@
+{
+    "name": "RUN 200m in CFT IN A SINGLE RUN",
+    "requirement": "Travel 200m with one Teleporter",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 2,
+        "icon": "vehicle",
+        "hash": "VEHICLE_DISTANCE"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 200
+            },
+            {
+                "i": 4,
+                "a": "collect",
+                "o": "vehicle",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "vehicle",
+                "a": "destroy",
+                "i": 4
+            }
+        ]
+    }
+}

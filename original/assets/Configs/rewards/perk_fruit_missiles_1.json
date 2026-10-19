@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "PERK_FRUIT_MISSILES_1",
+	"fallback": "coin_pack_3000"
+}

@@ -1,0 +1,19 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_sarcophagus_jetpack",
+        "halloween_mummy_bundle_timer_running"
+      ],
+      "board": "special_offer_halloween_mummy_bundle"
+    },
+    {
+      "mediation": [
+        "not_purchased_sarcophagus_jetpack",
+        "halloween_mummy_bundle_discount_timer_running"
+      ],
+      "board": "special_offer_halloween_mummy_bundle_discount"
+    } 
+  ]
+}

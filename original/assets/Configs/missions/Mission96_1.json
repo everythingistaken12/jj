@@ -1,0 +1,21 @@
+{
+    "name": "Hi five 20 scientists",
+    "requirement": "Hi Five 20 scientists",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 3,
+        "icon": "worker",
+        "hash": "SCIENTISTS_HIGH_FIVE_TOTAL",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "hi five",
+                "o": "scientist",
+                "s": "t",
+                "c": 20
+            }
+        ]
+    }
+}

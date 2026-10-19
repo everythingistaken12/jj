@@ -1,0 +1,10 @@
+{
+    "specialBundle": "coin_doubler_gadget_slot_bundle_decoy",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [1.0, 0.6, 0.1, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/CoinDoublerGadgetSlot/ThirdGadgetSlot_LightBlue.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

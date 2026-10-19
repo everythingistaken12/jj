@@ -1,0 +1,27 @@
+{
+    "reference_id": "UNLOCK_MISSION_1_3",
+    "tags": [
+        "Mission1",
+        "Utilities",
+        "Missions"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_UNLOCKMISSION1_NAME",
+        "description": "ITEM_UNLOCKMISSION1_DESC",
+        "missionType": 1
+    },
+    "payment_methods": {
+        "jetpack_store": "UNLOCK_MISSION_1_3"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

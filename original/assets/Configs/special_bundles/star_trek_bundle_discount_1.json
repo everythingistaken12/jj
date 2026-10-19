@@ -1,0 +1,128 @@
+{
+  "conditions": [
+    [
+      {
+        "timerRunning": "christmas_2023_star_trek_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_STAR_TREK_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 0"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 5"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_MECH == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_BIRD == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_DRAGON == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_TELEPORTER == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_STARSHIP == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_BORGCUBE == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_STARSHIP == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_PHASER == 0"
+      },
+      {
+        "rewardSet": "star_trek_2022_1 >= 10"
+      }
+    ],
+    [
+      {
+        "timerRunning": "christmas_2023_star_trek_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_STAR_TREK_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL == 1"
+      },
+      {
+        "statistic": "GAMES_PLAYED_TODAY >= 3"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_MECH == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_BIRD == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_DRAGON == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_TELEPORTER == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_STARSHIP == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_BORGCUBE == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_STARSHIP == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_PHASER == 0"
+      },
+      {
+        "rewardSet": "star_trek_2022_1 >= 10"
+      }
+    ],
+    [
+      {
+        "timerRunning": "christmas_2023_star_trek_bundle_discount"
+      },
+      {
+        "statistic": "SPECIAL_BUNDLE_STAR_TREK_DISCOUNT_VIEWS_TODAY == 0"
+      },
+      {
+        "statistic": "DAYS_SINCE_INSTALL >= 2"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_MECH == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_BIRD == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_DRAGON == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_ST_TELEPORTER == 0"
+      },
+      {
+        "inventoryCount": "VEHICLE_SKIN_STARSHIP == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_BORGCUBE == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_STARSHIP == 0"
+      },
+      {
+        "inventoryCount": "JETPACK_PHASER == 0"
+      },
+      {
+        "rewardSet": "star_trek_2022_1 >= 10"
+      }
+    ]
+  ],
+  "store_id": "STAR_TREK_BUNDLE_DISCOUNT",
+  "timer_id": "christmas_2023_star_trek_bundle_discount",
+  "trigger_name": "star_trek_bundle_discount",
+  "statistic_prefix": "SPECIAL_BUNDLE_STAR_TREK_DISCOUNT_VIEWS"
+}

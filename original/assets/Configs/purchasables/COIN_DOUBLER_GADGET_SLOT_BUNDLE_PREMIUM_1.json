@@ -1,0 +1,48 @@
+{
+    "reference_id": "COIN_DOUBLER_GADGET_SLOT_BUNDLE_PREMIUM",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COIN_DOUBLER_GADGET_SLOT_BUNDLE_NAME",
+        "description": "todo",
+        "icon": "counterfeitMachine",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "itemNotOwned": "PREMIUM_MACHINE",
+        "itemNotOwned": "GADGET_SLOT_3",
+        "reference_price_item": "STARTER_PACK_C"
+    },
+    "additional_deliverables": {
+        "PREMIUM_MACHINE": {
+            "is_currency": false,
+            "value": 1
+        },
+        "GADGET_SLOT_3": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 50000,
+            "is_premium": true
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.coin.doubler.gadget.slot.pack.premium",
+        "google_play_store": "com.halfbrick.jetpack.coin.doubler.gadget.slot.pack.premium",
+        "brick_bucks_store": "coin_doubler_gadget_slot_bundle_premium"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

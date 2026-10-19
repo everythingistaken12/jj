@@ -1,0 +1,11 @@
+{
+	"name": "SpecialOffer_CounterfietMachine",
+	"template": "SALE_ITEM",
+	"screen": "NoticeBoardSpecialOffer",
+	"item_id": "PREMIUM_MACHINE",
+	"on_show_event": "specialOffer",
+	"data_source": {
+		"title": "COUNTERFEIT_ANCHOR",
+		"name": "ITEM_COUNTERFEITMACHINE_NAME"
+	}
+}

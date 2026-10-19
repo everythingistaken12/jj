@@ -1,0 +1,47 @@
+{
+    "reference_id": "SplitTestID",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "tests": [
+            {
+                "test_purchase_missions": [
+                    "group_purchase_missions_per_star_cheap",
+                    "group_purchase_missions_per_star_middle",
+                    "group_purchase_missions_per_star_expensive",
+                    "group_purchase_missions_outright"
+                ]
+            },
+            {
+                "test_purchase_headstarts": [
+                    "group_purchase_headstarts_either_once",
+                    "group_purchase_headstarts_super_once",
+                    "group_purchase_headstarts_normal_twice",
+                    "group_purchase_headstarts_super_twice"
+                ]
+            },
+            {
+                "test_timed_unlocks": [
+                    "group_timed_unlocks_a",
+                    "group_timed_unlocks_b",
+                    "group_timed_unlocks_c",
+                    "group_timed_unlocks_d",
+                    "group_timed_unlocks_e",
+                    "group_timed_unlocks_f",
+                    "group_timed_unlocks_g"
+                ]
+            }
+        ]
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+  "reference_id": "TRIFOLD_OFFER_SUPER_RUN_B",
+  "tags": [],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": -1,
+  "metas": {
+    "name": "ITEM_TMNT_RADICAL_BUNDLE_NAME",
+    "description": "todo",
+    "icon": "iconTMNTRadicalPack",
+    "hidden": true,
+    "hideWhen": [
+    ]
+  },
+  "additional_deliverables": {
+   "CONSUMABLE_SUPER_HEADSTART": {
+      "is_currency": true,
+      "value": 20
+    },
+    "CONSUMABLE_HEADSTART": {
+        "is_currency": true,
+      "value": 20
+    },
+    "CONSUMABLE_BOMB": {
+      "is_currency": true,
+      "value": 20
+    },
+     "CONSUMABLE_REVIVE": {
+      "is_currency": true,
+      "value": 20
+    },
+    "DISABLE_ADS": {
+      "is_currency": true,
+      "value": 1
+    },
+    "coins": {
+      "is_currency": true,
+      "value": 200000
+    }
+  },
+  "payment_methods": {
+    "apple_store": "com.halfbrick.jetpack.trifold_offer_super_run_b",
+    "google_play_store": "com.halfbrick.jetpack.trifold_offer_super_run_b",
+    "brick_bucks_store": "trifold_offer_super_run_b"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

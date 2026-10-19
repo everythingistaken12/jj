@@ -1,0 +1,26 @@
+{
+    "name": "Collect a complete group of coins",
+    "requirement": "Collect 1 coin group",
+    "retired": false,
+    "meta_data": {
+        "groupId": "65",
+        "difficulty": 1,
+        "icon": "coinCluster",
+        "description": "MISSION_COIN_GROUP_SINGLE",
+        "hash": "COIN_GROUPS",
+        "skillGrind": "SKILL",
+        "probability": "112",
+        "tag1": "COINS",
+        "tag2": "COLLECT"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "collect",
+                "o": "coin group",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

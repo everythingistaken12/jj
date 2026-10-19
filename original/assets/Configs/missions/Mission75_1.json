@@ -1,0 +1,21 @@
+{
+    "name": "Play 1 Game",
+    "requirement": "Play 1 games",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "fly",
+        "hash": "PLAY_GAME",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "end",
+                "o": "game",
+                "s": "t",
+                "c": 1
+            }
+        ]
+    }
+}

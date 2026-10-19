@@ -1,0 +1,32 @@
+{
+    "reference_id": "PETE_HEAD_REFERENCE_PRICE",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_PETE_HEAD_NAME",
+        "description": "ITEM_PETE_HEAD_DESC",
+        "equipable": true,
+        "icon": "headTP"
+    },
+    "payment_methods": {
+        "jetpack_store": "PETE_HEAD_REFERENCE_PRICE"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 5
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 5
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

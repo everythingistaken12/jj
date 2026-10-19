@@ -1,0 +1,40 @@
+{
+    "#default": {
+        "cost": 800,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_SUPERHEADSTART8PACK_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/superskipx3.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/superskipx3.tex",
+        "rewards_quantity": 8,
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards": [
+            "super_headstart_x8"
+        ]
+    },
+    "#HalfbrickPlus": {
+        "cost": 950
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UGLY_SWEATER_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyUglySweater.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyUglySweater.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ugly_sweater_body"
+        ]
+    },
+    "#AppleArcade": {
+        "cost": 950
+        ,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_UGLY_SWEATER_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyUglySweater.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyUglySweater.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ugly_sweater_body"
+        ]
+    }
+}

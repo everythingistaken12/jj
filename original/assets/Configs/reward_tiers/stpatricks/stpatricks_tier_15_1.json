@@ -1,0 +1,12 @@
+{
+    "cost": 1050,
+    "display_name": "REWARD_UNLOCK",
+    "rewards_texture": "textures/menus/shop/itemicons/jetpackCelticRune.tex",
+    "rewards_icon_texture": "textures/menus/shop/itemicons/jetpackCelticRune.tex",
+    "display_description": "ITEM_JETPACK_CUSTOM_CELTIC_RUNE_NAME",
+    "fallback_rewards": "FallbackSet_Low",
+    "guaranteed_rewards":
+    [
+        "jetpack_custom_celtic_rune"
+    ]
+}

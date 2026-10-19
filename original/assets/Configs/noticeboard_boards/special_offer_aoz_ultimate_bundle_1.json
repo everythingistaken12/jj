@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_AOZ_UltimateBundle",
+	"screen": "NoticeBoardAOZUltimateBundle",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "AOZ_ULTIMATE_BUNDLE_2024",
+	"data_source": {
+		"title": "ITEM_AOZ_ULTIMATE_BUNDLE_NAME"
+	}	
+}

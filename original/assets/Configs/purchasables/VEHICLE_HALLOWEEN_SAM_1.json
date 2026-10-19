@@ -1,0 +1,54 @@
+{
+    "reference_id": "VEHICLE_HALLOWEEN_SAM",
+    "tags": [
+        "prepurchase",
+        "Upgrades",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_HALLOWEEN_SAM_NAME",
+        "description": "VEHICLE_SKIN_HALLOWEEN_SAM_DESC",
+        "icon": "vehicleSamHalloween",
+        "isNew": false,
+        "hideWhen": "VEHICLE_SKIN_HALLOWEEN_SAM"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_HALLOWEEN_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "#AppleArcade": {
+        "payment_methods":
+    	{
+        	"jetpack_store": "VEHICLE_HALLOWEEN_SAM"
+    	}
+
+    },
+    "#HalfbrickPlus": {
+        "payment_methods":
+    	{
+        	"jetpack_store": "VEHICLE_HALLOWEEN_SAM"
+    	}
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.halloweensam",
+        "google_play_store": "com.halfbrick.jetpackjoyride.halloweensam",
+        "brick_bucks_store": "vehicle_halloween_sam"
+    },
+    "skus": [
+        "apple_tv",        
+	"halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "reference_id": "JETPACK_CUSTOM_MUNCHER",
+  "tags": [
+    "Jetpack"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "ITEM_JETPACK_MUNCHER_NAME",
+    "description": "ITEM_JETPACK_MUNCHER_DESC",
+    "equipable": true,
+    "icon": "jetpackMuncher",
+    "hidden": true,
+    "isNew": true
+   },
+  "payment_methods": {
+    "jetpack_store": "jetpack_custom_muncher",
+    "apple_store": "com.halfbrick.jetpack.custommuncher",
+    "google_play_store": "com.halfbrick.jetpack.custommuncher",
+    "brick_bucks_store": "jetpack_custom_muncher"
+  },
+  "skus": [
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

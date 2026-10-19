@@ -1,0 +1,22 @@
+{
+	"category": "sam",
+	"priority": 2000,
+	"message": 
+	[
+		"PUSH_2ND_REMINDER_ALL_DAYS_1",
+		"PUSH_2ND_REMINDER_ALL_DAYS_2",
+		"PUSH_2ND_REMINDER_ALL_DAYS_3",
+		"PUSH_2ND_REMINDER_ALL_DAYS_4",
+		"PUSH_2ND_REMINDER_ALL_DAYS_5",
+		"PUSH_2ND_REMINDER_ALL_DAYS_6"
+	],
+	"schedule": 
+	{
+		"target_utc": 23,
+		"local_time": true,
+		"local_resolve_wind": "backward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21
+	},
+	"condition" : "sam_expiry_day_4_check"
+}

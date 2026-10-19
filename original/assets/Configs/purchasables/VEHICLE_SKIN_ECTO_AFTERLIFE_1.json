@@ -1,0 +1,31 @@
+{
+    "reference_id": "VEHICLE_SKIN_ECTO_AFTERLIFE",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Ecto"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ECTO_AFTERLIFE_NAME",
+        "description": "VEHICLE_SKIN_ECTO_AFTERLIFE_DESC",
+        "equipable": true,
+        "icon": "vehicleEctoAfterlife",
+        "hideUntil": "VEHICLE_SKIN_ECTO_AFTERLIFE",
+        "isSkin": true,
+        "vehicleType": "Ecto",
+        "defaultSkin": true,
+        "metadata": {
+        }
+    },
+    "payment_methods": {
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

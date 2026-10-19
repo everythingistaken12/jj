@@ -1,0 +1,59 @@
+{
+    "reference_id": "CURSED_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "CURSED_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "iconCursedPack",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "JETPACK_TREASURECHEST"
+    },
+    "additional_deliverables": {
+        "JETPACK_TREASURECHEST": {
+            "is_currency": false,
+            "value": 1
+        },
+        "UNDEAD_PIRATE_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "UNDEAD_PIRATE_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_PIRATE_HOG": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.cursedbundle",
+        "google_play_store": "com.halfbrick.jetpack.cursedbundle",
+        "brick_bucks_store": "cursed_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "dailyMissionCount": 15,
+    "rewardCurrency": "anniversary_token",
+    "dailyMissions": [
+        {
+            "missionName": "FREEBIE_ANNIVERSARY",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "PLAY_50_GAMES",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "COLLECT_25000_COINS",
+            "timeToUnlock": 0
+        },
+        {
+            "missionName": "RUN_10000_TOTAL_DISTANCE_WITH_ANNIVERSARY_PARTYBARRY",
+            "timeToUnlock": 86400
+        },
+        {
+            "#default":
+            {
+                "missionName": "PLAY_15_GAMES_WITH_SAM",
+                "timeToUnlock": 172800
+            },
+            "#HalfbrickPlus":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 172800
+            },
+            "#AppleArcade":
+            {
+                "missionName": "PLAY_1_GAMES_WITH_SAM",
+                "timeToUnlock": 172800
+            }
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_1500_COINS",
+            "timeToUnlock": 259200
+        },
+        {
+            "missionName": "PLAY_3_GAMES_WITH_ANNIVERSARY_MECH",
+            "timeToUnlock": 345600
+        },
+        {
+            "missionName": "USE_25_REVIVE",
+            "timeToUnlock": 432000
+        },
+        {
+            "missionName": "COLLECT_500_EVENT_TOKENS",
+            "timeToUnlock": 518400
+        },
+        {
+            "missionName": "RUN_75000_TOTAL_DISTANCE",
+            "timeToUnlock": 604800
+        },
+        {
+            "missionName": "COLLECT_100_SPIN_TOKENS",
+            "timeToUnlock": 691200
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_JETPACK_CUSTOM_DISCOBALL",
+            "timeToUnlock": 777600
+        },
+        {
+            "missionName": "PICKUP_15_VEHICLE_TOKENS",
+            "timeToUnlock": 864000
+        },
+        {
+            "missionName": "PLAY_10_GAMES_WITH_MORE_THAN_2500_DISTANCE",
+            "timeToUnlock": 950400
+        },
+        {
+            "missionName": "RUN_3000_TOTAL_DISTANCE_VEHICLE",
+            "timeToUnlock": 1036800
+        }
+    ]
+}

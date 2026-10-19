@@ -1,0 +1,10 @@
+{
+	"show": [
+		{
+			"IS_EVENT_AVAILABLE": [
+				"zappy_bird",
+				true
+			]
+		}
+	]
+}

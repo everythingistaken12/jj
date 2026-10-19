@@ -1,0 +1,10 @@
+{
+    "specialBundle": "starter_pack",
+    "template": "template_2x1",
+    "tileWidth": 2,
+    "tileHeight": 1,
+    "backingColor": [0.973, 0.808, 0.176, 1.0],
+    "foregroundIcon": "textures/menus/bricknetUpsell/starterPackCostume.tex",
+    "infoText": "SHOP_BUTTON_PREVIEW",
+    "unlockedText": "SHOP_BUTTON_BUY_NOW"
+}

@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 988,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_TAOIST_BODY_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyTaoist.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyTaoist.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "taoist_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_BLUE_TIGER_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyBlueTiger.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyBlueTiger.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_blue_tiger_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 888,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_BLUE_TIGER_BODY_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyBlueTiger.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyBlueTiger.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_blue_tiger_body"
+        ]
+    }
+}

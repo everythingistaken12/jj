@@ -1,0 +1,36 @@
+{
+    "reference_id": "VEHICLE_GOLD_HOG",
+    "tags": [
+        "Upgrades",
+        "Vehicle Skins"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLDENHOG_NAME",
+        "description": "ITEM_GOLDENHOG_DESC",
+        "equipable": true,
+        "icon": "vehicleHogGold",
+        "isSkin": true,
+        "vehicleType": "Hog",
+        "defaultSkin": false
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_GOLD_HOG"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 10
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 10
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

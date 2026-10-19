@@ -1,0 +1,48 @@
+{
+    "name": "Fly 400 without touching the ceiling or floor",
+    "requirement": "Travel 400m while not on floor while not on roof without rubbing roof or touching floor",
+    "retired": false,
+    "meta_data": {
+        "groupId": "55",
+        "difficulty": 1,
+        "icon": "avoid",
+        "description": "MISSION_NO_TOUCH_CEILING_FLOOR",
+        "hash": "NO_TOUCH_CEILING_FLOOR",
+        "skillGrind": "SKILL",
+        "probability": "112",
+        "tag2": "DIST_SECONDARY",
+        "tag3": "WITHOUT"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "t",
+                "c": 400
+            },
+            {
+                "a": "not on",
+                "o": "floor",
+                "p": true,
+                "d": "end not on"
+            },
+            {
+                "a": "not on",
+                "o": "roof",
+                "p": true,
+                "d": "end not on"
+            }
+        ],
+        "reset": [
+            {
+                "o": "roof",
+                "a": "rub"
+            },
+            {
+                "o": "floor",
+                "a": "touch"
+            }
+        ]
+    }
+}

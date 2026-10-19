@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_st_patricks_bird",
+        "shamrock_bundle_timer_running"
+      ],
+      "board": "special_offer_shamrock_bundle"
+    }
+  ]
+}

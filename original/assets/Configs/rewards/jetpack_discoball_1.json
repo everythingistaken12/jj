@@ -1,0 +1,6 @@
+{
+	"type": "item",
+	"quantity": 1,
+	"item_id": "JETPACK_CUSTOM_DISCOBALL",
+	"fallback": "coin_pack_40000"
+}

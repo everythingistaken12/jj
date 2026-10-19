@@ -1,0 +1,116 @@
+{
+  "EventDisplayName": "BLING_EVENT_RULES_TITLE",
+  "Filepath": "Events/BlingItOn",
+  "Iconpath": "Events/BlingItOn/Textures/Menus/Main/IconEvent.tex",
+  "ResultsIconPath": "Events/BlingItOn/Textures/Menus/Results/logo.tex",
+  "BackingTexturePath": "Events/BlingItOn/Textures/Menus/eventPopUp/backing.tex",
+  "BannerTexturePath": "Events/BlingItOn/Textures/Menus/eventPopUp/backingBanner.tex",
+  "Statistic": "EVENTS_TOTAL_BLING_IT_ON_GAMES_PLAYED",
+  "currencyType": "BlingToken",
+  "info_text_1": "EVENT_RULES_TEXT_1",
+  "info_text_2": "EVENT_RULES_TEXT_2",
+  "info_text_3": "",
+  "#HalfbrickPlus":
+  {
+    "levelUnlocked": 20
+  },
+  "#AppleArcade":
+  {
+    "levelUnlocked": 20
+  }, 
+  "#Google Play":
+  {
+  "restrict_cheaters_access": true
+  },
+  "Overrides": {
+    "game_mode": "bling_it_on",
+    "noticeboardSchedule": "bling_it_on_schedule",
+   "#HalfbrickPlus":
+    {
+      "rewardGroup": "bling_it_on_2020_3"
+    },   
+   "#AppleArcade":
+    {
+      "rewardGroup": "bling_it_on_2020_3",
+      "leaderboard": "BEST_DISTANCE"
+    },
+    "rewardGroup": "bling_it_on_2026_2",
+    "analytics_event_name": "bling_it_on",
+    "analytics_display_souls_collected": true,
+    "leaderboard": "BEST_BLING_IT_ON",
+    "trigger_name": "bling_it_on",
+    "reload_sam": true,
+    "sam_music": "Music_SAMBling",
+    "sam_music_starting_point": 0,
+    "sam_reset_popup_message": "SAM_BONUS_RUN_UPSELL_CHRISTMAS",
+    "skin_head": "TOPHAT_GOLD",
+    "skin_body": "TUXEDO_GOLD",
+    "skin_jetpack": "JETPACK_MONEY",
+    "skin_lil_stomper": "VEHICLE_GOLD_MECH",
+    "skin_bad_ass_hog": "VEHICLE_GOLD_HOG",
+    "skin_gravity_suit": "VEHICLE_GOLD_GRAVITY",
+    "skin_crazy_freaking_teleporter": "VEHICLE_GOLD_TELEPORTER",
+    "skin_profit_bird": "VEHICLE_GOLD_BIRD",
+    "skin_mr_cuddles": "VEHICLE_GOLD_DRAGON",
+    "skin_wave_rider": "VEHICLE_GOLD_JETSKI",
+    "skin_sleigh_of_awesome": "VEHICLE_GOLD_SLEIGH",
+    "diamond_value": 3,
+    "diamond_probability": 20,
+    "diamond_big_value": 20,
+    "diamond_big_probability": 10,
+    "force_vehicles": [
+      "Sled",
+      "Bird",
+      "Mech",
+      "Hog",
+      "Teleporter",
+      "GravitySuit",
+      "Dragon"
+    ],
+    "enable_eventTokens": true,
+    "eventToken_value": 0,
+    "eventToken_sparkleParticleEffect": "Coin_Token_Sparkle",    
+    "eventToken_splashParticleEffect": "CNY_Splash",
+    "eventToken_spawnRateMin": 7.5,
+    "eventToken_spawnRateMax": 3,
+    "eventToken_spawnRateLength": 75,
+    "eventToken_curveC0": [
+      0.55,
+      0.55
+    ],
+    "eventToken_curveC1": [
+      0.32,
+      0.1
+    ],
+    "eventToken_sprite": "textures/Entities/blingItOnToken.xml",
+    "eventToken_collectedSprite": "textures/Entities/blingItOnTokenCollected.xml",
+    "eventToken_angleSpeed": 5,
+    "eventToken_amplitude": 10,
+    "eventToken_velocityFactor": 125,
+    "brickui_textures": [
+      "textures/logo/logo_barry.tex",
+      "textures/levels/Title/Objects/title_small.tex",
+      "textures/levels/Title/Objects/titleGlow_small.tex",
+      "textures/menus/results/leaderboardLogo.tex",
+      "Textures/Menus/Results/currencyToken.tex",
+      "Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "textures/menus/eventpopup/currencytoken_64.tex",
+      "Events/BlingItOn/Textures/Menus/eventPopUp/currencyToken_64.tex",
+      "events/blingiton/textures/menus/eventpopup/currencytoken_64.tex",
+      "Textures/Menus/consumables/notificationSAM.tex",
+      "textures/menus/consumables/notificationsam.tex",
+      "Events/BlingItOn/Textures/Menus/consumables/notificationSAM.tex",
+      "events/blingiton/textures/menus/consumables/notificationsam.tex",
+      "Textures/Menus/consumables/notificationSAM.tex",
+      "textures/menus/consumables/notificationsam.tex",
+      "Events/BlingItOn/Textures/Menus/consumables/notificationSAM.tex",
+      "events/blingiton/textures/menus/consumables/notificationsam.tex"
+    ],
+    "sfx_packages": [
+      "EVENT_TOKEN_PACKAGE",
+      "SAM_PACKAGE"
+    ],
+    "dailyEventMissions": true
+  },
+    "title_screen_settings": "bling_it_on"  
+}

@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Gold_Barry_Bundle",
+    "screen": "NoticeboardGoldBarryBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "GOLD_BARRY_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

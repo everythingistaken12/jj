@@ -1,0 +1,55 @@
+{
+	"conditions": [
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_METAL_SLUG_DISCOUNT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_MS_HOG == 0"
+			},
+			{
+				"rewardSet": "metal_slug_2021_2 >= 13"
+			}
+		],
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_METAL_SLUG_DISCOUNT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_MS_HOG == 0"
+			},
+			{
+				"rewardSet": "metal_slug_2021_2 >= 13"
+			}
+		],
+		[
+			{
+				"statistic": "SPECIAL_BUNDLE_METAL_SLUG_DISCOUNT_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "VEHICLE_SKIN_MS_HOG == 0"
+			},
+			{
+				"rewardSet": "metal_slug_2021_2 >= 13"
+			}
+		]
+	],
+	"store_id": "METAL_SLUG_BUNDLE_DISCOUNT",
+	"trigger_name": "metal_slug_bundle_discount",
+	"statistic_prefix": "SPECIAL_BUNDLE_METAL_SLUG_DISCOUNT_VIEWS"
+}

@@ -1,0 +1,49 @@
+{
+    "popups_per_session": 10,
+    "popups_cooldown": 300,
+    "interstitials":
+    [
+        {
+            "analytics_id": "radicalrappelling",
+            "texture": "textures/menus/crossPromo/interstitial_rr.tex",
+            "title_text": "NB_OUR_OTHER_GAMES",
+            "button_text": "EVENT_RULES_PLAY",
+            "url": "https://radicalrappelling.halfbrickplus.com/check.html?utm_campaign=JJ_RR_FullScreenPopup_AugustDrop&utm_source=jetpackjoyride&utm_medium=fullscreenpopup&utm_content=radicalrappelling&gamePromoted=rr&googleStoreAppId=com.halfbrick.R5&appleStoreAppId=882398562&applePackageName=com.halfbrick.R5&webPC=https%3A%2F%2Fwww.halfbrick.com%2Fgames%2Fradical-rappelling",
+            "conditions":
+            [
+                [
+                    {
+                        "statistic": "RR_VIEWS_TODAY == 0"
+                    }
+                ],
+                [
+                    {
+                        "statistic": "GAMES_PLAYED_TODAY >= 5"
+                    }
+                ]
+            ],
+            "statistic_prefix": "RR_VIEWS"
+        },
+        {
+            "analytics_id": "fnc+",
+            "texture": "textures/menus/crossPromo/interstitial_fnc+.tex",
+            "title_text": "NB_OUR_OTHER_GAMES",
+            "button_text": "EVENT_RULES_PLAY",
+            "url": "https://fruitninjaclassic.halfbrickplus.com/check.html?utm_campaign=JJ_FNC_FullScreenPopup_AugustDrop&utm_source=jetpackjoyride&utm_medium=fullscreenpopup&utm_content=fruitninjaclassic&gamePromoted=fnc&googleStoreAppId=com.halfbrick.fruitninja&appleStoreAppId=362949845&applePackageName=com.Halfbrick.Fruit&webPC=https%3A%2F%2Fwww.halfbrick.com%2Fgames%2Ffruit-ninja-classic",
+            "conditions":
+            [
+                [
+                    {
+                        "statistic": "FNCPLUS_VIEWS_TODAY == 0"
+                    }
+                ],
+                [
+                    {
+                        "statistic": "GAMES_PLAYED_TODAY >= 5"
+                    }
+                ]
+            ],
+            "statistic_prefix": "FNCPLUS_VIEWS"
+        }
+    ]
+}

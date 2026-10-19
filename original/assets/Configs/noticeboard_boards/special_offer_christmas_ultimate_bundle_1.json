@@ -1,0 +1,10 @@
+{
+	"name": "SpecialOffer_ChristmasUltimate_Bundle",
+	"screen": "NoticeBoardChristmasUltimateBundle",
+	"template": "SALE_ITEM",	
+	"on_show_event": "specialOffer",
+	"item_id": "CHRISTMAS_2024_ULTIMATE_BUNDLE",
+	"data_source": {
+		
+	}	
+}

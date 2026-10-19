@@ -1,0 +1,44 @@
+{
+    "atlas_folder": "TitleCaveman",
+    "atlas": "textures/levels/bgTitleCaveman.atlas",
+    "wall_smash_sfx": "aoz_intro_portal_open",
+    "wall_smash_vfx": "AoZ_Intro_Portal",
+    "gramophone_enabled": false,
+    "playerStartPos": 
+    {
+        "pos": 
+        {
+            "x": -300,
+            "y": -50
+        }
+    },
+    "skin": "default",
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/ageofZombiesBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/bone.xml",
+            "offset_x": 30,
+            "offset_y": -125
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/crate2.xml",
+            "offset_x": -135,
+            "offset_y": -85
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/crate5.xml",
+            "offset_x": -65,
+            "offset_y": -82
+        },
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/crate6.xml",
+            "offset_x": 150,
+            "offset_y": -75
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 168,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_OX_HEAD_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/eventPopUp/oxHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headOx.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ox_head"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 188,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_OX_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headOx.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headOx.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ox_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 188,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_OX_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headOx.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headOx.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ox_head"
+        ]
+    }
+}

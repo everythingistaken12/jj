@@ -1,0 +1,60 @@
+{
+    "reference_id": "BLING_IT_ON_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "BLING_IT_ON_BUNDLE_TITLE",
+        "description": "ITEM_BLING_IT_ON_BUNDLE_DESC",
+        "icon": "vehicleSamGold",
+        "hideWhen": "VEHICLE_SKIN_GOLD_SAM",
+        "auto_equip": true,
+        "metadata": {
+            "banner_string_is_localised": "true",
+            "banner_string_id": "SHOP_TURN_OFF_ADS_HINT",
+            "banner_string_enabled": "true"
+        }
+    },
+    "additional_deliverables": {
+        "JETPACK_GOLD_MGJP": {
+            "is_currency": false,
+            "value": 1
+        },
+        "TOPHAT_GOLD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "TUXEDO_GOLD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "VEHICLE_SKIN_GOLD_SAM": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "BlingItOnBundleOneTime": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.blingitonbundle",
+        "google_play_store": "com.halfbrick.jetpack.blingitonbundle",
+        "brick_bucks_store": "bling_it_on_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

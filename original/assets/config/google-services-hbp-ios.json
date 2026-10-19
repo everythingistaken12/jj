@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "394163108353",
+    "project_id": "halfbrick-plus-auth",
+    "storage_bucket": "halfbrick-plus-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394163108353:ios:fc1cf1d08913f2f08a9e00",
+        "android_client_info": {
+          "package_name": "halfbrick-plus-auth"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjNE0dG4cBS0gy1NXCL4z4d2AvhcHYtzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

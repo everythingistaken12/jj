@@ -1,0 +1,41 @@
+{
+    "reference_id": "VEHICLE_SKIN_COLOSSATRON",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_COLOSSATRON_NAME",
+        "description": "VEHICLE_SKIN_COLOSSATRON_DESC",
+        "equipable": true,
+        "icon": "vehicleDragonColossatron",
+        "isSkin": true,
+        "vehicleType": "Dragon",
+        "defaultSkin": false,
+        "oneTimeCostumeOffer": {
+            "headID": "GENMOUSTACHE_HEAD",
+            "bodyID": "GENMOUSTACHE_BODY",
+            "setID": "GENMOUSTACHE_FULL"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_COLOSSATRON"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 30
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 30
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

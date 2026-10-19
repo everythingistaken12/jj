@@ -1,0 +1,59 @@
+{
+    "EventDisplayName": "BRAINS_ATTACK_EVENT_RULES_TITLE",
+    "Filepath": "Events/BrainsAttack",
+    "Iconpath": "Events/BrainsAttack/Textures/Menus/Main/IconEvent.tex",
+    "ResultsIconPath": "Events/BrainsAttack/Textures/Menus/Results/logo.tex",
+    "BackingTexturePath": "Events/BrainsAttack/Textures/Menus/eventInfo/backing.tex",
+    "BannerTexturePath": "Events/BrainsAttack/Textures/Menus/eventPopUp/backingBanner.tex",
+    "Statistic": "EVENTS_TOTAL_CHASER_GAMES_PLAYED",
+    "currencyType": "BrainsAttackTokens",
+    "info_text_1": "EVENT_RULES_TEXT_1",
+    "info_text_2": "CHRISTMAS_EVENT_RULES_1",
+    "info_text_3": "",
+    "#HalfbrickPlus":
+    {
+        "levelUnlocked": 65
+    },    
+    "#AppleArcade":
+    {
+        "levelUnlocked": 65
+    },
+    "#Google Play":
+    {
+    "restrict_cheaters_access": true
+    },
+    "Overrides":
+    {
+        "game_mode": "brains_attack",
+        "#HalfbrickPlus":
+        {
+            "rewardGroup": "brains_attack_2023_1"
+        },    
+        "#AppleArcade":
+        {
+            "rewardGroup": "brains_attack_2023_1",
+            "leaderboard": "BEST_DISTANCE"
+        },
+        "rewardGroup": "brains_attack_2025_1",
+        "leaderboard": "BEST_CHRISTMAS",
+        "trigger_name": "brains_attack",
+        "reload_sam": true,
+        "reload_worker": true,
+        "sfx_packages":
+        [
+            "EVENT_TOKEN_PACKAGE",
+            "MISSILE_PACKAGE",
+            "SAM_PACKAGE",
+            "BUBBLES_PACKAGE"
+        ],
+        "missileExplosion": "missileExplosion.tex",
+
+        "_comment" : "effect_playerhurt was used but it must have different texture size - the same as missileExplosion",
+        "_missileExplosion": "effect_playerhurt.tex"
+    },
+    "Features":
+    [
+        "chaser", "blink_if_immune", "distance_based_leaderboard"
+    ],
+    "title_screen_settings": "brains_attack"
+}

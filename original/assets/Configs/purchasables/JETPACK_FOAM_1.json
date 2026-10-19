@@ -1,0 +1,26 @@
+{
+    "reference_id": "JETPACK_FOAM",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_FOAM_JETPACK_NAME",
+        "description": "ITEM_FOAM_JETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackFoam",
+        "hidden": true,
+        "isNew": true
+    },
+    "payment_methods": {},
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

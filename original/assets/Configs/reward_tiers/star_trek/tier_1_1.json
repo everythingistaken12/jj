@@ -1,0 +1,11 @@
+{
+	"cost": 50,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_BURNHAM_HEAD_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/burnhamHeadCostume.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/headBurnham.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"burnham_head"
+	]
+}

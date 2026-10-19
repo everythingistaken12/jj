@@ -1,0 +1,30 @@
+{
+    "reference_id": "CONSUMABLE_REVIVE",
+    "tags": [
+        "Utilities",
+        "consumable"
+    ],
+    "type": "consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_QUICKREVIVE_SHORT_NAME",
+        "description": "ITEM_QUICKREVIVE_DESC",
+        "icon": "revive",
+        "visible": "false"
+    },
+    "datasource_metas": {
+        "icon": "textures/menus/shop/ItemIcons/revive.tex"
+    },
+    "payment_methods": {
+        "jetpack_store": "CONSUMABLE_REVIVE"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

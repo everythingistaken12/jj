@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_MetalSlugSamBundle",
+    "screen": "NoticeBoardMetalSlugSamBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "METAL_SLUG_SAM_BUNDLE"
+}

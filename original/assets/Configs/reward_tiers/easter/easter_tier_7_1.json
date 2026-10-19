@@ -1,0 +1,43 @@
+{
+    "#default":
+    {
+        "cost": 450,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/ostaraHeadCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headOstara.tex",
+        "display_description": "ITEM_OSTARA_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "ostara_head"
+        ],
+        "random_rewards":
+        []
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/headEgg.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headEgg.tex",
+        "display_description": "ITEM_EGG_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_egg_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/headEgg.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headEgg.tex",
+        "display_description": "ITEM_EGG_HEAD_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "easter_egg_head"
+        ]
+    }
+}

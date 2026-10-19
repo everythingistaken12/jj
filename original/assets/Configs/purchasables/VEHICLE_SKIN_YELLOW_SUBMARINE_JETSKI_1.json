@@ -1,0 +1,31 @@
+{
+  "reference_id": "VEHICLE_SKIN_YELLOW_SUBMARINE_JETSKI",
+  "tags": [
+    "Vehicle Skins",
+    "Upgrades",
+    "hidden"
+  ],
+  "type": "non-consumable",
+  "default_quantity": 0,
+  "max_quantity": 1,
+  "metas": {
+    "name": "VEHICLE_SKIN_SUBMARINE_NAME",
+    "description": "VEHICLE_SKIN_SUBMARINE_DESC",
+    "equipable": true,
+    "icon": "vehicleJetskiYellowSubmarine",
+    "hideUntil": "VEHICLE_SKIN_YELLOW_SUBMARINE_JETSKI",
+    "isSkin": true,
+    "vehicleType": "JetSki",
+    "defaultSkin": false,
+    "isNew": true
+  },
+  "payment_methods": {},  
+  "skus": [
+    "halfbrick_plus", 
+    "apple_arcade",
+    "apple_tv",
+    "google_play",
+    "ios",
+    "windows"
+  ]
+}

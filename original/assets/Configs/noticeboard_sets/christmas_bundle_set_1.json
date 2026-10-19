@@ -1,0 +1,19 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"not_purchased_sleigh",
+				"christmas_bundle_timer_running"
+			],
+			"board": "special_offer_christmas_bundle"
+		},
+		{
+			"mediation": [
+				"not_purchased_sleigh",
+				"christmas_bundle_discount_timer_running"
+			],
+			"board": "special_offer_christmas_bundle_sale"
+		}
+	]
+}

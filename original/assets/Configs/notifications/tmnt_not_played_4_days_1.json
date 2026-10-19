@@ -1,0 +1,14 @@
+{
+	"category": "tmnt_not_played_4_days",
+	"priority": 1500,
+	"message": "NOTIFICATIONS_TMNT_NOT_PLAYED_4_DAYS",
+	"schedule": 
+	{
+		"local_time": true,
+		"local_resolve_wind": "forward",
+		"local_resolve_earliest": 9,
+		"local_resolve_latest": 21,
+		"delay_seconds": 345600
+	},
+	"condition" : "tmnt_not_played_check"
+}

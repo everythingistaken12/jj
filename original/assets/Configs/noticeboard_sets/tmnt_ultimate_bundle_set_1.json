@@ -1,0 +1,21 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation_type": "any",
+      "mediation": [
+        "not_purchased_tmnt_april_head",
+        "not_purchased_tmnt_leonardo_head",
+        "not_purchased_tmnt_michelangelo_head",
+        "not_purchased_tmnt_raphael_head",
+        "not_purchased_tmnt_donatello_head",
+        "not_purchased_tmnt_pizza",
+        "not_purchased_tmnt_mutagen",
+        "not_purchased_tmnt_jetski",
+        "not_purchased_tmnt_mech",
+        "not_purchased_tmnt_sam"
+      ],
+      "board": "special_offer_tmnt_ultimate_bundle"
+    }
+  ]
+}

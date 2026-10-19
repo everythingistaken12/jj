@@ -1,0 +1,37 @@
+{
+    "reference_id": "JETPACK_BUBBLE",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "#AppleArcade":{"reference_price_item": ""},
+        "#HalfbrickPlus":{"reference_price_item": ""},
+        "reference_price_item": "JETPACK_BUBBLE_REFERENCE_PRICE",
+        "name": "ITEM_BUBBLEGUNJETPACK_NAME",
+        "description": "ITEM_BUBBLEGUNJETPACK_DESC",
+        "equipable": true,
+        "icon": "jetpackB",
+        "isNew": true,
+        "startWeek": 14
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_BUBBLE"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 5
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 5
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

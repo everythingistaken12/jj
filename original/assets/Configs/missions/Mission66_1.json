@@ -1,0 +1,22 @@
+{
+    "name": "Cash in 3 spin tokens total",
+    "requirement": "Cash in 3 final spin tokens total",
+    "retired": false,
+    "meta_data": {
+        "difficulty": 1,
+        "icon": "token",
+        "description": "MISSION_CASH_IN_TOKENS",
+        "hash": "SLOTS_CASH_IN",
+        "showProgress": "true"
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "cash in",
+                "o": "final spin token",
+                "s": "t",
+                "c": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_GB_Ghostbusters_Bundle",
+    "screen": "NoticeBoardGhostbustersBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "GHOSTBUSTERS_BUNDLE"
+}

@@ -1,0 +1,45 @@
+{
+    "reference_id": "VEHICLE_SKIN_ZOMBIETREX",
+    "tags": [
+        "Vehicle Skins",
+        "Upgrades",
+        "Mech"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "VEHICLE_SKIN_ZOMBIETREX_NAME",
+        "description": "VEHICLE_SKIN_ZOMBIETREX_DESC",
+        "equipable": true,
+        "icon": "vehicleMechZombieTrex",
+        "isSkin": true,
+        "vehicleType": "Mech",
+        "defaultSkin": false,
+        "oneTimeCostumeOffer": {
+            "headID": "CAVEMAN_HEAD",
+            "bodyID": "CAVEMAN_BODY",
+            "setID": "CAVEMAN_COSTUME"
+        }
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 25
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_ZOMBIETREX"
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 25
+    },
+    "payment_methods": {
+        "jetpack_store": "VEHICLE_SKIN_ZOMBIETREX"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

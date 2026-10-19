@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_broomstick_dragon",
+        "bewitched_bundle_timer_running"
+      ],
+      "board": "special_offer_bewitched_bundle"
+    }
+  ]
+}

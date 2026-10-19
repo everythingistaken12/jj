@@ -1,0 +1,39 @@
+{
+    "reference_id": "VEHICLE_MOTU_BATTLE_CAT",
+    "tags": [
+        "prepurchase",
+        "Upgrades",
+        "bundle",
+        "SamIAP"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "VEHICLE_SKIN_MOTU_BATTLE_CAT_NAME",
+        "description": "VEHICLE_SKIN_MOTU_BATTLE_CAT_DESC",
+        "icon": "vehicleMechBattleCat",
+        "isNew": true,
+        "hideWhen": "VEHICLE_SKIN_MOTU_BATTLE_CAT"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_MOTU_BATTLE_CAT": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.motubattlecat",
+        "google_play_store": "com.halfbrick.jetpack.motubattlecat",
+        "brick_bucks_store": "vehicle_motu_battle_cat"
+    },
+    "skus": [
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

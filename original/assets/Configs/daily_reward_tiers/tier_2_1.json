@@ -1,0 +1,49 @@
+{
+    "variants":
+    [
+        {
+            "type": "free",
+            "type_": "ads",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+                    "display_description": "ITEM_QUICKREVIVE5PACK_NAME",
+                    "reward": "revive",
+                    "amount": 3
+                },
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+                    "display_description": "ITEM_QUICKREVIVE5PACK_NAME",
+                    "reward": "coins",
+                    "amount": 100
+                }
+            ],
+            "weight": 1
+        },
+        {
+            "type": "purchasable",
+            "purchasable_id": "to_be_setup",
+            "items":
+            [
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+                    "display_description": "ITEM_QUICKREVIVE5PACK_NAME",
+                    "reward": "revive",
+                    "amount": 3
+                },
+                {
+                    "display_name": "REWARD_UNLOCK",
+                    "rewards_texture": "textures/menus/eventPopUp/reviveIcon.tex",
+                    "display_description": "ITEM_QUICKREVIVE5PACK_NAME",
+                    "reward": "coins",
+                    "amount": 100
+                }
+            ],
+            "weight": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "reference_id": "ELVIS_HEAD",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_ELVIS_HEAD_NAME",
+        "description": "ITEM_ELVIS_HEAD_DESC",
+        "equipable": true,
+        "icon": "headElvis",
+        "startWeek": 29
+    },
+    "payment_methods": {
+        "jetpack_store": "ELVIS_HEAD"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 19
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 19
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Reach 1750",
+    "requirement": "Travel 1750m in one game",
+    "retired": false,
+    "meta_data": {
+        "groupId": "53",
+        "difficulty": 2,
+        "icon": "reach",
+        "description": "MISSION_FLY_3",
+        "hash": "FLY_DIST",
+        "skillGrind": "SKILL",
+        "probability": "90",
+        "tag2": "DIST_ONLY"
+    },
+    "nas_object": {
+        "soc": true,
+        "counters": [
+            {
+                "a": "travel",
+                "o": "m",
+                "s": "g",
+                "c": 1750
+            },
+            {
+                "a": "start",
+                "o": "game",
+                "p": true
+            }
+        ],
+        "reset": [
+            {
+                "o": "game",
+                "a": "end"
+            }
+        ]
+    }
+}

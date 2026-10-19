@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 375,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/eventPopUp/CelticBodyCostume.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyCeltic.tex",
+        "display_description": "ITEM_CELTIC_BODY_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "celtic_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyLeprechaun.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyLeprechaun.tex",
+        "display_description": "ITEM_LEPRECHAUNSUIT_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "leprechaun_body"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 350,
+        "display_name": "REWARD_UNLOCK",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyLeprechaun.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyLeprechaun.tex",
+        "display_description": "ITEM_LEPRECHAUNSUIT_NAME",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "leprechaun_body"
+        ]
+    }
+}

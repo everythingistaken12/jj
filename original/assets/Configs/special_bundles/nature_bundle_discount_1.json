@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		[
+			{
+				"timerRunning": "st_patricks_2024_nature_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_NATURE_DISCOUNT_PACK_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 0"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 5"
+			},
+			{
+				"inventoryCount": "JETPACK_UNICORN == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "st_patricks_2024_nature_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_NATURE_DISCOUNT_PACK_VIEWS_TODAY == 0"
+			},
+			{
+				"statistic": "DAYS_SINCE_INSTALL == 1"
+			},
+			{
+				"statistic": "GAMES_PLAYED_TODAY >= 3"
+			},
+			{
+				"inventoryCount": "JETPACK_UNICORN == 0"
+			}
+		],
+		[
+			{
+				"timerRunning": "st_patricks_2024_nature_bundle_discount"
+			},
+			{
+				"statistic": "SPECIAL_BUNDLE_NATURE_DISCOUNT_PACK_VIEWS_TODAY == 0"
+			}, 
+			{
+				"statistic": "DAYS_SINCE_INSTALL >= 2"
+			},
+			{
+				"inventoryCount": "JETPACK_UNICORN == 0"
+			}
+		]
+	],
+	"store_id": "NatureBundleDiscount",
+	"timer_id": "st_patricks_2024_nature_bundle_discount",
+	"trigger_name": "naturesPack_discount",
+	"statistic_prefix": "SPECIAL_BUNDLE_NATURE_DISCOUNT_PACK_VIEWS"
+}

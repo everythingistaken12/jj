@@ -1,0 +1,11 @@
+{
+    "gramophone_enabled": false,
+    "props":
+    [
+        {
+            "sprite_file": "Textures/Levels/Shared/Objects/bttfBunting.xml",
+            "offset_x": 0,
+            "offset_y": 96
+        } 
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_pirate_sam",
+        "not_purchased_christmas_sam",
+        "not_purchased_easter_sam",
+        "not_purchased_stpatricks_sam",
+        "not_purchased_cny_sam"
+      ],
+      "board": "special_offer_sam_bundle"
+    }
+  ]
+}

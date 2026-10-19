@@ -1,0 +1,30 @@
+{
+    "name": "Fly near 7 missiles total",
+    "requirement": "Fly near 7 missiles total",
+    "retired": false,
+    "meta_data": {
+        "groupId": "9",
+        "difficulty": 3,
+        "icon": "missile",
+        "description": "MISSION_CLOSE_CALL_MISSILE",
+        "hash": "CLOSE_CALL_TOTAL",
+        "showProgress": "true",
+        "skill_grind": "GRIND",
+        "Tag4": "CLOSE_CALL",
+        "probability": "30",
+        "tag1": "MISSILES",
+        "metaData": {
+            "closeCallType": "MISSILES"
+        }
+    },
+    "nas_object": {
+        "counters": [
+            {
+                "a": "fly near",
+                "o": "missile",
+                "s": "t",
+                "c": 7
+            }
+        ]
+    }
+}

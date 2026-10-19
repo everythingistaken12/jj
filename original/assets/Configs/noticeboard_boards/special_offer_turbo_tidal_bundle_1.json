@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_TurboTidal_Bundle",
+    "screen": "NoticeBoardTurboTidalBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "TURBO_TIDAL_BUNDLE"
+}

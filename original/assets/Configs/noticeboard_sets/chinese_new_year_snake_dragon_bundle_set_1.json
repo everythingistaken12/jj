@@ -1,0 +1,12 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "not_purchased_snake_dragon",
+        "chinese_new_year_snake_dragon_bundle_timer_running"
+      ],
+      "board": "special_offer_chinese_new_year_snake_dragon_bundle"
+    }
+  ]
+}

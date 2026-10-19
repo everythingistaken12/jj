@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Motu_Villain_Bundle",
+    "screen": "NoticeboardMotuVillainBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "MOTU_VILLAIN_BUNDLE"
+}

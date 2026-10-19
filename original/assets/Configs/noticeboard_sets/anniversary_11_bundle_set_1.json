@@ -1,0 +1,17 @@
+{
+  "selector": "random",
+  "boards": [
+    {
+      "mediation": [
+        "anniversary_11_bundle_timer_running"
+      ],
+      "board": "special_offer_anniversary_11_bundle"
+    },
+    {
+      "mediation": [
+        "anniversary_11_bundle_discount_timer_running"
+      ],
+      "board": "special_offer_anniversary_11_bundle_sale"
+    }
+  ]
+}

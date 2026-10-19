@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_Easter_Fluffy_Bundle",
+    "screen": "NoticeboardEasterFluffyBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "EASTER_FLUFFY_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

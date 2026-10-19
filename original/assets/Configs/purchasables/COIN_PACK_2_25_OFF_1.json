@@ -1,0 +1,34 @@
+{
+    "reference_id": "COIN_PACK_2_25_OFF",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "ITEM_COINBOOSTERPACK50000_NAME",
+        "description": "ITEM_COINBOOSTERPACK50000_DESC",
+        "icon": "coinPack2",
+        "coins": 50000,
+        "nameNoCoins": "ITEM_COINBOOSTERPACK50000_NAME_NONUMBER",
+        "hidden": true
+    },
+    "additional_deliverables": {
+        "coins": {
+            "is_currency": true,
+            "value": "50000"
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.CoinPack2_25PC_Off",
+        "google_play_store": "com.halfbrick.jetpack.coinpack2.25pcoff",
+        "brick_bucks_store": "coin_pack_2_25_off"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

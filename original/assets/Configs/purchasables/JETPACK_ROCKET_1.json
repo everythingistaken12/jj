@@ -1,0 +1,33 @@
+{
+    "reference_id": "JETPACK_ROCKET",
+    "tags": [
+        "Jetpack"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_JETPACK_ROCKET_NAME",
+        "description": "ITEM_JETPACK_ROCKET_DESC",
+        "equipable": true,
+        "icon": "jetpackR",
+        "startWeek": 18
+    },
+    "payment_methods": {
+        "jetpack_store": "JETPACK_ROCKET"
+    },
+    "#AppleArcade": {
+        "levelUnlocked" : 9
+    },
+    "#HalfbrickPlus": {
+        "levelUnlocked" : 9
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

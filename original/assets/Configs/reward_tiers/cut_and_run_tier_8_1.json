@@ -1,0 +1,12 @@
+{
+  "cost": 8250,
+  "display_name": "REWARD_UNLOCK",
+  "display_description": "ITEM_SENSEISTHEADS_NAME",    
+  "frame_texture": "textures/menus/shared/frameMetallic.tex",
+  "rewards_texture": "textures/menus/shop/itemicons/bodySensei.tex",
+  "rewards_icon_texture": "textures/menus/shop/itemicons/bodySensei.tex",
+  "fallback_rewards": "FallbackSet_Low",
+  "guaranteed_rewards": [
+    "sensei_body"
+  ]
+}

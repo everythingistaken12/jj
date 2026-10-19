@@ -1,0 +1,42 @@
+{
+    "#default":
+    {
+        "cost": 1288,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_LNY_PRINCESS_BODY_NAME",
+        "frame_texture": "textures/menus/shared/frameGold.tex",
+        "rewards_texture": "textures/menus/shop/itemicons/bodyLNYPrincess.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/bodyLNYPrincess.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "lny_princess_barry_body"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 1188,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_QING_EMPEROR_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headQingEmperor.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headQingEmperor.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "qing_emperor_head"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 1188,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "ITEM_QING_EMPEROR_HEAD_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/headQingEmperor.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/headQingEmperor.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "qing_emperor_head"
+        ]
+    }
+}

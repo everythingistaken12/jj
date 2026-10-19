@@ -1,0 +1,7 @@
+{
+    "name": "SpecialOffer_CozyChristmas_Bundle",
+    "screen": "NoticeboardCozyChristmasBundle",
+    "on_show_event": "specialOffer",
+    "item_id": "COZY_CHRISTMAS_BUNDLE",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

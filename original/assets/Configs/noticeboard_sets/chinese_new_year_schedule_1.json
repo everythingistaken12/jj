@@ -1,0 +1,42 @@
+{
+  "selector": "gamesPlayedToday",
+  "loop_point": 0,
+  "boards": [
+    {
+      "board": "gif_cross_promo"
+    },
+    {
+      "board": "daily_reward_tiers"
+    },
+    {
+      "board": "special_offer_cross_promo_chinese_new_year"
+    },
+    {
+      "board": "chinese_new_year_snake_dragon_bundle_set"
+    },
+    {
+      "board": "chinese_new_year_wooden_dragon_bundle_set"
+    },
+    {
+      "board": "chinese_new_year_tiger_bundle_set"
+    },
+    {
+      "board": "daily_reward_tiers"
+    },
+    {
+      "board": "chinese_new_year_ultimate_bundle_set"
+    },
+    {
+      "board": "chinese_new_year_ox_bundle_set"
+    },
+    {
+      "board": "chinese_new_year_rat_bundle_set"
+    },
+    {
+      "board": "chinese_new_year_bundle_set"
+    },
+    {
+      "board": "chinese_new_year_rabbit_bundle_set"
+    }
+  ]
+}

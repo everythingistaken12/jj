@@ -1,0 +1,28 @@
+{
+    "selector": "gamesPlayedToday",
+    "loop_point": 0,
+    "boards":
+    [
+        {
+            "board": "special_offer_cross_promo_motu"
+        },
+        {
+            "board": "daily_reward_tiers"
+        },
+        {
+            "board": "motu_ultimate_bundle_set"
+        },
+        {
+            "board": "motu_hero_bundle_set"
+        },
+        {
+            "board": "motu_villain_bundle_set"
+        },
+        {
+            "board": "motu_heman_bundle_set"
+        },
+        {
+            "board": "motu_vehicle_bundle_set"
+        }
+    ]
+}

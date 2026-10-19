@@ -1,0 +1,40 @@
+{
+	"#default":
+    {
+        "cost": 700,
+	    "display_name": "REWARD_UNLOCK",
+	    "display_description": "ITEM_SUPERHEADSTART8PACK_NAME",
+	    "rewards_texture": "textures/menus/shop/itemicons/superskipx3.tex",
+	    "rewards_icon_texture": "textures/menus/shop/itemicons/superskipx3.tex",
+	    "rewards_quantity": 8,
+	    "fallback_rewards": "FallbackSet_Low",
+	    "guaranteed_rewards": [
+	        "super_headstart_x8"
+	    ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 875,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_DISCO_BARRY_BODY_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/bodyDisco.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyDisco.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"disco_body"
+		]
+    },
+    "#AppleArcade":
+    {
+        "cost": 875,
+		"display_name": "REWARD_UNLOCK",
+		"display_description": "ITEM_DISCO_BARRY_BODY_NAME",
+		"rewards_texture": "textures/menus/shop/itemicons/bodyDisco.tex",
+		"rewards_icon_texture": "textures/menus/shop/itemicons/bodyDisco.tex",
+		"fallback_rewards": "FallbackSet_Low",
+		"guaranteed_rewards": [
+			"disco_body"
+		]
+    }
+	
+}

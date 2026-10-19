@@ -1,0 +1,9 @@
+{
+    "specialBundle": "chinese_new_year_tiger_bundle_discount",
+    "template": "template_2x2",
+    "tileWidth": 2,
+    "tileHeight": 2,
+    "backingColor": [1.0, 0.863, 0.208, 1.0],
+    "itemImages": "specialBundleCNY2022Images",
+    "infoText": "SHOP_BUTTON_PREVIEW"
+}

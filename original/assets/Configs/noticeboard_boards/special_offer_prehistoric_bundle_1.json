@@ -1,0 +1,6 @@
+{
+    "name": "SpecialOffer_Prehistoric_Bundle",
+    "screen": "NoticeboardPrehistoricBundle_anim",
+    "on_show_event": "specialOffer",
+    "item_id": "AOZ_PREHISTORIC_BUNDLE"
+}

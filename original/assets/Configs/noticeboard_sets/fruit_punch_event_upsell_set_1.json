@@ -1,0 +1,12 @@
+{
+	"selector": "random",
+	"boards": [
+		{
+			"mediation": [
+				"fruit_punch_event_available",
+				"fruit_punch_event_inactive"
+			],
+			"board": "fruit_punch_event_upsell"
+		}			
+	]
+}

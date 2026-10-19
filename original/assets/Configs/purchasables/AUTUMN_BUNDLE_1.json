@@ -1,0 +1,57 @@
+{
+    "reference_id": "AUTUMN_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "metas": {
+        "name": "AUTUMN_BUNDLE_TITLE",
+        "description": "todo",
+        "icon": "costumeAutumn",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true,
+        "hideWhen": "JETPACK_CUSTOM_AUTUMN"
+    },
+    "additional_deliverables": {
+        "VEHICLE_SKIN_TURKEY_TREX": {
+            "is_currency": false,
+            "value": 1
+        },
+        "AUTUMN_HEAD": {
+            "is_currency": false,
+            "value": 1
+        },
+        "AUTUMN_BODY": {
+            "is_currency": false,
+            "value": 1
+        },
+        "JETPACK_CUSTOM_AUTUMN": {
+            "is_currency": false,
+            "value": 1
+        },
+        "DISABLE_ADS": {
+            "is_currency": false,
+            "value": 1
+        },
+        "coins": {
+            "is_currency": true,
+            "value": 20000
+        },
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.autumnbundle",
+        "google_play_store": "com.halfbrick.jetpack.autumnbundle",
+        "brick_bucks_store": "AUTUMN_BUNDLE"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

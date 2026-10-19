@@ -1,0 +1,151 @@
+{
+    "posts":
+    [
+        {
+            "id": "4",
+            "createdOn": 1684992680,
+            "group": "3",
+            "version": 4,
+            "status": "live",
+            "updatedOn": 1690932929,
+            "title": "Upcoming_Halloween",
+            "startDatetime": 1690858800,
+            "endDatetime": 1718175600,
+            "games":
+            [
+                "jj1"
+            ],
+            "gameVersion": null,
+            "platforms":
+            [
+                "applearcade"
+            ],
+            "categories":
+            [
+                "CrossPromo",
+                "Advertisement"
+            ],
+            "rating": "everyone",
+            "thumbnailUrl": "jetpack://Events/Halloween/Textures/Menus/eventPopUp/zombieHeadCostume.tex",
+            "isFilteredByCountries": false,
+            "filteringCountries":
+            [],
+            "isFilteredByLanguages": false,
+            "translations":
+            [
+                {
+                    "languageCode": "en",
+                    "languageName": "English",
+                    "subject": "Event On!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>Join Barry as he tries on some new costumes and earn exclusive rewards this spook-tacular Halloween!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "en-GB",
+                    "languageName": "English(GB)",
+                    "subject": "Event On!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>Join Barry as he tries on some new costumes and earn exclusive rewards this spook-tacular Halloween!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "fr",
+                    "languageName": "French",
+                    "subject": "ÉVÈNEMENT ACTIVÉ !",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>Rejoignez Barry dans ses nouveaux costumes et obtenez des récompenses exclusives lors de cette fête d’Halloween aussi effrayante que spectaculaire !</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "de",
+                    "languageName": "German",
+                    "subject": "DAS EVENT LÄUFT!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>Begleite Barry, wenn er neue Kostüme anprobiert und verdiene dir exklusive Belohnungen an diesem gruseligen Halloween!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "it",
+                    "languageName": "Italian",
+                    "subject": "EVENTO IN CORSO!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>Unisciti a Barry mentre prova nuovi costumi e guadagna ricompense esclusive in questo spaventoso Halloween!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "es-419",
+                    "languageName": "Spanish",
+                    "subject": "¡EVENTO EN CURSO!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>¡Únete a Barry mientras se prueba nuevos disfraces y gana recompensas exclusivas en este espeluznante Halloween!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "ja",
+                    "languageName": "Japanese",
+                    "subject": "イベント開催中！",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>いくつかの新しいコスチュームを試しているバリーと共に、この恐ろしくも素晴らしいハロウィーンで限定報酬!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "zh-hans",
+                    "languageName": "Simplified Chinese",
+                    "subject": "比赛开始！",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>与巴里一起尝试一些新服装，并在这个令人毛骨悚然的万圣节获得独家奖励！</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "ko",
+                    "languageName": "Korean",
+                    "subject": "이벤트 개시!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>베리와 함께 새 코스튬을 입어보고 무지-막지한 할로윈 독점 혜택을 받으세!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "zh-hant",
+                    "languageName": "Traditional Chinese",
+                    "subject": "比賽開始！",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>這個既驚悚又驚喜的萬聖節，就跟著巴里試穿一些新變裝，並賺取獨家獎勵吧！</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "pt",
+                    "languageName": "Portuguese",
+                    "subject": "EVENTO ATIVO!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>TJunte-se ao Barry enquanto ele experimenta novas fantasias e ganhe prêmios exclusivos neste Halloween assustador!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "ru",
+                    "languageName": "Russian",
+                    "subject": "СОБЫТИЕ НАЧАЛОСЬ!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>Присоединяйтесь к Барри, примеряйте новые костюмы и получайте эксклюзивные награды в этот зловещий Хэллоуин!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "tr",
+                    "languageName": "Turkish",
+                    "subject": "ETKİNLİK DEVAM EDİYOR!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>Yeni kostümler denerken Barry'ye katılın ve bu ürkütücü Cadılar Bayramı'nda özel ödüller kazanın!</p></p>",
+                    "imageUrls":
+                    []
+                },
+                {
+                    "languageCode": "ar",
+                    "languageName": "Arabic",
+                    "subject": "بدأ الحدث!",
+                    "body": "<p><img src=\"jetpack://textures/menus/inbox/banners/event_halloween.tex\" style=\"max-width: 90%; height: auto; display: block; margin: 10px auto;\"></p><p>انضم لباري ليجرب ارتداء بعض الأزياء الجديدة، واحصل على جوائز حصرية لعيد الهلع المميز هذا! </p></p>",
+                    "imageUrls":
+                    []
+                }
+            ]
+        }
+    ]
+}

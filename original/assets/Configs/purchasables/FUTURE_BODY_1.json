@@ -1,0 +1,32 @@
+{
+    "reference_id": "FUTURE_BODY",
+    "tags": [
+        "Body",
+        "One Time Offer",
+        "excludeFromRandom"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_FUTURE_BODY_NAME",
+        "description": "ITEM_FUTURE_BODY_DESC",
+        "equipable": true,
+        "icon": "bodyFutureBarry",
+        "rewardOnly": {
+            "value": true,
+            "prereq": "VEHICLE_SKIN_HOVERHOG"
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "FUTURE_BODY"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

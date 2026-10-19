@@ -1,0 +1,33 @@
+{
+    "reference_id": "REVIVE_BUNDLE",
+    "tags": [],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": -1,
+    "converts_into_paying_user": false,
+    "metas": {
+        "name": "ITEM_REVIVE_BUNDLE_NAME",
+        "description": "todo",
+        "icon": "reviveIcon",
+        "hidden": true,
+        "force_hide": true,
+        "auto_equip": true
+    },
+    "additional_deliverables": {
+        "CONSUMABLE_REVIVE": {
+            "is_currency": false,
+            "value": 10
+        }
+    },
+    "payment_methods": {
+        "apple_store": "com.halfbrick.jetpack.revive.bundle",
+        "google_play_store": "com.halfbrick.jetpack.revive.bundle",
+        "brick_bucks_store": "revive_bundle"
+    },
+    "skus": [
+        "apple_tv",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

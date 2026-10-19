@@ -1,0 +1,27 @@
+{
+    "reference_id": "TOPHAT",
+    "tags": [
+        "Head"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_TOPHAT_NAME",
+        "description": "ITEM_TOPHAT_DESC",
+        "equipable": true,
+        "icon": "headtux",
+        "startWeek": 15
+    },
+    "payment_methods": {
+        "jetpack_store": "TOPHAT"
+    },
+    "skus": [
+        "apple_tv",
+        "halfbrick_plus",
+        "apple_arcade",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "#default":
+    {
+        "cost": 2500,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_PIRATE_MECH_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleMechPirate.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleMechPirate.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_mech"
+        ]
+    },
+    "#HalfbrickPlus":
+    {
+        "cost": 575,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_PIRATE_JETSKI_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleJetskiPirateShip.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleJetskiPirateShip.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_jetski"
+        ]
+    },
+    "#AppleArcade":
+    {
+        "cost": 575,
+        "display_name": "REWARD_UNLOCK",
+        "display_description": "VEHICLE_SKIN_PIRATE_JETSKI_NAME",
+        "rewards_texture": "textures/menus/shop/itemicons/vehicleJetskiPirateShip.tex",
+        "rewards_icon_texture": "textures/menus/shop/itemicons/vehicleJetskiPirateShip.tex",
+        "fallback_rewards": "FallbackSet_Low",
+        "guaranteed_rewards":
+        [
+            "pirate_jetski"
+        ]
+    }
+}

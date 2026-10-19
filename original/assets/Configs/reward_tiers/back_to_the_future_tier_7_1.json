@@ -1,0 +1,13 @@
+{
+	"cost": 550,
+	"display_name": "REWARD_UNLOCK",
+	"display_description": "ITEM_MARTY_BODY_NAME",
+	"rewards_texture": "textures/menus/eventPopUp/MartyBarryBodyCostume.tex",
+	"rewards_locked_texture": "textures/menus/shop/itemicons/bodyMarty.tex",
+	"rewards_icon_texture": "textures/menus/shop/itemicons/bodyMarty.tex",	
+	"frame_texture": "textures/menus/shared/frameMetallic.tex",
+	"fallback_rewards": "FallbackSet_Low",
+	"guaranteed_rewards": [
+		"marty_body"
+	]
+}

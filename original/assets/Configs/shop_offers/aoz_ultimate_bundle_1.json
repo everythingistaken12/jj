@@ -1,0 +1,10 @@
+{
+    "storeId": "AOZ_ULTIMATE_BUNDLE_2024",
+    "timerId": "aoz_2025_aoz_ultimate_bundle",
+    "template": "template_4x2_backing",
+    "tileWidth": 4,
+    "tileHeight": 2,
+    "backingColor": [1.0, 1.0, 1.0],
+    "itemImages": "specialBundleAOZUltimateBundleImages_preview",
+    "backingTexture": "textures/menus/bricknetUpsell/AgeOfZombiesEvent/backing.tex"
+}

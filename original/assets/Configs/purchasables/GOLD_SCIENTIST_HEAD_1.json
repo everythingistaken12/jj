@@ -1,0 +1,37 @@
+{
+    "reference_id": "GOLD_SCIENTIST_HEAD",
+    "tags": [
+        "Head",
+        "costume"
+    ],
+    "type": "non-consumable",
+    "default_quantity": 0,
+    "max_quantity": 1,
+    "metas": {
+        "name": "ITEM_GOLD_SCIENTIST_HEAD_NAME",
+        "description": "ITEM_GOLD_SCIENTIST_HEAD_DESC",
+        "equipable": true,
+        "icon": "headGoldScientist",
+        "isNew": true,
+        "hidden": true,
+        "#AppleArcade":
+        {
+            "hidden": false
+        },
+        "#HalfbrickPlus":
+        {
+            "hidden": false
+        }
+    },
+    "payment_methods": {
+        "jetpack_store": "GOLD_SCIENTIST_HEAD" 
+    },
+    "skus": [
+        "apple_tv",
+        "apple_arcade",
+        "halfbrick_plus",
+        "google_play",
+        "ios",
+        "windows"
+    ]
+}
